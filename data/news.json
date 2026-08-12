@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:10:26.970337+00:00",
+  "generated_at": "2026-08-12T04:36:38.723921+00:00",
   "counts": {
     "domestic": 60,
     "international": 60,
@@ -7,9 +7,39 @@
   },
   "domestic": [
     {
+      "title": "제주특별자치도, 하반기 전기차 보조금 신청 조기 마감",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyanZNaUFOSFZKbjBmc0N3ZHUzX3ZLVUdEV01TdGswbmtYdEkxdXk3Tk5KeFBlMUZDQVM5Wm1PU2F2UFk0OVg4RTg4YzlzRldwTGk3SXU1OFN4YmxEWTZSVWljUGQtQ2ZpUGtsWEVndHo?oc=5",
+      "summary": "제주특별자치도, 하반기 전기차 보조금 신청 조기 마감 신아일보",
+      "source": "신아일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T04:27:08+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "정의선도 바이브 코딩 배웠다…AI 기업 거듭나는 현대차",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jMzFhZlFfbl8tSVdJdS1OZ29JeEtBaGJlcTNrcmxEMXd3VDgxSGdnNENYZ1I2dUZGdkhIOW9UOGJJUFVuWGpYbHFEbXo5aVJlNzRWTm1KQ3FEMUlqWnpHcWRkTDRMa0VFOWJKcGpUZnA?oc=5",
+      "summary": "정의선도 바이브 코딩 배웠다…AI 기업 거듭나는 현대차 연합인포맥스",
+      "source": "연합인포맥스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T04:18:06+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "현대자동차그룹 AX - 정비 지원 AI 서비스｜박승혁 책임매니저 | 영상미디어 | 현대자동차그룹",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORHlDdERHZERFdnpBMTJUTGN4OHBILUVxa0NzekY2R0s0Q1dLYS1RamhUbnd1UmlvUjNWOG0wYmNxdUxhR0ZWbzcwbWlwalNKWDB6bDg1cHp1OXZXUkphcExlU29zakZ5OVViTmZuVC11VnE2NlY2RGNkRzdYa29vUl9ldTlnWnBGbGZIMV83NVYzaUphQzFrYQ?oc=5",
       "summary": "현대자동차그룹 AX - 정비 지원 AI 서비스｜박승혁 책임매니저 | 영상미디어 | 현대자동차그룹 Hyundai Motor Group",
+      "source": "Hyundai Motor Group",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T04:04:03+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대자동차그룹 AX - 대차 정렬 최적화 기술｜박철웅 책임매니저 | 영상미디어 | 현대자동차그룹",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTFRQ3IzV2l1dDRaWU1tYkVCWVZndC1Kd0E4VUxtOTZTd0FJLVg0RXpfeEZpTUxnaDFFalRHc19MUmFWenV0Umd2RXBIMm5Ocmw3QWRUQUdUZHdFWndRczVFNkFZeUhGUk1HTnJsbkl6VVlIU2toN2p3NldHSjk1Q0xhWG0xU3dxQXo5U2ZmekVKX0lRNHZ4Wg?oc=5",
+      "summary": "현대자동차그룹 AX - 대차 정렬 최적화 기술｜박철웅 책임매니저 | 영상미디어 | 현대자동차그룹 Hyundai Motor Group",
       "source": "Hyundai Motor Group",
       "domain": "news.google.com",
       "category": "domestic",
@@ -34,6 +64,16 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T04:00:11+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "“AI 제대로 활용하는 회사로 거듭나겠다”…현대차그룹, 전분야 생성형 AI 활용 환경 구축",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUUWQzSmFzYndTTmhBTjNicTZNTkNsX2NRUnBBVTExV010dE1DWXE3QWNEa05NZXpFal9IdmpvSVNKUmFOYnVwZW5aRDloUkxZWG1wdUpHbjY5ZElZVU1fZWFhSzFkU1BodlJFOXRSSjBSZWNCQXZiSW56YUQ?oc=5",
+      "summary": "“AI 제대로 활용하는 회사로 거듭나겠다”…현대차그룹, 전분야 생성형 AI 활용 환경 구축 부산일보",
+      "source": "부산일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T03:42:09+00:00",
       "byd_ev": false
     },
     {
@@ -197,16 +237,6 @@
       "byd_ev": true
     },
     {
-      "title": "\"AI 가장 잘 쓰는 기업 될 것\"…현대차그룹, 'DX·AX' 성과 공개",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OcGo4N0E2Z19TSUJJeUNlLUhMZEVQdkZEekhaeG4wQ2d1NGl1UnZycjQ1OGRocVZpQUt1ZnVORmZ2dUdCOTZReU1HMHZ6akFVUGdfSzhVT1M0cDNuZjJ3enJZQnhoTTFsd2N5WQ?oc=5",
-      "summary": "\"AI 가장 잘 쓰는 기업 될 것\"…현대차그룹, 'DX·AX' 성과 공개 goodkyung.com",
-      "source": "goodkyung.com",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T02:38:26+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "\"중국산 전기차를 대체 누가 사나 봤더니\"... BYD 구매자 3명 중 2명이 4050세대",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzd3TS1xQjNjWm96clZ2LW1MeldmclNGcWhicHFHUjZPSlpFT18yVlpvMm5haUdBbm1yLU1VRzZrNE5mRkJfSksxY3dDcEFRdEpxM3JrMTM4Nlp4djRyWERXLUNjZWdESEIzN0lBOGpIdFNOSFltRzdITlgxU0o0WlFacWJsWDjSAY8BQVVfeXFMT2U4NUU4cHQtX1ZFdGhXMTZoa3dlT09KWjJkZVpvYWdrQlF2MHJDYkJLWHNrS0N2ZHNfSDZfeHhMM1pra1JvYmVSeGdFNHdnZlJsUlBKbEtsNXlHLXc4WEpGcmp3Zm1xc2JpT1dLZXVvSk91T3E4d3B3Z3l6aEEyajNsM3Z1Y1JMZlVSYy13YlE?oc=5",
       "summary": "\"중국산 전기차를 대체 누가 사나 봤더니\"... BYD 구매자 3명 중 2명이 4050세대 토픽트리",
@@ -215,6 +245,16 @@
       "category": "domestic",
       "published": "2026-08-12T02:38:00+00:00",
       "byd_ev": true
+    },
+    {
+      "title": "현대차그룹, AI 전환 가속…\"충돌시험 분석 시간 90% 단축\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QWlRVX29TbGpXM0R6dnBvWll6N1lvZWNXU3Z1NllqYzEwMDFxSGdYdDl1Q2xrb2xKMHRzOXQ0VnF2VUd1MklSWU1nR2ZOR3dwVWdJ?oc=5",
+      "summary": "현대차그룹, AI 전환 가속…\"충돌시험 분석 시간 90% 단축\" 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T02:36:00+00:00",
+      "byd_ev": false
     },
     {
       "title": "\"전기차 열관리 통합기술 인정\"…한온시스템, PACE어워드 최종후보로",
@@ -319,8 +359,8 @@
     {
       "title": "제주도, 전기차 하반기 보조금 신청 조기 마감",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PQy1JNzkwWmh3TEhOb0tzS2F4a002OTAzUVZSWTFiekVXQVA5YUlwc0c5V0NtTERxX2JTcmlnVDZmd2dGMU1VOWpnNXFKSVo4SmhHTjk1eDkzZU1hcm1nWNIBeEFVX3lxTE1zbGJPcmFTbjUyZjZ1TElrMERoaG9saENVVFhzM0dJZWp3QWxESklQLU1YN1dCMzV1LVRDOTF5U2RqbGNwUnUwZ0pVczAzY1A2X0JnRnRZVXJ1NFhEMUxobUtJWGF3M0Rvd2tpV2VibUN0YlpUODRLag?oc=5",
-      "summary": "제주도, 전기차 하반기 보조금 신청 조기 마감 뉴시스",
-      "source": "뉴시스",
+      "summary": "제주도, 전기차 하반기 보조금 신청 조기 마감 newsis.com",
+      "source": "newsis.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:22:05+00:00",
@@ -339,8 +379,8 @@
     {
       "title": "손실 1조8000억 육박한 현대차 파업…하청 교섭·기아까지 ‘삼중고’",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEUW1CQ3MyelJZVUUyZ0NGZWdfaENObXdhNTlSaElsVVVfQ21YZmh2NTNkR2RfalFwUWhLUjRVaEE4aHNPYlNTV3pPSUNEd3hlUHRKMzRHNHVHSlJaeEl3WA?oc=5",
-      "summary": "손실 1조8000억 육박한 현대차 파업…하청 교섭·기아까지 ‘삼중고’ 마이데일리",
-      "source": "마이데일리",
+      "summary": "손실 1조8000억 육박한 현대차 파업…하청 교섭·기아까지 ‘삼중고’ mydaily.co.kr",
+      "source": "mydaily.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:21:00+00:00",
@@ -399,8 +439,8 @@
     {
       "title": "폭스바겐코리아 ‘전기차 라이프 케어’ 이벤트...9월 30 일까지",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtdDdQb2tURjNGODlvTTdPblVHWXdnTXNMaWtoV0R4eThtRU1MSjd4cjIteUVUT1BxcWJTc1hFdFNtTm4xRkdVNno2NWgteDZwbjJjSA?oc=5",
-      "summary": "폭스바겐코리아 ‘전기차 라이프 케어’ 이벤트...9월 30 일까지 OSEN",
-      "source": "OSEN",
+      "summary": "폭스바겐코리아 ‘전기차 라이프 케어’ 이벤트...9월 30 일까지 osen.co.kr",
+      "source": "osen.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:19:00+00:00",
@@ -439,8 +479,8 @@
     {
       "title": "질식소화포부터 배터리셀 덮는 캡슐까지…전기차 화재 대응 기술의 진화",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOUmVNX05ZbGE1NXpFb0lPUFdpY1luYkFwa0R4dmMtOWVTamJWSGFfUHNUaXFMVjg2MVFiQ1BFREVtTE5DMERwOHN4ajRoTVZQQjR2VEduNWQxRHllanJqVjNQTTNEeVlOWFBtQ2c1VdIBZkFVX3lxTFBWZHZRak5LWEl0SjhHelROd1JTd1NUWlRyV200Q0xIdUFYUjdKTWNvaWltZDFLVWpsMWxuemVIVzB6bUQ1d1p2TjNacC01TDNiNy1nMkh3RXN6RUpPSTlNVjVyLURvQQ?oc=5",
-      "summary": "질식소화포부터 배터리셀 덮는 캡슐까지…전기차 화재 대응 기술의 진화 donga.com",
-      "source": "donga.com",
+      "summary": "질식소화포부터 배터리셀 덮는 캡슐까지…전기차 화재 대응 기술의 진화 동아일보",
+      "source": "동아일보",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:03:17+00:00",
@@ -469,8 +509,8 @@
     {
       "title": "전기차 실린 탁송차서 화재… 가뭄 지원 가던 소방대원이 진압",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QT0lqZXFGY2w3SWtGUGM4RS0zcE1vdXZJNlpIMXluUFpyLTFQU1FNT1RaRlNmbmJBVHM4MlNLbnVvdkNtazl2VzZKclJ5S0F4SFNLUzhkeUpfTlRMRUU1U1dkdjNpUE0?oc=5",
-      "summary": "전기차 실린 탁송차서 화재… 가뭄 지원 가던 소방대원이 진압 강원도민일보",
-      "source": "강원도민일보",
+      "summary": "전기차 실린 탁송차서 화재… 가뭄 지원 가던 소방대원이 진압 kado.net",
+      "source": "kado.net",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:00:55+00:00",
@@ -479,8 +519,8 @@
     {
       "title": "현대차그룹, AI 전환 여정 공개..'AX 성과 발표회' 개최",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VSDdXa2JsYkwtUWNZbWJ5MVo1bU56eHRrenBQTEZhUldpQUpETzEwR3owRGxNZmNKQVBYYy1DU3R1bm5uaF94bTByTG1URUNiWFE?oc=5",
-      "summary": "현대차그룹, AI 전환 여정 공개..'AX 성과 발표회' 개최 한국정경신문",
-      "source": "한국정경신문",
+      "summary": "현대차그룹, AI 전환 여정 공개..'AX 성과 발표회' 개최 kpenews.com",
+      "source": "kpenews.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T01:58:46+00:00",
@@ -537,6 +577,16 @@
       "byd_ev": false
     },
     {
+      "title": "AI, 도구 넘어 경쟁력으로...현대차그룹, 전사 AX 본격 확대",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uQXdTTzNBaWQ4eHRGNDRGSHdQNGFoNjZGd0FkN1pZdEVwRE5PUFVEZHhzUjdfWWJnaTByY2hPY3NBcHI5R2U4RGt1a0djYmF6ekZUUzVYX3NOLXBxUWEyYTZOVTZuYzFrSGljaA?oc=5",
+      "summary": "AI, 도구 넘어 경쟁력으로...현대차그룹, 전사 AX 본격 확대 모터매거진",
+      "source": "모터매거진",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T01:49:54+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "‘승용차 12일까지’ 제주도, 전기차 보조금 신청 몰려 조기 마감",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZZXVLOGNTVHdWVml6NnlOOEdRMzBmaDQ0anRENEp5Vk9QOFI2bElTMWk1MU41cXZQd3ZtWURzUi0yR1htbEoyWkxibk0tSU5vSEZNU0ItNVNYRWloWmFhaUYzSnptbE13TEZPYmxOZXFOOU3SAXdBVV95cUxOcXNfSmh6dUFzb29udjR3c0s2VmNZNXRKd2xFbjZRcG1HRWNCbnpMNnE2ZEl2VTZ0dDR3ay1Db3ZzYTdJR2pHTno0eElJb0pnZmRUVW8yd2hScWw0ODdGN1RPYnNub3ZjU1JtZXAycWZZRkRtb2VJSQ?oc=5",
       "summary": "‘승용차 12일까지’ 제주도, 전기차 보조금 신청 몰려 조기 마감 뉴스프리존",
@@ -555,56 +605,6 @@
       "category": "domestic",
       "published": "2026-08-12T01:46:41+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "한세모빌리티, 첫 지속가능경영보고서…글로벌 ESG 실사 대응",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EM2JSM3NsT1VqTkloaVFnenpWc2pYTTVYSnZTS2ZRVDd0YTNQV1JTVmVPMnhFUC1Jd0twVXRVdV9KdDNrTWhwcWxrbHVZaVBvRi1rYVVtbHgtVUHSAWBBVV95cUxNWGpEbGJua3h1N0hiQXh0S3NoN3djQzBJUUFrQmQ0NTItYVFKVk5mTlZGOUZZM0FXeUNtZjQ5VERKUEs4RXVWQ2w3Wi1xS1NEREhiQldEREZJb0sxS2UwVnc?oc=5",
-      "summary": "한세모빌리티, 첫 지속가능경영보고서…글로벌 ESG 실사 대응 연합뉴스",
-      "source": "연합뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T01:46:29+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "폭스바겐코리아, '전기차 라이프 케어' 이벤트 실시",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TR3dkaWVLdzRXSHJpV01JZXV6NVNEZzVyTTNabjY4dU5QbWdROUwtZl9obGtidVlCbS02LWdaTTc5eUk2ZE9henRMRmFBZw?oc=5",
-      "summary": "폭스바겐코리아, '전기차 라이프 케어' 이벤트 실시 etnews.com",
-      "source": "etnews.com",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T01:43:44+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "\"자료 검토 시간 90% 단축, 연간 50억 비용 절감\"…현대차, AX 전환 가속",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpV0FYdFVZM2M1UGd5a3ZuVmpwaHZxdkJoMWlKSTZEM0R3X3QxR3BuckFmZVc4UFo0bjR0c0ZwaHkwcUVZeFVfcGV2OEJ5T1JlaHdF?oc=5",
-      "summary": "\"자료 검토 시간 90% 단축, 연간 50억 비용 절감\"…현대차, AX 전환 가속 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T01:42:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "제주 전기차 인기 '후끈'…하반기 보조금 신청 조기 마감",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12R2hNNTVOdTFMVUhBal9TWFBWeWxhczVLTURBVWc1VFdvTXdNZ3BrX29KNXpqbWl0NkpjWW02VXFIZWdQVmkxbnJkZVg2Rms?oc=5",
-      "summary": "제주 전기차 인기 '후끈'…하반기 보조금 신청 조기 마감 v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T01:36:20+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "“AI 가장 제대로 활용하는 기업 될 것”...현대차그룹, AX 성과 발표회 개최",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ITnRNTjlnaWRiLW1UOHIxSFlkSng5Qi1Eb210R1BPczNMS2ktUE43MUg3VWVIY1J5X3M1N3RqNFZ1YXFtbzIxNHhMSEZqOU10bGFLSU1La0VBVTBSR21j?oc=5",
-      "summary": "“AI 가장 제대로 활용하는 기업 될 것”...현대차그룹, AX 성과 발표회 개최 스마트투데이",
-      "source": "스마트투데이",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T01:36:00+00:00",
-      "byd_ev": false
     }
   ],
   "international": [
@@ -1211,6 +1211,16 @@
   ],
   "byd_ev": [
     {
+      "title": "제주특별자치도, 하반기 전기차 보조금 신청 조기 마감",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyanZNaUFOSFZKbjBmc0N3ZHUzX3ZLVUdEV01TdGswbmtYdEkxdXk3Tk5KeFBlMUZDQVM5Wm1PU2F2UFk0OVg4RTg4YzlzRldwTGk3SXU1OFN4YmxEWTZSVWljUGQtQ2ZpUGtsWEVndHo?oc=5",
+      "summary": "제주특별자치도, 하반기 전기차 보조금 신청 조기 마감 신아일보",
+      "source": "신아일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T04:27:08+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "\"수입 전기차 4000만원대\"…보조금 최대로 받는 독일 SUV",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kS2Zmc1NHS1FxTWVraUFTWHRMZEIzcW9NYkdkbm56dnJpZGU2ZS1PNWhBZkprMGZrTDEzel9UUjJpdWhKSXNUQzlGMmt1czVhQXp5TU50MmJOZw?oc=5",
       "summary": "\"수입 전기차 4000만원대\"…보조금 최대로 받는 독일 SUV 한국경제",
@@ -1363,8 +1373,8 @@
     {
       "title": "제주도, 전기차 하반기 보조금 신청 조기 마감",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PQy1JNzkwWmh3TEhOb0tzS2F4a002OTAzUVZSWTFiekVXQVA5YUlwc0c5V0NtTERxX2JTcmlnVDZmd2dGMU1VOWpnNXFKSVo4SmhHTjk1eDkzZU1hcm1nWNIBeEFVX3lxTE1zbGJPcmFTbjUyZjZ1TElrMERoaG9saENVVFhzM0dJZWp3QWxESklQLU1YN1dCMzV1LVRDOTF5U2RqbGNwUnUwZ0pVczAzY1A2X0JnRnRZVXJ1NFhEMUxobUtJWGF3M0Rvd2tpV2VibUN0YlpUODRLag?oc=5",
-      "summary": "제주도, 전기차 하반기 보조금 신청 조기 마감 뉴시스",
-      "source": "뉴시스",
+      "summary": "제주도, 전기차 하반기 보조금 신청 조기 마감 newsis.com",
+      "source": "newsis.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:22:05+00:00",
@@ -1403,8 +1413,8 @@
     {
       "title": "폭스바겐코리아 ‘전기차 라이프 케어’ 이벤트...9월 30 일까지",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtdDdQb2tURjNGODlvTTdPblVHWXdnTXNMaWtoV0R4eThtRU1MSjd4cjIteUVUT1BxcWJTc1hFdFNtTm4xRkdVNno2NWgteDZwbjJjSA?oc=5",
-      "summary": "폭스바겐코리아 ‘전기차 라이프 케어’ 이벤트...9월 30 일까지 OSEN",
-      "source": "OSEN",
+      "summary": "폭스바겐코리아 ‘전기차 라이프 케어’ 이벤트...9월 30 일까지 osen.co.kr",
+      "source": "osen.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:19:00+00:00",
@@ -1413,8 +1423,8 @@
     {
       "title": "질식소화포부터 배터리셀 덮는 캡슐까지…전기차 화재 대응 기술의 진화",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOUmVNX05ZbGE1NXpFb0lPUFdpY1luYkFwa0R4dmMtOWVTamJWSGFfUHNUaXFMVjg2MVFiQ1BFREVtTE5DMERwOHN4ajRoTVZQQjR2VEduNWQxRHllanJqVjNQTTNEeVlOWFBtQ2c1VdIBZkFVX3lxTFBWZHZRak5LWEl0SjhHelROd1JTd1NUWlRyV200Q0xIdUFYUjdKTWNvaWltZDFLVWpsMWxuemVIVzB6bUQ1d1p2TjNacC01TDNiNy1nMkh3RXN6RUpPSTlNVjVyLURvQQ?oc=5",
-      "summary": "질식소화포부터 배터리셀 덮는 캡슐까지…전기차 화재 대응 기술의 진화 donga.com",
-      "source": "donga.com",
+      "summary": "질식소화포부터 배터리셀 덮는 캡슐까지…전기차 화재 대응 기술의 진화 동아일보",
+      "source": "동아일보",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:03:17+00:00",
@@ -1433,8 +1443,8 @@
     {
       "title": "전기차 실린 탁송차서 화재… 가뭄 지원 가던 소방대원이 진압",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QT0lqZXFGY2w3SWtGUGM4RS0zcE1vdXZJNlpIMXluUFpyLTFQU1FNT1RaRlNmbmJBVHM4MlNLbnVvdkNtazl2VzZKclJ5S0F4SFNLUzhkeUpfTlRMRUU1U1dkdjNpUE0?oc=5",
-      "summary": "전기차 실린 탁송차서 화재… 가뭄 지원 가던 소방대원이 진압 강원도민일보",
-      "source": "강원도민일보",
+      "summary": "전기차 실린 탁송차서 화재… 가뭄 지원 가던 소방대원이 진압 kado.net",
+      "source": "kado.net",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T02:00:55+00:00",
@@ -1473,8 +1483,8 @@
     {
       "title": "폭스바겐코리아, '전기차 라이프 케어' 이벤트 실시",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TR3dkaWVLdzRXSHJpV01JZXV6NVNEZzVyTTNabjY4dU5QbWdROUwtZl9obGtidVlCbS02LWdaTTc5eUk2ZE9henRMRmFBZw?oc=5",
-      "summary": "폭스바겐코리아, '전기차 라이프 케어' 이벤트 실시 etnews.com",
-      "source": "etnews.com",
+      "summary": "폭스바겐코리아, '전기차 라이프 케어' 이벤트 실시 전자신문",
+      "source": "전자신문",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T01:43:44+00:00",
@@ -1588,16 +1598,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T01:15:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "제주 전기차 추가 보급에 신청 ‘폭주’···1시간만에 물량 동나",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nc3NtdzRLOVpuUWNVOWNFSk9aZUNGRmN5d2Z6N2kzelRDVVpGdWlFYW0ydzlQWVNTaWpVdUlDRF9TeTFmME9uWlRJcXhMVGFhWjhhcTd3dkpNd9IBX0FVX3lxTE80R0llVkhFTGNzbnQzdmU0NHdSUmo0VkFKR2Z6TEZXVXgtSlE2U1Y1NjdJdWljZEI3bWpfaWNyN0JCdTJFcDlOa2lxWU9HbjloQ3ZxZmF2RWo2d01hUXRN?oc=5",
-      "summary": "제주 전기차 추가 보급에 신청 ‘폭주’···1시간만에 물량 동나 경향신문",
-      "source": "경향신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T01:14:00+00:00",
       "byd_ev": true
     },
     {
