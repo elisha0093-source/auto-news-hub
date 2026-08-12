@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:08:51.933285+00:00",
+  "generated_at": "2026-08-12T21:53:05.642193+00:00",
   "counts": {
     "domestic": 60,
     "international": 60,
@@ -7,6 +7,136 @@
     "byd_ev": 60
   },
   "domestic": [
+    {
+      "title": "금속노조 \"자동차업종 20일·21일 파업\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XcnB4aGRrZ0g2RHViLU94bkVfQ0thejFmVEV0ZF9DNHFsM2tPalhSTVZOaWxzZUN5bmYzeXRWVFk1WUFxWWtNclBzN3ltSVZEcktJ?oc=5",
+      "summary": "금속노조 \"자동차업종 20일·21일 파업\" 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T21:34:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대차 회장이 직접 코딩 공부한 이유…\"IT기업보다 더 IT기업 같게\" [biz-플러스]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZLWdNTmVlWDItdjNhbzBfMFZzb214VmtNU3NhcHQwd2RkSnZoZThPb0d5c1BTSzI0NnJLZUVBMTkxWHNqSEczWUFqTkMzOS1CcGRR?oc=5",
+      "summary": "현대차 회장이 직접 코딩 공부한 이유…\"IT기업보다 더 IT기업 같게\" [biz-플러스] 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T21:31:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "기술은 되는데 돈이 문제…폐차 플라스틱 재활용 비용 75% 줄여야 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XeUFHVmJ3a25WTUNJVmJZVGJWSDB1dHdVYzgwdWpzVmlXQW9ROXpKek1EcC1iR2ZsemRZV2ZnNGxZXzYzOVBaUXRzRFVIQk02Yl9mX2hSRmh6bHdVMW5vWnRsMUtsenpCSFRMQdIBckFVX3lxTFBscmtJcTY2N1JnbDdRa2NWZmtKM0Zxb3hKRGg0MDNteWxwTW1GRlVMM2JWVkFwWDlXZE45ZjhyUWI5anRodEdSdVNHbW9OMzc0UlJITHBxcWZMcUw2UkFLYjlQcUxPYkxLQmRVUG9SS3diZw?oc=5",
+      "summary": "기술은 되는데 돈이 문제…폐차 플라스틱 재활용 비용 75% 줄여야 - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T21:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "\"이 버튼 ‘꾹’ 눌러보세요\"... 20년 베테랑 운전자도 몰랐던 자동차의 ‘숨겨진 기능’",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM244aWJUUHhGWjJoVUc0N2NzQngtZHNIU0tRYy1YUGZhY2trVmJhNU9aU0t0V20zVnczSmh2WUhHVDRkVVZGYlFWdjJVXzNFRk5EeGVrV3BCX3FWeVlxYTVEWGdZWmp6eHFTcTcxeFprQXJBTGgyVDFXM3otb0ZLVVVnVnd1Y1hJVTU5dDdvWWnSAZgBQVVfeXFMTkpnT0JzUXdHaHJ6NU9GOFVtOS1QcHNldWVNeUoyTzI0bzNrQ3IwTGt0VmVfd3FuZWpXRF9SSmtfbXBzRG1IVjVOU3NlZEhuOUN0alg4QXJlSVFNX0RpMTJadlRlRS0tM1RQVmZCVWZJZTVPR01YcnNOb3drXzVTRjBnaVVsTDBzQXM2MGMtUWVBVFFHOW5xOHQ?oc=5",
+      "summary": "\"이 버튼 ‘꾹’ 눌러보세요\"... 20년 베테랑 운전자도 몰랐던 자동차의 ‘숨겨진 기능’ 토픽트리",
+      "source": "토픽트리",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T21:15:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[청라 전기차 화재 2년]③ AI가 열·연기 감지하면 바닥서 물줄기… 화재 대응도 ‘자동화’ - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGpwS2gxaHRzR3pORDM3bXdRZmFVczlQRjhmNG9YVEVxcWhndE1aSDI1UGpSckhScTVwbUJPaWg1ZWc3SlBCZUNGc0tQdDJTbk5XR3doS3loOXhlWk96dlVBZmtTcHFoRWZaVU50bVJzLTlVTmd0MWtPZ09DMVBuWGpUSGZwbUlIb0V0MHdRLTJFdFZEWTZHRtIBrAFBVV95cUxNdXc5OV9VZjhuVEVHYWNleFg4UTZMTlFacGN5aElBYTMzbGpfMnk5bkhJYndaVlY3SXc2V2RHWlFUQWEzVmJ0Vjh0WE9hZWt3V1AzcXE3bUdhR1dRdlZ5S0xxVVVaRkoyMjRVR3g3ZU5yengyRnh5MlZLZjNROTJvUlRJQWdzZWN2c0J1Q2xYckFEc2t4QWUtYWt1MTNfVFcxejJKQzlnQk92cDNh?oc=5",
+      "summary": "[청라 전기차 화재 2년]③ AI가 열·연기 감지하면 바닥서 물줄기… 화재 대응도 ‘자동화’ - 조선비즈 Chosunbiz",
+      "source": "Chosunbiz",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T21:06:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘한국판 IRA’ 세액공제서 전기차 빠지자 배터리도 한숨… “中에 안방 내주면 우리도 타격” - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjhDYW1CQ2xXSXh5OEJUX2E1aVpQa2hoQk1BZk1uM1NiZURzQllCS0J4di1iclZfc1hyUGVZTm1JZW1SanhNUnQ1TUNPMjJmNWZtQlh3Wk1pdVJtVG5ueEV3Ry1JazlHdm8tMkdrdmpfRWpneEVNMjVtMHFUN0NqX2ItZzHSAZgBQVVfeXFMT3R1U2VEUWdjUDJSYjVJZXN6aXp2X2VmUzBRMnJSc0NhRTdEN1ZsVzYxLTUxQmc4MHdiT3VGdUZLS3M1cVFHWUNWVWYxNnNKbTM4RHljVkpPdUxDMUV1MlI4aDlHbjE5VEJvbV81Wk1NVDNIcFhZWDNMRHBsRGxwMVB4ZDJQeE4zLVFmVk43XzRpaWNWLXBmaG0?oc=5",
+      "summary": "‘한국판 IRA’ 세액공제서 전기차 빠지자 배터리도 한숨… “中에 안방 내주면 우리도 타격” - 조선비즈 Chosunbiz",
+      "source": "Chosunbiz",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T21:02:39+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘국내생산’ 외치면서 전기차는 왜 빼나[기자수첩] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQVEzWG02Vlk4eVR0Y1BWNEcydW96NTRKLTR3RHhCUG5MNDl0QkV6eWE3cGNranJ2dXZrclgxVy0wOExwX2stNXdEckpRWUlralVPTGtfZGI1d3dFWFdaNEU3MGtBblFveTQ0LdIBckFVX3lxTE5MSThvbnFGaUNaeV96WjhReG9oR2JxVEhZVkRiRWVxOU5mbGlmVHI1YW9wLTBvNDl2bDUwYWtEdU9OdlVJN3AxWWNNbXQ2cWNvcEtfY2hUYzdCTGNlZ0lwdGNESG9sRWp3dXlRbkFNZ1ROQQ?oc=5",
+      "summary": "‘국내생산’ 외치면서 전기차는 왜 빼나[기자수첩] - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T20:50:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "'국내생산' 외치면서 전기차는 왜 빼나[기자수첩]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12WmlRazFaM1JhbFNndzduelFDSFB6ZmpESE5qY2JCd0JRaklPWjdVR2w5bnZLYUpsNi1iTkIyRWlYVDNpRTI3WndYYW5lc3FDNDVZ?oc=5",
+      "summary": "'국내생산' 외치면서 전기차는 왜 빼나[기자수첩] 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T20:50:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "기아 EV2 출시 3개월 만에 8000대 판매…유럽 소형 전기차 시장서 '존재감'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16dlQxdXJqS2xRcEQycTh6UElZMjZzeWVyTUd3dWl2MFRza3VKNHJVX2JrMW9wU1BIMEsydVZXSlVkdHAwN1ZIQllrVXJkN21Rc09xWGFTOU82bjNmbXotWg?oc=5",
+      "summary": "기아 EV2 출시 3개월 만에 8000대 판매…유럽 소형 전기차 시장서 '존재감' newsis.com",
+      "source": "newsis.com",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T20:30:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "세종시, 전기차 201대 추가 보급…18억원 투입",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBISW1CRF9wMHNuSXE5c0x1VUxxbURqR2VJZWRZcGhhNDhTU05Ua3p6clFiRUI0a0tmVlliZ1MzcW1URDhsMVdoRFYwN3lwcWRqUjZHbVo5VVdTVzFIQTU5TklwZW5YVFM5LVJpMTNUaw?oc=5",
+      "summary": "세종시, 전기차 201대 추가 보급…18억원 투입 naewoeilbo.com",
+      "source": "naewoeilbo.com",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T20:15:51+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘日자동차 세계화’ 이끈 오쿠다 前도요타 회장 별세",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhV1pNX0FBQjRqYlJfVkFuNXhYU2JFQ3UybkswaEZBa1RCYlVtNGRiejJBekpiOGsxSVpJSWo5RWNBQUJiaGx3V1Nid0dOYlJMWEVxU25NUGxZYVhfS29IaGxRZEN5RWtuSGxITEtvQW5Wa25J0gFmQVVfeXFMTmdRS0pfTU5mQzdyaTVfMmJuTTVlYk1saXJLdlJnVkpIeDhaQzdNdDVtaUh5TmxvS0JjazZWQmZ4Q2VKdWRqNUtROWJRQkVGazdZLUdUclYxUmFvakV2blNiR2lDOFpB?oc=5",
+      "summary": "‘日자동차 세계화’ 이끈 오쿠다 前도요타 회장 별세 동아일보",
+      "source": "동아일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T19:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "J.P. 모건 자동차 컨퍼런스서 OPENLANE: 디지털 전환, 성장 견인",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNEYwbWlGU04zZnctXzhGZ3c2ZzA3SDg2S0dhWmFIU0tHRXVhbVk4WjdSU2ZWdnJYRkhLVWltNWtLZ0U5MzJKUG5iaGJ6RXRxTDF5eF9MYkc1TkZLTTgzTFFEc2FFaDhGR1hsN21Hbw?oc=5",
+      "summary": "J.P. 모건 자동차 컨퍼런스서 OPENLANE: 디지털 전환, 성장 견인 Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T19:23:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "J.P. 모건 자동차 컨퍼런스서 AEye, 라이다 사업 확대 강조",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQc2FRTHdqQTBiYUZxVGtXeGZ5UnZHd1BwZDR4Sks2ZmhsNXJyVWVRUEk2b3hRZlFTTjNpdm9mdVdKZC1pWGZXNExvanlKRDRrWFpBOFBqbUFhTElUTUdkeERfYUsyNEdpWkdEeFJIOA?oc=5",
+      "summary": "J.P. 모건 자동차 컨퍼런스서 AEye, 라이다 사업 확대 강조 Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T19:19:00+00:00",
+      "byd_ev": false
+    },
     {
       "title": "캐나다, USMCA 준수 차량에 낮은 관세율 적용 위해 미국 자동차 관세 수용 검토",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56Z0Z6UDlub01VRGVDZW1XNnZEQ1NjblNCN1ItQXlCWlZNWUYwRHB6LWFTNHQzVTBXX1RwTnVFZ0FkbmR5N2FCdmhUV1ExMzkySzlyOUxKb2pOdFRBVmNNZnVHSC1hY2xmQW1DNExyZzc?oc=5",
@@ -24,7 +154,7 @@
       "source": "뉴스케이",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-08-12T16:27:11+00:00",
+      "published": "2026-08-12T16:25:13+00:00",
       "byd_ev": true
     },
     {
@@ -38,16 +168,6 @@
       "byd_ev": false
     },
     {
-      "title": "김포 자동차 정비소에서 불…\"기름때 닦다 발화\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oM1JIUUU2TGtGb182a0ljQUNBM3MwaWpLdS1BUXczU0NmcjhqRFlQZTFreF9INDZsMjZWM2trNFBuNF9Jay1acTg4NURXcGFIR0dN?oc=5",
-      "summary": "김포 자동차 정비소에서 불…\"기름때 닦다 발화\" 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T15:34:00+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "‘드라이버를 위한 전기차’… 주행 안전성 돋보이는 폴스타3",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43X3hCdXdLaU1UY1EtY1l6M2xMRkhPd2pKNElTQ1VOclZtcXY1V09yYWhlbUpKTHd2aE5BVjR6Z0stMUJ4VzhOUkwxTDk2YUgzSWZSREszN29TMmR2SS0yMzdaR2RVMVJtbE9RbTFaVkxMT2JPeWfSAWZBVV95cUxQbVVwV1NubnM1OHVnc1FvNkNHUEhicTZCN0J5Y0tOc2VyX2haVzlYendPdmR3OHNjN0NUWXFhcm5xSUpnNEs5ZGlMSDFJLXhsdVMxbmZ5NHdnT0Y5SzVkNC1aelhLNEE?oc=5",
       "summary": "‘드라이버를 위한 전기차’… 주행 안전성 돋보이는 폴스타3 동아일보",
@@ -58,16 +178,6 @@
       "byd_ev": true
     },
     {
-      "title": "2026년 7월 베스트셀링 자동차 TOP 10: VinFast가 압도적인 1위를 차지했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGluVFE5NDR4ampxeUxUd3JWemoxSkpfQ3FsdHhGTEhrVTlqZkZyODJEQ01oaGQweUhkMGhsdl9ybHh1aXB4c3I0YnJ3cGhKUVNMaGYxaC1fdlE3cXBkWGJGNlpTZmtKRVhxVHVXQ0txUlFQQnZfSHhSeHJuVzJBUlkxTVFYZw?oc=5",
-      "summary": "2026년 7월 베스트셀링 자동차 TOP 10: VinFast가 압도적인 1위를 차지했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T15:25:42+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "[프론티어 도전하는 울산기업들]차량 경량화 핵심 ‘플라스틱 백패널’로 미래車 시장 공략",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95cU8yLUt1bnlHSVJnSHZSOE5YTzZIc0hyb3oxb2QweVphQTJnQVotZElaVXNqUkJ5aHRlUWlQQ2hNSFpCX19KMW5DTi1Bd28?oc=5",
       "summary": "[프론티어 도전하는 울산기업들]차량 경량화 핵심 ‘플라스틱 백패널’로 미래車 시장 공략 v.daum.net",
@@ -75,16 +185,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T15:20:38+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "중국 자동차 내수 21% 급감했는데 수출은 88% 폭증…해외시장으로 질주",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE82ckVWNHNoRWZ5MEZFb2ZYUzVOMS01MjYtbWVVTGJKT3pzVmE5bGFEYm45RFREb0JBbG1pRG9zODkzWkZlcDMzbTF3?oc=5",
-      "summary": "중국 자동차 내수 21% 급감했는데 수출은 88% 폭증…해외시장으로 질주 뉴스N연합",
-      "source": "뉴스N연합",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T15:10:14+00:00",
       "byd_ev": false
     },
     {
@@ -138,16 +238,6 @@
       "byd_ev": false
     },
     {
-      "title": "배터리 연구원에서 세계 자동차산업의 승부사로…BYD 왕촨푸",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mT0ItV0Q0RUJod0Zfb1VxRUN5dDRuTS1HVEpBQlNNd21TcjI2bU1oeFpDa1c1U29vMWpzVmxGOE5NVkZsUG9tcWZVS3F4aVBXVHc?oc=5",
-      "summary": "배터리 연구원에서 세계 자동차산업의 승부사로…BYD 왕촨푸 유스연합",
-      "source": "유스연합",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T14:16:29+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "테슬라, 스타링크 안테나 탑재된 사이버캡 실물 공개",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNGRCSWVuN3BlX2dTYXhoMUl3YktWWmxCNWxtdHFkcEx0SGRRMVUtRk1mdW9WZTIyLS1fOVhUNnZSZEJPMkdNTFpyamdUMUhKUHVZVnFOWGwzM3lZRHQ5dHc2TGREN0Z3alNDa2RyeHFsdw?oc=5",
       "summary": "테슬라, 스타링크 안테나 탑재된 사이버캡 실물 공개 다나와 자동차",
@@ -156,6 +246,16 @@
       "category": "domestic",
       "published": "2026-08-12T14:10:12+00:00",
       "byd_ev": true
+    },
+    {
+      "title": "현대차·기아, 공유차량 운전자 모니터링 기술로 미국 특허 취득",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fTk5zVU1hLVBmNlp3b0JjYXYtWjVUNk85ckQ1M2hPTThIZkZIN0ZyVWZVbnI2TzF2WmpETHMwUFBNN0pDdDZ1cWpTNEZmSGVrdEpERzRkN2ZMbF9mYVIxV2V5YThaNXFYSWI1bkJGdndtQQ?oc=5",
+      "summary": "현대차·기아, 공유차량 운전자 모니터링 기술로 미국 특허 취득 다나와 자동차",
+      "source": "다나와 자동차",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T14:10:12+00:00",
+      "byd_ev": false
     },
     {
       "title": "자동차가 '업데이트 플랫폼' 된 시대… LG전자, 차량 SW 최종 관문 '실차 테스트'로 완성도 높인다",
@@ -169,9 +269,9 @@
     },
     {
       "title": "중국 자동차 내수 21% 급감했는데 수출은 88% 폭증…해외시장으로 질주",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wNndZS1B0Y2ZXMEt1T2Y5TlhvZnFJYWtJaTRQVWs5aXNOMlQ1SkxmVEZ4UkhDbUROUWd0UzdnYm9fS2R3WlphZmZqSC1OcjJILWc?oc=5",
-      "summary": "중국 자동차 내수 21% 급감했는데 수출은 88% 폭증…해외시장으로 질주 유스연합",
-      "source": "유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SSjNUYkd5TEh2LUFNbUJGNkk1b0Z1cEpLaDdMM1VyNms1YV9HUVhaakJQcWtja1VZdTc0aTJZYlZvSjBhMW5OTQ?oc=5",
+      "summary": "중국 자동차 내수 21% 급감했는데 수출은 88% 폭증…해외시장으로 질주 얼리어답터뉴스",
+      "source": "얼리어답터뉴스",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T13:21:15+00:00",
@@ -180,21 +280,11 @@
     {
       "title": "경상북도, 506억 원 유턴기업 품었다…동남권 자동차 벨트 강화 !!",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nVEwzbE9BSU4wWmlUR2dQSkU4bmRYMWI5cWdGTGhYMk1xODFRZ1NjanB5TUFtdXoyd01CekdWMFJ2cFo3c2Jkd0tBa3NWX18wa3hKX0p3YlFzZDJ1dXdHakp1bjJrdzcyMXZnMGlUUQ?oc=5",
-      "summary": "경상북도, 506억 원 유턴기업 품었다…동남권 자동차 벨트 강화 !! 내외일보",
-      "source": "내외일보",
+      "summary": "경상북도, 506억 원 유턴기업 품었다…동남권 자동차 벨트 강화 !! naewoeilbo.com",
+      "source": "naewoeilbo.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T13:06:42+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "현대차·기아, 공유차량 운전자 모니터링 기술로 미국 특허 취득",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fTk5zVU1hLVBmNlp3b0JjYXYtWjVUNk85ckQ1M2hPTThIZkZIN0ZyVWZVbnI2TzF2WmpETHMwUFBNN0pDdDZ1cWpTNEZmSGVrdEpERzRkN2ZMbF9mYVIxV2V5YThaNXFYSWI1bkJGdndtQQ?oc=5",
-      "summary": "현대차·기아, 공유차량 운전자 모니터링 기술로 미국 특허 취득 다나와 자동차",
-      "source": "다나와 자동차",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T12:54:03+00:00",
       "byd_ev": false
     },
     {
@@ -220,8 +310,8 @@
     {
       "title": "아산소방서 “차량 화재 초기 1분 중요”…‘자동차 겸용’ 소화기 비치 당부",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwNVJwOHAxb1ptQnMzTzZ4TnZqamhEb0xGWU9zdG9DQWdTaXI1WE40bl9BMEV4ajA2ci1YNEFrUC05UHJCaHRkZGZWM2hrVS0zdi1N?oc=5",
-      "summary": "아산소방서 “차량 화재 초기 1분 중요”…‘자동차 겸용’ 소화기 비치 당부 asandaily.kr",
-      "source": "asandaily.kr",
+      "summary": "아산소방서 “차량 화재 초기 1분 중요”…‘자동차 겸용’ 소화기 비치 당부 아산데일리",
+      "source": "아산데일리",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T12:24:36+00:00",
@@ -290,8 +380,8 @@
     {
       "title": "김포 자동차 정비소서 불…직원 2명 부상",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VX0R1WmhDZzBxT1ExMVBwY3F6ckY4b3ptb282OV9TSVNRTmh5Rk5jZlM1M0pEVWdnY1BMVkpySDJUUGtHaEFsUGVZc19TV0I5RVdiQ01JdlNuU2FwYm5TQ9IBeEFVX3lxTFAtMXdHQkdtRV9vSk1sUDYyVE5FWHFCWjJRNFZlWW9rSUI0WDlQZllLbTFVV1dwTkhtSWZvVlNUNVVDblltNjIzbzQtUVlZUHBWandiTHVBUkw0RHN1Y2E0TGpVY3FhSFZrcVk2R21SNUNjSlJjMWhDcQ?oc=5",
-      "summary": "김포 자동차 정비소서 불…직원 2명 부상 뉴시스",
-      "source": "뉴시스",
+      "summary": "김포 자동차 정비소서 불…직원 2명 부상 newsis.com",
+      "source": "newsis.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T11:42:27+00:00",
@@ -308,29 +398,19 @@
       "byd_ev": true
     },
     {
-      "title": "현대차그룹, R&D부터 생산까지 전사적 AI 전환 속도",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtOUU3a201VGtXUXhHWVhyM0Z2eHRDcWpaWlpfeWVyOGh6TDhUQUh3aEtKSlJ6VGxqdGtBUEdvMjNfd2lydnBqZEVoV2xrNUxBZFdLcnZiYUVuaHljYjloWm8wUnlhVFFkWWlZb1V30gFyQVVfeXFMTzRoUU91MFFiQ1JFMDV2SzZqTWItT2NVLVN4TDB0ODhsOHZsSnZaRGxnRzlKSVVPVngtcG1lb084VHBILVNLNFZQc2dsNnV6dE9GSmwzVVMycURYM2drX0hKTFZibFFCUDRiNTZCV0w4LWlB?oc=5",
-      "summary": "현대차그룹, R&D부터 생산까지 전사적 AI 전환 속도 울산신문",
-      "source": "울산신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T11:16:00+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "정의선의 'IT기업 선언' 8년 뒤...현대차 직원 10명 중 8명 AI 쓴다",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jaTZhdU0xaE9VZEtXb2hBaHgyaFJCNm9VVExha2l4ak1XOGY0SzRDOV9md010ZzhkNEFqU0lXd0xyZG1YSW5UR2VzX2ljenRVRGx3YlMtWXZsOTgzSXZ4MkdhV0g0WjRKQ1JaMHQyQkFmU0dWUG9R?oc=5",
-      "summary": "정의선의 'IT기업 선언' 8년 뒤...현대차 직원 10명 중 8명 AI 쓴다 OhmyNews",
-      "source": "OhmyNews",
+      "summary": "정의선의 'IT기업 선언' 8년 뒤...현대차 직원 10명 중 8명 AI 쓴다 ohmynews.com",
+      "source": "ohmynews.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T11:15:00+00:00",
       "byd_ev": false
     },
     {
-      "title": "20·21일 부품업계 고용보장 촉구 자동차업종 공동파업",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oaHQ2dWpTdVdHR0xBNnhESTY1Y1l4TjVBY1QybXR1azNXaUZSU1ZvaVpoRWZvZ1dRbkFCb1M4bDdrbXFwcDltQ3kzdU8tNl9HNXdZNlFpRHVsZng5a3VZcy00VHRpSVZ2UnIwNlV30gFyQVVfeXFMTU81akRSODZOMi1zV213TXlQYWNrTlFlVXdWcDM2N3NvbVhzc29jdDVDZ283a0tfSkVoZnplbGphYzloeW5PdjJRN29ocXhIOGdxZmZ0MUR5YVYzc1p6YzlSTjh5QXpCX09XbXBlOV9Dempn?oc=5",
-      "summary": "20·21일 부품업계 고용보장 촉구 자동차업종 공동파업 울산신문",
+      "title": "대우여객자동차㈜, 화재진압 박정현 승무원에 감사장",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ucUxNU1YzdUY0TGJLSVFEN3VUYTh4N0NLbGRfcUo5d2hMSlkwQVh0ejlxcHJ1YTltbmdPRlJvUXhSbzgxeUZuTWM3THg5enNoc1dnRXV0X0JnQm5xWU9vZkpvanlZaUtaLTRJbkVB0gFyQVVfeXFMUEI5bG5TSDl5dllmVHpuM0JjXzU4MHJMUzMxT0JOS0lCS2ZGNUJRTWczMDlwZmludlpPNVpyREhLUWttTXZCY0RBRlBEN0tCQVV4OHdTWTlaZkFhU2F0VVN2YTdfazBxSEJDR3RSeG04VldR?oc=5",
+      "summary": "대우여객자동차㈜, 화재진압 박정현 승무원에 감사장 울산신문",
       "source": "울산신문",
       "domain": "news.google.com",
       "category": "domestic",
@@ -338,9 +418,9 @@
       "byd_ev": false
     },
     {
-      "title": "대우여객자동차㈜, 화재진압 박정현 승무원에 감사장",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ucUxNU1YzdUY0TGJLSVFEN3VUYTh4N0NLbGRfcUo5d2hMSlkwQVh0ejlxcHJ1YTltbmdPRlJvUXhSbzgxeUZuTWM3THg5enNoc1dnRXV0X0JnQm5xWU9vZkpvanlZaUtaLTRJbkVB0gFyQVVfeXFMUEI5bG5TSDl5dllmVHpuM0JjXzU4MHJMUzMxT0JOS0lCS2ZGNUJRTWczMDlwZmludlpPNVpyREhLUWttTXZCY0RBRlBEN0tCQVV4OHdTWTlaZkFhU2F0VVN2YTdfazBxSEJDR3RSeG04VldR?oc=5",
-      "summary": "대우여객자동차㈜, 화재진압 박정현 승무원에 감사장 울산신문",
+      "title": "20·21일 부품업계 고용보장 촉구 자동차업종 공동파업",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oaHQ2dWpTdVdHR0xBNnhESTY1Y1l4TjVBY1QybXR1azNXaUZSU1ZvaVpoRWZvZ1dRbkFCb1M4bDdrbXFwcDltQ3kzdU8tNl9HNXdZNlFpRHVsZng5a3VZcy00VHRpSVZ2UnIwNlV30gFyQVVfeXFMTU81akRSODZOMi1zV213TXlQYWNrTlFlVXdWcDM2N3NvbVhzc29jdDVDZ283a0tfSkVoZnplbGphYzloeW5PdjJRN29ocXhIOGdxZmZ0MUR5YVYzc1p6YzlSTjh5QXpCX09XbXBlOV9Dempn?oc=5",
+      "summary": "20·21일 부품업계 고용보장 촉구 자동차업종 공동파업 울산신문",
       "source": "울산신문",
       "domain": "news.google.com",
       "category": "domestic",
@@ -360,12 +440,22 @@
     {
       "title": "충북도, 자동차부품기업 일본시장 진출 지원",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVWtUdF9GZHlMNE4yRVYwa2ZtUDJUdEFuZ253ZmJQdDY3NlBTR3VpekZOaWF0QXVNWmMyRi1fd0pqeU1hYjlxb2k3dVJIUnFaSnl6bjhjZG1VcDFCcUtDemJlRkhSOXRnYUE?oc=5",
-      "summary": "충북도, 자동차부품기업 일본시장 진출 지원 ccdn.co.kr",
-      "source": "ccdn.co.kr",
+      "summary": "충북도, 자동차부품기업 일본시장 진출 지원 충청매일",
+      "source": "충청매일",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T10:40:11+00:00",
       "byd_ev": false
+    },
+    {
+      "title": "인천공항 의자 점령에 전기차 노숙까지…시민단체 \"일방적 내쫓기\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbHdJQ2RFZ3BERk1JQjVqVkR4ZjFBeGFWYl9VSkd4Z1V0WFd3aXZuVk5hMVZqUVFkRWFKblRRNW5vcFF5RWRQTDByYVVWVTg?oc=5",
+      "summary": "인천공항 의자 점령에 전기차 노숙까지…시민단체 \"일방적 내쫓기\" v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T10:35:54+00:00",
+      "byd_ev": true
     },
     {
       "title": "경기 김포 자동차 정비소에서 불‥2명 부상",
@@ -480,8 +570,8 @@
     {
       "title": "신차 3대 중 1대가 전기차?",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWpUU2g2TDRReWNjaU04dVdsVDRLeGFDa0JxZlNPYndPUDJaOW9QOFpXQ0VGYU5lYVJnakotOUxMdFRMNEl0cXlZb3Vsel83aWtzZkotandTbFhWSmsyQ3BXTGQ2cFRHdFZfOVhqdlVSa2U3UUIya2g3d0ZSOTJTM0ZQdlEtQkw5a3M4MXFyUEVWd0JvV1V4TzZyUXViYXpsel9zREZobUpZZHpYWk9NRE53OGJBVnprM25NZV9EQQ?oc=5",
-      "summary": "신차 3대 중 1대가 전기차? 위클리코리아",
-      "source": "위클리코리아",
+      "summary": "신차 3대 중 1대가 전기차? weeklykoreanz.com",
+      "source": "weeklykoreanz.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T09:32:44+00:00",
@@ -516,101 +606,61 @@
       "category": "domestic",
       "published": "2026-08-12T09:20:00+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "현대차그룹, 전사 DX·AX 여정과 성과 공개... 선제적 DX 완료로 전 사업 영역 AI 혁신",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MSGVCb1c4clAtWG1PUm9vQTlBY0preGdSSFZFWXhsVXREUzNBbWZ5ZWVOSVktQ0xORU9jX2JoTXFPTnlUNXAxajUtZDV3NVd2NXRWVmVhUVVtS2NuRkJZM2hMTHlFYWM?oc=5",
-      "summary": "현대차그룹, 전사 DX·AX 여정과 성과 공개... 선제적 DX 완료로 전 사업 영역 AI 혁신 인공지능신문",
-      "source": "인공지능신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T09:19:32+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "서울형키즈카페 동대문구 장안1동점 ‘부릉부릉 자동차존’ 새롭게 단장",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaXhmRkQtcTRpbGJLYi1DT1dvQ2RkT1UtUlp0RUprMHdvNlBWT3BRcHRDa1ZOUDc2a3Zrc0VxS0pfT1NtTndXRmY0S1dzTEMxQ0FBVnAtUkdvLTdRa3pvSERvQ0RCUHo4ZkhFZ2dZMTgyYVNUU3lTMTNqMmRiRnJNM1QxNWxYSzlNME9FeWdnR09zYVQ2TDNic1JDbGlWZ2dHcG82VXNtejExWlNjSGM4?oc=5",
-      "summary": "서울형키즈카페 동대문구 장안1동점 ‘부릉부릉 자동차존’ 새롭게 단장 자치행정신문",
-      "source": "자치행정신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T09:09:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "광주권 전기차 413대 추가 보급…올해 3056대로 확대",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPaEItQkhXMF8wc2JySVE5dGdfSm9mUnRZSVpId1RBT0hVUWVpRDg3bHpNOFlQZk14MVRjRS1kckJGSTE3eTVTUlJPZ3UwaUFpcmpyeEYxSWhmeThLTVBiNlpfY3RTNjVHYWc?oc=5",
-      "summary": "광주권 전기차 413대 추가 보급…올해 3056대로 확대 드림투데이",
-      "source": "드림투데이",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T09:04:28+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "“현대차·기아 고객이 후회하지 않도록”…안전·생산·서비스, ‘AI 대혁신’ 나섰다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFel9GYml6dU9KY3BQRTJHTlZhcDF4cnNuZWQzeEFBQVZ6RVNVU1VEQmo4SmZ2VlhxT0pmcTd5bHJGRVRnamhxMnVlZ3I5U3c?oc=5",
-      "summary": "“현대차·기아 고객이 후회하지 않도록”…안전·생산·서비스, ‘AI 대혁신’ 나섰다 v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T09:03:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "김포 자동차 정비소 내 인화성 물질 폭발…직원 2명 부상",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWYWh3RVU0NE5mTktEcDdxX0ZfQk8wTG83OTJuMU81aVZlS0RMNWFKZTJLcmV3MGZfUzZlWDVPcVB4NlFvOE84TEdkU05rMkx2cnFTUDVIeDlhWmM?oc=5",
-      "summary": "김포 자동차 정비소 내 인화성 물질 폭발…직원 2명 부상 경기일보",
-      "source": "경기일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T09:01:39+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "[자동차보험 8주룰의 명암]① “장기치료 막아 보험금 누수 개선”…손보업계, 자동차보험 ‘8주룰’ 기대",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NUNOYnItU0pWZHIyTmtVd19vSW1TYlkyYW9SOEZyOFhXQlA2OHQ4NUVtN21ERXg4bGY4dG5vc1NlajVrY2dZMmRFR2ZPbVp6amJQOUNJT0lwVVB0aUd0TUp4bGlkcUZWeW1fNjRYb1I?oc=5",
-      "summary": "[자동차보험 8주룰의 명암]① “장기치료 막아 보험금 누수 개선”…손보업계, 자동차보험 ‘8주룰’ 기대 한양경제",
-      "source": "한양경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T08:53:36+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "제주도 하반기 전기차 보조금 신청 조기 마감",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kWDNkQUJPS1N0WXY2cGFQdzk5RUNMSjFqQ2Zfb1YxekpLVTRhajV4MlVwcUgzb2RHdlpnQkZLWW03UlljQnRDRGxpR0pnV2VtYk81anBOajhrZ1VaTlJrUGZ0aWFaYXZKbHFHLQ?oc=5",
-      "summary": "제주도 하반기 전기차 보조금 신청 조기 마감 삼다일보",
-      "source": "삼다일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T08:51:22+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "中, 저가형 전기차 물량공세… 해외방어전 돌입한 현대차·기아",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWSE1MeHpaM2hoU0lfYU92YXN4WDJKUWM2VVlpVWZBNGxYWVdJbXZSSnllYmg1YWdWWVRBcmlmMUtBODBGY2Z6Wi12dFNGbzFYY1EwdjZWWXRxeGxwTC02Q1RrR25ja3hkNWZrN0N3?oc=5",
-      "summary": "中, 저가형 전기차 물량공세… 해외방어전 돌입한 현대차·기아 아시아투데이",
-      "source": "아시아투데이",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T08:50:37+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "현대차그룹 'AX 가속'... 정의선 회장도 바이브코딩 배웠다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tWXZjdUNQT1NnZUExaTRiMW1EckZUSWJwTWRJYU1iRXprQWJxREJLQW50SFZxVTRrQ3EyR3RET0pGRUlOZmhiR2tWbU93cG5yNmYyZDBqOXF2VkVnRUJQUnYtYnVIZGRYa1HSAW5BVV95cUxOZlU1Zndjcm1jWEh5Q2VnSmRVaHY0d3dBUEZYNXBxa3pSVXRweDAwUFVOV1h5VElvMUY5RFNxUWNjNjczOV9jN1F3bGxJN0tKMUxqblliUHhzbG10Z1o4aUxsYUUxWk1SUzRYeGhhUQ?oc=5",
-      "summary": "현대차그룹 'AX 가속'... 정의선 회장도 바이브코딩 배웠다 퍼블릭타임스",
-      "source": "퍼블릭타임스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T08:47:05+00:00",
-      "byd_ev": false
     }
   ],
   "international": [
     {
-      "title": "EV sales, oil costs and temperatures are spiking. So UK govt pushes… more gas?",
+      "title": "Here's A Mechanic's Take On The Subaru Trailseeker",
+      "link": "https://insideevs.com/news/804734/subaru-trailseeker-mechanic-walkthrough/",
+      "summary": "After a thorough look through the Trailseeker, a mechanic finds a few reasons to buy it over its Toyota BZ Woodland twin.",
+      "source": "InsideEVs",
+      "domain": "insideevs.com",
+      "category": "international",
+      "published": "2026-08-12T20:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Volkswagen Is Just Taunting American Camper-Van Fans Now",
+      "link": "https://www.caranddriver.com/news/a73416584/volkswagen-california-camper-concept/",
+      "summary": "VW’s two cool concepts include an inflatable California Beach camper and an electric ID.Buzz-based California Cruise camper.",
+      "source": "Car and Driver",
+      "domain": "caranddriver.com",
+      "category": "international",
+      "published": "2026-08-12T19:52:12+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Used Cars Under $20,000 Are Disappearing. And The Numbers Are Brutal",
+      "link": "https://www.motor1.com/news/804730/used-cars-under-20000-are-disappearing/",
+      "summary": "A new study finds that shoppers now have to look at much older vehicles to find the same kind of deals that were common in 2019.",
+      "source": "Motor1",
+      "domain": "motor1.com",
+      "category": "international",
+      "published": "2026-08-12T19:34:01+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Tesla plans massive new V4 Supercharger in San Francisco",
+      "link": "https://electrek.co/2026/08/12/tesla-124-stall-v4-supercharger-san-francisco/",
+      "summary": "Tesla wants to build one of its biggest Superchargers yet right in the middle of San Francisco. Planning permits have been filed for a 124-s…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-12T19:28:14+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "US EV prices are going back up as discounts shrink",
+      "link": "https://electrek.co/2026/08/12/us-ev-prices-are-going-back-up-as-discounts-shrink/",
+      "summary": "After six straight months of year-over-year declines, the average transaction price (ATP) paid for a new EV in the US is rising again.",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-12T19:10:18+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "As EV sales, oil costs and temperatures spike, UK gov’t considers… fewer EVs?",
       "link": "https://electrek.co/2026/08/12/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/",
       "summary": "The UK government is considering relaxing its landmark electric vehicle rules, even in the face of inflated oil prices, a recordbreaking yea…",
       "source": "Electrek",
@@ -1158,56 +1208,6 @@
       "category": "international",
       "published": "2026-08-11T17:47:43+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "Chevy Is Giving Up On The Chinese Market",
-      "link": "https://insideevs.com/news/804539/chevrolet-quits-china-give-up/",
-      "summary": "In 2014 it sold 700,000 units per year in the country. By 2025, that number had dropped to just 9,000.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-08-11T17:41:05+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "BMW Never Built A V10 Manual X5. So This Company Is Making One",
-      "link": "https://www.motor1.com/news/804537/kith-bmw-x5-v10-engine-monterey/",
-      "summary": "Kith and BMW are collaborating on a pair of X5s that will make their debut at Monterey Car Week.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-08-11T17:30:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Cadillac will hand-build a custom Escalade IQ for you, but it will cost an extra $55,000",
-      "link": "https://electrek.co/2026/08/11/cadillac-hand-build-custom-escalade-iq-extra-55000/",
-      "summary": "Cadillac is giving buyers the opportunity to customize the flagship electric SUV through its bespoke program, which will be hand-built in Mi…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-08-11T17:23:09+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "SpaceX AI investment gamble will make it a big winner, firm says",
-      "link": "https://www.teslarati.com/spacex-spcx-ai-investment-gamble-big-winner/",
-      "summary": "SpaceX’s massive investment in AI will make it a big winner, Argus Research said after the company’s successful earnings call last week. The…",
-      "source": "Teslarati",
-      "domain": "teslarati.com",
-      "category": "international",
-      "published": "2026-08-11T17:14:19+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Tesla recalls 20,000 Model 3/Y for headlights that are too bright",
-      "link": "https://electrek.co/2026/08/11/tesla-recall-20000-model-3-y-for-headlights-that-are-too-bright/",
-      "summary": "If you’ve ever been driving at night and felt like the car behind you had too-bright headlights, that car might have been a Tesla, and it mi…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-08-11T16:44:26+00:00",
-      "byd_ev": true
     }
   ],
   "official": [
@@ -1224,8 +1224,8 @@
     {
       "title": "Does Your Tesla Have a Recall? Here’s How to Find Out",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckpuTG10Y0NwTFJJMzVsQ1V1Ti1uelpwbktPcVl4VVJnSDZkR3hFaXRTNllab2ZFeEhPdDdyNVZZNXgxSVR4U2s0N1VlMFRnQU1XRXhGVlFnSjlJNDdfLVJ5eldzaVQyaHRoaHRGRU1abVJrRG9tdThFa3ZFR3hXRzA4S2lWMFUwUFhXMVlWSkxpdUtD?oc=5",
-      "summary": "Does Your Tesla Have a Recall? Here’s How to Find Out Not a Tesla App",
-      "source": "Not a Tesla App",
+      "summary": "Does Your Tesla Have a Recall? Here’s How to Find Out notateslaapp.com",
+      "source": "notateslaapp.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T16:48:00+00:00",
@@ -1242,10 +1242,10 @@
       "byd_ev": false
     },
     {
-      "title": "테슬라, ‘너무 밝은’ 전조등에 2만대 리콜 - g-enews.com",
+      "title": "테슬라, ‘너무 밝은’ 전조등에 2만대 리콜",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVd4VTEtN0xfSVZEb2MzWFppUkcyeE16QzVKNFN6N1htRnZJOUpTWjFkbHp5M0t5aHVRUzlvYlFqcEVHTGRqUFFOcDhKZWJnY0FmMDliVFNXMm43RFdQa1l1bFVMUEVHTFpRSURodGFpTjdLeEh3NjRFUzcwVHhlOWRRWUFsSG81?oc=5",
-      "summary": "테슬라, ‘너무 밝은’ 전조등에 2만대 리콜 g-enews.com",
-      "source": "구글뉴스-리콜",
+      "summary": "테슬라, ‘너무 밝은’ 전조등에 2만대 리콜 글로벌이코노믹",
+      "source": "글로벌이코노믹",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T16:00:00+00:00",
@@ -1264,8 +1264,8 @@
     {
       "title": "IIHS: Safety Tech Creates Interesting Crash-Repair Cost Math",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcld6S2kzN01nRGMyTnJpT183c2szNUh1SlY0Y3Y2TnV0dFFWN0drbUZTUXFkVkViRFBVZkk1ck9wbTdISm9Gamt4V3hJTFNGZURVRVdhRlk1QTdBX2lyMk1XV01SQlN2LXZVQl9pVk42TDRmaGZZZmJVVjZkM2tSYVlrZXp2X2VoLXpqZUZqME9IdWc?oc=5",
-      "summary": "IIHS: Safety Tech Creates Interesting Crash-Repair Cost Math Kelley Blue Book",
-      "source": "Kelley Blue Book",
+      "summary": "IIHS: Safety Tech Creates Interesting Crash-Repair Cost Math kbb.com",
+      "source": "kbb.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T15:33:29+00:00",
@@ -1274,27 +1274,17 @@
     {
       "title": "Toyota recalls over 500,000 hybrid vehicles for issue that can disable turn signals, hazard lights",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU3YwQi1IN1pTWl82clBTYmh3V1NBRUFwVG1iV0VTQnlfUEFSM01VT1k1Z0g4N2V0WnJUamJRazh2cG9qaE45VzM4WlVkOU53bmFLaWswb1VOUmhZMTRYbVJrTUZ4Uy1YUGNBVVBOdzVRdHZIb0lyaDhxcU0xeGNGUUJzRWhJNDRDd3FZRzRnQ2JhbUd1bllNZzFmS29mLTBYeXVJcS0xMHNBM2NXU3JTM1ZYOEtQMVh5dkExV1ZpcXYwYjd4Z1RyN2pfOUVwRWMxSWfSAeYBQVVfeXFMTzRtX0h4RU1GTGwyanh1TEJaLXducFp6SDRsR0Izc003N2RuRk80UHlNeUxUWUNsakhCR0RsWVZiQ2RIZ2huVlNkU09DZ3I2ekJFN0E4MDJDSHVOVGRDbFgyVkltbmZwNzNIMGlRN3pIQnk5cUJCTXJ3ekpmR0RMUGtxRVhJa211ZzJuM0FEdkFrb1VBcnZuMVc4clFmWWlfS1VaMTRhTUF0UTBCZ1hsR3VMdjgybHRGSThadlBTczhGdnllY1UyQWtRa2I4VjAwczdnTktHSHlSc1JwNFQtZmVUekZQRXc?oc=5",
-      "summary": "Toyota recalls over 500,000 hybrid vehicles for issue that can disable turn signals, hazard lights mlive.com",
-      "source": "mlive.com",
+      "summary": "Toyota recalls over 500,000 hybrid vehicles for issue that can disable turn signals, hazard lights MLive.com",
+      "source": "MLive.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T15:14:00+00:00",
       "byd_ev": false
     },
     {
-      "title": "Rivian Expands R1S and R1T Recall Over Faulty Turn Signals",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdktSUGNRN2VGbEpXNERhTUtVVUJTWF9kcEhpMkNjRVF0MFJnYUN6X25ScEpFY1JQeEUwZHB5V2tkYVJJd0pVMFBrSGppQUVHdWdITk9kaGFOYlB0a0YzdGlsV1pTRTFGWk16Mm1sMDNRR2hoUTdmdGtjSkZhc2wyRUhKTTNpbzU2?oc=5",
-      "summary": "Rivian Expands R1S and R1T Recall Over Faulty Turn Signals driveteslacanada.ca",
-      "source": "driveteslacanada.ca",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-12T14:04:40+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla Recalls 20,000 Cars Due to Overly Bright Headlights - Root-Nation.com",
+      "title": "Blinding defect: Tesla forced to recall 20,000 electric cars due to excessively bright headlights - Root-Nation.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmxtS1VmTmR5TDVaaTFBZmlTWGJyUWxWTW5sOVhnclhHanNRODQ4N2NBeGQ3QzUzRHpFU2FJNjF0aU9NUWN5bUtpR2JlOFRHVVJyN0xXU0ZVREliSFhyQXZSTkRReTAxOFFUNVlIZk53YWZ2REJXZ0FUamdpWEp0bGtoVEFORkdQ?oc=5",
-      "summary": "Tesla Recalls 20,000 Cars Due to Overly Bright Headlights Root-Nation.com",
+      "summary": "Blinding defect: Tesla forced to recall 20,000 electric cars due to excessively bright headlights Root-Nation.com",
       "source": "구글뉴스-NHTSA",
       "domain": "news.google.com",
       "category": "official",
@@ -1302,10 +1292,20 @@
       "byd_ev": true
     },
     {
+      "title": "토요타 캠리 65만 5천 대 글로벌 리콜, 미국서 50만 대 이상 - 사회",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lclZpTDVPa1U5bmJTbjM1NDlOYjN6MUd5U1VPVVRrTEczVkZfWlFCcUZJQVVMRHFGeUtjYW5ZR2xwdXFhaTZVcQ?oc=5",
+      "summary": "토요타 캠리 65만 5천 대 글로벌 리콜, 미국서 50만 대 이상 - 사회 koreadailytimes.com",
+      "source": "koreadailytimes.com",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-12T13:19:18+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "Over 500K Toyota Camrys Recalled For Safety Issue That Deactivates Hazards, Turn Signals: NHTSA",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUQ5dGY5d2NNZ2ZXRFRTQ1RwUXNTMWlOYWZoMUttdFFOeEw4MTdNTW5vLUhaQnpOenBOWXhMem9hVk5pR0VJcF9NcUVkc2VGbEE0ZS1xSVU4NGZRWThZdmQtUG9lU29KNTZOQm1wUGtzN0QwaWVjRHBvc3pTSDdySXhqUEV0MmNWY2lTV21KU05sYnpZT3NqQVpUNjFuajBTSGhxdi0tM1JKVW4ySnk5enVwSXgxM2_SAdwBQVVfeXFMUE5uTU9UOVdCWEQxVXNDMUxVY1NhMFJ2SHVxMFI5NDNFLUF3Mm0ySXo4NXE2ZXVGemJXQlotUDBvYUoyZmZDaG9tRUo3c3ZHUVQ3N2tOOVNCeF9aSU1ZdmpraGo2WFdsUk4zS1VXa3owYlg2TzlPVGhCOWtNR2J3N0dUTC11LWw1NVY5aDBJd2Z1ZzVXcjNNNzF5bUpEcVNZcGhJV29ocXFac2VENVRvdFFuNjl2eXpNbHhfSjRBZFZBVmhJWU14YlZVazBxa192S3BJRVdDdG5BclNRbQ?oc=5",
-      "summary": "Over 500K Toyota Camrys Recalled For Safety Issue That Deactivates Hazards, Turn Signals: NHTSA Patch",
-      "source": "Patch",
+      "summary": "Over 500K Toyota Camrys Recalled For Safety Issue That Deactivates Hazards, Turn Signals: NHTSA patch.com",
+      "source": "patch.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T13:13:13+00:00",
@@ -1362,10 +1362,20 @@
       "byd_ev": false
     },
     {
-      "title": "Toyota recalls over 655,000 Camry vehicles over turn signal fault - just-auto.com",
+      "title": "Tesla officially recalls 20,349 Model 3 and Model Y over headlight issue",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3QySEt4dWwzNmo1T1pqeUgwWHhnbmhPNHhRcWZyaU4wLWc1Rjg4czNiUkN4RzJLVGVpYi1URnZSY3JIWjY5Z0JIMGhxTHZVV2V0Z3Npc2VYLWpiMmx4eUZTZUx5RmtTblRuTzV4TER0clZ0dkJFOUJnbm9rQ2ptS2YxWHUyOVBSRGJWUzY5UTU?oc=5",
+      "summary": "Tesla officially recalls 20,349 Model 3 and Model Y over headlight issue driveteslacanada.ca",
+      "source": "driveteslacanada.ca",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-12T10:44:49+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Toyota recalls over 655,000 Camry vehicles over turn signal fault",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UX2Q3RFBpQW1jQjBwTllqbGwtU0RlZFo0VDdWeTZDcW1zSG9jUzdLSllfZF8xbG0zY1ljV0c0UGZkSjdkX1BmUU4xczNkQ2VIYmxyZWQybUYzSTh5YUJDdTZudGlzcTAtMDZmcmk4MkpaclRUYUx5aDg1M1RUUQ?oc=5",
-      "summary": "Toyota recalls over 655,000 Camry vehicles over turn signal fault just-auto.com",
-      "source": "구글뉴스-NHTSA",
+      "summary": "Toyota recalls over 655,000 Camry vehicles over turn signal fault Just Auto",
+      "source": "Just Auto",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T10:30:21+00:00",
@@ -1404,12 +1414,22 @@
     {
       "title": "[올댓차이나] 7월 中 신차 258만대 판매·0.3%↓…“수출 2개월 연속 100만대 돌파”",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QQXZndjRhYUw4Yl90Z3ppbDc2UmR3X0s2Zmd4TTRycTkxLVJUbGt2Zlc3SEpVV3hYNnlSemx3VjN4aXYyWU5FUHF5a0dMSVBYeWkzbl9VZDhpNVAwN2pVcNIBeEFVX3lxTE1LbUI3VFVEazBRQlBLdG5EM1JNeTVKbnZmSk9MckM2SmpoczVXdmUzaHhBemk0a1EtbzlkOEswdjFnaV9lNS1nalJZLTR2XzVabkMxdnpOdVoxOGZuX0lONGw2dlo0VC1TSWFCeU85d0V1VkUxeVpwWA?oc=5",
-      "summary": "[올댓차이나] 7월 中 신차 258만대 판매·0.3%↓…“수출 2개월 연속 100만대 돌파” 뉴시스",
-      "source": "뉴시스",
+      "summary": "[올댓차이나] 7월 中 신차 258만대 판매·0.3%↓…“수출 2개월 연속 100만대 돌파” newsis.com",
+      "source": "newsis.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T08:24:50+00:00",
       "byd_ev": false
+    },
+    {
+      "title": "테슬라 모델 Y, 전조등 밝기 2배 '눈뽕' 결함... 업데이트로 안되는 리콜",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qSFRRTGxuYnQzTDR4cGpKWG1SSXB5Q0ZfQjVMdlJCNi1TM0tSX3JFS3JWcXRvajJzOHVrZngybXJkbTRRRXFTZTBGam5QT0wxUVNVYTk1Q0hNU2NsSU1JS3V6V29KM2pELUZ4eDRMdGgwZw?oc=5",
+      "summary": "테슬라 모델 Y, 전조등 밝기 2배 '눈뽕' 결함... 업데이트로 안되는 리콜 다나와 자동차",
+      "source": "다나와 자동차",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-12T08:21:21+00:00",
+      "byd_ev": true
     },
     {
       "title": "Tesla recalls 20,000 EVs over headlight glare",
@@ -1532,6 +1552,16 @@
       "byd_ev": false
     },
     {
+      "title": "Rivian Expands R1S and R1T Recall Over Faulty Turn Signals",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdktSUGNRN2VGbEpXNERhTUtVVUJTWF9kcEhpMkNjRVF0MFJnYUN6X25ScEpFY1JQeEUwZHB5V2tkYVJJd0pVMFBrSGppQUVHdWdITk9kaGFOYlB0a0YzdGlsV1pTRTFGWk16Mm1sMDNRR2hoUTdmdGtjSkZhc2wyRUhKTTNpbzU2?oc=5",
+      "summary": "Rivian Expands R1S and R1T Recall Over Faulty Turn Signals driveteslacanada.ca",
+      "source": "driveteslacanada.ca",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-11T20:44:43+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "Tesla Stock Rises Despite 20,349-Vehicle Headlight Recall",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHg0SmtCa0lvdzVFUzB5dkdJemtOVW91b0hHTTRWRWRMRDN3T2Y2MkRlU1g4aXFZZ1V5RGRRZllUazI1QUw2UFlvYndITTVnMGZTMXltUmdnSnJ6eVlDbFN1dTN4Z25Bc3E4RjB3WlgxUTRLczdLRG84Qjg4VEpqVnVSQTBwMV9aZm9rTFhRalpKYzNVVEN0SXgxdnhObFBoOFpVWlk3XzBUT0Y1MGRjYnAzSHpTZGQ2?oc=5",
       "summary": "Tesla Stock Rises Despite 20,349-Vehicle Headlight Recall TradingView",
@@ -1564,8 +1594,8 @@
     {
       "title": "How car recalls get reported",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnVIYnJkMVFwaXctb2lpSW9aYjBqVkxCT3d3azlpMnJyYW4wZjJzeGptVkoxSmpHYndqNEE5akM0RXRMLURoN212WVpLMEFmMFZLNlVWYWt2RUxqMng2MHpjSzg5MF9ZWFA1MEZtbGExdjAydUxVdnFqMVFlUlFBTlFWNXNOOVN6OHBNNks2YlpSMURLYXYwMU01WFdtUdIBowFBVV95cUxPVDJzX1FfdnVRV1dFeDVpMDRLVWs5Q2g0QnJwNlk4Z010eXRVbFY5Szc3RjRYaW5wUV9DbGhjcFpYMTMzWVoxaDQ3RnA0RUtkMV9aaGV0cjBaeHVfb2FFeklqLTB3QTZBTE5KSm1xandSQjk2WnRyRWQ2Y2tLY20xNWwtTlM4OV8xdWVtWU5TbDZIMVdnWjY0dUV0cDF6R0hCem53?oc=5",
-      "summary": "How car recalls get reported fox6now.com",
-      "source": "fox6now.com",
+      "summary": "How car recalls get reported FOX6 News Milwaukee",
+      "source": "FOX6 News Milwaukee",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-11T18:27:39+00:00",
@@ -1584,8 +1614,8 @@
     {
       "title": "Tesla Issues Physical Recall for 20,349 Model 3 and Model Y Vehicles Over Headlights",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnFSQklaakl0LWNCTTFNelN5S3VaN2luUFBwQzF1ZXd0SEhnRlBwSkE0QlU5Y2hVcjRmRmFQR0REZ215Tkx1aGhSeEdfWWVSSHVrcWhGVVI3YWxtUzhlcF9tNzRlY0E5ZkZFVVJ1VEFJZmxjVWNYZkNBTVRxdHRDOHZ6aU5hVGlNTjg5THlyV3FBaVN2THJYTzliak9KLXc3bHM3dktLUFJ4OXdxTldkOGRXdzhTRFo5akRjclRnSQ?oc=5",
-      "summary": "Tesla Issues Physical Recall for 20,349 Model 3 and Model Y Vehicles Over Headlights Not a Tesla App",
-      "source": "Not a Tesla App",
+      "summary": "Tesla Issues Physical Recall for 20,349 Model 3 and Model Y Vehicles Over Headlights notateslaapp.com",
+      "source": "notateslaapp.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-11T18:18:00+00:00",
@@ -1634,22 +1664,12 @@
     {
       "title": "Toyota Recalls 508,354 Camrys over Blank Digital Gauge Display",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlBKUmVuNEZaX0sxMjd1R3NKSGd5SmVSX00wbGJDUV9fcDExZUtBRXNzOUQ5YUVMbWRKb19WczM4NHIyVGRlNlVtUlZfcUZodF9teXNtRXI1eTh1MWx1Ri1lTmRoSmFMcng0YV9FRGhjVnlGS1M2d1V0UklVeXYwRjdxT1pOVm9ENEFVc2c5U0dXbFRKUnY4M0RDOVYwTlJ6?oc=5",
-      "summary": "Toyota Recalls 508,354 Camrys over Blank Digital Gauge Display Car and Driver",
-      "source": "Car and Driver",
+      "summary": "Toyota Recalls 508,354 Camrys over Blank Digital Gauge Display caranddriver.com",
+      "source": "caranddriver.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-11T15:31:41+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "Tesla officially recalls 20,349 Model 3 and Model Y over headlight issue",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3QySEt4dWwzNmo1T1pqeUgwWHhnbmhPNHhRcWZyaU4wLWc1Rjg4czNiUkN4RzJLVGVpYi1URnZSY3JIWjY5Z0JIMGhxTHZVV2V0Z3Npc2VYLWpiMmx4eUZTZUx5RmtTblRuTzV4TER0clZ0dkJFOUJnbm9rQ2ptS2YxWHUyOVBSRGJWUzY5UTU?oc=5",
-      "summary": "Tesla officially recalls 20,349 Model 3 and Model Y over headlight issue driveteslacanada.ca",
-      "source": "driveteslacanada.ca",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-11T14:59:27+00:00",
-      "byd_ev": true
     },
     {
       "title": "Tesla recalls 20K vehicles for headlight issue. See models",
@@ -1722,13 +1742,13 @@
       "byd_ev": true
     },
     {
-      "title": "현대차를 깨운 기아의 반란…'집안싸움'이 자동차 산업 경쟁력 키운다[박동흠의 생활 속 회계이야기]",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4NER4TmJaQ2gxTHMxNEduN0RmYmdpTDFUMUNNUnAzZzJVdXhIYlNvLXctTDVraFdnbEZfMmQycTBPUTcyaDRieG1kLVh4aGNyT2sw?oc=5",
-      "summary": "현대차를 깨운 기아의 반란…'집안싸움'이 자동차 산업 경쟁력 키운다[박동흠의 생활 속 회계이야기] 네이트",
-      "source": "네이트",
+      "title": "현대차를 깨운 기아의 반란…‘집안싸움’이 자동차 산업 경쟁력 키운다[박동흠의 생활 속 회계이야기]",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rbFBGRHdNVUhqektselZHdkZKWWZuc0Nickl1aGJSZTBlUkFWdTlpQW1mTEFNNkxlbWlLLWZTWGxIWm1iVjluS0VZcw?oc=5",
+      "summary": "현대차를 깨운 기아의 반란…‘집안싸움’이 자동차 산업 경쟁력 키운다[박동흠의 생활 속 회계이야기] v.daum.net",
+      "source": "v.daum.net",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-11T11:31:00+00:00",
+      "published": "2026-08-11T11:32:00+00:00",
       "byd_ev": false
     },
     {
@@ -1790,31 +1810,91 @@
       "category": "official",
       "published": "2026-08-11T07:00:00+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "국토교통부, 졸리면 '여기'로 들어가세요! 졸음쉼터 100% 활용법",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DblVzSXVYSGo1UUVRT2VsY3QyZTRxMEo4RHQ2Q1k1LVdxenVvVloxcEh3elZHQVJ2UEpQX21qdEkzYnJ6cDVZ?oc=5",
-      "summary": "국토교통부, 졸리면 '여기'로 들어가세요! 졸음쉼터 100% 활용법 정필",
-      "source": "정필",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-11T06:56:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "美 ‘빅3’가 HEV 키울 때 현대차그룹은 이미 생산했다… ‘4.37만대’ 만든 시간차",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6a2Y2REdWY0s5d1V2ZlJaSXZVeC1saTNIVHZYcEZRZXdSRU5FZGwtWGpuanlPUmFWQWVwN1BpV29KckdaU2dUQVVNUm1RRndGOUg2UWUzejRfR2tfa1NZTDYxaFQzRUN6R21CZFZ3?oc=5",
-      "summary": "美 ‘빅3’가 HEV 키울 때 현대차그룹은 이미 생산했다… ‘4.37만대’ 만든 시간차 S저널",
-      "source": "S저널",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-11T04:51:49+00:00",
-      "byd_ev": true
     }
   ],
   "byd_ev": [
     {
-      "title": "EV sales, oil costs and temperatures are spiking. So UK govt pushes… more gas?",
+      "title": "[청라 전기차 화재 2년]③ AI가 열·연기 감지하면 바닥서 물줄기… 화재 대응도 ‘자동화’ - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGpwS2gxaHRzR3pORDM3bXdRZmFVczlQRjhmNG9YVEVxcWhndE1aSDI1UGpSckhScTVwbUJPaWg1ZWc3SlBCZUNGc0tQdDJTbk5XR3doS3loOXhlWk96dlVBZmtTcHFoRWZaVU50bVJzLTlVTmd0MWtPZ09DMVBuWGpUSGZwbUlIb0V0MHdRLTJFdFZEWTZHRtIBrAFBVV95cUxNdXc5OV9VZjhuVEVHYWNleFg4UTZMTlFacGN5aElBYTMzbGpfMnk5bkhJYndaVlY3SXc2V2RHWlFUQWEzVmJ0Vjh0WE9hZWt3V1AzcXE3bUdhR1dRdlZ5S0xxVVVaRkoyMjRVR3g3ZU5yengyRnh5MlZLZjNROTJvUlRJQWdzZWN2c0J1Q2xYckFEc2t4QWUtYWt1MTNfVFcxejJKQzlnQk92cDNh?oc=5",
+      "summary": "[청라 전기차 화재 2년]③ AI가 열·연기 감지하면 바닥서 물줄기… 화재 대응도 ‘자동화’ - 조선비즈 Chosunbiz",
+      "source": "Chosunbiz",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T21:06:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘한국판 IRA’ 세액공제서 전기차 빠지자 배터리도 한숨… “中에 안방 내주면 우리도 타격” - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjhDYW1CQ2xXSXh5OEJUX2E1aVpQa2hoQk1BZk1uM1NiZURzQllCS0J4di1iclZfc1hyUGVZTm1JZW1SanhNUnQ1TUNPMjJmNWZtQlh3Wk1pdVJtVG5ueEV3Ry1JazlHdm8tMkdrdmpfRWpneEVNMjVtMHFUN0NqX2ItZzHSAZgBQVVfeXFMT3R1U2VEUWdjUDJSYjVJZXN6aXp2X2VmUzBRMnJSc0NhRTdEN1ZsVzYxLTUxQmc4MHdiT3VGdUZLS3M1cVFHWUNWVWYxNnNKbTM4RHljVkpPdUxDMUV1MlI4aDlHbjE5VEJvbV81Wk1NVDNIcFhZWDNMRHBsRGxwMVB4ZDJQeE4zLVFmVk43XzRpaWNWLXBmaG0?oc=5",
+      "summary": "‘한국판 IRA’ 세액공제서 전기차 빠지자 배터리도 한숨… “中에 안방 내주면 우리도 타격” - 조선비즈 Chosunbiz",
+      "source": "Chosunbiz",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T21:02:39+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘국내생산’ 외치면서 전기차는 왜 빼나[기자수첩] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQVEzWG02Vlk4eVR0Y1BWNEcydW96NTRKLTR3RHhCUG5MNDl0QkV6eWE3cGNranJ2dXZrclgxVy0wOExwX2stNXdEckpRWUlralVPTGtfZGI1d3dFWFdaNEU3MGtBblFveTQ0LdIBckFVX3lxTE5MSThvbnFGaUNaeV96WjhReG9oR2JxVEhZVkRiRWVxOU5mbGlmVHI1YW9wLTBvNDl2bDUwYWtEdU9OdlVJN3AxWWNNbXQ2cWNvcEtfY2hUYzdCTGNlZ0lwdGNESG9sRWp3dXlRbkFNZ1ROQQ?oc=5",
+      "summary": "‘국내생산’ 외치면서 전기차는 왜 빼나[기자수첩] - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T20:50:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "'국내생산' 외치면서 전기차는 왜 빼나[기자수첩]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12WmlRazFaM1JhbFNndzduelFDSFB6ZmpESE5qY2JCd0JRaklPWjdVR2w5bnZLYUpsNi1iTkIyRWlYVDNpRTI3WndYYW5lc3FDNDVZ?oc=5",
+      "summary": "'국내생산' 외치면서 전기차는 왜 빼나[기자수첩] 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T20:50:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "기아 EV2 출시 3개월 만에 8000대 판매…유럽 소형 전기차 시장서 '존재감'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16dlQxdXJqS2xRcEQycTh6UElZMjZzeWVyTUd3dWl2MFRza3VKNHJVX2JrMW9wU1BIMEsydVZXSlVkdHAwN1ZIQllrVXJkN21Rc09xWGFTOU82bjNmbXotWg?oc=5",
+      "summary": "기아 EV2 출시 3개월 만에 8000대 판매…유럽 소형 전기차 시장서 '존재감' newsis.com",
+      "source": "newsis.com",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T20:30:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "세종시, 전기차 201대 추가 보급…18억원 투입",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBISW1CRF9wMHNuSXE5c0x1VUxxbURqR2VJZWRZcGhhNDhTU05Ua3p6clFiRUI0a0tmVlliZ1MzcW1URDhsMVdoRFYwN3lwcWRqUjZHbVo5VVdTVzFIQTU5TklwZW5YVFM5LVJpMTNUaw?oc=5",
+      "summary": "세종시, 전기차 201대 추가 보급…18억원 투입 naewoeilbo.com",
+      "source": "naewoeilbo.com",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T20:15:51+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Tesla plans massive new V4 Supercharger in San Francisco",
+      "link": "https://electrek.co/2026/08/12/tesla-124-stall-v4-supercharger-san-francisco/",
+      "summary": "Tesla wants to build one of its biggest Superchargers yet right in the middle of San Francisco. Planning permits have been filed for a 124-s…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-12T19:28:14+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "US EV prices are going back up as discounts shrink",
+      "link": "https://electrek.co/2026/08/12/us-ev-prices-are-going-back-up-as-discounts-shrink/",
+      "summary": "After six straight months of year-over-year declines, the average transaction price (ATP) paid for a new EV in the US is rising again.",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-12T19:10:18+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "As EV sales, oil costs and temperatures spike, UK gov’t considers… fewer EVs?",
       "link": "https://electrek.co/2026/08/12/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/",
       "summary": "The UK government is considering relaxing its landmark electric vehicle rules, even in the face of inflated oil prices, a recordbreaking yea…",
       "source": "Electrek",
@@ -1856,8 +1936,8 @@
     {
       "title": "Does Your Tesla Have a Recall? Here’s How to Find Out",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckpuTG10Y0NwTFJJMzVsQ1V1Ti1uelpwbktPcVl4VVJnSDZkR3hFaXRTNllab2ZFeEhPdDdyNVZZNXgxSVR4U2s0N1VlMFRnQU1XRXhGVlFnSjlJNDdfLVJ5eldzaVQyaHRoaHRGRU1abVJrRG9tdThFa3ZFR3hXRzA4S2lWMFUwUFhXMVlWSkxpdUtD?oc=5",
-      "summary": "Does Your Tesla Have a Recall? Here’s How to Find Out Not a Tesla App",
-      "source": "Not a Tesla App",
+      "summary": "Does Your Tesla Have a Recall? Here’s How to Find Out notateslaapp.com",
+      "source": "notateslaapp.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T16:48:00+00:00",
@@ -1880,7 +1960,7 @@
       "source": "뉴스케이",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-08-12T16:27:11+00:00",
+      "published": "2026-08-12T16:25:13+00:00",
       "byd_ev": true
     },
     {
@@ -1894,10 +1974,10 @@
       "byd_ev": true
     },
     {
-      "title": "테슬라, ‘너무 밝은’ 전조등에 2만대 리콜 - g-enews.com",
+      "title": "테슬라, ‘너무 밝은’ 전조등에 2만대 리콜",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVd4VTEtN0xfSVZEb2MzWFppUkcyeE16QzVKNFN6N1htRnZJOUpTWjFkbHp5M0t5aHVRUzlvYlFqcEVHTGRqUFFOcDhKZWJnY0FmMDliVFNXMm43RFdQa1l1bFVMUEVHTFpRSURodGFpTjdLeEh3NjRFUzcwVHhlOWRRWUFsSG81?oc=5",
-      "summary": "테슬라, ‘너무 밝은’ 전조등에 2만대 리콜 g-enews.com",
-      "source": "구글뉴스-리콜",
+      "summary": "테슬라, ‘너무 밝은’ 전조등에 2만대 리콜 글로벌이코노믹",
+      "source": "글로벌이코노믹",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T16:00:00+00:00",
@@ -1984,16 +2064,6 @@
       "byd_ev": true
     },
     {
-      "title": "배터리 연구원에서 세계 자동차산업의 승부사로…BYD 왕촨푸",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mT0ItV0Q0RUJod0Zfb1VxRUN5dDRuTS1HVEpBQlNNd21TcjI2bU1oeFpDa1c1U29vMWpzVmxGOE5NVkZsUG9tcWZVS3F4aVBXVHc?oc=5",
-      "summary": "배터리 연구원에서 세계 자동차산업의 승부사로…BYD 왕촨푸 유스연합",
-      "source": "유스연합",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T14:16:29+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "테슬라, 스타링크 안테나 탑재된 사이버캡 실물 공개",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNGRCSWVuN3BlX2dTYXhoMUl3YktWWmxCNWxtdHFkcEx0SGRRMVUtRk1mdW9WZTIyLS1fOVhUNnZSZEJPMkdNTFpyamdUMUhKUHVZVnFOWGwzM3lZRHQ5dHc2TGREN0Z3alNDa2RyeHFsdw?oc=5",
       "summary": "테슬라, 스타링크 안테나 탑재된 사이버캡 실물 공개 다나와 자동차",
@@ -2001,16 +2071,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T14:10:12+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Rivian Expands R1S and R1T Recall Over Faulty Turn Signals",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdktSUGNRN2VGbEpXNERhTUtVVUJTWF9kcEhpMkNjRVF0MFJnYUN6X25ScEpFY1JQeEUwZHB5V2tkYVJJd0pVMFBrSGppQUVHdWdITk9kaGFOYlB0a0YzdGlsV1pTRTFGWk16Mm1sMDNRR2hoUTdmdGtjSkZhc2wyRUhKTTNpbzU2?oc=5",
-      "summary": "Rivian Expands R1S and R1T Recall Over Faulty Turn Signals driveteslacanada.ca",
-      "source": "driveteslacanada.ca",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-12T14:04:40+00:00",
       "byd_ev": true
     },
     {
@@ -2024,9 +2084,9 @@
       "byd_ev": true
     },
     {
-      "title": "Tesla Recalls 20,000 Cars Due to Overly Bright Headlights - Root-Nation.com",
+      "title": "Blinding defect: Tesla forced to recall 20,000 electric cars due to excessively bright headlights - Root-Nation.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmxtS1VmTmR5TDVaaTFBZmlTWGJyUWxWTW5sOVhnclhHanNRODQ4N2NBeGQ3QzUzRHpFU2FJNjF0aU9NUWN5bUtpR2JlOFRHVVJyN0xXU0ZVREliSFhyQXZSTkRReTAxOFFUNVlIZk53YWZ2REJXZ0FUamdpWEp0bGtoVEFORkdQ?oc=5",
-      "summary": "Tesla Recalls 20,000 Cars Due to Overly Bright Headlights Root-Nation.com",
+      "summary": "Blinding defect: Tesla forced to recall 20,000 electric cars due to excessively bright headlights Root-Nation.com",
       "source": "구글뉴스-NHTSA",
       "domain": "news.google.com",
       "category": "official",
@@ -2154,6 +2214,26 @@
       "byd_ev": true
     },
     {
+      "title": "Tesla officially recalls 20,349 Model 3 and Model Y over headlight issue",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3QySEt4dWwzNmo1T1pqeUgwWHhnbmhPNHhRcWZyaU4wLWc1Rjg4czNiUkN4RzJLVGVpYi1URnZSY3JIWjY5Z0JIMGhxTHZVV2V0Z3Npc2VYLWpiMmx4eUZTZUx5RmtTblRuTzV4TER0clZ0dkJFOUJnbm9rQ2ptS2YxWHUyOVBSRGJWUzY5UTU?oc=5",
+      "summary": "Tesla officially recalls 20,349 Model 3 and Model Y over headlight issue driveteslacanada.ca",
+      "source": "driveteslacanada.ca",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-12T10:44:49+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "인천공항 의자 점령에 전기차 노숙까지…시민단체 \"일방적 내쫓기\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbHdJQ2RFZ3BERk1JQjVqVkR4ZjFBeGFWYl9VSkd4Z1V0WFd3aXZuVk5hMVZqUVFkRWFKblRRNW5vcFF5RWRQTDByYVVWVTg?oc=5",
+      "summary": "인천공항 의자 점령에 전기차 노숙까지…시민단체 \"일방적 내쫓기\" v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-12T10:35:54+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "KTL, 중국 전기차 인증시장 공략 지원",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OdlRlRGxEMXlJZklmT1UwdldRR2dfY3drSVpRM2pmV2Jxd1FXMEEzOUZRRThvUkxpYkV2Q3FrMmtyUkNVUkNab2xaTFRtSjBLZUc5ek5rU3lqZy1Sd3lSaWRLVFFKNW16S09j?oc=5",
       "summary": "KTL, 중국 전기차 인증시장 공략 지원 경남일보",
@@ -2176,8 +2256,8 @@
     {
       "title": "신차 3대 중 1대가 전기차?",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWpUU2g2TDRReWNjaU04dVdsVDRLeGFDa0JxZlNPYndPUDJaOW9QOFpXQ0VGYU5lYVJnakotOUxMdFRMNEl0cXlZb3Vsel83aWtzZkotandTbFhWSmsyQ3BXTGQ2cFRHdFZfOVhqdlVSa2U3UUIya2g3d0ZSOTJTM0ZQdlEtQkw5a3M4MXFyUEVWd0JvV1V4TzZyUXViYXpsel9zREZobUpZZHpYWk9NRE53OGJBVnprM25NZV9EQQ?oc=5",
-      "summary": "신차 3대 중 1대가 전기차? 위클리코리아",
-      "source": "위클리코리아",
+      "summary": "신차 3대 중 1대가 전기차? weeklykoreanz.com",
+      "source": "weeklykoreanz.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T09:32:44+00:00",
@@ -2314,16 +2394,6 @@
       "byd_ev": true
     },
     {
-      "title": "전기차 평균 가격, 하이브리드 첫 역전… 중국발 저가 공세에 일본계 비상",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9neWFYRVNrMy1oeWlQcjdidHBNNEsxdEpBN281QW1NRXc4MjV3QnV6YVlISDVqLVFUMWUzNzBsSkUtTENNRkRVS2ZNT2lvRWgybnRNTUFJRGVUc00xNnY1SlJOMUhzUmpzSnl1UUdwR2VnQQ?oc=5",
-      "summary": "전기차 평균 가격, 하이브리드 첫 역전… 중국발 저가 공세에 일본계 비상 다나와 자동차",
-      "source": "다나와 자동차",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T08:22:37+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "스마트, 포투 계보 잇는 2인승 도심형 전기차 '#2' 공개",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CczhhTTAzVl95WHFqMHBGNmRsV1IyMkl0UE1pZ19nQ1ZiV3RuZWZ4ck9lMzRwTWFwdG9lTXR3XzlkY2Q0dFVBVlMxNlM0aW1lOV9oNGZiY0RrcFpucEJHVVljM2xaaVdQTVB3?oc=5",
       "summary": "스마트, 포투 계보 잇는 2인승 도심형 전기차 '#2' 공개 다나와 자동차",
@@ -2341,76 +2411,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-12T08:21:21+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "제주도, 전기차 하반기 보조금 신청 조기 마감",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RaTA5R2Z0cTRadEk2ZWZ6bWJIVmRwRG85aURaWDh3Z3BURU5NVm8xNEs4MXFrSk9XS2NqOVdrLU5sWkt5YldlNktqM0MtLTdrZjFUSG81OUpubUYxdFhXQUZZNkxWMkhJ?oc=5",
-      "summary": "제주도, 전기차 하반기 보조금 신청 조기 마감 제주환경일보",
-      "source": "제주환경일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T08:17:18+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "[영상] 전기차 보조금 순식간에 소진.. 14일 안 출고 못 하면 취소?",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CZGtIR0oxSkw3LVpqR2YyM21kNXFobERsTFBLMGIxREJhR050YW1YTVlxbFRNTldWUVdINVZobW9GTGFMejUzc0JwRXUxcGtpQXJBV29lOFdmSjRQSkRjc3ducDJRR2Vs?oc=5",
-      "summary": "[영상] 전기차 보조금 순식간에 소진.. 14일 안 출고 못 하면 취소? 한라일보",
-      "source": "한라일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T08:16:27+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla recalls 20,000 EVs over headlight glare",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXY1bXpyVngwNkRhMDBwU0lQdGZIb3EyX1VGTE0zSFFvd3dqYkNGZUhlUGI3Ny16blc3V0tEa2lxaFpIcG9vOXc0RU8xc09DTEpuenM1VDB3N3MzblcxSnJQLXVJOXRFdTRxbGhkRVNRY1lIYmxOMTc2aWxwQ284ZURFYlM0MDdyNGc?oc=5",
-      "summary": "Tesla recalls 20,000 EVs over headlight glare electrive.com",
-      "source": "electrive.com",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-12T08:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "[기획] 믿었던 HEV마저…내수 포위망 갇힌 현대차",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IZTk4Z0pJem5VVlUzREhDYTlhcXd3bFdFaDZ0WTF5Ujg3WXhaMEg3NG43OVl0U1FVd2JSdVdVbE1WT05GYmpGOUZMa29ubkNDU2lZbnQ3eVhKZ3RMQ013ZUNIOEhKb3RRN0hwc9IBcEFVX3lxTFBER3BDdG5xMW93el9qYV9naVpZbTVVVnlkdDVTM2otZEFOVkV5VVRwX1dZUG9zbGJpNFljOWtGNUMzQ1UtOVA2SG14cnpXN05aNmRDS00yV2xkTFc0MjM2S3pRVDN2RTRUaThXb2pOZFA?oc=5",
-      "summary": "[기획] 믿었던 HEV마저…내수 포위망 갇힌 현대차 소년한국일보",
-      "source": "소년한국일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T07:57:09+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "도, 전기차 하반기 보조금 신청 조기 마감",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJSGtQMktyN3JwNXd4VG1fdExnNEhjQmZ5Z0VMeVdMTGdmOUZrdjViU3dIdkp4bU1nZ3lnV3ZXY0lpV2Jfd0hBdVNndG9Ndk9TdjlMeUJIVzZkeDl4RElTZWF3azhQcTQ1VjVtNA?oc=5",
-      "summary": "도, 전기차 하반기 보조금 신청 조기 마감 제주매일",
-      "source": "제주매일",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T07:52:44+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "KTL, 중국품질인증센터와 전기차 배터리·충전설비 인증 협력",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LSEZETmdOaGVudUFQRjZuUjZ2WllWZDk4NWh2U0UydlNhYU8xdFBDRnU4ejJtd2ItU0VjLXliRDdBWjhySWFuSE1MT1JHdEppelhLZHd0emR3QnPSAWBBVV95cUxOTFczSE5kcF9PS0RmeDBzTmo5NWdjZmtZZ244eEYzc2dtV3dmSWR2aXlvcjVFS0toQVlwUEtCQi1aZXQyZm5LUWoybENBMmNLeW1PYU9mMm15WnNOeTFJT18?oc=5",
-      "summary": "KTL, 중국품질인증센터와 전기차 배터리·충전설비 인증 협력 연합뉴스",
-      "source": "연합뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-12T07:49:59+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "EVgo And GM's Gas Station-Like Flagship Charging Network Is Growing Fast",
-      "link": "https://insideevs.com/news/804596/evgo-gm-flagship-ev-charging-stations-update/",
-      "summary": "The latest station opened in metropolitan Detroit with pull-through 350 kW stalls, an overhead canopy, and access to amenities.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-08-12T07:45:32+00:00",
       "byd_ev": true
     }
   ]
