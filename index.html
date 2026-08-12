@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>오토그리드 · 국내·해외 자동차 뉴스 실시간 모음 | BYD·전기차 특집</title>
+<meta name="description" content="국내외 자동차 뉴스, BYD·전기차 이슈를 한 곳에서. 매체별 원문 링크와 함께 실시간으로 업데이트되는 자동차 뉴스 큐레이션.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22%2312151a%22/><text x=%2250%22 y=%2266%22 font-size=%2258%22 text-anchor=%22middle%22 fill=%22%2335e08a%22 font-family=%22sans-serif%22 font-weight=%22900%22>G</text></svg>">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<!-- ================================================================
+  AdSense 안내
+  1) Google AdSense 승인을 받은 후 아래 client 값을 본인의 ca-pub-XXXXXXXXXXXXXXXX 로 교체하세요.
+  2) 승인 전에는 비워두면 광고 스크립트가 로드되지 않고 자리표시자만 조용히 숨겨집니다.
+================================================================= -->
+<script>window.ADSENSE_CLIENT = ""; /* 예: "ca-pub-1234567890123456" */</script>
+<style>
+  :root{
+    --bg:#0f1216;
+    --surface:#171b21;
+    --surface-2:#1e242c;
+    --border:#2a323d;
+    --text:#eef1f5;
+    --muted:#8b93a3;
+    --domestic:#2f7dfa;
+    --intl:#ffb443;
+    --official:#b98cff;
+    --byd:#35e08a;
+    --led:#39ff8f;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Pretendard',-apple-system,BlinkMacSystemFont,sans-serif;
+    line-height:1.5;
+  }
+  .mono{font-family:'JetBrains Mono',ui-monospace,monospace;}
+  a{color:inherit;}
+
+  /* ---------- 헤더 ---------- */
+  header.site{
+    position:sticky; top:0; z-index:50;
+    background:rgba(15,18,22,0.92);
+    backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--border);
+  }
+  .brand-row{
+    max-width:1100px; margin:0 auto;
+    display:flex; align-items:center; justify-content:space-between;
+    padding:14px 16px 8px;
+  }
+  .brand{
+    display:flex; align-items:center; gap:10px;
+    font-weight:900; font-size:20px; letter-spacing:-0.02em;
+  }
+  .brand .dot{width:10px;height:10px;border-radius:50%;background:var(--led);
+    box-shadow:0 0 8px var(--led), 0 0 2px var(--led); animation:pulse 1.6s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.35;}}
+  .brand small{color:var(--muted); font-weight:500; font-size:12px;}
+  .updated{font-size:11px; color:var(--muted);}
+
+  /* ---------- 전광판 티커 (시그니처 요소: 고속도로 VMS 스타일) ---------- */
+  .vms{
+    background:#050705;
+    border-top:1px solid #10140f; border-bottom:1px solid #10140f;
+    overflow:hidden; position:relative; height:38px; display:flex; align-items:center;
+  }
+  .vms::before{
+    content:"BYD·EV 속보"; flex:0 0 auto;
+    font-family:'JetBrains Mono',monospace; font-weight:700; font-size:12px;
+    color:#04170c; background:var(--led); padding:0 14px; height:100%;
+    display:flex; align-items:center; letter-spacing:0.04em;
+    box-shadow:0 0 14px rgba(57,255,143,0.5);
+  }
+  .vms:hover .vms-track{animation-play-state:paused;}
+  .vms-track{
+    display:flex; white-space:nowrap; animation:scroll-left 70s linear infinite;
+    padding-left:100%;
+  }
+  .vms-track span{
+    font-family:'JetBrains Mono',monospace; color:var(--led);
+    text-shadow:0 0 6px rgba(57,255,143,0.65);
+    font-size:13px; padding-right:56px; letter-spacing:0.01em;
+  }
+  @keyframes scroll-left{ from{transform:translateX(0);} to{transform:translateX(-100%);} }
+
+  /* ---------- 탭 ---------- */
+  nav.tabs{max-width:1100px; margin:0 auto; padding:12px 16px 0; display:flex; gap:8px; overflow-x:auto;}
+  .tab-btn{
+    font-family:'JetBrains Mono',monospace; font-size:12px; font-weight:700;
+    padding:9px 14px; border-radius:999px; border:1px solid var(--border);
+    background:var(--surface); color:var(--muted); cursor:pointer; white-space:nowrap;
+    display:flex; align-items:center; gap:6px; transition:all .15s ease;
+  }
+  .tab-btn .n{opacity:.6; font-weight:500;}
+  .tab-btn.active{color:var(--bg); border-color:transparent;}
+  .tab-btn[data-tab="all"].active{background:#c7ccd4;}
+  .tab-btn[data-tab="domestic"].active{background:var(--domestic); color:#fff;}
+  .tab-btn[data-tab="international"].active{background:var(--intl); color:#241600;}
+  .tab-btn[data-tab="official"].active{background:var(--official); color:#1c0f33;}
+  .tab-btn[data-tab="byd_ev"].active{background:var(--byd); color:#04170c;}
+
+  main{max-width:1100px; margin:0 auto; padding:18px 16px 60px;}
+
+  /* ---------- 광고 슬롯 ---------- */
+  .ad-slot{
+    margin:20px 0; min-height:0; text-align:center;
+  }
+  .ad-slot .ad-label{
+    font-family:'JetBrains Mono',monospace; font-size:10px; color:var(--muted);
+    letter-spacing:.08em; margin-bottom:6px; text-transform:uppercase;
+  }
+
+  /* ---------- 카드 그리드 ---------- */
+  .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:14px; margin-top:16px;}
+  .card{
+    background:var(--surface); border:1px solid var(--border); border-left:3px solid var(--border);
+    border-radius:10px; padding:14px 16px; display:flex; flex-direction:column; gap:8px;
+    text-decoration:none; transition:transform .15s ease, border-color .15s ease;
+  }
+  .card:hover{transform:translateY(-2px); border-color:#3a4453;}
+  .card.cat-domestic{border-left-color:var(--domestic);}
+  .card.cat-international{border-left-color:var(--intl);}
+  .card.cat-official{border-left-color:var(--official);}
+  .card-meta{display:flex; align-items:center; justify-content:space-between; gap:8px;}
+  .badge{
+    font-family:'JetBrains Mono',monospace; font-size:10px; font-weight:700; padding:2px 8px;
+    border-radius:4px; letter-spacing:.04em; white-space:nowrap;
+  }
+  .badge.domestic{background:rgba(47,125,250,0.15); color:var(--domestic);}
+  .badge.international{background:rgba(255,180,67,0.15); color:var(--intl);}
+  .badge.official{background:rgba(185,140,255,0.15); color:var(--official);}
+  .badge.byd{background:rgba(53,224,138,0.15); color:var(--byd); margin-left:6px;}
+  .card-time{font-family:'JetBrains Mono',monospace; font-size:10px; color:var(--muted);}
+  .card h3{margin:0; font-size:15.5px; line-height:1.4; font-weight:700; letter-spacing:-0.01em;}
+  .card p{margin:0; font-size:12.5px; color:var(--muted); line-height:1.5;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;}
+  .card .src{font-size:11px; color:var(--muted); margin-top:2px;}
+  .card .src b{color:#c3c9d3; font-weight:600;}
+
+  .empty{color:var(--muted); font-size:13px; padding:40px 0; text-align:center;}
+
+  footer{border-top:1px solid var(--border); margin-top:40px; padding:26px 16px 60px; color:var(--muted); font-size:12px;}
+  footer .flinks{max-width:1100px; margin:0 auto; display:flex; gap:16px; flex-wrap:wrap;}
+  footer .fcopy{max-width:1100px; margin:14px auto 0; opacity:.7;}
+
+  @media (min-width:760px){
+    .grid{grid-template-columns:repeat(3,1fr);}
+  }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="brand-row">
+    <div class="brand"><span class="dot"></span>오토그리드 <small>AUTOGRID · 실시간 자동차 뉴스 모음</small></div>
+    <div class="updated mono" id="updatedAt">업데이트 확인 중…</div>
+  </div>
+  <div class="vms" aria-label="BYD 및 전기차 속보 전광판">
+    <div class="vms-track" id="vmsTrack"><span>불러오는 중…</span></div>
+  </div>
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="all">전체 <span class="n" id="cnt-all">-</span></button>
+    <button class="tab-btn" data-tab="domestic">국내 <span class="n" id="cnt-domestic">-</span></button>
+    <button class="tab-btn" data-tab="international">해외 <span class="n" id="cnt-international">-</span></button>
+    <button class="tab-btn" data-tab="official">공식·안전정보 <span class="n" id="cnt-official">-</span></button>
+    <button class="tab-btn" data-tab="byd_ev">⚡ BYD·전기차 특집 <span class="n" id="cnt-byd_ev">-</span></button>
+  </nav>
+</header>
+
+<main>
+  <!-- 상단 배너 광고 -->
+  <div class="ad-slot" id="adTop">
+    <div class="ad-label">Sponsored</div>
+    <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  </div>
+
+  <section id="feed" class="grid"></section>
+
+  <!-- 피드 중간 광고 -->
+  <div class="ad-slot" id="adMid">
+    <div class="ad-label">Sponsored</div>
+    <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  </div>
+
+  <section id="feed2" class="grid"></section>
+</main>
+
+<footer>
+  <div class="flinks">
+    <a href="about.html">사이트 소개</a>
+    <a href="sources.html">정보 출처</a>
+    <a href="privacy.html">개인정보처리방침</a>
+    <a href="contact.html">문의하기</a>
+  </div>
+  <div class="fcopy">본 사이트는 각 매체의 제목과 요약, 원문 링크를 안내하는 뉴스 큐레이션 서비스입니다. 모든 저작권은 원 저작권자에게 있으며, 기사 전문은 원문 링크를 통해 확인하실 수 있습니다.</div>
+</footer>
+
+<script>
+  // -------- AdSense 로더 (client id가 채워졌을 때만 스크립트를 삽입) --------
+  (function(){
+    if(window.ADSENSE_CLIENT){
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + window.ADSENSE_CLIENT;
+      s.crossOrigin = 'anonymous';
+      document.head.appendChild(s);
+      document.querySelectorAll('ins.adsbygoogle').forEach(function(el){
+        el.setAttribute('data-ad-client', window.ADSENSE_CLIENT);
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      });
+    } else {
+      document.querySelectorAll('.ad-slot').forEach(function(el){ el.style.display = 'none'; });
+    }
+  })();
+
+  const CATEGORY_LABEL = {domestic:'국내', international:'해외', official:'공식·안전'};
+
+  function timeAgo(iso){
+    const d = new Date(iso);
+    const diffMin = Math.round((Date.now() - d.getTime()) / 60000);
+    if (diffMin < 1) return '방금 전';
+    if (diffMin < 60) return diffMin + '분 전';
+    const diffH = Math.round(diffMin/60);
+    if (diffH < 24) return diffH + '시간 전';
+    const diffD = Math.round(diffH/24);
+    return diffD + '일 전';
+  }
+
+  function cardHTML(item){
+    const catLabel = CATEGORY_LABEL[item.category] || item.category;
+    return `<a class="card cat-${item.category}" href="${item.link}" target="_blank" rel="noopener noreferrer nofollow">
+      <div class="card-meta">
+        <div>
+          <span class="badge ${item.category}">${catLabel}</span>
+          ${item.byd_ev ? '<span class="badge byd">⚡ BYD·EV</span>' : ''}
+        </div>
+        <span class="card-time mono">${timeAgo(item.published)}</span>
+      </div>
+      <h3>${item.title}</h3>
+      <p>${item.summary || ''}</p>
+      <div class="src">${item.source ? '<b>'+item.source+'</b>' : item.domain}</div>
+    </a>`;
+  }
+
+  let DATA = null;
+  let currentTab = 'all';
+
+  function render(){
+    const feed = document.getElementById('feed');
+    const feed2 = document.getElementById('feed2');
+    let items = [];
+    if (!DATA) { feed.innerHTML = '<div class="empty">뉴스를 불러오지 못했습니다. 잠시 후 다시 시도해주세요.</div>'; return; }
+
+    if (currentTab === 'all') {
+      items = [...DATA.domestic, ...DATA.international, ...(DATA.official || [])]
+        .sort((a,b)=> new Date(b.published) - new Date(a.published));
+    } else {
+      items = DATA[currentTab] || [];
+    }
+
+    if (items.length === 0){
+      feed.innerHTML = '<div class="empty">표시할 뉴스가 없습니다.</div>';
+      feed2.innerHTML = '';
+      return;
+    }
+
+    const mid = Math.ceil(items.length/2);
+    feed.innerHTML = items.slice(0, mid).map(cardHTML).join('');
+    feed2.innerHTML = items.slice(mid).map(cardHTML).join('');
+  }
+
+  document.querySelectorAll('.tab-btn').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      currentTab = btn.dataset.tab;
+      render();
+      window.scrollTo({top: document.querySelector('main').offsetTop - 90, behavior:'smooth'});
+    });
+  });
+
+  fetch('data/news.json?t=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      DATA = data;
+      document.getElementById('cnt-all').textContent = data.domestic.length + data.international.length + (data.official ? data.official.length : 0);
+      document.getElementById('cnt-domestic').textContent = data.domestic.length;
+      document.getElementById('cnt-international').textContent = data.international.length;
+      document.getElementById('cnt-official').textContent = data.official ? data.official.length : 0;
+      document.getElementById('cnt-byd_ev').textContent = data.byd_ev.length;
+
+      const updated = new Date(data.generated_at);
+      document.getElementById('updatedAt').textContent = '갱신: ' + updated.toLocaleString('ko-KR', {hour12:false});
+
+      const vms = document.getElementById('vmsTrack');
+      const tickerItems = (data.byd_ev.length ? data.byd_ev : data.domestic).slice(0, 12);
+      vms.innerHTML = tickerItems.map(it => `<span>● ${it.title}</span>`).join('');
+
+      render();
+    })
+    .catch(err => {
+      console.error(err);
+      document.getElementById('feed').innerHTML = '<div class="empty">뉴스 데이터를 불러오지 못했습니다.</div>';
+    });
+</script>
+</body>
+</html>
