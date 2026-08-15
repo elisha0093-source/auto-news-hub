@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:26:32.363996+00:00",
+  "generated_at": "2026-08-15T18:37:15.886975+00:00",
   "counts": {
     "domestic": 60,
     "international": 60,
@@ -7,6 +7,56 @@
     "byd_ev": 60
   },
   "domestic": [
+    {
+      "title": "英, 전기차 판매의무 80%→50%까지 낮추나",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHVyZjV3aUxLcUplMXhqSThXbFpEbnVhRWVfVnRNU0NDU253ZTF3TGVLTmJRMExzVmZxNjZZS2kwTHRXSHdwbG00V2pXQkRfeHFHNGdTMDFBMHdFOFhTRENNT2NNaWwyOGd5MDlaYVRqeGJaMkJienN0OVZrYlZ3Z3RhZVpTWWxw?oc=5",
+      "summary": "英, 전기차 판매의무 80%→50%까지 낮추나 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-15T17:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 개척자 머스크, AI 전력난에 천연가스로 선회",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWhQM3BPaFdYVF9ybTdmU1FzbTRZV3NsVU9SVXh3cmpXM1lxdjRPUzVkR2xXWmlpeEFxZ1FYWHd4cE81cnR4NjFia2VaTmYxbWVlWFdxRlZGbnJVZDlYNjlJQTVfcXpBd1hZdUY5bnRFbmUwZDhpZ1lzbVdRSTFlT2x1QUpjaUZr?oc=5",
+      "summary": "전기차 개척자 머스크, AI 전력난에 천연가스로 선회 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-15T17:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "비야디, 테슬라 모델3 반값 ‘친 맥스 EV’ 출시",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVFYYXFOdFowdWRMUXpPU1dFUXZkcWVnVExoTXFQaWNhNEl4RV9fQjJpN0FWTUd0NWptRUVzdTgxU29XWnhIOS1VakZlMUIxVHlSRW9TSVd1VjdSdFNpa2VZZ0ZsSzV5M3BFcU9NYUlxZjFsR29SaUVSYXFqUHhwUjVIX2s2UUYw?oc=5",
+      "summary": "비야디, 테슬라 모델3 반값 ‘친 맥스 EV’ 출시 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-15T17:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "좋은땅출판사, 35년 자동차 영업 노하우 담은 신간 출간",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42RnNiYTdfZ3ljLUtNSnlnTklOajctS1VzSGg0SHZtR2VXUlNpTjZjcVB1aDhsTEVEdnRzckZoMzBmWFk4OEVsaWdnZklreUUwTnNrMnFZRGFWbk8zU0lvaHczQjRvU3ZTUEc2NUFMVFVVUQ?oc=5",
+      "summary": "좋은땅출판사, 35년 자동차 영업 노하우 담은 신간 출간 스페셜타임스",
+      "source": "스페셜타임스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-15T16:41:35+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대차그룹, 인도네시아서 PV5 이동병원 연말부터 실증",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDMzF0MHhTaHRqZVlfclNvcDVHVzBCMkVxQkZPTm9JLUxqb1FHYTNmd2E1ZjkwVzRMUVdqMTlPYU5RUVl1cWYybVVuaHhrX2NrWnZsdjZNVzROUkJwWHF3UjhIdDhOS1BnNUg3Y001M2VNdXc?oc=5",
+      "summary": "현대차그룹, 인도네시아서 PV5 이동병원 연말부터 실증 스페셜타임스",
+      "source": "스페셜타임스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-15T16:39:41+00:00",
+      "byd_ev": false
+    },
     {
       "title": "中 톈진 자동차 산업 부상…\"韓 기업 수출 기회 확대될 것\"",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XWUdxcDdwYjJmc0YyMjl0OW5DRnJuZ0RtRmF2dkluLXp5OUdPTnBZVHB4S0tyckZWUF9MYmVQODlZRnNmYUdZbWVVX0l3dXh3eTc4bkRjZU9NZzN6VFUzT3hEVQ?oc=5",
@@ -30,21 +80,21 @@
     {
       "title": "개인용 전기 '비행 자동차'는 가격이 저렴하고 쉽게 구매할 수 있을 것으로 예상됩니다.",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PY1hxWHQ3OFVETWZWTkU3TnE0c3d2cHVxRVNaNWtUVVFTaGxjNVZYY3Z5aDlodWZnM1FwNTQyWjYwUVE5NkdQRXFOVjBWU1VqMElqdDJ6Xy1fUkJnY2VacjlrTWk3OEJZY3FyWi1fT0NLSXc2YTJ2OUpXLUw?oc=5",
-      "summary": "개인용 전기 '비행 자동차'는 가격이 저렴하고 쉽게 구매할 수 있을 것으로 예상됩니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "개인용 전기 '비행 자동차'는 가격이 저렴하고 쉽게 구매할 수 있을 것으로 예상됩니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T14:16:28+00:00",
       "byd_ev": false
     },
     {
-      "title": "산업통상부는 기술 이전을 강화함으로써 10억 달러 규모의 자동차 수출에 차질이 생길 수 있다고 우려하고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakFfZFNCaVh0RFh5SXlqczJZME9UVXJWTWNxRjdYZlBEM2hNNW9hRVVEV19zajlFRnh5empMWkphRUpNS2lNT2QzdUFEV2ZnTFZPZEF3VVJsckRMTUI2NjFvS2xpOU16R0E5SWlMcDBHQWg2RWhrbjE4WGVTbmx2T25teHVIMkNiWFdtWWZ5Q2VORV9KNzdjSnF4dUFOMGowT3VkdEZTcUlvRGl2ODNz?oc=5",
-      "summary": "산업통상부는 기술 이전을 강화함으로써 10억 달러 규모의 자동차 수출에 차질이 생길 수 있다고 우려하고 있다. vietnam.vn",
-      "source": "vietnam.vn",
+      "title": "‘어쩐지 요즘 많이 보이더라’ 한국 수입차 시장 점령한 중국, 점유율 41%",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLTBibjNROHBPUFFCNUxud2Z2bzB5cnNCLVhvM19oM1VhaGhJUnp1bGllcmtDVHlCdlFWUHBlLUFyUHBOOTdQdlB5Mlp6aWtadk1nRjJFb2szdFR0SVRWclJKa2ZLb2g0dnpOLXdfeHBzS3pQRF9zeHloTWpYeGJtUmRMOA?oc=5",
+      "summary": "‘어쩐지 요즘 많이 보이더라’ 한국 수입차 시장 점령한 중국, 점유율 41% 뉴스와",
+      "source": "뉴스와",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-08-15T13:03:40+00:00",
+      "published": "2026-08-15T13:22:44+00:00",
       "byd_ev": false
     },
     {
@@ -100,8 +150,8 @@
     {
       "title": "2026년 7월 가장 많이 팔린 가솔린 및 디젤 자동차 10대: 야리스 크로스가 1위를 차지했습니다.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORWtqam9ndmJuQ0NSMnF3dTVGQmNrR0o2QnRqbWZwRnNGcllGOGprRmdpdjVhallqbTlHNFpOa3Rmb0h2U1VBQ2trWGdMV0JsOHBobXZXLTlEU2NSSjhGeGlFZWYzRnhQSDF6Y0twTFg0V1NMTDNaU1FjYnVPX2l1R2cwMVUwZ1NzSnZ1MWRERQ?oc=5",
-      "summary": "2026년 7월 가장 많이 팔린 가솔린 및 디젤 자동차 10대: 야리스 크로스가 1위를 차지했습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 7월 가장 많이 팔린 가솔린 및 디젤 자동차 10대: 야리스 크로스가 1위를 차지했습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T10:13:46+00:00",
@@ -158,20 +208,10 @@
       "byd_ev": false
     },
     {
-      "title": "[CEONEWS 이재훈의 경제칼럼 7] 테슬라 1위가 한국차에 던진 경고 메세지",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Xa1BOSHpHYlM5LXpaSW1yQXVXVDFDOFZ0NVFJa2hzb3pDLTJIZEgxamdkekpfc1EzSzBpZlljeXhPUk1CZktHbkVMcVR4RHVVa196S0hDd3YybC12QUhZ?oc=5",
-      "summary": "[CEONEWS 이재훈의 경제칼럼 7] 테슬라 1위가 한국차에 던진 경고 메세지 ceomagazine.co.kr",
-      "source": "ceomagazine.co.kr",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-15T07:24:03+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "2026년 8월 기준 MG 자동차 가격표가 업데이트되었습니다.",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1JsWG9vTnFpRVUyQ2dOdGFqTFktN0VZUGZkVnltUHNKNl8xeFdPMXV0bV9lR1BMM1gwYWotQTN0QXhyUVZvLTVZa29BRzAweEt2SmlnZmVIdjdjTVhYRy1ndUlFVHBNOHlPMDM1Z204ZTRZd1QzQzJOQXMyQWhGcFdB?oc=5",
-      "summary": "2026년 8월 기준 MG 자동차 가격표가 업데이트되었습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 8월 기준 MG 자동차 가격표가 업데이트되었습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T07:21:39+00:00",
@@ -180,8 +220,8 @@
     {
       "title": "2026년 7월 베트남 시장에서 가장 많이 팔린 자동차 브랜드 TOP 10.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmx6TlUwMzE4T2lSSTZfQnVGWmFfMWp0TTgyRnZiY2FOOVZwbFhnU0RQNkFrWnJwZGVhdHl2ZjNxbC1XTUN0Qm5tLVJ1X05sVlA1TnJXbUV0ZEM3emF4V3dKWmJ2MFZMRGpvSGhXLWszSW1SZFZoUWRMOHFvdmZwNFkwWWZMbktrZkpjZDBnQnNoRXRSc0YxOU1pc0g?oc=5",
-      "summary": "2026년 7월 베트남 시장에서 가장 많이 팔린 자동차 브랜드 TOP 10. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 7월 베트남 시장에서 가장 많이 팔린 자동차 브랜드 TOP 10. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T07:13:34+00:00",
@@ -230,8 +270,8 @@
     {
       "title": "2026년 7월 베스트셀링 자동차 TOP 10: VinFast VF 3의 강력한 성장세.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbXZMMnRyclhYai01WTByWnRLM3NIX3cya010dXpKcDVhRnU1V0JBaGhEaFdGU2hSTXRURk9RMlZfVlNtdnJDSEdWbjd0RTJVU0hDbHBpdlZDaDZvRkVRdlpJd0pHV29kT1dvdERFc2ppSEhyQzA4X1FKejAwS0hBOE9fMGZnaGtpd2VJM3dTLU5HRV9tdmo0OVozVFU?oc=5",
-      "summary": "2026년 7월 베스트셀링 자동차 TOP 10: VinFast VF 3의 강력한 성장세. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 7월 베스트셀링 자동차 TOP 10: VinFast VF 3의 강력한 성장세. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T06:15:15+00:00",
@@ -320,8 +360,8 @@
     {
       "title": "베트남이 멕시코와 호주에 처음으로 자동차를 수출합니다.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakpwTkVuRWdveXJ0TTZoU0pKbmp5VTNVaHlWUGRqR01hbTFaX1dmMm5QSXFWeDBwdm1BOVhVTVB2M09pVDRtUC13Rl9GRkZaNXN0VVNSN1RURTdUcHhkUmVsNS16YmthREE3ZW5TdGdnUlgySFNWNUFaNEhSaWtSUFZVeE5iRFJuYl9ieQ?oc=5",
-      "summary": "베트남이 멕시코와 호주에 처음으로 자동차를 수출합니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "베트남이 멕시코와 호주에 처음으로 자동차를 수출합니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T03:57:30+00:00",
@@ -330,8 +370,8 @@
     {
       "title": "k채널/이륜자동차 정비기능사 시험 대비 설명회,",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRalAyeUVUdk8zZHQwZ0pQQ2FwTDhPZk5HWmg0YktYbGlMZ0ZZam9iZTJSTUdGbnl5d1MyMGI1TnVHdzRkVl8xWWdBNG12WjlRTEJrajlRMnFqWXFKdmc1cnA0UGY5MWM5bUE?oc=5",
-      "summary": "k채널/이륜자동차 정비기능사 시험 대비 설명회, kchannel.kr",
-      "source": "kchannel.kr",
+      "summary": "k채널/이륜자동차 정비기능사 시험 대비 설명회, K채널",
+      "source": "K채널",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T03:42:43+00:00",
@@ -348,26 +388,6 @@
       "byd_ev": false
     },
     {
-      "title": "베트남에서 조립된 현대자동차 1만 대 이상이 올해 전 세계로 수출될 예정이며, 크레타 첫 번째 물량이 멕시코로 선적되기 시작했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFc4aTgzVHhZUjJsOFBCUnN1cG9MQlEzVy1ObjdNWW90SXlVRWNnZHplZlpVd2t6VnRsWk1HdGlRb0FTUVNOMjEwX2hCUTFPcklKRS1BMjRvQk5WTXpEeWpoQ092UXhJT3duYm5fdFR4UzF2dGRibmdBalpRcDZYVERCd2NvMlpYcVV6dzNvZWFoVVhBS05vQUVZdS1sWnJVUU90UmRSUTNaOWY4bXltOEl4TW9JQ2N5eHgwRGRLdDFaM1U?oc=5",
-      "summary": "베트남에서 조립된 현대자동차 1만 대 이상이 올해 전 세계로 수출될 예정이며, 크레타 첫 번째 물량이 멕시코로 선적되기 시작했습니다. vietnam.vn",
-      "source": "vietnam.vn",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-15T02:26:03+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "현대차, 튀르키예서 ‘아이오닉3’ 양산 돌입-유럽 전기차 공략 거점으로",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1telAzNEhMTVkzZkQtd1lfZFI3WWdLZ3l4cktHV2VwbkRleldjTFVTY0RLRzMxNmVsMUtJNUZHVjVnczFQTDRjOXRKdXowQVlVMUNNTWRoUkdBUmYwUUszZUVpdnBxcGUzX0tGcTlB?oc=5",
-      "summary": "현대차, 튀르키예서 ‘아이오닉3’ 양산 돌입-유럽 전기차 공략 거점으로 미디어파인",
-      "source": "미디어파인",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-15T02:14:11+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "국제자동차연맹, 러시아·벨라루스 자국 명의 출전 제한 해제",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XcWVpbWdiZGJTeDZOT3RQM280Y1dab2Y4U3hGa040WTZLVGJDZDg0SVFvU1VRY2UwMVVMcmpjYUQwNzhjejBYQ2lJODNOc0hlTlhremQzN3p5SHVsM2t2d25LNS1oSlowRThoQkJMTQ?oc=5",
       "summary": "국제자동차연맹, 러시아·벨라루스 자국 명의 출전 제한 해제 오토레이싱",
@@ -375,16 +395,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T02:02:45+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "중국 자동차 수출, 7월 104만 대 돌파…두 달 연속 100만 대 넘어",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwRGhrVFZBSG01SzR5aGs3VUFwWm1FN254VjRRc0czMGF5YTVWT3BpbUQ0OGZTbWNVX1dJWXl3THF4WkJybmlMWlNUb0hDeUdac1E?oc=5",
-      "summary": "중국 자동차 수출, 7월 104만 대 돌파…두 달 연속 100만 대 넘어 유스연합",
-      "source": "유스연합",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-15T01:51:39+00:00",
       "byd_ev": false
     },
     {
@@ -440,22 +450,12 @@
     {
       "title": "정의선 현대차그룹 회장, 올해 상반기 보수 45억원 수령",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vc1JGeW83R05sZjRGNUFPYmU2VjNSX29EdWo2cTNaRTJ2bkVhTG1PZnNXQUtxZmZQM0hTM04yYlNOOGVSU2hpaDVFNUV5a0lHSDdCWk16M0ZvaFlWejZtcmtmRHQ?oc=5",
-      "summary": "정의선 현대차그룹 회장, 올해 상반기 보수 45억원 수령 디지털데일리",
-      "source": "디지털데일리",
+      "summary": "정의선 현대차그룹 회장, 올해 상반기 보수 45억원 수령 ddaily.co.kr",
+      "source": "ddaily.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-14T23:46:21+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "현대차 '30년 요람' 튀르키예서 아이오닉 3 첫 생산…유럽 전기차 시장 노린다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZZ1RjVV8tQTByMEpCTEg1bno3RWd3QkRUQm5obTNSY21iRDMzbUwxMlV2S2N5bEZxUl9pdElYTTRveG5NZENKZzhmMFVIbkVLM01R?oc=5",
-      "summary": "현대차 '30년 요람' 튀르키예서 아이오닉 3 첫 생산…유럽 전기차 시장 노린다 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-14T23:45:00+00:00",
-      "byd_ev": true
     },
     {
       "title": "“슈퍼카도 전기차 시대”…포르쉐·로터스, 韓시장 공략 풀악셀",
@@ -490,8 +490,8 @@
     {
       "title": "전기차 20만대 시대…타이어 관리 기준도 바뀐다",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CZllxaUExNktVQWQxWXJOSWhsZFYwUGxPTl9LWmZRYlJNTjhUQXJZcTBkbkJZLWhUdmJMUnp5b2wtOVNYNTFnS0xsYkdXeFp1cXoxRGExVG9TRDA0bE9KRzZnWUc?oc=5",
-      "summary": "전기차 20만대 시대…타이어 관리 기준도 바뀐다 디지털데일리",
-      "source": "디지털데일리",
+      "summary": "전기차 20만대 시대…타이어 관리 기준도 바뀐다 ddaily.co.kr",
+      "source": "ddaily.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-14T23:00:00+00:00",
@@ -568,16 +568,6 @@
       "byd_ev": true
     },
     {
-      "title": "[김아령의 오토세이프] 현대차·제네시스·기아 리콜…연료 누유·하이브리드 화재 위험",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91NjNVQnZnNGhmeEFqYVRYSXVucVJrc1kzVUVtV1dsLVZMUjFjblR4MjFpdTdXN21EMTIyZWFqWXNLZ2h0X09mbTFScmUxZjZCcnNR?oc=5",
-      "summary": "[김아령의 오토세이프] 현대차·제네시스·기아 리콜…연료 누유·하이브리드 화재 위험 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-14T22:01:00+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "북러 두만강 자동차 다리 건설 막바지 단계...\"곧 차량 통행 시작\"",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qaklyWmxFbWFfMjczUDVkMmpnRmoyVDBiWndaZ2xCMHNDd2U4TktUVVRMT19mVWw1Ri03WU5ZQ2RDWnVtekRfaHY0ZUhxSGhxblg3eEdLZnBZUzFWN01tUmdNZ216ckc5RjZR?oc=5",
       "summary": "북러 두만강 자동차 다리 건설 막바지 단계...\"곧 차량 통행 시작\" SPN 서울평양뉴스",
@@ -606,9 +596,49 @@
       "category": "domestic",
       "published": "2026-08-14T22:00:00+00:00",
       "byd_ev": false
+    },
+    {
+      "title": "[굿모닝! 이 법안] 미래자동차산업 경쟁력 강화·지원 특별법 대기 중",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWTdxWlplbko0empWaWNnN0thUkdYdTJuUDJWVVF6VVZleTFqNmNqUzRNNWRWeDY4OHNrang3UEsyaWxIeEFQWFExRnNScDROYzRNMVVhd3g1d3VvZHN6Vmp5elhXaVY4VHlrLQ?oc=5",
+      "summary": "[굿모닝! 이 법안] 미래자동차산업 경쟁력 강화·지원 특별법 대기 중 굿모닝경제",
+      "source": "굿모닝경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-14T22:00:00+00:00",
+      "byd_ev": false
     }
   ],
   "international": [
+    {
+      "title": "Corrupt DoT head took oil money for reality TV show during oil price spike (update)",
+      "link": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
+      "summary": "Sean Duffy, whose transportation expertise comes from being a contestant on the reality TV show Road Rules , is going back to his roots and…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-15T17:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Turning millions of Teslas and Mach-Es into V2L power stations: WETOX D2 earns world’s first Next-Gen V2X certification from SGS",
+      "link": "https://electrek.co/2026/08/15/turning-millions-teslas-mach-es-into-v2l-power-stations-wetox-d2-earns-worlds-first-next-gen-v2x-certification-sgs/",
+      "summary": "The ability to tap into the energy locked inside your car’s battery to power tools, lights, campground gear, and essential home appliances d…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-15T16:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Current classics: Bisimoto’s 600 hp electric Rolls-Royce SilvEV Ghost",
+      "link": "https://electrek.co/2026/08/15/current-classics-bisimotos-600-hp-electric-rolls-royce-silvev-ghost/",
+      "summary": "First seen in the Toyo Tires booth in 2024, Bisi Ezerioha’s converted Roller resurfaced this week at Exotics on Broadway – and the slick, si…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-15T15:38:06+00:00",
+      "byd_ev": true
+    },
     {
       "title": "Speeders just got lucky: the new Dodge police Charger is NOT electric",
       "link": "https://electrek.co/2026/08/15/speeders-just-got-lucky-the-new-dodge-police-charger-is-not-electric/",
@@ -670,7 +700,7 @@
       "byd_ev": true
     },
     {
-      "title": "GMA S1: The McLaren F1 Reborn With A 681 HP V12",
+      "title": "Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For",
       "link": "https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/",
       "summary": "The Gordon Murray S1 turns the S1 LM into a lighter, cleaner V12 tourer with active aero, a six-speed manual, and production capped at 64 ca…",
       "source": "Motor1",
@@ -1178,36 +1208,6 @@
       "category": "international",
       "published": "2026-08-14T12:34:37+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
-      "link": "https://insideevs.com/news/804844/tesla-fsd-streak-25k-miles/",
-      "summary": "Tesla gamified its Full Self-Driving system with streaks. Critics argue that it's more dangerous than good.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-08-14T12:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "McLaren's New Supercar Brings Back The Manual After 34 Years",
-      "link": "https://www.motor1.com/news/804887/mclaren-mcl-6gt-manual-supercar-revealed/",
-      "summary": "The McL 6GT is just a concept, but it previews a manual production car for 2028.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-08-14T12:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Wiesmann MF5 Returns, Could It Still Hide A BMW V10?",
-      "link": "https://www.motor1.com/news/804938/wiesmann-mf5-tributo-returns-bmw/",
-      "summary": "Wiesmann MF5 Tributo revives the MF5 name at Pebble Beach, signaling a shift back to combustion power while key engine details remain unconf…",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-08-14T10:15:00+00:00",
-      "byd_ev": true
     }
   ],
   "official": [
@@ -1232,6 +1232,16 @@
       "byd_ev": true
     },
     {
+      "title": "[김아령의 오토세이프] 현대차·제네시스·기아 리콜…연료 누유·하이브리드 화재 위험",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91NjNVQnZnNGhmeEFqYVRYSXVucVJrc1kzVUVtV1dsLVZMUjFjblR4MjFpdTdXN21EMTIyZWFqWXNLZ2h0X09mbTFScmUxZjZCcnNR?oc=5",
+      "summary": "[김아령의 오토세이프] 현대차·제네시스·기아 리콜…연료 누유·하이브리드 화재 위험 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-14T22:01:00+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "4월 자동차 판매량 공개!! 자동차 시장이 완전히 바뀌고 있습니다😮 Mark Stone (sdiBodIErE)",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IMXFQdzJqdlJrVTNvR1JidVkxLV9MWU0zdnFJWGhyNzk3UUp5VjVTX3N2MEJiZXYzU194WUh1dEhZM1R5eExGWHBUQXIwVUlQSzBocGlwWE0zbGc?oc=5",
       "summary": "4월 자동차 판매량 공개!! 자동차 시장이 완전히 바뀌고 있습니다😮 Mark Stone (sdiBodIErE) Mshale",
@@ -1254,8 +1264,8 @@
     {
       "title": "베트남 소비자들에게 가장 인기 있는 하이브리드 자동차 브랜드는 무엇입니까?",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMmVVdmhqQ2J1VkJlc0diOVNEdDdSb3JwaHJaM0tSYjkwMUE0ZFFtdkJnUnJhbkZmU0dDQXlVbmd0anZILUlJTFZKcDBEdGpJcTlYOEQxTGkxTUJVWG44U19WX3RDaUpnZTB4czhTdzE5REpIdlBza2VNV0d3aFlQTW1Zam44QzY4cFE?oc=5",
-      "summary": "베트남 소비자들에게 가장 인기 있는 하이브리드 자동차 브랜드는 무엇입니까? vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "베트남 소비자들에게 가장 인기 있는 하이브리드 자동차 브랜드는 무엇입니까? Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-14T15:36:10+00:00",
@@ -1274,8 +1284,8 @@
     {
       "title": "중국: 신에너지 자동차 시장이 강한 성장세를 보이고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XTUlITjB6eEZwaGxhR1YzYlNWVWFUaGFuQzVnV3lEZ0QwNlZwQ2ZIMXpWRFBUOUlqam14aXhXRUktVHU3ZVEtaHJHQVNpOS1ybzJJZWFCbFVFYldlMDlrcjZ5a3U3VmFpS1dyQ05LM1pVb0Q2dTFHU0N3SQ?oc=5",
-      "summary": "중국: 신에너지 자동차 시장이 강한 성장세를 보이고 있습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "중국: 신에너지 자동차 시장이 강한 성장세를 보이고 있습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-14T12:42:03+00:00",
@@ -1294,8 +1304,8 @@
     {
       "title": "TC그룹은 2026년 7월 현대자동차 판매량을 발표했습니다.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYk9BT0NzRkNKSWZiUE9YcGU0bFlPcmlKQmFUMkVyMThPNTg1LWtXMFJhWHVoNHlsRmZ2QU9FekdDTWlsN2ZIUU5mM2Fsc25jMmxCUmpsQjYwX195cldLUnM1Y20zNXdxUkZEak1HREdLeDhoZFlpSWxGTUVjUHpMd1cwVUNBRmpzeG5GcmRpOA?oc=5",
-      "summary": "TC그룹은 2026년 7월 현대자동차 판매량을 발표했습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "TC그룹은 2026년 7월 현대자동차 판매량을 발표했습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-14T06:18:07+00:00",
@@ -1304,8 +1314,8 @@
     {
       "title": "2026년 7월 판매량 최하위 10대 자동차: 절반은 틈새시장 모델이다.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTktYdk9VajllcU1weFN0b09hQ3BjTjQyUFB6Qi03aXpDNE5uSlI0SVNOR0RjRWtRWHpzcWtycXZVTk1uMWNVVFVic3M1ekhLalpWRGtTRnB2eFJ4SENLVzVOVS1NdXNwZmFiQ2VxT2lydXN2M1VKRFpGTWwtd1FUX09sc29EbXlRd2FTdGk3Z3MtMzFCV19YWg?oc=5",
-      "summary": "2026년 7월 판매량 최하위 10대 자동차: 절반은 틈새시장 모델이다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 7월 판매량 최하위 10대 자동차: 절반은 틈새시장 모델이다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-14T04:18:47+00:00",
@@ -1314,11 +1324,21 @@
     {
       "title": "베트남 자동차 시장은 2026년까지 사상 최대 규모인 70만 대 판매를 목표로 하고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkFNVWpRLWJEUFJYUnhFLUZvS2FiTGE5dnlCOWhCaWZ5MmJNSzNFM0l1dFhuVk5nbEZYQkFSeFdPQ1k1Sm92b0J5QXZoRmxnWjdvT0FjUFFVMFcxQ0FaQ2R0a2ZvUE1rWGkyNmJJZU85V1YweHdwMXlESXhFX25xMkRtUV8yMElIcGFlX0NuUVVfcVlNVHJybGZ3?oc=5",
-      "summary": "베트남 자동차 시장은 2026년까지 사상 최대 규모인 70만 대 판매를 목표로 하고 있습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "베트남 자동차 시장은 2026년까지 사상 최대 규모인 70만 대 판매를 목표로 하고 있습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-14T02:21:28+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "불법·부실 자동차검사소 23곳 적발",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oNjVBSlU4aU5WMzhTYnJoQXNLSXFxRDdjeFNmLUpXUVZ2WU1DM0xzRmhwY2dJc2JteU94d3BRcl9za2ROWm9jOFo4a0RLd2RkQVZwQ0E1QnJydGg3VVl0Yzh6U3VTdnVa?oc=5",
+      "summary": "불법·부실 자동차검사소 23곳 적발 환경일보",
+      "source": "환경일보",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-14T02:00:39+00:00",
       "byd_ev": false
     },
     {
@@ -1332,20 +1352,10 @@
       "byd_ev": false
     },
     {
-      "title": "Euro NCAP 2026 Button Rules: Nine Controls, Not Five",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0tIcks3d3hyVHFPWWhaSEVwRGxXMWV0ZzRxbXg4aUU3aTZVamlUVU5sUS1Bb2o5WFgtYTlDNjJjeTdybHczLTQ1azNONzMweXlvbTdqN3MtRGVGRUx5LXMxdlgxTHBQLUt4RkYyZ2NmS29VaWoyYXFJMHRueDdQUUdpLUh6VUp1S245S3BPMA?oc=5",
-      "summary": "Euro NCAP 2026 Button Rules: Nine Controls, Not Five The Weekly Driver",
-      "source": "The Weekly Driver",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-14T01:35:33+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "7월에 가장 판매량이 저조한 자동차 모델 10선: 고가 차량이 다수 포함되어 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbUEzX1lBd29wSE1QN0R1dmJ2QXpaUDJLeVJJSW1PRDZwVFNkNG92aTRVMWlhSUpCaVV4U0M0RTVSd29ydnVWNm9aekI5N1ZyRFVZWk5oWEhjNnJYUUl3WmZtdkthNGpXa2I4M3o1UnVqaVRvekM4Nnl6XzZUbm5LUDI2bw?oc=5",
-      "summary": "7월에 가장 판매량이 저조한 자동차 모델 10선: 고가 차량이 다수 포함되어 있습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "7월에 가장 판매량이 저조한 자동차 모델 10선: 고가 차량이 다수 포함되어 있습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-14T01:17:03+00:00",
@@ -1354,8 +1364,8 @@
     {
       "title": "베트남에서 전기차 판매량이 휘발유차 판매량을 넘어섰습니다.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDZOYzhvUGdBdm5JZVFmMjZCTjFBS2tBLVEzc2hxaWsxRjlNSHNvdHZTVXVXb29KdmQ4ZE92UkFkMmhNeHNYMF93SDRmT3h1bEYtNTFmdEsxdGFEYXBET2NiX2tQZUFsZVJVa183TG4tLU1kQWY1OGNXYmhSdTlCN2ZPLWVtNmV5S0E?oc=5",
-      "summary": "베트남에서 전기차 판매량이 휘발유차 판매량을 넘어섰습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "베트남에서 전기차 판매량이 휘발유차 판매량을 넘어섰습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T21:09:20+00:00",
@@ -1414,8 +1424,8 @@
     {
       "title": "베트남 자동차 시장은 7개월 후 66만 대 판매를 목표로 하고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHFfdkM5LWVIX1NvWENJaTdoVE1lQV9Fd2FMWVdpTmR6eHo2aVpNVW5rS3E5RlBVU012T2NtbTk4ektuOHQtcXlVTGdnNW9Ua0g1QmVMclpBOUI0aDlqMFJZLVJCbHpRd0kzYzEwbC1aZmt0bmFKSVlrdlpGd1hDeGxZOEk2MEhmUFZqSzRNOXU?oc=5",
-      "summary": "베트남 자동차 시장은 7개월 후 66만 대 판매를 목표로 하고 있습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "베트남 자동차 시장은 7개월 후 66만 대 판매를 목표로 하고 있습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T14:22:14+00:00",
@@ -1454,8 +1464,8 @@
     {
       "title": "2026년 7월 베트남에서 가장 판매량이 적은 자동차 10종: 일본 자동차가 압도적인 비중을 차지한다.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamkyWXBEcEFJN1Q3UzdfRkpiY0lNUXdrcl92NDVNcVBpbXI0ZHUxMmhxRHYxVERYclI1Qm5HZGFWd2R5WlQ5UlBpX1BrMFcxbF80VzFxMUJHRUdQcGZoSy1GQzR1STYwakVaanRvWDBhbHJMX3ZLanplRGxKa1A2djhpQkMxN3ZScEI0ZFozb0Q?oc=5",
-      "summary": "2026년 7월 베트남에서 가장 판매량이 적은 자동차 10종: 일본 자동차가 압도적인 비중을 차지한다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 7월 베트남에서 가장 판매량이 적은 자동차 10종: 일본 자동차가 압도적인 비중을 차지한다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T06:33:45+00:00",
@@ -1504,8 +1514,8 @@
     {
       "title": "미쓰비시는 베트남에서 가장 많이 팔리는 자동차 10위권 안에 3개 모델을 보유하고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOThwRVI4azZwYXAxMlQyV3lVdllxRThJVFB1LTRkcTFYYnpGRm9ETk5kOHhFOXZYYnBQWkxZa2dXN3Z5RUJaSG9fc1hfeXNXU1JoVk55RmZyS2Z2bTg2d19fTWFDVU5iR3VWYUZGaEtuTFdTQVl6dzZ5TjU1OUNxanJZMkVsTHRUV0VKZVdtdFUtdw?oc=5",
-      "summary": "미쓰비시는 베트남에서 가장 많이 팔리는 자동차 10위권 안에 3개 모델을 보유하고 있습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "미쓰비시는 베트남에서 가장 많이 팔리는 자동차 10위권 안에 3개 모델을 보유하고 있습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T05:57:26+00:00",
@@ -1514,8 +1524,8 @@
     {
       "title": "2026년 7월 내연기관 차량 판매량 TOP 10: 토요타 야리스 크로스, 강세로 1위 기록.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDE2bkVyeHpaY2dvTG1mci1PYmlOTnhNS2NzQUtObjdvZkJkVi1IZGNJZmpMOGNnSFctYXBXb05pYzl1OUhmNEF0VGpkN0hmaGFMZ3cxMWNZbVZvaE11UldNZFE2Q2ZOcWhKRzhrcUFWUDlNV3ZraGtsRVQtcFZYUlhMQXEtc1hmQkk2akNBUFZIMmRqWUxHTWNmSzl6aEl3M0gtdkYtTmNMOUhZbG9Na3E5aWdWaVlKVm5ENQ?oc=5",
-      "summary": "2026년 7월 내연기관 차량 판매량 TOP 10: 토요타 야리스 크로스, 강세로 1위 기록. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 7월 내연기관 차량 판매량 TOP 10: 토요타 야리스 크로스, 강세로 1위 기록. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T05:56:28+00:00",
@@ -1532,13 +1542,13 @@
       "byd_ev": false
     },
     {
-      "title": "BMW 차주들, '2018년 연쇄화재' 손배소 1심 패소…\"리콜로 시정\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVNHhZdHZUeW5MZ2lBVC1XVzVBdmpxVUJFVGJqQjRsT2w2RGFnOHdIZk5iT3ozZmtKT3c3YW9DamxnQ1JCTUxtUFhDc1VhV2M2MEtn?oc=5",
-      "summary": "BMW 차주들, '2018년 연쇄화재' 손배소 1심 패소…\"리콜로 시정\" 네이트",
+      "title": "7월 자동차 수출 62.4억달러 '역대 최대'…친환경차가 견인",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQjBSNm5LdDhtLU5JelgzY0ttNEdFNzVtZERPSUJlZHJFRHRSR3h6TzJyemNUYi1lM0NrTG1kbGpQWHlKQ1BRcnNFMnJ0c01YY2p3?oc=5",
+      "summary": "7월 자동차 수출 62.4억달러 '역대 최대'…친환경차가 견인 네이트",
       "source": "네이트",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-13T05:32:00+00:00",
+      "published": "2026-08-13T05:39:00+00:00",
       "byd_ev": false
     },
     {
@@ -1554,8 +1564,8 @@
     {
       "title": "미쓰비시는 7월에 가장 많이 팔린 일본 자동차 4대 중 2대를 차지했으며, Xforce가 여전히 가장 많이 팔린 모델이었다.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUNoemJmUThyaGNpeFJ3a1dMT3IwZlFJczdYbTBOUnJwaEpFaWJaUGZraldwdGItYTJ6MjZYZlhDYzNhV3JVVkFTaDB2WTF0dzN1NzhZd3YwampjS1R5Qk1oc1piOVEzaVhoODNmNks3MHZSLS0tSXhiWng0WUs2SXpJbFBUTnUxQjl3TGMyRnN6NXlxWlVjdjd2R3U0bGtNN2J3?oc=5",
-      "summary": "미쓰비시는 7월에 가장 많이 팔린 일본 자동차 4대 중 2대를 차지했으며, Xforce가 여전히 가장 많이 팔린 모델이었다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "미쓰비시는 7월에 가장 많이 팔린 일본 자동차 4대 중 2대를 차지했으며, Xforce가 여전히 가장 많이 팔린 모델이었다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T05:08:33+00:00",
@@ -1614,8 +1624,8 @@
     {
       "title": "7월 자동차 수출 역대 최대… 민관 원팀, 미래차 전환·상생협력에 한뜻",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WTm4wc0JFWkJGUGYxQTlkZkFKMmtWRXlERU9vTTAzVWFjNGpfd1pDUWVoTWtmQXpwOWMyLVF5QWdVY01CNkUxcHFEcVhHWEVmbl9vdUFqTjVuQXNpZElEdi1saGkzaU9jaEE?oc=5",
-      "summary": "7월 자동차 수출 역대 최대… 민관 원팀, 미래차 전환·상생협력에 한뜻 krcom.co.kr",
-      "source": "krcom.co.kr",
+      "summary": "7월 자동차 수출 역대 최대… 민관 원팀, 미래차 전환·상생협력에 한뜻 도민연합뉴스",
+      "source": "도민연합뉴스",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T04:11:53+00:00",
@@ -1644,8 +1654,8 @@
     {
       "title": "테슬라는 헤드라이트 밝기가 지나치게 밝은 문제로 차량 2만 대를 리콜한다.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2U4Tk5Cc19EekJZdWRfMnJ5TkNENUdTWEg3d3lRNWJRbjhwSFlMVHdsaUhkRWR0YVo2RGZ6Y1Z5a3lfcTJZeWY4aDJLUjU4bzBhWlFac0pQcnVsZWRVUS1kTUhfRmV0UnNHcHAxYV96YWRtOUVRWjRuX0NTR1JVdA?oc=5",
-      "summary": "테슬라는 헤드라이트 밝기가 지나치게 밝은 문제로 차량 2만 대를 리콜한다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "테슬라는 헤드라이트 밝기가 지나치게 밝은 문제로 차량 2만 대를 리콜한다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T03:11:45+00:00",
@@ -1674,8 +1684,8 @@
     {
       "title": "법원, ‘BMW 연쇄 화재 손배소’ 차주들 청구 기각…“결함은 리콜로 시정”",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RTmprS1ZFREljU2ljN0NWT1ZTcE5DUU1GSVJmUnIwWHNvVFNINUNhWl96aTBacXBucGs0SHhfVWxQOW4zTGFteHJnZFQzQlh0THc2VTBnbm1USEU?oc=5",
-      "summary": "법원, ‘BMW 연쇄 화재 손배소’ 차주들 청구 기각…“결함은 리콜로 시정” news.kbs.co.kr",
-      "source": "news.kbs.co.kr",
+      "summary": "법원, ‘BMW 연쇄 화재 손배소’ 차주들 청구 기각…“결함은 리콜로 시정” KBS 뉴스",
+      "source": "KBS 뉴스",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T02:33:00+00:00",
@@ -1694,8 +1704,8 @@
     {
       "title": "미쓰비시는 2026년 7월 휘발유 및 디젤 자동차 판매에서 압도적인 1위를 차지했습니다.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3BCMXFWRDRVY01iM3p5S0xGY1hJUFBIZ1hlcm5JS2gzblRGUXFxbnZPb3lsbklERkE5R29VQ3FiX3ZBejc1QTE4ZmFmd2hpYnljc0xsTlJvVWp3SEstcXBsUlNmSVRZVWl6dl9uY0IzenN6TGRGTmlRSjg3X0VqbzZxTzRmMVhRUnk2VDJaLUxMc1R0Rngtcg?oc=5",
-      "summary": "미쓰비시는 2026년 7월 휘발유 및 디젤 자동차 판매에서 압도적인 1위를 차지했습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "미쓰비시는 2026년 7월 휘발유 및 디젤 자동차 판매에서 압도적인 1위를 차지했습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T02:07:14+00:00",
@@ -1742,16 +1752,6 @@
       "byd_ev": false
     },
     {
-      "title": "지난달 자동차 수출 62.4억弗 역대 7월 최대…친환경차가 견인",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hcFVHdXJYdmw1SDR2R1B5ZU5wRGdoa2NTWVJXYnNaNml1MTdWM2owbmpDY1dDSzRLc0laU1h3SlhWRmE4bkFPYlRpSFoxb1VQV1oyU2lzVWnSAVhBVV95cUxOYXBVR3VyWHZsNUg0dkdQeWVOcERnaGtjU1lSV2JzWjZpdTE3VjNqMG5qQ2NXQ0s0S3NJWlNYd0pYVkZhOG5BT2JUaUhaMW9VUFdaMlNpc1Vp?oc=5",
-      "summary": "지난달 자동차 수출 62.4억弗 역대 7월 최대…친환경차가 견인 아주경제",
-      "source": "아주경제",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-13T02:00:00+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "지난달 자동차 수출 62.4억弗 '역대 7월 최대'…친환경차가 견인",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1icXp5MHNiZ25oMHJxSkhkSjJ2bkFoZm11WVhZSkZmZWlEYldMMkswLUc0ZmQ3RDJqa1F1VVI3QV82RGk1WldnU1JqX1pzV3hzRjY4a0xqMl9EckRLM1JwdS1pMDZfUkZwUDM2bWtORQ?oc=5",
       "summary": "지난달 자동차 수출 62.4억弗 '역대 7월 최대'…친환경차가 견인 ajuabc.co.kr",
@@ -1774,8 +1774,8 @@
     {
       "title": "7월 자동차 시장은 전기차가 주도권을 잡았습니다.",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SVjI0bWJ4VXUyVlNWOEpnLTBTSHAzMlhiWTJVU3ZRbkU4VlhZR3h0VzVuTEJoLTBnUjBIaHhXa3ZyNDFjQlVMR196TnBiLWpiT19PWFh6UGNkc09MR3ZzRWoyZnBNWHk3RmwyVkgySU5xMzFWV0s4OXJFcEs?oc=5",
-      "summary": "7월 자동차 시장은 전기차가 주도권을 잡았습니다. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "7월 자동차 시장은 전기차가 주도권을 잡았습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-13T00:04:50+00:00",
@@ -1784,8 +1784,8 @@
     {
       "title": "2026년 7월 베트남 시장에서 가장 많이 팔린 가솔린 및 디젤 자동차 10종.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmZxb3NrU1NxY003dHlMeXlZRVQxS182eGhjQ1c3OW9CWmdBa3RNV3BucGxNSTY0ZE9MMHdmT2RVRVZjeU0tLXI0d24wRXBvQWNJck9fWjc3dWd3NlBiREJTbGpPZ3l4aG83Nm82ZlNfemVuS21ZelVYOG1BbHFhVC11WVdDRzJqYXoxSDJ6aDdLQjZDRHpGMUVCeFVSS3p0MGc?oc=5",
-      "summary": "2026년 7월 베트남 시장에서 가장 많이 팔린 가솔린 및 디젤 자동차 10종. vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 7월 베트남 시장에서 가장 많이 팔린 가솔린 및 디젤 자동차 10종. Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T23:53:51+00:00",
@@ -1804,8 +1804,8 @@
     {
       "title": "2026년 7월 베트남에서 가장 많이 팔린 하이브리드 자동차 TOP 5",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcEhIcjlhR0lPdnFmSEhvVDJjTmdreUNha01NVkt6TUFRclQ0cHhOTHR0a3ByS0wtTFM5TzNpdTBLNHVOUlBEdG9lZHFqNFRjQ3ZrRkdrVmhtRmM3anZhbjVSZThweHJIdGNEOVJoUmZQemt5aWNpMmFfWG9kYlg5dw?oc=5",
-      "summary": "2026년 7월 베트남에서 가장 많이 팔린 하이브리드 자동차 TOP 5 vietnam.vn",
-      "source": "vietnam.vn",
+      "summary": "2026년 7월 베트남에서 가장 많이 팔린 하이브리드 자동차 TOP 5 Vietnam.vn",
+      "source": "Vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-12T16:09:31+00:00",
@@ -1813,6 +1813,56 @@
     }
   ],
   "byd_ev": [
+    {
+      "title": "英, 전기차 판매의무 80%→50%까지 낮추나",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHVyZjV3aUxLcUplMXhqSThXbFpEbnVhRWVfVnRNU0NDU253ZTF3TGVLTmJRMExzVmZxNjZZS2kwTHRXSHdwbG00V2pXQkRfeHFHNGdTMDFBMHdFOFhTRENNT2NNaWwyOGd5MDlaYVRqeGJaMkJienN0OVZrYlZ3Z3RhZVpTWWxw?oc=5",
+      "summary": "英, 전기차 판매의무 80%→50%까지 낮추나 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-15T17:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 개척자 머스크, AI 전력난에 천연가스로 선회",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWhQM3BPaFdYVF9ybTdmU1FzbTRZV3NsVU9SVXh3cmpXM1lxdjRPUzVkR2xXWmlpeEFxZ1FYWHd4cE81cnR4NjFia2VaTmYxbWVlWFdxRlZGbnJVZDlYNjlJQTVfcXpBd1hZdUY5bnRFbmUwZDhpZ1lzbVdRSTFlT2x1QUpjaUZr?oc=5",
+      "summary": "전기차 개척자 머스크, AI 전력난에 천연가스로 선회 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-15T17:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "비야디, 테슬라 모델3 반값 ‘친 맥스 EV’ 출시",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVFYYXFOdFowdWRMUXpPU1dFUXZkcWVnVExoTXFQaWNhNEl4RV9fQjJpN0FWTUd0NWptRUVzdTgxU29XWnhIOS1VakZlMUIxVHlSRW9TSVd1VjdSdFNpa2VZZ0ZsSzV5M3BFcU9NYUlxZjFsR29SaUVSYXFqUHhwUjVIX2s2UUYw?oc=5",
+      "summary": "비야디, 테슬라 모델3 반값 ‘친 맥스 EV’ 출시 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-15T17:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Turning millions of Teslas and Mach-Es into V2L power stations: WETOX D2 earns world’s first Next-Gen V2X certification from SGS",
+      "link": "https://electrek.co/2026/08/15/turning-millions-teslas-mach-es-into-v2l-power-stations-wetox-d2-earns-worlds-first-next-gen-v2x-certification-sgs/",
+      "summary": "The ability to tap into the energy locked inside your car’s battery to power tools, lights, campground gear, and essential home appliances d…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-15T16:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Current classics: Bisimoto’s 600 hp electric Rolls-Royce SilvEV Ghost",
+      "link": "https://electrek.co/2026/08/15/current-classics-bisimotos-600-hp-electric-rolls-royce-silvev-ghost/",
+      "summary": "First seen in the Toyo Tires booth in 2024, Bisi Ezerioha’s converted Roller resurfaced this week at Exotics on Broadway – and the slick, si…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-08-15T15:38:06+00:00",
+      "byd_ev": true
+    },
     {
       "title": "PACCAR brand DAF to add Level 4 Einride autonomy to its electric trucks",
       "link": "https://electrek.co/2026/08/15/paccar-brand-daf-to-add-level-4-einride-autonomy-to-its-electric-trucks/",
@@ -1851,16 +1901,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-15T09:29:50+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "[CEONEWS 이재훈의 경제칼럼 7] 테슬라 1위가 한국차에 던진 경고 메세지",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Xa1BOSHpHYlM5LXpaSW1yQXVXVDFDOFZ0NVFJa2hzb3pDLTJIZEgxamdkekpfc1EzSzBpZlljeXhPUk1CZktHbkVMcVR4RHVVa196S0hDd3YybC12QUhZ?oc=5",
-      "summary": "[CEONEWS 이재훈의 경제칼럼 7] 테슬라 1위가 한국차에 던진 경고 메세지 ceomagazine.co.kr",
-      "source": "ceomagazine.co.kr",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-15T07:24:03+00:00",
       "byd_ev": true
     },
     {
@@ -1924,16 +1964,6 @@
       "byd_ev": true
     },
     {
-      "title": "현대차, 튀르키예서 ‘아이오닉3’ 양산 돌입-유럽 전기차 공략 거점으로",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1telAzNEhMTVkzZkQtd1lfZFI3WWdLZ3l4cktHV2VwbkRleldjTFVTY0RLRzMxNmVsMUtJNUZHVjVnczFQTDRjOXRKdXowQVlVMUNNTWRoUkdBUmYwUUszZUVpdnBxcGUzX0tGcTlB?oc=5",
-      "summary": "현대차, 튀르키예서 ‘아이오닉3’ 양산 돌입-유럽 전기차 공략 거점으로 미디어파인",
-      "source": "미디어파인",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-15T02:14:11+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "K배터리 공장 가동률, 美 전기차 한파 대응에 희비 갈려",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oNkllNWRzR3JwTFlMNTlHTnhXOVExVVd6Ul9iYnZIZ3FFb2JIUVRZemV3WVNuNk1VZDBSeTJfRWJ0czY4NVBjX3lpekJUcUJxenExRmNR?oc=5",
       "summary": "K배터리 공장 가동률, 美 전기차 한파 대응에 희비 갈려 지디넷코리아",
@@ -1984,16 +2014,6 @@
       "byd_ev": true
     },
     {
-      "title": "현대차 '30년 요람' 튀르키예서 아이오닉 3 첫 생산…유럽 전기차 시장 노린다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZZ1RjVV8tQTByMEpCTEg1bno3RWd3QkRUQm5obTNSY21iRDMzbUwxMlV2S2N5bEZxUl9pdElYTTRveG5NZENKZzhmMFVIbkVLM01R?oc=5",
-      "summary": "현대차 '30년 요람' 튀르키예서 아이오닉 3 첫 생산…유럽 전기차 시장 노린다 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-14T23:45:00+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "“슈퍼카도 전기차 시대”…포르쉐·로터스, 韓시장 공략 풀악셀",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yYkN3eTBTcHF6THhCYzRKRWZrQmVpY2Q4VTNBSFAyMWxXX3lUS1AxZUgwTG11X0dBZnBGZXpaUlZYT0thMnJRWERKS1psWXNFWE9zaURmZzUyeWNYN3VPeXZyTGc?oc=5",
       "summary": "“슈퍼카도 전기차 시대”…포르쉐·로터스, 韓시장 공략 풀악셀 서울경제TV",
@@ -2016,8 +2036,8 @@
     {
       "title": "전기차 20만대 시대…타이어 관리 기준도 바뀐다",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CZllxaUExNktVQWQxWXJOSWhsZFYwUGxPTl9LWmZRYlJNTjhUQXJZcTBkbkJZLWhUdmJMUnp5b2wtOVNYNTFnS0xsYkdXeFp1cXoxRGExVG9TRDA0bE9KRzZnWUc?oc=5",
-      "summary": "전기차 20만대 시대…타이어 관리 기준도 바뀐다 디지털데일리",
-      "source": "디지털데일리",
+      "summary": "전기차 20만대 시대…타이어 관리 기준도 바뀐다 ddaily.co.kr",
+      "source": "ddaily.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-14T23:00:00+00:00",
@@ -2121,16 +2141,6 @@
       "domain": "electrek.co",
       "category": "international",
       "published": "2026-08-14T21:16:45+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "95% 효율 무선 충전, 전기차 생태계를 어떻게 바꾸나",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DTXUwS2FjUEVEbkdQRjFiSVRjaW5SZVEyeHFhbUpMbG1pQWVDbE5nSDZmSUUxWmhlaFlfVWxyamxCYXlQdFJXbDBR?oc=5",
-      "summary": "95% 효율 무선 충전, 전기차 생태계를 어떻게 바꾸나 뉴스N연합",
-      "source": "뉴스N연합",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-14T20:48:50+00:00",
       "byd_ev": true
     },
     {
@@ -2296,8 +2306,8 @@
     {
       "title": "현대차 1호 해외 공장, 아이오닉3 양산 시동…유럽 전기차 공략",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LamxxN0tXbmJtVzhadVEzTjNNbHhlZlpYVzlvU2FSMVNUZ3daNmdOV3pKMVdIQ3kyRjVZRTF4YVBsYnMwQktqUE9OUzZXTnBvQlFiSDRKNWM1SHPSAWBBVV95cUxQWkpLdlF5YVJac2djb3Z0ek1aaUlZRXZ5WC1IemZFXzNudjBjcGtBcWFaMUJuRHN0UVpHS0ZQSjBWUTFDQmFLVXBWdkR6dHhaRDl2SER5ejM4TS1jaUVfcEk?oc=5",
-      "summary": "현대차 1호 해외 공장, 아이오닉3 양산 시동…유럽 전기차 공략 연합뉴스",
-      "source": "연합뉴스",
+      "summary": "현대차 1호 해외 공장, 아이오닉3 양산 시동…유럽 전기차 공략 yna.co.kr",
+      "source": "yna.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-14T15:24:14+00:00",
@@ -2311,6 +2321,16 @@
       "domain": "teslarati.com",
       "category": "international",
       "published": "2026-08-14T15:06:24+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[사설] 중국차 빗장 거는 美·EU…‘한국판 IRA’에 전기차 포함해야",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTNEJlRTVLYzBUNUNZSzh4N3VKVTZlQnFuUlkwT1o0TzVsM3NvaERCemEyY0FHTUtzb1hfVU4ybmNZaGZMQVItM0pGbERfTEhBa1E?oc=5",
+      "summary": "[사설] 중국차 빗장 거는 美·EU…‘한국판 IRA’에 전기차 포함해야 서울경제",
+      "source": "서울경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-14T15:01:03+00:00",
       "byd_ev": true
     },
     {
@@ -2391,26 +2411,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-14T12:46:56+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Evenflo Recalls Revolve180 Litemax NXT Child Seats Over Safety Issue",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHNWLTQwYTZaRU5JQ21NZkNxOVppTm9NOXo0ZUhPcTQwblpoeTEzUF9ZWWVWZ3Q4MXU5aWxsYXpNN1RNcTd0cjYyU2NZMWtuTHVVMUNaRE9LUE1mTWUwTFVQNEIzOWpXMFhqMGZPcmQzMjFyTUlSRXVIU25Qb2l3RXRvNUxJWTZqQzk5MDdFQ3J6N2tLVEt2QWlabw?oc=5",
-      "summary": "Evenflo Recalls Revolve180 Litemax NXT Child Seats Over Safety Issue Franklin County Free Press",
-      "source": "Franklin County Free Press",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-14T12:44:17+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
-      "link": "https://insideevs.com/news/804844/tesla-fsd-streak-25k-miles/",
-      "summary": "Tesla gamified its Full Self-Driving system with streaks. Critics argue that it's more dangerous than good.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-08-14T12:00:00+00:00",
       "byd_ev": true
     }
   ]
