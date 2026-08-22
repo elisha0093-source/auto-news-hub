@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:46:54.697828+00:00",
+  "generated_at": "2026-08-22T06:49:15.728451+00:00",
   "counts": {
     "domestic": 60,
     "international": 60,
@@ -7,6 +7,76 @@
     "byd_ev": 60
   },
   "domestic": [
+    {
+      "title": "테슬라, 중국서 298만대 대규모 리콜…전동식 손잡이 안전 결함",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eXdac1p3QTVhYUZ5VGNtYzVORzJPc2JzMFNRWERuU3h0RHhGSWhiRkZvYUVlYVpjSkJMc08tWUQ5QXlpaWhUTGpKMVlMU3dZR3NjU1ZTSDFFTERtd00w?oc=5",
+      "summary": "테슬라, 중국서 298만대 대규모 리콜…전동식 손잡이 안전 결함 헬로티",
+      "source": "헬로티",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T05:51:42+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라, 중국서 298만대 리콜…중국이 ‘게임의 룰’ 바꿨다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEY2FzM014eVhTc21za0JGS2x1T3FqOXYyWmtfTHJ6WXVrUmFFN2ZwRk8tVVJZVXpuaHBQaFdUMnRHUlNENXEyZ1AxbzV4ZFZidTg2cU1Ma2RsYnRjblJrMWtpUkhrQVVh?oc=5",
+      "summary": "테슬라, 중국서 298만대 리콜…중국이 ‘게임의 룰’ 바꿨다 OBC 뉴스",
+      "source": "OBC 뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T05:28:42+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"북미 EV 고객 사로잡는다\"···한국타이어 '아이온' 풀라인업 앞세워 공략",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGSzdNMEVlM2FRYm1wWVRwcjJuaDREOWlTY0RpYklDZzJZZ1JUSUFUcTNLTjc5bjAtcVdqMDhQdzFaanA1NEgxZE40TzlocnM?oc=5",
+      "summary": "\"북미 EV 고객 사로잡는다\"···한국타이어 '아이온' 풀라인업 앞세워 공략 v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T05:00:07+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "현대차, 3분기 파업 손실 누적...4분기 가시적 실적 개선",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGUHJqSXAzNnNKTWVOTFFuY283QjA3NWQxcE0wTTVGSWFBWVcyQ3hoUnFYSkRES0NfWmI3Z25veDk2cURVT1dLMVVhMjB0Q3M?oc=5",
+      "summary": "현대차, 3분기 파업 손실 누적...4분기 가시적 실적 개선 v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T04:34:57+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "54년 된 구형 자동차 27억원에 팔려",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jcFd2TDZBaDYycXhwQ2ZvQW53aVZWdWlHQjdWaEJhRXdWTXBOXy1pMS1MUkdIR0RtZUFoWkhBbl9XbmdFZ2JkWWFWay14WGo0ZmlJTVNlemdTOGtYQ0NhbndMQUlYcTRfTjNz?oc=5",
+      "summary": "54년 된 구형 자동차 27억원에 팔려 Korearetro",
+      "source": "Korearetro",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T04:31:06+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "테슬라, 중국서 298만대 리콜…“충돌 때 문 못 열 수도”",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14VWZPVHdlWlJLSWtKWU9Ndll4SG9QRmR3eHlCZ1JPaFVpMEhYMlpLcndmb25NOFNLemtiamxLa3FEWkNqdWkzekN2ZE40V2pxX0huY01vblJUbzlsWTVOUVJBNTA?oc=5",
+      "summary": "테슬라, 중국서 298만대 리콜…“충돌 때 문 못 열 수도” 포쓰저널",
+      "source": "포쓰저널",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T03:48:28+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[갤러리] 체리 아리조 7 공개 - 신형 아우디 A6만큼 아름다운 중국산 자동차",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdU0xSGN1X252dGJ5MFR0dElIZ0xMZTFmQU5yeFFtY09VWVZsMlJselV4NWxLa3I3Sjd4RloxZENnaE9McU9tdFJsS0hYRU1RWXV4d0ZfOEZndkhYYzJzc2NyeF9zU3VmV0VsaTNlb0YwTExSY0lRWUxpNGdRS1pNcVRKZkJ1Z3JZS29MSzllSlVsQzhf?oc=5",
+      "summary": "[갤러리] 체리 아리조 7 공개 - 신형 아우디 A6만큼 아름다운 중국산 자동차 Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T03:42:03+00:00",
+      "byd_ev": false
+    },
     {
       "title": "'휘발유 자동차가 주된 유형이고 전기 오토바이가 두 번째이지만, 사실은 그 반대여야 합니다.'",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakNRc2FWa19FRGhPc1l4c2prT1pOeFB3aEdKUGZIekxqcGdyeFlwa3l0SWRCNGtIQVJGYVptUnNBM0Z1RS1XalY2T0hPSE03MzJ1MnVFc050M2p6MjBXQ2VuYWpjWEhxWG41MDlFQWx1OHpFamYyVkhWcGZnY3F1Z0hmWnRHajExREYzZm8ydDk4T2p2UXFuVGdJWjlmLXk4T3c?oc=5",
@@ -49,22 +119,12 @@
     },
     {
       "title": "중국 전기차 수출 급증…내수 둔화 속 해외시장이 새 성장축",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EaTBHN1BHTmJnTFFkeVNkbmxrYl90WFlESDJCN2VxY3FpT1RucVhOVnpNVXhERnBKN1hYQ1VjbUVXQlF1SmFfLUNB?oc=5",
-      "summary": "중국 전기차 수출 급증…내수 둔화 속 해외시장이 새 성장축 뉴스N연합",
-      "source": "뉴스N연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hd19DUVY3SzZUclJHczltdU45UVdDNXNPVGJuNE5CZzdPZ1VpNzFUWkUyYkJOTEk3ZThVaTNHMU1pRFI2WThLck9RcTNrUFRJVWc?oc=5",
+      "summary": "중국 전기차 수출 급증…내수 둔화 속 해외시장이 새 성장축 유스연합",
+      "source": "유스연합",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-08-22T02:55:04+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "중국 가상발전소 확대…태양광·전기차를 하나의 발전소처럼 묶는다",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xU2JhMWpQVVlZYXRPX1piOUZJdloydGYtcHVDOWZ2ZUszRWxLNW1yYTdqQ0NqZDd5UzJVY05PS2RndTNXZkJRMlJB?oc=5",
-      "summary": "중국 가상발전소 확대…태양광·전기차를 하나의 발전소처럼 묶는다 뉴스N연합",
-      "source": "뉴스N연합",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-22T02:55:04+00:00",
+      "published": "2026-08-22T02:43:20+00:00",
       "byd_ev": true
     },
     {
@@ -75,16 +135,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-22T02:03:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라, 중국서 차량 300만대 리콜…\"사고 시 손잡이 안전성 우려\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CVEhYUkJuVzRyY2tsbUJ4bFIxMDU1S2tKZ1dabXFFekVJNERtRDUzNWRxSjdGZlpMaDJpUXh1cmt1WW11REpEeGJzRGVHb1E?oc=5",
-      "summary": "테슬라, 중국서 차량 300만대 리콜…\"사고 시 손잡이 안전성 우려\" v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-22T02:02:42+00:00",
       "byd_ev": true
     },
     {
@@ -249,19 +299,19 @@
     },
     {
       "title": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 ‘일상’을 바꾸다 [ET의 모빌리티]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NSk9fWjN4YmxaU3dnaTV0VXdyMGZmcUhndzZYamVuc0FUWU9sTGdVd3JRWG5mUzZxU1NDRURITHVZOXhLb2RpLUVsZnJZbWc?oc=5",
-      "summary": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 ‘일상’을 바꾸다 [ET의 모빌리티] v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-22T00:00:08+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 ‘일상’을 바꾸다 [ET의 모빌리티]",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPb2l1TlRoQXpTSGtiUXFua0dwQzBZeVNRWXEyalU4VjdON21CTTltdTlsTFpmTUFOdm9BYmtpdlRWLUtUcDhnTnR4emh2UmY2YmtaYQ?oc=5",
       "summary": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 ‘일상’을 바꾸다 [ET의 모빌리티] 이투데이",
       "source": "이투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T00:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 '일상'을 바꾸다 [ET의 모빌리티]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xRi0wS3JfcWdoT2lpaXpKaWxIQ3FlUkVOdkEtRzBtN05jeTc5RmpON21iQnpOdldzUGFXaHNLRXQ2OTk1Q3FncDVfdEFFeXlxM1U0?oc=5",
+      "summary": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 '일상'을 바꾸다 [ET의 모빌리티] 네이트",
+      "source": "네이트",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-22T00:00:00+00:00",
@@ -318,16 +368,6 @@
       "byd_ev": true
     },
     {
-      "title": "테슬라 中에 판 차동차 300만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9laU9mb2MzREZDcDdBcDliUUZUNTB1NU9oUUhGRllGUjZFSlhfcmZDZTJWTzZaZmVWV2JyLWlRdkFkLTE0Ylh0eEY0MExGcTA3S0lobndBSXlvS0FUNTlVUUNDbGlZMjBnalg5MtIBcEFVX3lxTFBVcWd4SWhvSVgtMFRLMFhidVFLckt4bGN2NzlGRFh6OG1acDc3dkR4eU9rNGdqTDQ4WGlENlIzRXUzTXFZMnBPLVhIV3VNMjFBN2Y0VWF3OXRnaXU3cG85RGZHSEdpWng0YklzSmtvT1E?oc=5",
-      "summary": "테슬라 中에 판 차동차 300만대 리콜 뉴스에듀신문",
-      "source": "뉴스에듀신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T23:16:54+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "안성시, 8월 25일 체납차량 일제 단속··자동차세 3회 이상 또는 30만원 이상 체납차량 등 대상",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94anpMcksyMm5MbVRNckpYTWI1MmU4eDVucmtta1lzYVRpYnFNZGhGR2xMemN5TTFuX1hIUHlhRUF3cGV6cUZyNllWWGFVYVplUS1ZUWd3UzVWQlRUOXVvZjBNWERBZw?oc=5",
       "summary": "안성시, 8월 25일 체납차량 일제 단속··자동차세 3회 이상 또는 30만원 이상 체납차량 등 대상 asns.co.kr",
@@ -336,6 +376,16 @@
       "category": "domestic",
       "published": "2026-08-21T23:11:00+00:00",
       "byd_ev": false
+    },
+    {
+      "title": "이것도 대륙의 실수?…BYD PHEV, 전기차 감성에 충전 걱정 덜었다 [시승기-BYD 씨라이언 6 DM-i]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBeGNHZEpBcDVNMUxORG1vc1FCWjVXLXJTQmk5b1FMTzIwSmEwMzM0Q1NxcF9nVFpDRlR1TTl4NmtLR001eEJCMWRGRzdjNDg?oc=5",
+      "summary": "이것도 대륙의 실수?…BYD PHEV, 전기차 감성에 충전 걱정 덜었다 [시승기-BYD 씨라이언 6 DM-i] v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-21T23:02:13+00:00",
+      "byd_ev": true
     },
     {
       "title": "차값 이어 충전료도 할인…현대차, 美 전기차 고객 잡기 총력 - 머니투데이",
@@ -348,24 +398,14 @@
       "byd_ev": true
     },
     {
-      "title": "차값 이어 충전료도 할인…현대차, 美 전기차 고객 잡기 총력",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uZU04d0tkd21QZzEwZ0RwanQ2bWVYTGpPN1plUThrcDZDMlhDODlIUkhsN0lMeWwzVWFrTVRKZkZhODAyZ3dCRGcwaXlCRFgwUGtv?oc=5",
-      "summary": "차값 이어 충전료도 할인…현대차, 美 전기차 고객 잡기 총력 네이트",
-      "source": "네이트",
+      "title": "“고객이 차량 테스트 인력 됐다”…中 ‘속도전’에 커지는 안전 우려",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EX2E1Y3laOEEtX3FPOEZSRzA1bmI2OVFnaTZCdkJmYW4yQy1tTUFBMk4tMDBFZWJhcmhlYWhrLVdkbWZDOFVnOS05ZzdhdXBBNmQ5WXhzUVRaTUYwUmtUbDdIS2I?oc=5",
+      "summary": "“고객이 차량 테스트 인력 됐다”…中 ‘속도전’에 커지는 안전 우려 서울경제TV",
+      "source": "서울경제TV",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-08-21T23:01:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "\"꿈의 배터리, 이제는 양산 싸움\"…현대차·SK온이 팩토리얼에 베팅한 이유",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRNG9rbThTWlpQakxxN2RDLVhNSjZrbUZGdTdEaW9SbFk0VzJ3R29LdEgxX2lOdWVleHpaQjRQMTdhci1qNUkwUXNXLVpaVWc?oc=5",
-      "summary": "\"꿈의 배터리, 이제는 양산 싸움\"…현대차·SK온이 팩토리얼에 베팅한 이유 v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T23:00:06+00:00",
-      "byd_ev": true
+      "published": "2026-08-21T23:00:10+00:00",
+      "byd_ev": false
     },
     {
       "title": "이것도 대륙의 실수?…BYD PHEV, 전기차 감성에 충전 걱정 덜었다 [시승기-BYD 씨라이언 6 DM-i]",
@@ -398,16 +438,6 @@
       "byd_ev": false
     },
     {
-      "title": "테슬라 '매끈한 손잡이'가 발목 잡았다…中서 300만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYQkZvSjhtY3JvM2pob01EbzB4WmtJei1VdUxQcHBRNWdmU1JpNzhRVkxVWE5UZ3l4X2xtYXpNNElRaWt5VlpoVkc0Y1hjWHZSeXljWGt2TlAxZw?oc=5",
-      "summary": "테슬라 '매끈한 손잡이'가 발목 잡았다…中서 300만대 리콜 한국경제",
-      "source": "한국경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T22:28:30+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "中 전기차, 남미 잠식…브라질 점유율 25% 돌파 '충격'",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlNwdWY5MjBvWGVOdFZvcnYtTlBkMDhkOXFqUDg3NXQ1bTRLNnY2NFR1ZFVrTWtyX3BKVWxmY2ZpS0RZOW9EWWtXWmdUTlhpVjV6SV9NZGZmRlZFdFNWVHd5U3NqRFpxT25QM0ZOazVUaFVaVnRvN2d6ZnBWS3ljbDgtZmJNMHhw?oc=5",
       "summary": "中 전기차, 남미 잠식…브라질 점유율 25% 돌파 '충격' 글로벌이코노믹",
@@ -416,16 +446,6 @@
       "category": "domestic",
       "published": "2026-08-21T22:20:13+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "[타보니]\"출퇴근은 전기로만\"…장거리도 문제없는 씨라이언 6 DM-i",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DZV81T2F6ZTF6cDVBX3AtTGdfdWpsYjByV3N6UzByLTNCUGV2X0RabkMwQTl1aVljY25SWFllT0VRWmRZX2ZHYk9xOFhmWGs?oc=5",
-      "summary": "[타보니]\"출퇴근은 전기로만\"…장거리도 문제없는 씨라이언 6 DM-i v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T22:01:49+00:00",
-      "byd_ev": false
     },
     {
       "title": "국산차 업계, 까다로운 한국 대신 ‘제값’ 받는 해외로…가성비 시장은 ‘무주공산’",
@@ -458,16 +478,6 @@
       "byd_ev": false
     },
     {
-      "title": "늘어나는 차량용 개인정보…다른 제조사는 어떻게 처리할까 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsTXU4R05qZEJrYmc0Nm5rVG1uQTgzX1Q3bUs5Tkh5N1NFY0s0dElUazlFbnlyUHV1UGVSY0RNQ2I2Q2JhNldST0trcTljX0RSQ0w4M0FSS1RWRUhfN1k4ZzR2RE9zcUXSAWxBVV95cUxPNG1XV3hFaEpwV0ZDeGtuMGk3WjVuVDJyZ2ZodDhHMkZYUmdNTWMwb28wRUN6em1EYk5zUlllcWRrOTJtTW5ycnNSekZTbWVqRXc2Y2dldEZoUG1YYVpScUNqN1BaQi1HUW54bUM?oc=5",
-      "summary": "늘어나는 차량용 개인정보…다른 제조사는 어떻게 처리할까 - 머니투데이 머니투데이",
-      "source": "머니투데이",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T21:10:00+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "렉서스, 가솔린 모델 연이어 단종 수순... \"하이브리드·전기차만 남는다”",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TS3d0VzRTZzRQNDNGT21KMlpmb3hfZDI1NExxWkdFeXZwYVRNN3FGRkdVNExteDNQTnd3V01yZ1o4QUctS0d3WUZEQi10TDFSMVBHVlFhcE5sVXR0UDdjSjE3N1ZXMTVfY01HOUdfNVo?oc=5",
       "summary": "렉서스, 가솔린 모델 연이어 단종 수순... \"하이브리드·전기차만 남는다” 오토트리뷴",
@@ -485,16 +495,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-21T21:01:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "[단독]지커 운전자 위치·주행기록 중국행…음성 데이터 中업체가 처리 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzQXdVS29lTWdwZ0x0VnBHMWNxblJTYjByU0gtWWNfYnRZbkVQNDB2Ylk3ck01YzZOT0I5U2hMRUFfR19acllET3BQVm1YenZHdi1oa21tN1ROY2ZMRGJsOGNzMEJMVUHSAWxBVV95cUxQZlZqbmtmXzJlelBqSW4zWFQwU0V6T0JKV3FZVHVOOUtaRTVqTVlaZVNRaWhQTllHeXI1UGJtQkM1TkZWMElwV1M2WDF5NmtqVVRjN2t3MERlWjZMZlRWWDNSUzZ3THljUVhiMU4?oc=5",
-      "summary": "[단독]지커 운전자 위치·주행기록 중국행…음성 데이터 中업체가 처리 - 머니투데이 머니투데이",
-      "source": "머니투데이",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T21:00:00+00:00",
       "byd_ev": false
     },
     {
@@ -609,6 +609,16 @@
     }
   ],
   "international": [
+    {
+      "title": "SpaceX and a new Trump order that could rewrite the next decade of launches",
+      "link": "https://www.teslarati.com/spacex-and-a-new-trump-order-that-could-rewrite-the-next-decade-of-launches/",
+      "summary": "Elon Musk put a number on where he thinks SpaceX’s Starship program is headed by 2030, replying on X a day after President Trump signed a me…",
+      "source": "Teslarati",
+      "domain": "teslarati.com",
+      "category": "international",
+      "published": "2026-08-22T05:42:49+00:00",
+      "byd_ev": false
+    },
     {
       "title": "NHTSA Opens Investigation into GM V-8s That Won’t Stop Imploding",
       "link": "https://www.caranddriver.com/news/a73497654/nhtsa-investigation-general-motors-v8-failures/",
@@ -1198,22 +1208,82 @@
       "category": "international",
       "published": "2026-08-20T17:13:34+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "Tesla admits to slow Model Y Robotaxi integration, but for a good reason",
-      "link": "https://www.teslarati.com/tesla-admits-slow-model-y-robotaxi-integration-good-reason/",
-      "summary": "Tesla welcomed JPMorgan analysts to one of its factories earlier this month, with the Wall Street firm highlighting its findings in a new no…",
-      "source": "Teslarati",
-      "domain": "teslarati.com",
-      "category": "international",
-      "published": "2026-08-20T17:00:13+00:00",
-      "byd_ev": true
     }
   ],
   "official": [
     {
+      "title": "\"고무 망치로 두들겨 확인?\"...토요타, V6 엔진 리콜 대응 방법에 북미 소비자 불안 가중... : 네이버 블로그",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFduSTVzWG5QZ1FSWlozc0hkbG5IdU91X29lQ3V2Njlyb0pJY19wWUw4VExzN2hjV1kxNnZXdXdiVk9iVTBFN0MzN0VvSnZ3eUhueWQ0VHB2X1BZOXRFSWE5NURrWkFLVW5aRGNkNW0xLUpQelJrUmtxSXhUY2J0S281emFvSGxaMWhQU1BrUGdTVWloWXoxNA?oc=5",
+      "summary": "\"고무 망치로 두들겨 확인?\"...토요타, V6 엔진 리콜 대응 방법에 북미 소비자 불안 가중... : 네이버 블로그 Naver Blog",
+      "source": "Naver Blog",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T05:07:56+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "테슬라, 중국서 298만대 리콜-매립형 문손잡이 안전성 문제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eDlFV295ZFRfNlpCcDdDS3hQTmlYZ0Q5NUdfUTczLUxmdlZTdGlaZnRjOHB6ODhvQm81aUwwZVVlNXY3OFBPamhNZ1RjTTZ2d29sUWlXQ3lNTTN6VlVDRVVTY1FsNExYUkllVkNn?oc=5",
+      "summary": "테슬라, 중국서 298만대 리콜-매립형 문손잡이 안전성 문제 미디어파인",
+      "source": "미디어파인",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T04:29:48+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[자막뉴스] \"사고시 문 열기 어렵다\" 테슬라 300만 대 중국서 리콜 조치",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abUJkYXlOLVN1cXBKV0NFZ3NEUE1uQzNHellDMi1qZ19QbG5uV08yREM0OUIwdlYzRTdRa25YeVlQUFY0OFg5RkpNSEtZdVp0a1pB?oc=5",
+      "summary": "[자막뉴스] \"사고시 문 열기 어렵다\" 테슬라 300만 대 중국서 리콜 조치 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T04:13:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라, 중국에서 298만 대 리콜…비상 시 문 열기 어려워",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hb0ZPZlVOQnJISGNtNVJvWm45QzdKbjFEMlQ3TlN3OFBVb0U1MURxUXZSZHFmb1F6NXVYbjVFd21NRFg4Q3VkX081b1VGeVQyc0dj?oc=5",
+      "summary": "테슬라, 중국에서 298만 대 리콜…비상 시 문 열기 어려워 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T04:09:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Recalled autos surge to five-year high despite fewer recalls",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3Z0OTZwTWxHU2pvSFNsYTQ1dVZ0ZXNCaEJmbXJsazNsWU5JT2dhSmhkMFc4YkdaRnVpOXZXWEF4VnozaS13TV9oOEM1UURwLXFZcHFJTExFSnFWNVRwemg0QTExaS1rZndlbWkxVFc5dXBqdEJ6NnBLTlFic0NnVzBxaWdPaVZFRXR5MWJvY1REd1dScFRtVjRVZnBwWTA5LXZGb3lCZjVfUWtMUHFiY0VFT0NCLW1PV0x6LQ?oc=5",
+      "summary": "Recalled autos surge to five-year high despite fewer recalls The Detroit News",
+      "source": "The Detroit News",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T04:01:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "“사고나면 문 안 열릴 수도”…테슬라, 중국서 298만대 리콜한다",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PY2JVT2U0RDdIYU04SU1hUnJyeWhsVTY3aUtVVHZOTlIxZi03MFE1bXJlZGpTTHpPbU9qbUdvQ0g1akdScXJKcll3VTZHSnJ6UWdQSVlR?oc=5",
+      "summary": "“사고나면 문 안 열릴 수도”…테슬라, 중국서 298만대 리콜한다 중앙일보",
+      "source": "중앙일보",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T03:46:05+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ieFR5NHU5U0lnOGFGR2V3NlpwZXMwby0wNUUxOXhuSG14T1FKdTJrQWh6aHhneTJBVnNfNG9aS3Q4dXJFN05ndDBJZzF3ckN2ekVSS3Q1M3RWWWFhaEM1N1NkaGZxRkc0cUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVYUJtSmhseGtIRmNDR0lHVW1NRnFHNWw0SGpCQzlJZ05NWERORjdYSUhCZGFneTNWMUZFdS14RUtpQVNNT2VzeGViNWFvQThoZW9F?oc=5",
+      "summary": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T03:33:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ieFR5NHU5U0lnOGFGR2V3NlpwZXMwby0wNUUxOXhuSG14T1FKdTJrQWh6aHhneTJBVnNfNG9aS3Q4dXJFN05ndDBJZzF3ckN2ekVSS3Q1M3RWWWFhaEM1N1NkaGZxRkc0cUHSAWZBVV95cUxPempWWlpZNzJ4QmdpR1RCZnd3TU93MU1faG1VeFR5UThCRk92bGdKR0l0Vkh6dnBTM3gxaHc4TlBFS25id1FYQjFDYWpNMDlaS3A3NnlPb0F5cnFxQWZQbGxLV2k0akE?oc=5",
       "summary": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜 news.sbs.co.kr",
       "source": "news.sbs.co.kr",
       "domain": "news.google.com",
@@ -1233,12 +1303,12 @@
     },
     {
       "title": "테슬라, 중국서 차량 298만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nSHpTSDgxdEhTQWloTzdxbVRadk1BazZsRGZuWUFTR3pGMm9LeTgzbHhaWHlGMmJvVThhb2VLbXpPVHU4eFdqVXE5TWpCaHNOTHNJ?oc=5",
-      "summary": "테슬라, 중국서 차량 298만대 리콜 네이트",
-      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0SWJJcEtDU05ENkNjZmo5VTZ3azVaeDVKX1ZGVDF1LUFhWHRGenAwRzdBa1Rlb3VoQm9SWmFIQlppdjNGSmxXMVNrb3BtY0FPNnZwUjVPUdIBUkFVX3lxTE5nX3RWZ2lCV3JIRlM0dktjT3FGSUJYSVZPNFVDVmFEN2FLcDJVRW9obElpaF9hWTgxSjJQOS03LWI5RVpOX19IS3R0S1pZeG9UTHc?oc=5",
+      "summary": "테슬라, 중국서 차량 298만대 리콜 더팩트 “사고 때 문 안 열릴 위험”…테슬라, 中서 298만대 리콜 아시아투데이 테슬라 중국서 300만대 리콜 뉴시스 [자막뉴스] \"사고시 문 열기 어렵다\" 테슬라 300만 대 중국서 리콜 조치 news.sbs.c…",
+      "source": "더팩트",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-22T02:33:00+00:00",
+      "published": "2026-08-22T02:29:36+00:00",
       "byd_ev": true
     },
     {
@@ -1252,6 +1322,16 @@
       "byd_ev": true
     },
     {
+      "title": "테슬라, 중국서 차량 300만대 리콜…\"사고 시 손잡이 안전성 우려\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRlFCSHQzY1hQSmFQR0k1akNjSmt0ekRlRHJHY0hrdGtKTHJTcURyVUxZeEJzUFpHRmJGMzFrY0ZFUC1NSjlwZllnT1Fhbjk4UndHTHE0Y3FPOEx5UlHSAWNBVV95cUxQRVc4aTV3dHowbTJuVW42a2lja1FOT0lSMTU1ZlFHb3ExVlNrcVF4bkViS2ZpZ1k0aWFSYTJ4Ym5XYXdjc2VlMzNkajNkRHJ1NGtqTGxmN0xnYTgwQTJNTDZ2OE0?oc=5",
+      "summary": "테슬라, 중국서 차량 300만대 리콜…\"사고 시 손잡이 안전성 우려\" 뉴스1",
+      "source": "뉴스1",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T02:00:49+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "[속보] 테슬라, 중국서 약 300만대 '리콜'…\"매립형 손잡이 위험\"",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15eVFEYXhBWklYb2tqYkJ0T0x3MkRYMFNkSUlxU255VDFUdHQ5RjFTa1ZKSVp6VXd0Yi1fcEVzbnRfY0xpcWFaZk00dUh0am5wQWZvWmNHYU5OY2c4NHoyTjl2dEJxamtSQkY3ODZXell1NWtJcEUxQWZaWQ?oc=5",
       "summary": "[속보] 테슬라, 중국서 약 300만대 '리콜'…\"매립형 손잡이 위험\" 프레시안",
@@ -1260,16 +1340,6 @@
       "category": "official",
       "published": "2026-08-22T01:49:54+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "Explainer: What we know about the door handles that triggered China’s record auto recall",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVFnZlg4MklOSXlhdmNXS0VaZGRGUk9XVEVjUkRaVklONF8teVFGT1NVUVk0NE84bGRYS0s2NzhXNTdpWkxZN0RPWjNiY3hiRDgteFBZTlAxbEZKN2xTY1Y2M2tkUnJLcUZsSnZ1UHJJV3lmQjB3MHlwZExXaDVYUjVVMmdsRUJIOXhnNHBhckM3RGo0ZXIwTGlwX0FmQmtDd3JNdEdSYWVoWS1sX0V6VkFPbFNDazhOUW1aRW9DVjRzRmQtelJMaml3?oc=5",
-      "summary": "Explainer: What we know about the door handles that triggered China’s record auto recall The Straits Times",
-      "source": "The Straits Times",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T01:36:00+00:00",
-      "byd_ev": false
     },
     {
       "title": "테슬라, 중국서 300만대 리콜 결정…\"사고 때 매립형 손잡이 결함\"",
@@ -1342,33 +1412,23 @@
       "byd_ev": true
     },
     {
-      "title": "테슬라, 中서 300만대 리콜…“매립형 손잡이가 화근, 사고시 문 안 열려”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jRlRLYTVuaDhIbVBIcFdZb214b0VlcDNDWm5uQXdZYjBON084eXI0Sm1ad1hiX0JrN2JYT1NOTXFKY0pNcExKRE04blVtUQ?oc=5",
-      "summary": "테슬라, 中서 300만대 리콜…“매립형 손잡이가 화근, 사고시 문 안 열려” 전자신문",
-      "source": "전자신문",
+      "title": "테슬라, 중국서 300만대 리콜…매립형 손잡이 안전성 논란",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRWZGU1NqZG56d29KdUtFRS1VemYtVnlSbnk1NTRHSWFjbjZoSE1QWEdxVERDc1JrTTgzeTVhdzZLTzBzOEg1ZlpOdlRja2tDUTl0QXo3dE1SeVB4R1owOGZFNUktWDZxdWVCQS1GSQ?oc=5",
+      "summary": "테슬라, 중국서 300만대 리콜…매립형 손잡이 안전성 논란 위키리크스한국",
+      "source": "위키리크스한국",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-22T00:24:31+00:00",
+      "published": "2026-08-22T00:23:00+00:00",
       "byd_ev": true
     },
     {
-      "title": "테슬라 중국서 300만대 리콜…도어 손잡이·주행보조 결함 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xTzdGOHl3NmlOc3RIeVRBUHk2WXhiWElPdHdSRFBCSHZyOGF5LWZwamx2SFhvV0FuMzdCWmFHZTVTc2NxNGhpdTRkWE16QWRGY09kQkpCUjY3U09QbmdYQnFEXzlsMEht0gFuQVVfeXFMTWpKV2R1MDIxZGR2Ri1qalVoYTBHRk9VWmdnTWNIdThJcm1GVlh1WGo0dzdBRjlXa0pENk52RFVoNjFGYlVhZlRBdkN0SmVTQmFKSHF2YjU0Ql9vMmxpc0xWVzdHTjRReHdJVWFJTEE?oc=5",
-      "summary": "테슬라 중국서 300만대 리콜…도어 손잡이·주행보조 결함 - 머니투데이 머니투데이 테슬라 中서 298만대 리콜…전동식 문손잡이 안전성 논란 v.daum.net “사고 때 문 안 열릴 위험”…테슬라, 中서 298만대 리콜 아시아투데이 中 테슬라 300만…",
-      "source": "머니투데이",
+      "title": "테슬라 중국서 300만대 리콜…도어 손잡이·주행보조 결함",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzMk43VVlrMmNCN0ZMOWdTem9tV05tSTZidlFVd19aZWN6ZGtYWjFGajZVTzNaUlFmNnpiRW9vejlYcmZoT012YWYyWE1jM2J0MmFB?oc=5",
+      "summary": "테슬라 중국서 300만대 리콜…도어 손잡이·주행보조 결함 네이트",
+      "source": "네이트",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-22T00:22:46+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라 중국서 300만대 리콜…“사고시 탈출 지장”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iZ0doRmtnOE96Z0JEOVJZbV9PNVJmSGRsVGw5a040TUJiWUExci16RmdTaGR2dDJzelV6dFdZQW55ZnNieHZmd3BqeUhHUzNtNk9qTXFHZnJfNmU2OHfSAWNBVV95cUxPZzlsT21FM1lzR0RBc0VJaVJlcy1pRVFYeTVFTGFrZEU3VzFjdU1MN19CaWNfUXoxbkVDYUpBdzZGTHI4dFFHSGtadFl0RVFOUURhc19LcEFvdUxIWk81TnI4QnM?oc=5",
-      "summary": "테슬라 중국서 300만대 리콜…“사고시 탈출 지장” 채널A",
-      "source": "채널A",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T00:19:00+00:00",
+      "published": "2026-08-22T00:23:00+00:00",
       "byd_ev": true
     },
     {
@@ -1452,6 +1512,16 @@
       "byd_ev": true
     },
     {
+      "title": "테슬라 中에 판 차동차 300만대 리콜",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9laU9mb2MzREZDcDdBcDliUUZUNTB1NU9oUUhGRllGUjZFSlhfcmZDZTJWTzZaZmVWV2JyLWlRdkFkLTE0Ylh0eEY0MExGcTA3S0lobndBSXlvS0FUNTlVUUNDbGlZMjBnalg5MtIBcEFVX3lxTFBVcWd4SWhvSVgtMFRLMFhidVFLckt4bGN2NzlGRFh6OG1acDc3dkR4eU9rNGdqTDQ4WGlENlIzRXUzTXFZMnBPLVhIV3VNMjFBN2Y0VWF3OXRnaXU3cG85RGZHSEdpWng0YklzSmtvT1E?oc=5",
+      "summary": "테슬라 中에 판 차동차 300만대 리콜 뉴스에듀신문",
+      "source": "뉴스에듀신문",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T23:16:54+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "테슬라, 中서 298만대 리콜… 매립형 문손잡이 안전 문제",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kTkpoRmd5N2NFMldPcjNyNEJ5Qzd4ajdaZ3pOMW1pdmZ1bUI3ZmdiT1g4Y3N0OWF3T2EyTGQ0dC1aMWM3ZVVmUHFna3REajQ?oc=5",
       "summary": "테슬라, 中서 298만대 리콜… 매립형 문손잡이 안전 문제 v.daum.net",
@@ -1462,6 +1532,16 @@
       "byd_ev": true
     },
     {
+      "title": "It Took GM More Than 28,000 Failed V8s Before Recalling Its L87 Engines, Now The Feds Are Investigating After 6,000 'Fixed' Engines Also Failed",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFk0dFdKRDZNSmlUM05nSERmQXAxY3Y4VlM2SF8yVnhWeXRuRjlCU2lBTDhhX2hWbnd4THh0czViVFU4UDBKREltdFE1QjNfdFFSQnd5X2NBSDVVMmFydFo0RDFjRmxJM2ZzcG14TkZkb3BPb1JOTU9jUnZObXRidUhzQ3F6aFpZTFU4c0tUNGlqX2ZaRGk2X2ZaT2gzSzZlWERtMFpTR3FickF0OUdKUGtLbEdQbzBjUlFXazJiYWp5ZkxHUExkTW1UVU5SeFdQTl9rWFJXOFkwbGIzQktRVzctWVhoR1NCcDlDSUJWTTJOUWdnRmdHclloOA?oc=5",
+      "summary": "It Took GM More Than 28,000 Failed V8s Before Recalling Its L87 Engines, Now The Feds Are Investigating After 6,000 'Fixed' Engines Also Fai…",
+      "source": "The Autopian",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T23:02:27+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "테슬라 중국서 300만대 역대 최대 규모 리콜···‘매립형 문손잡이’ 안전성 논란",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlQW1US2t5NlhlNnhxOTJJc05wc1Z6WjYyNlRsVEFOV3BvanZaWGFndjBGdmF6VkdRbjZaNDF4VlZjellWamktR1Z0ZDVHZ0U?oc=5",
       "summary": "테슬라 중국서 300만대 역대 최대 규모 리콜···‘매립형 문손잡이’ 안전성 논란 v.daum.net",
@@ -1469,6 +1549,16 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-21T22:57:28+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라, 中서 300만대 리콜…사고 시 손잡이 찾기 어려워",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOThIVkEzdHVXMnhCa01USHBBNk1ObnJrbVpOajNwR2RFMnllbWlLcVE5RFgtdGl5el9QRkpaTFhNaGh4eTNkLV9WT1huWlotWEc4OVBPMDdidTg0aTYzem13SjZhR0c5UHZzTDlfb29zRFdLczdLbkQ1eUxObXE0NV9LSkNFVEZrakpxeG1Vc3drRjFYdWVtcml6VG9BbGZibTF3WmI1R25Dc2dIaGV5dEVGcm1jdzQyM3RZX2xzMkJsSVZicmxycHljLU5lWWw4b1M2eV9mRGFfTzVtREs1UmJCMzd2VDRIbmIzUXBCU0QwT0pqZi00?oc=5",
+      "summary": "테슬라, 中서 300만대 리콜…사고 시 손잡이 찾기 어려워 데일리안",
+      "source": "데일리안",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T22:39:00+00:00",
       "byd_ev": true
     },
     {
@@ -1482,6 +1572,26 @@
       "byd_ev": false
     },
     {
+      "title": "中 테슬라 300만대 무더기 리콜…매립형 손잡이 결국 손본다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2QTgtbzF2ZkRlT2dMbkczMl9sRi12Q0gtekVpcHI2U0VPSnI1SnYwRXNQN3dxX21JUTl5Uk1zVHBZcUdwRHd6UlVzRzBDR0E?oc=5",
+      "summary": "中 테슬라 300만대 무더기 리콜…매립형 손잡이 결국 손본다 v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T22:35:30+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "NHTSA Opens Investigation Into GM V-8s That Won’t Stop Imploding, Despite Receiving Recall Remedy",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1VFMwOUNFQUtmZVFJTDZVSmZGZUVVRm4xQThFbV9MRlhNbFVRVFI4eXI1YzZHVk9rdENMUm4yRkJTN2N2aUt3aENacXE2S0hSR0pWS0EwUHlpRnJka0EyX3JZTmNGVmJKamRxS2tIZmpacXNUTFB3MGRQNVA4WUk?oc=5",
+      "summary": "NHTSA Opens Investigation Into GM V-8s That Won’t Stop Imploding, Despite Receiving Recall Remedy AOL.com",
+      "source": "AOL.com",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T22:34:04+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "안전 문제 급부상... 테슬라 소유자들이라면 꼭 알아야 할 소식",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiSk00dlN2bThEVktTUGdnaUtGdnJoS1NuYzNaYllGUUg1VTVaSjBpdk93S1ZSVjh1aUI0YVhRdTFzNjMwaXBxTWdWdFJZeVRleDBtZkp3?oc=5",
       "summary": "안전 문제 급부상... 테슬라 소유자들이라면 꼭 알아야 할 소식 위키트리",
@@ -1490,6 +1600,26 @@
       "category": "official",
       "published": "2026-08-21T22:34:00+00:00",
       "byd_ev": true
+    },
+    {
+      "title": "The NHTSA investigation into General Motors models with certain V-8 engines has now reached nearly 1 million vehicles. See link below ⬇️ 📸 Provided by GM",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcURnQ2dacXo2R3lFUExHMHVzeGVFd2NRUzJkOTJZd3AtY0dfOW9sS3ZReEY0MVhEa3VYbEtzN1NNYXpKMGhVcTB3ZTdtRFZnWWlvWTRsdnd0YVhHNjFGdmw0SmJidjBfMDJzbzZWemU4YlZ3VGluZkFFSy1OaE9ROWEwVVd6LWxmZkwxa1VKejBMZFlyNDF2djhXUHBpOU9NMmVGaF84NVBKQThFclZyMzk5ckZzbmktdkRRVnlqMzJHMHNPMnk5djFOazNoNjlWR2hGRjk0T1FqSWJXaUtr?oc=5",
+      "summary": "The NHTSA investigation into General Motors models with certain V-8 engines has now reached nearly 1 million vehicles. See link below ⬇️ 📸 P…",
+      "source": "facebook.com",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T22:30:11+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "The NHTSA investigation into General Motors models with certain V-8 engines has now reached nearly 1 million vehicles. See link below ⬇️ 📸 Provided by GM",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeFJ3YmlzeVNXYS12V2VPZUJhTnBDRWZtSU1mTEMwU1Q3V0RjYURQdzhqWWw3WnlKb1Z3c2pranVTWVNYVDlsQ25Vc3JmWmx1MDZkNU56SEJHdmMzS2xzdzFJZEUyQnpTN202aW0wUTh4Q1pHZy0tZ1Z0VG4xeGVzVXBvZWdHYUxJc2x0MnpuajZPSWZFVVBXd013TGgyLXZKR09rOXJPZU5wclRmRnJHc2FGNThRT05lbUt2VW1NT2pSU1BBSVBnZjZTU1dwVGFjTnZaQ2VqVkVza1MzQmZXRA?oc=5",
+      "summary": "The NHTSA investigation into General Motors models with certain V-8 engines has now reached nearly 1 million vehicles. See link below ⬇️ 📸 P…",
+      "source": "facebook.com",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T22:30:11+00:00",
+      "byd_ev": false
     },
     {
       "title": "테슬라 '매끈한 손잡이'가 발목 잡았다…中서 300만대 리콜",
@@ -1572,16 +1702,6 @@
       "byd_ev": false
     },
     {
-      "title": "테슬라, 중국서 300만대 자발적 리콜…도어핸들·운전자 모니터링 동시 보완",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DeU92WG9YRTlhcmIxNy16VFJnTVUyMzJ2Y2R4dWRzVjBfRGw0QTE1WlZpOXBEVjk4MFBEM3AzeUw4UE9oTTJmdGg1NDJ1SFR1YVMw?oc=5",
-      "summary": "테슬라, 중국서 300만대 자발적 리콜…도어핸들·운전자 모니터링 동시 보완 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T21:45:00+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "테슬라·샤오미, 문 열림 결함으로 중국서 430만대 리콜 단행 '역대 최대'",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlVtSktSMWFkLVQ2ZHo5TGljSE1jS2lXaW52NmJoODVLZDBNcFRpOW9iRHpxM2ZVY2xOY0tWRnFacE8xeTBTWnhuTFIwSW1DMUFRWWthczh0ajdZX3d1cmxVa0ZhNTVPQVlqeVJrREFhMVJHaWNWWmF6NWhsMWtvSWwzc3FBYThT?oc=5",
       "summary": "테슬라·샤오미, 문 열림 결함으로 중국서 430만대 리콜 단행 '역대 최대' 글로벌이코노믹",
@@ -1589,6 +1709,16 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-21T21:38:05+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라, 중국서 300만대 자발적 리콜…도어핸들·운전자 모니터링 동시 보완",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83R0FWeGhySnVLb0k3cEdjaHBXQk9IbkNIMjRHTGsycVR5cDBSSFJXb0l1NC1TdVM2UmZ1SEZybkktQ2gwVmdhSEl3MWQwYlNRaU5TZkpYRmFBcTBGSGkwdkRWM0daX3ZDNWxlMWxVQ1p1b0E?oc=5",
+      "summary": "테슬라, 중국서 300만대 자발적 리콜…도어핸들·운전자 모니터링 동시 보완 디지털투데이",
+      "source": "디지털투데이",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T21:29:00+00:00",
       "byd_ev": true
     },
     {
@@ -1632,6 +1762,16 @@
       "byd_ev": false
     },
     {
+      "title": "NHTSA widens GM engine recall probe",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeEJ0UmJZRDNiY2JaVm9zdDFWYjRxd2pzY3FUeEc3bGw5UXZ3cUNXSUNwd045bXZFa0Zqd2w4ckNXVm9POVN5TEpKdHZqQnNpdTZVX2N5N3YxRV9XTzZEWGpxc1Yydm40SHplTjFNZlVhSndPdEdKZEo5YUFWcl9oMzJiRG5acXd1ajRscWkxOGtSQmZZVUQ3empBZ2ZoV1E5X0loMjNYOUlBa09IcXB4U2JRUDE?oc=5",
+      "summary": "NHTSA widens GM engine recall probe Detroit Free Press",
+      "source": "Detroit Free Press",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T20:03:17+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "Ford hires NHTSA veteran to help tackle mounting recall, safety challenges",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNldCX25hcXVyVzdodzdGRlprOGFBcjM5UU9WZzVOVXlwQUxPSlp2WmhpTWROMFpxVDRRNnV0OGl4VUp3c0hxeUNMTW5qUUxzaFVLMExZTVlHVkdDdUx4YTQxRVplM3k0S2ZIcjZLYXV4bG1SUzRKbXRucThVZjZwbVFhQnNTZTZIVVExSUFoRkZ5TjZ6Ql9JVTlVX3FkaldER2lZd0hwM3IyZw?oc=5",
       "summary": "Ford hires NHTSA veteran to help tackle mounting recall, safety challenges Car Dealership Guy News",
@@ -1662,16 +1802,6 @@
       "byd_ev": false
     },
     {
-      "title": "It Took GM More Than 28,000 Failed V8s Before Recalling Its L87 Engines, Now The Feds Are Investigating After 6,000 'Fixed' Engines Also Failed",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFk0dFdKRDZNSmlUM05nSERmQXAxY3Y4VlM2SF8yVnhWeXRuRjlCU2lBTDhhX2hWbnd4THh0czViVFU4UDBKREltdFE1QjNfdFFSQnd5X2NBSDVVMmFydFo0RDFjRmxJM2ZzcG14TkZkb3BPb1JOTU9jUnZObXRidUhzQ3F6aFpZTFU4c0tUNGlqX2ZaRGk2X2ZaT2gzSzZlWERtMFpTR3FickF0OUdKUGtLbEdQbzBjUlFXazJiYWp5ZkxHUExkTW1UVU5SeFdQTl9rWFJXOFkwbGIzQktRVzctWVhoR1NCcDlDSUJWTTJOUWdnRmdHclloOA?oc=5",
-      "summary": "It Took GM More Than 28,000 Failed V8s Before Recalling Its L87 Engines, Now The Feds Are Investigating After 6,000 'Fixed' Engines Also Fai…",
-      "source": "The Autopian",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T17:48:55+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "NHTSA widens GM L87 engine failure probe to nearly 1 million vehicles",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KVkdMQVY1UWVHTlZBNFd3d2FpV2FkamZZTk5XRTg1MllZMmJyQVZWTzk4SGh4NE51aEJQRHhYeGlJS3h5NlVfdFZNLVJ5OW4xdElhNGVBNGlxSHpJM0xRN05wOE9VUGhLVmJFNnN2OHE?oc=5",
       "summary": "NHTSA widens GM L87 engine failure probe to nearly 1 million vehicles qz.com",
@@ -1680,142 +1810,102 @@
       "category": "official",
       "published": "2026-08-21T17:39:42+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "NHTSA probes GM pickups, SUVs over engine failure reports",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTk9xZ1cxSnlLY1VGbnY5Wjl3bWY3cll0T1c1dnRmVFV6eXQ3anljZ3NxblJWbmtqZ3VaQ2w1ZWd4bnJvVHhKWmprZHRYSUM2RUNscTF1T19oWTlWN2pWUHZkWVM3TVd3LVJuenJYa3FZQ2hrd0JRT2ZnNVlIU1E3Q1JkYmhoUGZ6V3dJU2pCeEpaczBfZzNZRDRBbmpncVh3NVZ1dDlVS1E0Y0dVV0dfeW12eHdBTldYNGpRLUZTRG1JcDZjOFdTVkROdmswV2hRUmhvOUZPWTVQVFlRYmtvQlF2dw?oc=5",
-      "summary": "NHTSA probes GM pickups, SUVs over engine failure reports The Detroit News",
-      "source": "The Detroit News",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T17:28:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Toyota Recalls Nearly 50,000 Tacoma Trucks Over Parts That Could Detach While Driving",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XVkR1NXFhX0ZfdGZFdEwta2pObDctOFV2SkI5UmFGckFrQ2FGeE1DWERPQWRmVGVLc3g0OXFUbUdRVFZIOGx4bnFXNFlJTUdfT3hKblVqTGZfUmRHck1BZ0NHdm1OUDlFNDJNa1RqOXZES3czVjUza3ZjdXg?oc=5",
-      "summary": "Toyota Recalls Nearly 50,000 Tacoma Trucks Over Parts That Could Detach While Driving AOL.com",
-      "source": "AOL.com",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T17:18:27+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "NHTSA Expands Probe Into 997,000 GM V-8 Trucks and SUVs After Reported Post-Recall Engine Failures",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEZaZ1cwaWFVblVNbzhMUWNPTWt3Q2FNYlFsUUJ4ZUFxbDlYTzZHMDgxN0lmSTF3OVVCRC1RWjZvamZfV3lDcmhoUlJ4akRrS00yNE1fdFJyeHpsWGRjNUFXcEZHMjJoU2czbUx0c1NtbURvSjBIeEhBQXlZTFZsUTQxUnhQZlZUTzVJVm9jRUJyZnNnTnNPYlNEeEtKRm43Y2FvQ041YzJMZ0FTeXl0a29MWm9XRlJNeG44aUcxbExjZmc?oc=5",
-      "summary": "NHTSA Expands Probe Into 997,000 GM V-8 Trucks and SUVs After Reported Post-Recall Engine Failures Road & Track",
-      "source": "Road & Track",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T16:56:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "7,000 People Told GM Their 6.2L V8 Blew Up After Recall \"Fix\"",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGdra0JZbFBTUWVxOHRTczI0MDdLMjF4cmRsMjVJV1dMU01XWUFOaTVnTlM0TzVUcTdLYjdmTW1xalhXSFp4NFpSX1pHTFNSakdWM1hramZxR2VXUmZlaElxOW4zMkxMWEFxTGkwTUNaNWVkYnZIRzJ4bTVOR0hTc1Rha2UzVnU2b0xLT2ZZODV1bEZOc0JfdmoxQkthMnVmTUxVS1pGUDFhblhzMDN1d1JQNDN2WU5Cdjdla1hyZ1FtZmM?oc=5",
-      "summary": "7,000 People Told GM Their 6.2L V8 Blew Up After Recall \"Fix\" Autoguide.com",
-      "source": "Autoguide.com",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T15:45:57+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "테슬라, 중국서 사상 최대 298만대 리콜…도어 손잡이 못 찾아 15명 사망",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4T050NHVva2g4d05peEticTgtc1JyZG5Ub1hMUHhES2FwSkdUR2ttNlE4QmlHUUJLUGdfSFZwQWNlbXZ4QWIxRGtQWlpWM1pVbUE5d09B?oc=5",
-      "summary": "테슬라, 중국서 사상 최대 298만대 리콜…도어 손잡이 못 찾아 15명 사망 위키트리",
-      "source": "위키트리",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T15:22:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "More than 70,000 Dodge vehicles recalled",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XVGlYSjdnLVhOc2oxSTRHWUViVFpNaVRpNE9yci1yVDZXV0hsS1I5WGlpbDNTcWNQbUJNOEZvNWRvQzlRcXRDamw0U04wWTRjQkdBeG4tTWk3enJHRnlhM1NENDBTQnA0Mm00VHFMUm5KTnlIeUHSAXtBVV95cUxOeWZWTVBYQVRGT3ZtdG5SX3c0YVB5SzBGZjhjVkxFOWZIS3R1VjZMSEdDZ2FVV0YzdUw1RFQ3YmNPNkZpX3c3NmtrMmxTOGliVl84dml2cHYxV2dyUUQyNFFvSWMwdkVDdUh5QUxqNU5VeFRpaU01a2staGc?oc=5",
-      "summary": "More than 70,000 Dodge vehicles recalled ABC27",
-      "source": "ABC27",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T15:12:04+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "3.2 Million Cars In America Are Under Orders To Park Outside Before They Catch Fire",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HWGxLTGxWLXR2UE04dzd4UDBzVndzNkV5RXY4U0swalN0Q0ZKdVlyUFF0aTJRbmlPQXFqc0Vta0h5bE4yRnYwd1l0U3F1T1VHYk44WU1ncnFraTlUTDJOeDlCT1N4UzhJRTFj?oc=5",
-      "summary": "3.2 Million Cars In America Are Under Orders To Park Outside Before They Catch Fire Carscoops",
-      "source": "Carscoops",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T14:52:02+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "NHTSA Asks Whether GM's Engine Recall Actually Worked",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGg2dDRKRll0U29YQU5PNjAzdVR4VHVRVUNCdV9NeHVab2hJWXdiLUVGcXp3ZW9iV0xxN2RKOGdqUUxNSUZpMG5PWndxcGRfSDRpZFBIX1I2djdRdTRzbV9DNV9nTnA3SVZUNzFFa1liZ3NVR3d3Y2R1X0std1NSS01PN24wMGh5d0NxM2NxSGpDMG9NSmc?oc=5",
-      "summary": "NHTSA Asks Whether GM's Engine Recall Actually Worked GuruFocus",
-      "source": "GuruFocus",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T14:32:58+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Feds Investigate GM’s 6.2-Liter V8s That Keep Failing Despite Fixes: TDS",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWwtUlh1Q25EWjV0cHlHUm9jbmdxVDBTamhXWHdaRzFvaV9CbkxoUTdNLTV1eHVLOEJ5aW9yNkJpNExDWTYxelhnRUFSSWRMaXNXYjJxVFJBVzRHTDU2MUo4OFE1eUNTSXFmZktLZExEelUtbDVGRmdGVjBZcVY2NC1ZMUtIQ3B1WWF1RkhJTVZCV1F1?oc=5",
-      "summary": "Feds Investigate GM’s 6.2-Liter V8s That Keep Failing Despite Fixes: TDS Yahoo Autos",
-      "source": "Yahoo Autos",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T14:02:34+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Safest SUVs for 2026",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSVdSdGFVZDRmR1JGZGpxcnkzV0xGY0RpeDc4QUFLLWo5RkttTkxvUGJSbThJQURyS3Vrd3k1enVwTHk0Nm9GT0xVV09DWWY4dmtRYmh2elNFZGZ4SlJmZWZWZzJyMlgtUWp6VEpiUGJmT2lKbTlrMjJWZUNKbXFSRl93ZkhDa2xKbmdr?oc=5",
-      "summary": "Safest SUVs for 2026 Yahoo Autos",
-      "source": "Yahoo Autos",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T13:02:37+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "NHTSA Reopens GM’s L87 Engine Recall With A Fresh Probe",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWkZTRXFHWTNWamRDeVIxcmR3aTlfR2ZSNS1tSWg0V3VzbUFOclY5NnNOWEI2Z2g3MkZYLVNVbUlKQko3Q1Q0SEFUSDA1OFpmYWNZX3dpUVd4emFBOE1ZQ2k4Tm5ERHZiNlZ3Y180ZXJSb3AyUGtmRFpKWGFnV0JOZGtuekQwUC1MUUJz?oc=5",
-      "summary": "NHTSA Reopens GM’s L87 Engine Recall With A Fresh Probe Finimize",
-      "source": "Finimize",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T12:14:04+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "General Motors Facing NHTSA Probe Over Post-Recall Engine Failures",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkg2dmt5LVYzbE9HNm5CNVNmZjdsSFVzNmV4b0gwOUEzbkJjdnNWLVVpRWczcGJXbm5ycHJ3N25vUjgtbmRLQ0lxVEstTjVDOU5nR2MyZXRSWUYyNm51Z3hVRGltTEgtWnNnNXp1MlRKcHJLVXREOGk2Ql82MDl5bzdia0gzSWVkbjZfc01yVjd0eUhnWmEtSklZN0M1SWM5dUo1LWdKcUxDdGxUVVhPNEtEX0ZhcDN6aWhZ?oc=5",
-      "summary": "General Motors Facing NHTSA Probe Over Post-Recall Engine Failures marketscreener.com",
-      "source": "marketscreener.com",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T11:19:47+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "NHTSA opens probe into nearly 1 million GM pickups, SUVs over engine failure concerns",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVhiUU5IZjdDekY1Ym9XVGZ5TUREUS0wbV9NNEk3WXU2QkdPR2xvblhJVjFaZS1XcFhhUVJ0ajBmYk1WZGotZ1ozZTZob25tT3Y4Y0lhTmdhUTl4dDhtLXBjdENROUJPMzdDQlh4UmpybUJFTDJLMFVaYXJMTWptY3BnR0Joa0luTjRSTjZucldOMVUtNnc3Zk5qMVRyazZXOUlNMUM0endBeTdwUTV5RHdQNA?oc=5",
-      "summary": "NHTSA opens probe into nearly 1 million GM pickups, SUVs over engine failure concerns The Mighty 790 KFGO",
-      "source": "The Mighty 790 KFGO",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T10:48:42+00:00",
-      "byd_ev": false
     }
   ],
   "byd_ev": [
     {
+      "title": "테슬라, 중국서 298만대 대규모 리콜…전동식 손잡이 안전 결함",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05eXdac1p3QTVhYUZ5VGNtYzVORzJPc2JzMFNRWERuU3h0RHhGSWhiRkZvYUVlYVpjSkJMc08tWUQ5QXlpaWhUTGpKMVlMU3dZR3NjU1ZTSDFFTERtd00w?oc=5",
+      "summary": "테슬라, 중국서 298만대 대규모 리콜…전동식 손잡이 안전 결함 헬로티",
+      "source": "헬로티",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T05:51:42+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라, 중국서 298만대 리콜…중국이 ‘게임의 룰’ 바꿨다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEY2FzM014eVhTc21za0JGS2x1T3FqOXYyWmtfTHJ6WXVrUmFFN2ZwRk8tVVJZVXpuaHBQaFdUMnRHUlNENXEyZ1AxbzV4ZFZidTg2cU1Ma2RsYnRjblJrMWtpUkhrQVVh?oc=5",
+      "summary": "테슬라, 중국서 298만대 리콜…중국이 ‘게임의 룰’ 바꿨다 OBC 뉴스",
+      "source": "OBC 뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T05:28:42+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"북미 EV 고객 사로잡는다\"···한국타이어 '아이온' 풀라인업 앞세워 공략",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGSzdNMEVlM2FRYm1wWVRwcjJuaDREOWlTY0RpYklDZzJZZ1JUSUFUcTNLTjc5bjAtcVdqMDhQdzFaanA1NEgxZE40TzlocnM?oc=5",
+      "summary": "\"북미 EV 고객 사로잡는다\"···한국타이어 '아이온' 풀라인업 앞세워 공략 v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T05:00:07+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라, 중국서 298만대 리콜-매립형 문손잡이 안전성 문제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95eDlFV295ZFRfNlpCcDdDS3hQTmlYZ0Q5NUdfUTczLUxmdlZTdGlaZnRjOHB6ODhvQm81aUwwZVVlNXY3OFBPamhNZ1RjTTZ2d29sUWlXQ3lNTTN6VlVDRVVTY1FsNExYUkllVkNn?oc=5",
+      "summary": "테슬라, 중국서 298만대 리콜-매립형 문손잡이 안전성 문제 미디어파인",
+      "source": "미디어파인",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T04:29:48+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[자막뉴스] \"사고시 문 열기 어렵다\" 테슬라 300만 대 중국서 리콜 조치",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abUJkYXlOLVN1cXBKV0NFZ3NEUE1uQzNHellDMi1qZ19QbG5uV08yREM0OUIwdlYzRTdRa25YeVlQUFY0OFg5RkpNSEtZdVp0a1pB?oc=5",
+      "summary": "[자막뉴스] \"사고시 문 열기 어렵다\" 테슬라 300만 대 중국서 리콜 조치 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T04:13:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라, 중국에서 298만 대 리콜…비상 시 문 열기 어려워",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hb0ZPZlVOQnJISGNtNVJvWm45QzdKbjFEMlQ3TlN3OFBVb0U1MURxUXZSZHFmb1F6NXVYbjVFd21NRFg4Q3VkX081b1VGeVQyc0dj?oc=5",
+      "summary": "테슬라, 중국에서 298만 대 리콜…비상 시 문 열기 어려워 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T04:09:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라, 중국서 298만대 리콜…“충돌 때 문 못 열 수도”",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14VWZPVHdlWlJLSWtKWU9Ndll4SG9QRmR3eHlCZ1JPaFVpMEhYMlpLcndmb25NOFNLemtiamxLa3FEWkNqdWkzekN2ZE40V2pxX0huY01vblJUbzlsWTVOUVJBNTA?oc=5",
+      "summary": "테슬라, 중국서 298만대 리콜…“충돌 때 문 못 열 수도” 포쓰저널",
+      "source": "포쓰저널",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T03:48:28+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "“사고나면 문 안 열릴 수도”…테슬라, 중국서 298만대 리콜한다",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PY2JVT2U0RDdIYU04SU1hUnJyeWhsVTY3aUtVVHZOTlIxZi03MFE1bXJlZGpTTHpPbU9qbUdvQ0g1akdScXJKcll3VTZHSnJ6UWdQSVlR?oc=5",
+      "summary": "“사고나면 문 안 열릴 수도”…테슬라, 중국서 298만대 리콜한다 중앙일보",
+      "source": "중앙일보",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T03:46:05+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ieFR5NHU5U0lnOGFGR2V3NlpwZXMwby0wNUUxOXhuSG14T1FKdTJrQWh6aHhneTJBVnNfNG9aS3Q4dXJFN05ndDBJZzF3ckN2ekVSS3Q1M3RWWWFhaEM1N1NkaGZxRkc0cUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVYUJtSmhseGtIRmNDR0lHVW1NRnFHNWw0SGpCQzlJZ05NWERORjdYSUhCZGFneTNWMUZFdS14RUtpQVNNT2VzeGViNWFvQThoZW9F?oc=5",
+      "summary": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜 네이트",
+      "source": "네이트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T03:33:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ieFR5NHU5U0lnOGFGR2V3NlpwZXMwby0wNUUxOXhuSG14T1FKdTJrQWh6aHhneTJBVnNfNG9aS3Q4dXJFN05ndDBJZzF3ckN2ekVSS3Q1M3RWWWFhaEM1N1NkaGZxRkc0cUHSAWZBVV95cUxPempWWlpZNzJ4QmdpR1RCZnd3TU93MU1faG1VeFR5UThCRk92bGdKR0l0Vkh6dnBTM3gxaHc4TlBFS25id1FYQjFDYWpNMDlaS3A3NnlPb0F5cnFxQWZQbGxLV2k0akE?oc=5",
       "summary": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜 news.sbs.co.kr",
       "source": "news.sbs.co.kr",
       "domain": "news.google.com",
@@ -1835,32 +1925,22 @@
     },
     {
       "title": "중국 전기차 수출 급증…내수 둔화 속 해외시장이 새 성장축",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EaTBHN1BHTmJnTFFkeVNkbmxrYl90WFlESDJCN2VxY3FpT1RucVhOVnpNVXhERnBKN1hYQ1VjbUVXQlF1SmFfLUNB?oc=5",
-      "summary": "중국 전기차 수출 급증…내수 둔화 속 해외시장이 새 성장축 뉴스N연합",
-      "source": "뉴스N연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hd19DUVY3SzZUclJHczltdU45UVdDNXNPVGJuNE5CZzdPZ1VpNzFUWkUyYkJOTEk3ZThVaTNHMU1pRFI2WThLck9RcTNrUFRJVWc?oc=5",
+      "summary": "중국 전기차 수출 급증…내수 둔화 속 해외시장이 새 성장축 유스연합",
+      "source": "유스연합",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-08-22T02:55:04+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "중국 가상발전소 확대…태양광·전기차를 하나의 발전소처럼 묶는다",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xU2JhMWpQVVlZYXRPX1piOUZJdloydGYtcHVDOWZ2ZUszRWxLNW1yYTdqQ0NqZDd5UzJVY05PS2RndTNXZkJRMlJB?oc=5",
-      "summary": "중국 가상발전소 확대…태양광·전기차를 하나의 발전소처럼 묶는다 뉴스N연합",
-      "source": "뉴스N연합",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-22T02:55:04+00:00",
+      "published": "2026-08-22T02:43:20+00:00",
       "byd_ev": true
     },
     {
       "title": "테슬라, 중국서 차량 298만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nSHpTSDgxdEhTQWloTzdxbVRadk1BazZsRGZuWUFTR3pGMm9LeTgzbHhaWHlGMmJvVThhb2VLbXpPVHU4eFdqVXE5TWpCaHNOTHNJ?oc=5",
-      "summary": "테슬라, 중국서 차량 298만대 리콜 네이트",
-      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0SWJJcEtDU05ENkNjZmo5VTZ3azVaeDVKX1ZGVDF1LUFhWHRGenAwRzdBa1Rlb3VoQm9SWmFIQlppdjNGSmxXMVNrb3BtY0FPNnZwUjVPUdIBUkFVX3lxTE5nX3RWZ2lCV3JIRlM0dktjT3FGSUJYSVZPNFVDVmFEN2FLcDJVRW9obElpaF9hWTgxSjJQOS03LWI5RVpOX19IS3R0S1pZeG9UTHc?oc=5",
+      "summary": "테슬라, 중국서 차량 298만대 리콜 더팩트 “사고 때 문 안 열릴 위험”…테슬라, 中서 298만대 리콜 아시아투데이 테슬라 중국서 300만대 리콜 뉴시스 [자막뉴스] \"사고시 문 열기 어렵다\" 테슬라 300만 대 중국서 리콜 조치 news.sbs.c…",
+      "source": "더팩트",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-22T02:33:00+00:00",
+      "published": "2026-08-22T02:29:36+00:00",
       "byd_ev": true
     },
     {
@@ -1885,12 +1965,12 @@
     },
     {
       "title": "테슬라, 중국서 차량 300만대 리콜…\"사고 시 손잡이 안전성 우려\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CVEhYUkJuVzRyY2tsbUJ4bFIxMDU1S2tKZ1dabXFFekVJNERtRDUzNWRxSjdGZlpMaDJpUXh1cmt1WW11REpEeGJzRGVHb1E?oc=5",
-      "summary": "테슬라, 중국서 차량 300만대 리콜…\"사고 시 손잡이 안전성 우려\" v.daum.net",
-      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRlFCSHQzY1hQSmFQR0k1akNjSmt0ekRlRHJHY0hrdGtKTHJTcURyVUxZeEJzUFpHRmJGMzFrY0ZFUC1NSjlwZllnT1Fhbjk4UndHTHE0Y3FPOEx5UlHSAWNBVV95cUxQRVc4aTV3dHowbTJuVW42a2lja1FOT0lSMTU1ZlFHb3ExVlNrcVF4bkViS2ZpZ1k0aWFSYTJ4Ym5XYXdjc2VlMzNkajNkRHJ1NGtqTGxmN0xnYTgwQTJNTDZ2OE0?oc=5",
+      "summary": "테슬라, 중국서 차량 300만대 리콜…\"사고 시 손잡이 안전성 우려\" 뉴스1",
+      "source": "뉴스1",
       "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-22T02:02:42+00:00",
+      "category": "official",
+      "published": "2026-08-22T02:00:49+00:00",
       "byd_ev": true
     },
     {
@@ -2034,23 +2114,23 @@
       "byd_ev": true
     },
     {
-      "title": "테슬라, 中서 300만대 리콜…“매립형 손잡이가 화근, 사고시 문 안 열려”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jRlRLYTVuaDhIbVBIcFdZb214b0VlcDNDWm5uQXdZYjBON084eXI0Sm1ad1hiX0JrN2JYT1NOTXFKY0pNcExKRE04blVtUQ?oc=5",
-      "summary": "테슬라, 中서 300만대 리콜…“매립형 손잡이가 화근, 사고시 문 안 열려” 전자신문",
-      "source": "전자신문",
+      "title": "테슬라, 중국서 300만대 리콜…매립형 손잡이 안전성 논란",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRWZGU1NqZG56d29KdUtFRS1VemYtVnlSbnk1NTRHSWFjbjZoSE1QWEdxVERDc1JrTTgzeTVhdzZLTzBzOEg1ZlpOdlRja2tDUTl0QXo3dE1SeVB4R1owOGZFNUktWDZxdWVCQS1GSQ?oc=5",
+      "summary": "테슬라, 중국서 300만대 리콜…매립형 손잡이 안전성 논란 위키리크스한국",
+      "source": "위키리크스한국",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-22T00:24:31+00:00",
+      "published": "2026-08-22T00:23:00+00:00",
       "byd_ev": true
     },
     {
-      "title": "테슬라 중국서 300만대 리콜…도어 손잡이·주행보조 결함 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xTzdGOHl3NmlOc3RIeVRBUHk2WXhiWElPdHdSRFBCSHZyOGF5LWZwamx2SFhvV0FuMzdCWmFHZTVTc2NxNGhpdTRkWE16QWRGY09kQkpCUjY3U09QbmdYQnFEXzlsMEht0gFuQVVfeXFMTWpKV2R1MDIxZGR2Ri1qalVoYTBHRk9VWmdnTWNIdThJcm1GVlh1WGo0dzdBRjlXa0pENk52RFVoNjFGYlVhZlRBdkN0SmVTQmFKSHF2YjU0Ql9vMmxpc0xWVzdHTjRReHdJVWFJTEE?oc=5",
-      "summary": "테슬라 중국서 300만대 리콜…도어 손잡이·주행보조 결함 - 머니투데이 머니투데이 테슬라 中서 298만대 리콜…전동식 문손잡이 안전성 논란 v.daum.net “사고 때 문 안 열릴 위험”…테슬라, 中서 298만대 리콜 아시아투데이 中 테슬라 300만…",
-      "source": "머니투데이",
+      "title": "테슬라 중국서 300만대 리콜…도어 손잡이·주행보조 결함",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzMk43VVlrMmNCN0ZMOWdTem9tV05tSTZidlFVd19aZWN6ZGtYWjFGajZVTzNaUlFmNnpiRW9vejlYcmZoT012YWYyWE1jM2J0MmFB?oc=5",
+      "summary": "테슬라 중국서 300만대 리콜…도어 손잡이·주행보조 결함 네이트",
+      "source": "네이트",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-22T00:22:46+00:00",
+      "published": "2026-08-22T00:23:00+00:00",
       "byd_ev": true
     },
     {
@@ -2061,16 +2141,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-22T00:21:59+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라 중국서 300만대 리콜…“사고시 탈출 지장”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iZ0doRmtnOE96Z0JEOVJZbV9PNVJmSGRsVGw5a040TUJiWUExci16RmdTaGR2dDJzelV6dFdZQW55ZnNieHZmd3BqeUhHUzNtNk9qTXFHZnJfNmU2OHfSAWNBVV95cUxPZzlsT21FM1lzR0RBc0VJaVJlcy1pRVFYeTVFTGFrZEU3VzFjdU1MN19CaWNfUXoxbkVDYUpBdzZGTHI4dFFHSGtadFl0RVFOUURhc19LcEFvdUxIWk81TnI4QnM?oc=5",
-      "summary": "테슬라 중국서 300만대 리콜…“사고시 탈출 지장” 채널A",
-      "source": "채널A",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T00:19:00+00:00",
       "byd_ev": true
     },
     {
@@ -2085,19 +2155,19 @@
     },
     {
       "title": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 ‘일상’을 바꾸다 [ET의 모빌리티]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NSk9fWjN4YmxaU3dnaTV0VXdyMGZmcUhndzZYamVuc0FUWU9sTGdVd3JRWG5mUzZxU1NDRURITHVZOXhLb2RpLUVsZnJZbWc?oc=5",
-      "summary": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 ‘일상’을 바꾸다 [ET의 모빌리티] v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-22T00:00:08+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 ‘일상’을 바꾸다 [ET의 모빌리티]",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPb2l1TlRoQXpTSGtiUXFua0dwQzBZeVNRWXEyalU4VjdON21CTTltdTlsTFpmTUFOdm9BYmtpdlRWLUtUcDhnTnR4emh2UmY2YmtaYQ?oc=5",
       "summary": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 ‘일상’을 바꾸다 [ET의 모빌리티] 이투데이",
       "source": "이투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T00:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 '일상'을 바꾸다 [ET의 모빌리티]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xRi0wS3JfcWdoT2lpaXpKaWxIQ3FlUkVOdkEtRzBtN05jeTc5RmpON21iQnpOdldzUGFXaHNLRXQ2OTk1Q3FncDVfdEFFeXlxM1U0?oc=5",
+      "summary": "500㎞ 장거리도 부담 없다…기아 EV4, 전기차의 '일상'을 바꾸다 [ET의 모빌리티] 네이트",
+      "source": "네이트",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-22T00:00:00+00:00",
@@ -2229,7 +2299,7 @@
       "summary": "테슬라 中에 판 차동차 300만대 리콜 뉴스에듀신문",
       "source": "뉴스에듀신문",
       "domain": "news.google.com",
-      "category": "domestic",
+      "category": "official",
       "published": "2026-08-21T23:16:54+00:00",
       "byd_ev": true
     },
@@ -2244,6 +2314,16 @@
       "byd_ev": true
     },
     {
+      "title": "이것도 대륙의 실수?…BYD PHEV, 전기차 감성에 충전 걱정 덜었다 [시승기-BYD 씨라이언 6 DM-i]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBeGNHZEpBcDVNMUxORG1vc1FCWjVXLXJTQmk5b1FMTzIwSmEwMzM0Q1NxcF9nVFpDRlR1TTl4NmtLR001eEJCMWRGRzdjNDg?oc=5",
+      "summary": "이것도 대륙의 실수?…BYD PHEV, 전기차 감성에 충전 걱정 덜었다 [시승기-BYD 씨라이언 6 DM-i] v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-21T23:02:13+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "차값 이어 충전료도 할인…현대차, 美 전기차 고객 잡기 총력 - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KYXRub1FxdVFUcDJoSElOdEJYcnZvZDU4N1Q2UlJQVWJHUGJTTUo1bzZkSW43SUhKWmo3UExoS1hVWjVXVWlVbmZEWHZFV1ZwMzVaam1iNWdjeTBMOEdhNllQby1fYi1QZkRGTNIBckFVX3lxTE1ndkRyazZwTERGLWd2QldLZ1BiY3JKY2FuTld5UmZVaklLQ3lrMmJVT0U1M2RGZ2VuSjN6b3Q0T0gxb3ZLYVN3VC1rT3lTNlNnZ0tlQldFVkZBUVB5WW5DV29DVm5oUTcwMFdHZlBaSXRDQQ?oc=5",
       "summary": "차값 이어 충전료도 할인…현대차, 美 전기차 고객 잡기 총력 - 머니투데이 머니투데이",
@@ -2251,26 +2331,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-21T23:01:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "차값 이어 충전료도 할인…현대차, 美 전기차 고객 잡기 총력",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uZU04d0tkd21QZzEwZ0RwanQ2bWVYTGpPN1plUThrcDZDMlhDODlIUkhsN0lMeWwzVWFrTVRKZkZhODAyZ3dCRGcwaXlCRFgwUGtv?oc=5",
-      "summary": "차값 이어 충전료도 할인…현대차, 美 전기차 고객 잡기 총력 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T23:01:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "\"꿈의 배터리, 이제는 양산 싸움\"…현대차·SK온이 팩토리얼에 베팅한 이유",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRNG9rbThTWlpQakxxN2RDLVhNSjZrbUZGdTdEaW9SbFk0VzJ3R29LdEgxX2lOdWVleHpaQjRQMTdhci1qNUkwUXNXLVpaVWc?oc=5",
-      "summary": "\"꿈의 배터리, 이제는 양산 싸움\"…현대차·SK온이 팩토리얼에 베팅한 이유 v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T23:00:06+00:00",
       "byd_ev": true
     },
     {
@@ -2304,6 +2364,26 @@
       "byd_ev": true
     },
     {
+      "title": "테슬라, 中서 300만대 리콜…사고 시 손잡이 찾기 어려워",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOThIVkEzdHVXMnhCa01USHBBNk1ObnJrbVpOajNwR2RFMnllbWlLcVE5RFgtdGl5el9QRkpaTFhNaGh4eTNkLV9WT1huWlotWEc4OVBPMDdidTg0aTYzem13SjZhR0c5UHZzTDlfb29zRFdLczdLbkQ1eUxObXE0NV9LSkNFVEZrakpxeG1Vc3drRjFYdWVtcml6VG9BbGZibTF3WmI1R25Dc2dIaGV5dEVGcm1jdzQyM3RZX2xzMkJsSVZicmxycHljLU5lWWw4b1M2eV9mRGFfTzVtREs1UmJCMzd2VDRIbmIzUXBCU0QwT0pqZi00?oc=5",
+      "summary": "테슬라, 中서 300만대 리콜…사고 시 손잡이 찾기 어려워 데일리안",
+      "source": "데일리안",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T22:39:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "中 테슬라 300만대 무더기 리콜…매립형 손잡이 결국 손본다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2QTgtbzF2ZkRlT2dMbkczMl9sRi12Q0gtekVpcHI2U0VPSnI1SnYwRXNQN3dxX21JUTl5Uk1zVHBZcUdwRHd6UlVzRzBDR0E?oc=5",
+      "summary": "中 테슬라 300만대 무더기 리콜…매립형 손잡이 결국 손본다 v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-21T22:35:30+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "안전 문제 급부상... 테슬라 소유자들이라면 꼭 알아야 할 소식",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiSk00dlN2bThEVktTUGdnaUtGdnJoS1NuYzNaYllGUUg1VTVaSjBpdk93S1ZSVjh1aUI0YVhRdTFzNjMwaXBxTWdWdFJZeVRleDBtZkp3?oc=5",
       "summary": "안전 문제 급부상... 테슬라 소유자들이라면 꼭 알아야 할 소식 위키트리",
@@ -2324,16 +2404,6 @@
       "byd_ev": true
     },
     {
-      "title": "테슬라 '매끈한 손잡이'가 발목 잡았다…中서 300만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYQkZvSjhtY3JvM2pob01EbzB4WmtJei1VdUxQcHBRNWdmU1JpNzhRVkxVWE5UZ3l4X2xtYXpNNElRaWt5VlpoVkc0Y1hjWHZSeXljWGt2TlAxZw?oc=5",
-      "summary": "테슬라 '매끈한 손잡이'가 발목 잡았다…中서 300만대 리콜 한국경제",
-      "source": "한국경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T22:28:30+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "테슬라, 중국에서 298만 대 리콜…“사고 시 손잡이 결함”",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Zzc2Ukg5TjlmYzNhc3NjTEhEZ3l1bVFIV2RVSFF0YUJ2SnVBN1NveFVUelFCWUxmUjFVbTEyMWtmYmhIXzMyZmhlb0s4LTVPYjd6dUpUNnJmQkE?oc=5",
       "summary": "테슬라, 중국에서 298만 대 리콜…“사고 시 손잡이 결함” KBS 뉴스",
@@ -2341,76 +2411,6 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-21T22:27:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "中 전기차, 남미 잠식…브라질 점유율 25% 돌파 '충격'",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlNwdWY5MjBvWGVOdFZvcnYtTlBkMDhkOXFqUDg3NXQ1bTRLNnY2NFR1ZFVrTWtyX3BKVWxmY2ZpS0RZOW9EWWtXWmdUTlhpVjV6SV9NZGZmRlZFdFNWVHd5U3NqRFpxT25QM0ZOazVUaFVaVnRvN2d6ZnBWS3ljbDgtZmJNMHhw?oc=5",
-      "summary": "中 전기차, 남미 잠식…브라질 점유율 25% 돌파 '충격' 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T22:20:13+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "“매립형 문손잡이 위험”…테슬라, 중국에서 300만대 대규모 리콜 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51M3NuVWY0Qm1uY21GcUN3T29wR3RESDE3YTdpbU1SMWhRdklDaGNSRm9BUFNkOHFTRmNCaHdJTko1TjZiVU5YSVU3UERxOGdZc0V3RDRQSmtqWVVtV2thOEIxR1UwcjRnYmQzZGJoV3NseDhoOXlCdkY2YkZvOWvSAZMBQVVfeXFMTlEyTkdZcW5kb3duek1tT0FrX3h0NWZPdmtJYndGck5nLVlVYl9RcEZPRE1PLXVRSnM5MUI4UmFiOWQ5Q1F5WF9lR1lLc0cyTXZfaHFIQmdqT01XdjZ0ejlibV9WcnAwZVlBT0x5T1NLOXRxTDgxOWRaMTY3NWJoVFRUYmtHNlVsOGxsaEdFMEZETmd3?oc=5",
-      "summary": "“매립형 문손잡이 위험”…테슬라, 중국에서 300만대 대규모 리콜 - 조선비즈 Chosunbiz",
-      "source": "Chosunbiz",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T22:14:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "[이슈&논란] “테슬라 손잡이 결함” 298만대 대규모 리콜…샤오미·립모터·샤오펑까지 번진 중국 EV 규제 전환점",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yVUlUY1F1bmMzeXN5OW5jb3ptZmxMWXZaajBvZ0xoWE9BTGs1bW9XcDc2UllHbzhBNFVEVm9QbTgtdFQ5YXdIUWp5SGQwX19hSG5UNW1fNGlNU0RaaWxUMA?oc=5",
-      "summary": "[이슈&논란] “테슬라 손잡이 결함” 298만대 대규모 리콜…샤오미·립모터·샤오펑까지 번진 중국 EV 규제 전환점 뉴스스페이스",
-      "source": "뉴스스페이스",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T22:09:31+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라 중국서 300만대 리콜…“충돌 후 문손잡이 작동 문제” : 기업·산업",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95Qk5ObjJudWlqVW03Z3pZYWtyaGt1dVJpMnYwc3lfWWN2UzJnRTJ3Um8yeGl3ZUxGLTVqX2N5R2N3S25ITG45emF3?oc=5",
-      "summary": "테슬라 중국서 300만대 리콜…“충돌 후 문손잡이 작동 문제” : 기업·산업 재경일보",
-      "source": "재경일보",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T21:58:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라, 중국에서 300만대 대규모 리콜…\"사고 시 손잡이 결함\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mS0ZHbTFLTk56MndtZXR4aWdKUUlDVjh1TXpGYUFMWnI5WGNzZzhwUDV4UE1qR2IxQU1qYzVQRUs1elFBYjBKV0VpVUhsMTFMQXZOWVN6Q1NWdDjSAWBBVV95cUxOVEpqbWM0TUJNV0dCUk1TWGFNNGFJSV9PY2xza05UTEJMNTZrRkd2dld2VmtTOEx0OUZRNEZXVzBKdnNKbmwyYnV5U0pUbzE5WEVWMVpJamttaFg3MXBjdjY?oc=5",
-      "summary": "테슬라, 중국에서 300만대 대규모 리콜…\"사고 시 손잡이 결함\" 연합뉴스",
-      "source": "연합뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-21T21:54:27+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라, 중국서 300만대 자발적 리콜…도어핸들·운전자 모니터링 동시 보완",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DeU92WG9YRTlhcmIxNy16VFJnTVUyMzJ2Y2R4dWRzVjBfRGw0QTE1WlZpOXBEVjk4MFBEM3AzeUw4UE9oTTJmdGg1NDJ1SFR1YVMw?oc=5",
-      "summary": "테슬라, 중국서 300만대 자발적 리콜…도어핸들·운전자 모니터링 동시 보완 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T21:45:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라·샤오미, 문 열림 결함으로 중국서 430만대 리콜 단행 '역대 최대'",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlVtSktSMWFkLVQ2ZHo5TGljSE1jS2lXaW52NmJoODVLZDBNcFRpOW9iRHpxM2ZVY2xOY0tWRnFacE8xeTBTWnhuTFIwSW1DMUFRWWthczh0ajdZX3d1cmxVa0ZhNTVPQVlqeVJrREFhMVJHaWNWWmF6NWhsMWtvSWwzc3FBYThT?oc=5",
-      "summary": "테슬라·샤오미, 문 열림 결함으로 중국서 430만대 리콜 단행 '역대 최대' 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-21T21:38:05+00:00",
       "byd_ev": true
     }
   ]
