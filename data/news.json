@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:32:56.356718+00:00",
+  "generated_at": "2026-08-23T12:50:47.750490+00:00",
   "counts": {
     "domestic": 60,
     "international": 60,
@@ -7,6 +7,76 @@
     "byd_ev": 60
   },
   "domestic": [
+    {
+      "title": "한성자동차, 더 뉴 메르세데스-마이바흐 S 580 첫 고객 인도",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uSk55RVNIWkNrUWYtbXdHVndwazBzeU5NbjdOak5sSDZTUWI4SGRfUnJUeGg4ZmY1UGN2NHBZNGNTLThDaVhmU1Exc1NWRk1rXzVRY0stWmowWS0weEc0aTRiMWhGNXAt?oc=5",
+      "summary": "한성자동차, 더 뉴 메르세데스-마이바흐 S 580 첫 고객 인도 모터피디",
+      "source": "모터피디",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T12:10:44+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "이동권 울산 북구청장, 현대차 전기차공장 찾아 최영일 대표와 환담",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtQm9lRmNncEpHS0dvUm1pMkdYWHVxbXFFUlJZRXY3WjBvYjNrR0xYTU9waVBjTUw2OXZnWU5DZWVNX1BQb3h4MjdIcFU2VW1lTm9KV0Z1ZlVLQVVWbmk5WnVEVVFDTXVWaFB2c25B0gFyQVVfeXFMTjA5anFDRlZya0RiLXkwLTMycVVJdkZZOVdQdjgzeGN3OERnYVliWEJEVXktVlMxU2RMTXRkMWtSNjBCS2VaTmVwS2NWMG1xVEZSU3lvbGx1emxnaWhxdDc0Y1hBNDJvdGdjV0c4dXM5Tk53?oc=5",
+      "summary": "이동권 울산 북구청장, 현대차 전기차공장 찾아 최영일 대표와 환담 울산신문",
+      "source": "울산신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T11:10:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "“조수석 화면 안 쓴다”…車 소비자는 화려함보다 편의성 원했다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KLWtEek91SUhiSUVlaE93RmU1S3g3aVJVWTVUT05fOWhQNUg4LVZRQnpDcEZ0LUlTY1hzN0l2bjJPZGkxTTl2X1ZlQ19SdGRUYmV2T1pMSUxrUkpIYUtMOVV1Z0l3OGNTZUHSAW5BVV95cUxPM0preFR3VkphNHI2SFlERnR4MlVZbkR6SlBMWjYzMVN1UHA2MEZLNGFKT1lZaEtQMlU0eGdmb2xXaFc1TnRVMVFJbTNKdl96YjUwemVTS1o5VnpWaFRNaVdYczlEeFpVM3ZxNmkzUQ?oc=5",
+      "summary": "“조수석 화면 안 쓴다”…車 소비자는 화려함보다 편의성 원했다 지피코리아",
+      "source": "지피코리아",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T10:57:06+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "한성자동차, 마이바흐 S클래스 1호차 인도…사전계약 1060대",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PeUNKa2MxTG5kUlVTcEM0c0paUmFtbEgya2NFWFFZRVpaRDZjeUdMeXhLU1JSZmxrVXZVT3dmRGZJcnkycndOWE1XVFVGenRCRkNFYVZwN2NVNWlCYnpOZk1IMTVxemc4ZGfSAW5BVV95cUxQeGZrdmlpV041WjhlajJIRWRTMXQzSHI2ZUl3WTY0SlkzdlZKTThDZjNaM0RPRVVoSjNaUW1ZeWJXdnNCa2JGaDFqSDF1RlhfYk94cktHT3daR0RsT2o5eEFROHYtMlhLREJGdUs2UQ?oc=5",
+      "summary": "한성자동차, 마이바흐 S클래스 1호차 인도…사전계약 1060대 지피코리아",
+      "source": "지피코리아",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T10:55:50+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "전기차 ‘얌체주차’ 과태료 10만 원 검토",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jZVZxUElfZEdfZ0w2V0t0dFlSaU81MUtmbzdzTk1VcVVzaVNLa1hGNDJXQVlmRGx0eEFSVENWQWFnbERVODBDcHljRl9MeENqX1BkMnBwcFlCSHRtcEHSAWNBVV95cUxNT1ZrMXFqQlRzdDZzRktPTjVBUHY0NFpoWElOUWg1V1A3b3UxeFNKVGtHTU8zNTdORFV3MTdUVlRIVDJqa1NlbzlHNzZWRG90Zk1Ib1F0Sm9UaU9DZDVHN3ZhNHc?oc=5",
+      "summary": "전기차 ‘얌체주차’ 과태료 10만 원 검토 채널A",
+      "source": "채널A",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T10:11:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "현대차그룹, 경남 집중호우 피해 지역에 성금 10억·차량 수리비 50% 지원",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SUGI1OEEtSzk5RmxNa1lmR1l3RUxfSHZvTUc4Z0toXzA3d09jVFhmUVFQZHk0bDctV0hrUmRtbGdteWx0UFNISHo1WnREQk5HN0JHV1FNODNrYzZyUW5lN0JJNFpsbDB6NEpV0gFvQVVfeXFMTmJfSVRzUkVGMEh4eGZrQl9vRDM5Mlk5TDdVYmc2NG1neUktWl9QTDZJNE1zREpvaF9hX1I4U2owTER6YzA2ek1EcU1VSk43T1hpaXBfZ2dZV2dEampwZmRrZEJfdU9wTHpsMmN3N200?oc=5",
+      "summary": "현대차그룹, 경남 집중호우 피해 지역에 성금 10억·차량 수리비 50% 지원 뉴스로드",
+      "source": "뉴스로드",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T09:35:38+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "제네시스 GV90, 한 번 충전해 500㎞… 가족과 10년 탈 전기차 될까",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EalU5a0dhRC1QNTRCbVpWUV9RR1U2ekZPaE5DVEp6REp1cnRudnpSRTFYOVNxMzNUUktMbWlxWW41cUR4VjNteGV3YVViRjF4S0ppTDg1OGZocUFNXzZMZDFBVE5xSU80OEdj0gFvQVVfeXFMT1dSSTRGcDRpVGsxLWpPdlV4cXIzeEZaNGg4eWNSbnFHeWhUNlMycWp5WXJfRmk2UE02cXlYMmxBRkdoZVB2ZVo2ZzZQd3A5VVlLOVBOcG5GZHN6QWRaUDRPcVQyNmRSQjdWZDB1OUZN?oc=5",
+      "summary": "제네시스 GV90, 한 번 충전해 500㎞… 가족과 10년 탈 전기차 될까 뉴스로드",
+      "source": "뉴스로드",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T09:28:58+00:00",
+      "byd_ev": true
+    },
     {
       "title": "현대차 파업으로 1.3조 손실…기아도 6년만에 파업 예고",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfQlcwM2o0QWwteHh3bjdPSXRNWlRaRHAyd2NzYmVZNFpOczJTWl9HSmkxZ21sYVBvN3JZMEV3cXBNeUw1RFl0bG14d3l1UGY0a2h1bU41YnhtRVJVLUViaEpEcUhfRlhJMThZTzNGaDBfLWc?oc=5",
@@ -138,13 +208,13 @@
       "byd_ev": false
     },
     {
-      "title": "현대차 노사, 24일 임협 교섭 재개…노조 부분파업 일단 유보",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGa2Q4MU84Q2R1M3o0UVFZX3dSVXVBaExsd2h1aXl3b2UyTHpsdkJPZGpTX2NlMnpzV3dSRU13Y2RJeDFqOXpVbjJPV2RaTndlR1c0dXpOcmYxOWROWnB5WlZfSVBwbnJoMDhFY2Fn?oc=5",
-      "summary": "현대차 노사, 24일 임협 교섭 재개…노조 부분파업 일단 유보 아시아투데이",
-      "source": "아시아투데이",
+      "title": "제네시스, GV70에도 ‘블랙’ 입힌다…그래파이트와 투트랙 가능성",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Rem40SDZDeFBOZVJuNnRLVFF5a0prQlJiVzZudVF2RVMxRFVOOW5BMWUzcHA2V0plRTFXYTZnLTJtZDJrOFo3S244SmNIbU8zRnY5TWFQbDRFMFNseXF6UDYwSk1OdlpQeEHSAW5BVV95cUxOSXFDN3BUSVpLVVJMTFlJTDZrQU5idnBtTTJ2dmNYaFE3ODVRaUt2cS1qbEV0N1lDcjM2OGNNelNGZjNaNmNrU3ZxdVNfTEZnNzJDTmhBSUlZSE0xX2E0VkZDaWJGWF9Bb3I4bVZxdw?oc=5",
+      "summary": "제네시스, GV70에도 ‘블랙’ 입힌다…그래파이트와 투트랙 가능성 지피코리아",
+      "source": "지피코리아",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-08-23T07:27:09+00:00",
+      "published": "2026-08-23T07:21:42+00:00",
       "byd_ev": false
     },
     {
@@ -190,11 +260,21 @@
     {
       "title": "현대엔지니어링, 한국전기차충전서비스 흡수합병 결의",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xY09ma2NNM2hyU3ZRNzk0UG05VVZEVEhNLW9qTnpyY0xEVGZLLUppRS0tci1tekptLVhkLWJrMjZpTjhSNTRya0NPLUQta2xUWWRNVjFwLXFVOUw2bG1zbWdQTlI0NDN2?oc=5",
-      "summary": "현대엔지니어링, 한국전기차충전서비스 흡수합병 결의 한국부동산신문",
-      "source": "한국부동산신문",
+      "summary": "현대엔지니어링, 한국전기차충전서비스 흡수합병 결의 부동산신문",
+      "source": "부동산신문",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-23T06:38:41+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[경제+] 모듈러 호텔부터 전기차까지...세계로 뻗어가는 中 '스마트 제조'",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocEtBa29ObUItLUdHY25udjBNZUh5X3dMWGhfenRkRWc0QUJrOGlZaEJFRTVBaFNmTFgwSk9zQzZ0Wk1kbzdvdklpdEFLQlRrVzBxM1ZvWXdYVnRyM1NOWVFFakw1R2F3WHRHddIBcEFVX3lxTE9MaElmQm5yQ0I4eVFXMTVmQ2h1V2VINkVqVHpva2ZSbzAyeWZ1ZDVqdnZQYjFEUXQzaDRFNFFjeWEtRjJZNkJ3MzdDbVhKMlJyS2RZU1hrSlh1OTNaS1pGa3EyMFBockVDVExnRjk3d2k?oc=5",
+      "summary": "[경제+] 모듈러 호텔부터 전기차까지...세계로 뻗어가는 中 '스마트 제조' 내외뉴스통신",
+      "source": "내외뉴스통신",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T06:37:40+00:00",
       "byd_ev": true
     },
     {
@@ -205,6 +285,16 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-23T06:23:05+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "벤츠공식딜러사 한성자동차, 신형 마이바흐 S-클래스 첫 출고",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZnZCRzdEMkgtQkw2VktSakFtbGZuREh6RG9pbE9Kb3MzSzRoeXFoQjdiZGs1emVWdXFKSmZmVWhwUk1UcnR3Z0N6WmdEWGRQcV9helk3ZXZuVU0zcU50elNLMzNQa3RjNXNBOdIBcEFVX3lxTFB5WTlXYlUyQlIycTE5UlBIVm9taGNhZVprQUVHanFXWW1OY2xSVk1INVhqZm5XeWFZQUtxMDZLeVB6cWpmY016RVE2OENRNThoNzdlRDNxRXBZWWdWaWtSTlFRb0VtQ3prME5iZzVmamg?oc=5",
+      "summary": "벤츠공식딜러사 한성자동차, 신형 마이바흐 S-클래스 첫 출고 글로벌경제신문",
+      "source": "글로벌경제신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T06:18:24+00:00",
       "byd_ev": false
     },
     {
@@ -229,7 +319,7 @@
     },
     {
       "title": "[자동차] 베트남, 인도네시아산 보급형 자동차 인기…7월 수입량 1위",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xUDI5WHdsdml3T0tCT09FRHAzaGE3cmlpZ0dtek92emc0ZlNYUDN3bzRDTXBZbzNseDRYY1IzaUtqbl9nbkVnZEkwN1g5MUkyUGtEbWU4Q1FicVY3bERORXJBQ3FqVWZ6UnVnaGxwQ29IUjQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYUG9iUlBaWjFkdjNRdng5T2ZkVGhYWl84U3doVjlENUVhN3FFZi1oUEtJNlFQZFYyTHQ0Wk1XcHFxQnRoNVFIT1pyWU8xX3J6eDROSWVRZXF4bjhBVnh5Mk0tdnhFellGaDlsRFVBZVQ?oc=5",
       "summary": "[자동차] 베트남, 인도네시아산 보급형 자동차 인기…7월 수입량 1위 굿모닝베트남미디어",
       "source": "굿모닝베트남미디어",
       "domain": "news.google.com",
@@ -245,16 +335,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-23T05:30:18+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "항공정비 자립 '승부수' 띄운 인천공항…'MRO 얼라이언스' 발족",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55V0NHTlZpQkNoSTQyWEEteURQRDRjdlptV3lfVVllVWhPd245ZU9ZczVrdFVhRWp6MVJKNmZ5TV9Td0REcFZDZmgzcTBMV09ERmh6d292UVN1YnM5d2l1X0dORzhnWXRYZ2NyUjJmVdIBc0FVX3lxTE5RbG5LcG14Ym1DWGZ2QURNeG1IRlR0TzgzMndhRjZCMVczVGZ3ZEtkNHZVcXpWcHpkbklPc2lxVTBLY0FabmttNFFLcGowS0IyX21ZZjBSX1VXVVJyWHE1Z1hsUWVvVWxLdHVMREQza0Z6SVU?oc=5",
-      "summary": "항공정비 자립 '승부수' 띄운 인천공항…'MRO 얼라이언스' 발족 뉴스웍스",
-      "source": "뉴스웍스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T05:25:15+00:00",
       "byd_ev": false
     },
     {
@@ -308,33 +388,13 @@
       "byd_ev": false
     },
     {
-      "title": "현대차그룹, 경남 호우 피해에 성금 10억 전달",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xaFp2SHBNWEkySlFjanJzQ016NFRpVXlleklHSHBPYUE4TmhCVWxDQ3VVSWUybkx2ajZoYnlWU0R3bmcxd1E3QV9GbUFpZUFxWVRzZnZNc09LQkZSZnFXLWJaVDg?oc=5",
-      "summary": "현대차그룹, 경남 호우 피해에 성금 10억 전달 서울경제TV",
-      "source": "서울경제TV",
+      "title": "‘N% 성과급’ 발목 잡힌 K-제조업…‘반도체·자동차·조선’ 줄파업 위기",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLY2VVbWxQSDZ0dUl2VFZhcGNLNk1qQ2ZoRkZuUDhabG1Vcl9UR0dPWmdKMDdGM0FWZ1B0bXR2TVBxTkRYYjR3bDNiVlY5MUZ3SG5KTm9PS0tLMENTdkE?oc=5",
+      "summary": "‘N% 성과급’ 발목 잡힌 K-제조업…‘반도체·자동차·조선’ 줄파업 위기 아시아타임즈",
+      "source": "아시아타임즈",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-08-23T04:17:44+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "30년 내연기관차를 타고 전기차로 넘어와 보니",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4VGVTWXhYSVh4SUppMndEMUEwQi1sejB5NDZjZ0J0QkNXYndBSjdyTjE2YVVOWTVZUEJVWWxwZXFCTDAyMW41RmhXM2tYZw?oc=5",
-      "summary": "30년 내연기관차를 타고 전기차로 넘어와 보니 브런치",
-      "source": "브런치",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T04:03:37+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "정부, 자동차·이차전지 등 7개 업종 통합환경허가 확대..관련 개정안 입법예고",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnWXAwQVgtTklIQ1RFb1I0dzgwb2xMeFhWajdVWEpYaTRKTHRaMWswTnEtVHVfZ1JENzRneXJxY0RPdDEtQzVONHhaTnlhaGU2MkE?oc=5",
-      "summary": "정부, 자동차·이차전지 등 7개 업종 통합환경허가 확대..관련 개정안 입법예고 한국정경신문",
-      "source": "한국정경신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T03:59:12+00:00",
+      "published": "2026-08-23T03:52:00+00:00",
       "byd_ev": false
     },
     {
@@ -351,16 +411,6 @@
       "title": "제네시스, GV90 핵심 기술 공개…“플랫폼부터 공장까지 새로 설계”",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uYXZtRFZuaFY0bU80UGRMSEZsTlF2MzZ4aHNFQ2tObjNzeW52eWlrc1I5YldnQUhyS0dMUENRT1B2SGttelRtYWZjY2RYWTFBd3ZyUzROOFBSNjQyM1FQVXlVanhyNTlKZHh2bw?oc=5",
       "summary": "제네시스, GV90 핵심 기술 공개…“플랫폼부터 공장까지 새로 설계” 뉴스락",
-      "source": "뉴스락",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T03:35:02+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "KT, 서울시와 ‘AI 미래 캠프’ 개최…초등학생 100명 참여",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcGdDVU9oZk10di1ZemRaczBBdzhaX3l2ajVaMGxXcjdfam9oSXg5QXZLd1c4SkxGZThXTUxHZEUwOXpxTkJOUEltNVh4UURiUFpQWElaS0tsQzZISXN2STNBSjFBQVVtNG1VRg?oc=5",
-      "summary": "KT, 서울시와 ‘AI 미래 캠프’ 개최…초등학생 100명 참여 뉴스락",
       "source": "뉴스락",
       "domain": "news.google.com",
       "category": "domestic",
@@ -399,22 +449,22 @@
     },
     {
       "title": "자동차·이차전지·음료 제조업도 '통합환경허가' 대상 포함",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaV0M0T0Y0dVA4Z2tqSFU3ZU5HeXU1QVRSRkl3V3ZELThIemllbDJvMm54YkNpUldfYUNFQlQ3SHRzenVCVW5tUTRhWVZjSjcyYmc?oc=5",
-      "summary": "자동차·이차전지·음료 제조업도 '통합환경허가' 대상 포함 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T03:00:12+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "자동차·이차전지·음료 제조업도 '통합환경허가' 대상 포함",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTDU1dWhXZ2R6WVBMN04xeFJqNm5NQ3RPMG5IcUpWVHhnNTY5S1loc2FXQjJSZ3ZnUUZPRzBtLVR6UUpwR21GS2hwWXNoSjFVX3ExRXdPaEJCR0dzXzdNUdIBYEFVX3lxTFBCTDU1dWhXZ2R6WVBMN04xeFJqNm5NQ3RPMG5IcUpWVHhnNTY5S1loc2FXQjJSZ3ZnUUZPRzBtLVR6UUpwR21GS2hwWXNoSjFVX3ExRXdPaEJCR0dzXzdNUQ?oc=5",
       "summary": "자동차·이차전지·음료 제조업도 '통합환경허가' 대상 포함 연합뉴스",
       "source": "연합뉴스",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-23T03:00:12+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "자동차·이차전지도 통합환경허가 대상…7개 업종 추가",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UbThyNW1xQ2R4UVlFUzhaWEN2VjFlWjFJX204Q001N2lnVzlDS2czcHhhWmdZVE56VjlhY1NVdjNreGd5V0tSSFFsWlJOUmJVMlNRUGQtN2tocENhNnpuR9IBeEFVX3lxTE9DUlZJQnpiblpwXzByalRpcU1pdjZhTVFyT3NvT002aS1VUFd1cTRkUHM5VldJVkRXWmFMbEx6d3RseGhRaWoycERrak9LVEFzdlBlalJFZnNYMHpMVUg3d2NWRElGMkZLRUNZcU5TSDI4RWN1YllsTg?oc=5",
+      "summary": "자동차·이차전지도 통합환경허가 대상…7개 업종 추가 뉴시스",
+      "source": "뉴시스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T03:00:00+00:00",
       "byd_ev": false
     },
     {
@@ -432,16 +482,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdzFuWHgyUEhWbGJ6YTJpZ1Q3VHNSc0hjSU92ZThtVEcwTnlXdVhJTGtXVVk5aEhyeG4tc3lEYkVaVTJselV6blFwcGNwUTJ3QjBkZ05qNTBJQdIBWEFVX3lxTE1sRE1RazJpNGZHZXZ0QUlWeWgtVTlDa29iSWdoaUVnYTFFcWdENDRJOC1yb0tESjJFMWRFWGNqZnUyWV9sM19XV3lQN0VvQ1I3c203X0FscC0?oc=5",
       "summary": "자동차·이차전지도 통합환경허가 받는다…7개 업종 신규 편입 아주경제",
       "source": "아주경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T03:00:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "자동차·이차전지도 통합환경허가 대상…7개 업종 추가",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UbThyNW1xQ2R4UVlFUzhaWEN2VjFlWjFJX204Q001N2lnVzlDS2czcHhhWmdZVE56VjlhY1NVdjNreGd5V0tSSFFsWlJOUmJVMlNRUGQtN2tocENhNnpuR9IBeEFVX3lxTE9DUlZJQnpiblpwXzByalRpcU1pdjZhTVFyT3NvT002aS1VUFd1cTRkUHM5VldJVkRXWmFMbEx6d3RseGhRaWoycERrak9LVEFzdlBlalJFZnNYMHpMVUg3d2NWRElGMkZLRUNZcU5TSDI4RWN1YllsTg?oc=5",
-      "summary": "자동차·이차전지도 통합환경허가 대상…7개 업종 추가 뉴시스",
-      "source": "뉴시스",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-23T03:00:00+00:00",
@@ -488,16 +528,6 @@
       "byd_ev": false
     },
     {
-      "title": "현대차, ’집중호우 피해’ 경남에 복구 성금 10억 원 전달",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lZ3VEdWw5T3Y5RktkOGw4Mm10NkdYM1pGQU5GcEpBLS1FVHRlRXJqMU9qTkV5cjFCaEJMYnJjbTVnUWZicjJzMVpsanp0dkZEZDRJYlhJZHpTSUJlb3BaSTVxTjVXTFE?oc=5",
-      "summary": "현대차, ’집중호우 피해’ 경남에 복구 성금 10억 원 전달 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T02:35:00+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "\"워싱턴 심장부 질주한다\"…트럼프發 자동차 경주대회 개막",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GaHZSc3otT3dCWUNtdEtwT3RHZ0JKQ3BxSjBXSGNVSFZGMmh1M2RJckc1Xy01dHIxVlhTSEtmbWtFamZTSGpjZ0psU0U1MGpxMnZTUmNFNlhSLURtejNRTdIBeEFVX3lxTE9vOGgybEJTQjRYX1dOS2x1Z1VOZkx0SUtXbDJIRWhMRnMxVjJkd0pqc2NvOVJMcUlMUTVsQUNOTjVUcmZxRFZMaHlEVk42UE15bDhUNnpnZTBQRDZGSjk2Y2FZblpGbUNlSTFNMmV6YXpwaU84VGhuMQ?oc=5",
       "summary": "\"워싱턴 심장부 질주한다\"…트럼프發 자동차 경주대회 개막 뉴시스",
@@ -538,16 +568,6 @@
       "byd_ev": false
     },
     {
-      "title": "“사고 나도 못 빠져나와, 테슬라 손잡이 너무 위험”…중국서 300만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aT250Ri1KNWw2QkFIY25hNzMwaFRHbnNVODBzSTNjQTgwcjVpU01VN0pCRFZJVTVnNWw2N1Y0NjVleFlrZy1pRlFQdUdxNE9hV0E?oc=5",
-      "summary": "“사고 나도 못 빠져나와, 테슬라 손잡이 너무 위험”…중국서 300만대 리콜 서울경제",
-      "source": "서울경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T02:19:52+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "“사고 나면 문 안 열려”… 테슬라, 중국서 300만대 리콜",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14MENoaVFJZnJNaTBFYmRSNmFxb1dBaGJEZ0N4N3kwUGZxV0dnX0FLOFRmY3VWbjlPZjB2d1NWZGVEOGsxRS1xWjRoekNMd1RGaVhJU2RvMmZ0ZDdIelNXTU5CX0FRajJVcFVWcnFsWHHSAXRBVV95cUxNYnI3M044ODBVVDZlSkUwX3kzMDI5elI3RXFMM2dmZW5EYUdRenJHYVJ0QmtzZFpxek9wV3ktVXlqNzh0UWhYMGtHZG94MnBwSm5hY0YyT1lkeEUxSEdvM2NvT3gwSnFqLWozWjEwNS1SZ1NOag?oc=5",
       "summary": "“사고 나면 문 안 열려”… 테슬라, 중국서 300만대 리콜 IT조선",
@@ -585,26 +605,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-23T02:05:42+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "현대차그룹, 경남 집중호우 피해 복구에 10억원 성금",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcm9zTU9EU1ZpV19yV2lEZzNYS0lUZ0g0a0Q2d1RNQ3p4THpRNTNheVM5eEVqU2NzNUllV28xYlBWcEQtZXZNcDhROW9DR21NS1ZnSzZmOWJXVjYwMkhKWDRXR3FRZ3A5Y0tlVWxOT1dNQUUxSlhsaFFfLWZ0NnNuc1BtYjdTTXJwdUFHdzItSG5oeENpR25aSWNmM2llVXJERXdveWljQUlUWmNZWmlkc2c0NmJEZEhoNHhNdTV2TWw1ZHZSdXRuZnYzTFI0X2huaHRBWEFiX3loRFFUa19Pc0NudS1DT010bEs0bnlGc2JTUUdRWnNfWGlZcHV3NUhkMEpadmxQR2xLWGpqZE9WLXh6YUVicVk?oc=5",
-      "summary": "현대차그룹, 경남 집중호우 피해 복구에 10억원 성금 데일리안",
-      "source": "데일리안",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T02:04:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "현대차그룹, 호우 성금 전달... 르노코리아, 임단협 잠정 합의: 외[시경Today-자동차]",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41UDNYYVEtLUVQNHhhU25rTDhadUYwVmY3NTRtd2xXMGFNTkZScUtkb1kwMVoyVGlCTk14MHVJLVlvenhVdDF2eUtzaEE2MERaUHNQQTFxZ3ZwQ0E1ZG5ZVndoUnRjMjdXUkxKaGdQUTc?oc=5",
-      "summary": "현대차그룹, 호우 성금 전달... 르노코리아, 임단협 잠정 합의: 외[시경Today-자동차] 시장경제신문",
-      "source": "시장경제신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T02:01:13+00:00",
       "byd_ev": false
     }
   ],
@@ -1292,6 +1292,16 @@
       "byd_ev": true
     },
     {
+      "title": "기아 글로벌 베스트셀링카 '스포티지', '텔루라이드' 따온 풀체인지로 SUV 강자 굳힌다",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpVlBjMUJQbzQ4N3cxcGxBY0Y5Vl85bzZvZUI2dEpJWUx1cFk5YlczMXRKQnZ3N0c1ZEJIRWdoVzdMcFJpWDBwY1lqMUpMeVRPZ0s2RGFVZWxmdG8yV0lBUmRxUVBkdTl3ZlpwdmYzUml6UVk?oc=5",
+      "summary": "기아 글로벌 베스트셀링카 '스포티지', '텔루라이드' 따온 풀체인지로 SUV 강자 굳힌다 비즈니스포스트",
+      "source": "비즈니스포스트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T21:00:00+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "Stellantis Recalls Almost 75,000 Dodge Durango For Spoiler Issues",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRC0weklJVG8zR1JNcHd5MDJPZGdaUXlzakk3STJyTXo3VjRKSHltdnY0MjF0UURmN3lZbDhmT1dUbUdTazJFcEtWeldWdXY2bmF4SVBHS25Jb0F5Zi00VzFnRmV3ZHIydW9Zd3dpVjVzN3J0RXFCWExuenZ3c1loaU1vTUE0Wm5pemVKb3hURDBKZzR5SVE?oc=5",
       "summary": "Stellantis Recalls Almost 75,000 Dodge Durango For Spoiler Issues MoparInsiders",
@@ -1362,16 +1372,6 @@
       "byd_ev": true
     },
     {
-      "title": "NHTSA Launches Engine Failure Probe Covering Nearly 1 Million GM Pickups and SUVs - Earnings Beat Streak",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlJzQi10bUJvSF9UclM5SU1WdnE1Sm13Znl2NXdyRE00TnVMWnpLVE9NdE1mYi1VQlRGcDlGX005UW1lYk42elE2TFVfbWFLWlNjLVlVdnA1RFA4YXEtUGdDT2p3OFZrN0pqWmZVOGdpbkVHRXpNTVpiaURrNVNBZndyamtqOUZKeEhTZ1ROWUc4NHJJLWU3UC03c0lRaFR4eENUNVRIWDYwWGxuRDc4ZUIxTmZUODBnNnlwd2p6N1Y?oc=5",
-      "summary": "NHTSA Launches Engine Failure Probe Covering Nearly 1 Million GM Pickups and SUVs - Earnings Beat Streak vinanet.vn",
-      "source": "vinanet.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T12:14:46+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "NHTSA Opens Probe Into Nearly 1 Million GM Pickup Trucks and SUVs Over Engine Failure Concerns - Profit Recovery Report",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1lvWXZCZV90b29PdkVkSVVIbERpcTQxUjBJR0lRWUxzUFo0Rld3NTJUX1ROdFV4OFFCTlljaXdvSTUzdHY2aVRBbm1uQXl2bXVpU0x4MjduNWd2ajdkSllSZGliem52SDdTd00xNEp4ZnM5Z0ZPZ24wendjSXRyZWZlX0R6em95REVoRWNxZE5ObnlyNktsYXZJdFhidl9MUzJiei0xVWwzSWwxbHpLVlh6RnV4eXBYWVhmbjNPY0JsQkJnYkEzUVdRYmhBZi1qNGc?oc=5",
       "summary": "NHTSA Opens Probe Into Nearly 1 Million GM Pickup Trucks and SUVs Over Engine Failure Concerns - Profit Recovery Report vinanet.vn",
@@ -1393,12 +1393,22 @@
     },
     {
       "title": "숨진 탑승자 최소 15명…중국서 '역대 최대 규모' 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDbC1RcVVaYkRpMkFVOERiUDMwSXVIbmlFTkVQT2hacW9aSkEtem5aaE5kTHBqZC16SUMwQmJwczdrOWpGWk8zRDhmOA?oc=5",
-      "summary": "숨진 탑승자 최소 15명…중국서 '역대 최대 규모' 리콜 v.daum.net",
-      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWtyb3pEXzBnbVJmUjBlQUVSWVBfVHNZVG1Nb0ZyTmRYR09GUXNQV1BtbEZtT3FIUE9XSDh3NEFTdHBJWGZ5MjduOXVHYmhFUzRjYmVIRUFodU4tRWZQZlVLQzlObk0zX0h6bVNPekQtalpqc1hDZ2ZsUWVMd2J6b09UMA?oc=5",
+      "summary": "숨진 탑승자 최소 15명…중국서 '역대 최대 규모' 리콜 네이트",
+      "source": "네이트",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-22T11:18:04+00:00",
+      "published": "2026-08-22T11:23:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "숨진 탑승자 최소 15명…중국서 '역대 최대 규모' 리콜",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ScVdnYzBabXVHa2FfUlhpamQ1akttZ2pOMmJjQ2VOdGF2bDNZMVh1RENXdDhUNjEzMmxfZnZPb2VncUp4Vko5QmZLdTgwYjlPY0l1U2hmREtYLV9icjl0MS1UVnAxS3pwSHfSAWZBVV95cUxOdWFhUlVTUkVTYWlvaWNzVlJSa2V0cm5JZXhlWjNpeGJOVVR4bDdzbm5sOVRrNDdxcERLclV5czZlakhhNEhhZjk0Y3FfajJDTTJuSnlKcHkxaHl2ZC02SW1DbEdWZnc?oc=5",
+      "summary": "숨진 탑승자 최소 15명…중국서 '역대 최대 규모' 리콜 news.sbs.co.kr",
+      "source": "news.sbs.co.kr",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T11:16:00+00:00",
       "byd_ev": false
     },
     {
@@ -1522,16 +1532,6 @@
       "byd_ev": true
     },
     {
-      "title": "'매립형 손잡이' 안전성 논란에…테슬라, 중국서 300만대 대규모 '리콜'",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9adlZKQzBPVkxBamxzWkpVTTJLSmtQbVZaUkFNUUFoZFZvUHFXOERIUk13ekxwZkRaYV9HWkI5THoxQW5EcUNmcVQxbEFqVzQ?oc=5",
-      "summary": "'매립형 손잡이' 안전성 논란에…테슬라, 중국서 300만대 대규모 '리콜' v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T07:14:00+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "테슬라, 매립형 손잡이 논란 불거져...중국서 298만대 리콜",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42T1FTNEpmS3ZfSHpybXBSeXRUWXhfOVB4b0JwZWxOZGFuOXUxMnpGak9WbzNXTl9ldTNXWGJ6QnZkZXZNTk53TnpQY3lmc1hIVl8tTl9YUmdHRW9vS1BMZU5wT0JLZGpWeEhvSw?oc=5",
       "summary": "테슬라, 매립형 손잡이 논란 불거져...중국서 298만대 리콜 생생비즈플러스",
@@ -1643,12 +1643,12 @@
     },
     {
       "title": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVYUJtSmhseGtIRmNDR0lHVW1NRnFHNWw0SGpCQzlJZ05NWERORjdYSUhCZGFneTNWMUZFdS14RUtpQVNNT2VzeGViNWFvQThoZW9F?oc=5",
-      "summary": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜 네이트",
-      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ieFR5NHU5U0lnOGFGR2V3NlpwZXMwby0wNUUxOXhuSG14T1FKdTJrQWh6aHhneTJBVnNfNG9aS3Q4dXJFN05ndDBJZzF3ckN2ekVSS3Q1M3RWWWFhaEM1N1NkaGZxRkc0cUHSAWZBVV95cUxPempWWlpZNzJ4QmdpR1RCZnd3TU93MU1faG1VeFR5UThCRk92bGdKR0l0Vkh6dnBTM3gxaHc4TlBFS25id1FYQjFDYWpNMDlaS3A3NnlPb0F5cnFxQWZQbGxLV2k0akE?oc=5",
+      "summary": "\"사고 나면 문 못 열어\"…테슬라 중국서 300만 대 리콜 news.sbs.co.kr",
+      "source": "news.sbs.co.kr",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-08-22T03:33:00+00:00",
+      "published": "2026-08-22T03:29:00+00:00",
       "byd_ev": true
     },
     {
@@ -1670,6 +1670,16 @@
       "category": "official",
       "published": "2026-08-22T02:50:12+00:00",
       "byd_ev": true
+    },
+    {
+      "title": "BMW는 구동축 결함으로 인해 여러 고급 차량을 리콜하고 있으며, 리콜 대상 차량의 대부분은 5시리즈입니다.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOW5WeE9wYlBMMFozaGtDZEt1UXkzVUpiSTRLZkhTTmU3aFhBUnZLc3dwSkpOcW84LWJXam9VV25jcEYwSy1xMGlUT3l0SThyTzRoaXRJZ1dnNF9oUnRtT3ZGZy1BSFVhQjl1b3JodlpJbkU3bG9nRTdYZ0JZRlZXYkN3WWRqWldSQy1qZExHNEVaZjVQN0hIUHpZOHE?oc=5",
+      "summary": "BMW는 구동축 결함으로 인해 여러 고급 차량을 리콜하고 있으며, 리콜 대상 차량의 대부분은 5시리즈입니다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-08-22T02:44:38+00:00",
+      "byd_ev": false
     },
     {
       "title": "테슬라, 중국서 차량 298만대 리콜",
@@ -1800,19 +1810,39 @@
       "category": "official",
       "published": "2026-08-22T00:28:54+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "테슬라, 中서 300만대 리콜…“매립형 손잡이가 화근, 사고시 문 안 열려”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jRlRLYTVuaDhIbVBIcFdZb214b0VlcDNDWm5uQXdZYjBON084eXI0Sm1ad1hiX0JrN2JYT1NOTXFKY0pNcExKRE04blVtUQ?oc=5",
-      "summary": "테슬라, 中서 300만대 리콜…“매립형 손잡이가 화근, 사고시 문 안 열려” 전자신문",
-      "source": "전자신문",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T00:24:31+00:00",
-      "byd_ev": true
     }
   ],
   "byd_ev": [
+    {
+      "title": "이동권 울산 북구청장, 현대차 전기차공장 찾아 최영일 대표와 환담",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtQm9lRmNncEpHS0dvUm1pMkdYWHVxbXFFUlJZRXY3WjBvYjNrR0xYTU9waVBjTUw2OXZnWU5DZWVNX1BQb3h4MjdIcFU2VW1lTm9KV0Z1ZlVLQVVWbmk5WnVEVVFDTXVWaFB2c25B0gFyQVVfeXFMTjA5anFDRlZya0RiLXkwLTMycVVJdkZZOVdQdjgzeGN3OERnYVliWEJEVXktVlMxU2RMTXRkMWtSNjBCS2VaTmVwS2NWMG1xVEZSU3lvbGx1emxnaWhxdDc0Y1hBNDJvdGdjV0c4dXM5Tk53?oc=5",
+      "summary": "이동권 울산 북구청장, 현대차 전기차공장 찾아 최영일 대표와 환담 울산신문",
+      "source": "울산신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T11:10:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 ‘얌체주차’ 과태료 10만 원 검토",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jZVZxUElfZEdfZ0w2V0t0dFlSaU81MUtmbzdzTk1VcVVzaVNLa1hGNDJXQVlmRGx0eEFSVENWQWFnbERVODBDcHljRl9MeENqX1BkMnBwcFlCSHRtcEHSAWNBVV95cUxNT1ZrMXFqQlRzdDZzRktPTjVBUHY0NFpoWElOUWg1V1A3b3UxeFNKVGtHTU8zNTdORFV3MTdUVlRIVDJqa1NlbzlHNzZWRG90Zk1Ib1F0Sm9UaU9DZDVHN3ZhNHc?oc=5",
+      "summary": "전기차 ‘얌체주차’ 과태료 10만 원 검토 채널A",
+      "source": "채널A",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T10:11:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "제네시스 GV90, 한 번 충전해 500㎞… 가족과 10년 탈 전기차 될까",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EalU5a0dhRC1QNTRCbVpWUV9RR1U2ekZPaE5DVEp6REp1cnRudnpSRTFYOVNxMzNUUktMbWlxWW41cUR4VjNteGV3YVViRjF4S0ppTDg1OGZocUFNXzZMZDFBVE5xSU80OEdj0gFvQVVfeXFMT1dSSTRGcDRpVGsxLWpPdlV4cXIzeEZaNGg4eWNSbnFHeWhUNlMycWp5WXJfRmk2UE02cXlYMmxBRkdoZVB2ZVo2ZzZQd3A5VVlLOVBOcG5GZHN6QWRaUDRPcVQyNmRSQjdWZDB1OUZN?oc=5",
+      "summary": "제네시스 GV90, 한 번 충전해 500㎞… 가족과 10년 탈 전기차 될까 뉴스로드",
+      "source": "뉴스로드",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T09:28:58+00:00",
+      "byd_ev": true
+    },
     {
       "title": "미쉐린코리아, ‘크로스클라이밋 3’ 21개 규격 추가…세단·SUV·전기차까지 확대",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdnZEYUZ2X09PaWE3WGNCZHJyT0Jxc1dCUHRQQUI0ckh3MF9ubVhtZjRCMmtTS3JHVl9xT3UtaTYyeHFSNVVudEFILW5LdmQyYXhZY01uZTFiNmVSMzczZEdqQ0Q0WEJmOTN4Tg?oc=5",
@@ -1896,11 +1926,21 @@
     {
       "title": "현대엔지니어링, 한국전기차충전서비스 흡수합병 결의",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xY09ma2NNM2hyU3ZRNzk0UG05VVZEVEhNLW9qTnpyY0xEVGZLLUppRS0tci1tekptLVhkLWJrMjZpTjhSNTRya0NPLUQta2xUWWRNVjFwLXFVOUw2bG1zbWdQTlI0NDN2?oc=5",
-      "summary": "현대엔지니어링, 한국전기차충전서비스 흡수합병 결의 한국부동산신문",
-      "source": "한국부동산신문",
+      "summary": "현대엔지니어링, 한국전기차충전서비스 흡수합병 결의 부동산신문",
+      "source": "부동산신문",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-23T06:38:41+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[경제+] 모듈러 호텔부터 전기차까지...세계로 뻗어가는 中 '스마트 제조'",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocEtBa29ObUItLUdHY25udjBNZUh5X3dMWGhfenRkRWc0QUJrOGlZaEJFRTVBaFNmTFgwSk9zQzZ0Wk1kbzdvdklpdEFLQlRrVzBxM1ZvWXdYVnRyM1NOWVFFakw1R2F3WHRHddIBcEFVX3lxTE9MaElmQm5yQ0I4eVFXMTVmQ2h1V2VINkVqVHpva2ZSbzAyeWZ1ZDVqdnZQYjFEUXQzaDRFNFFjeWEtRjJZNkJ3MzdDbVhKMlJyS2RZU1hrSlh1OTNaS1pGa3EyMFBockVDVExnRjk3d2k?oc=5",
+      "summary": "[경제+] 모듈러 호텔부터 전기차까지...세계로 뻗어가는 中 '스마트 제조' 내외뉴스통신",
+      "source": "내외뉴스통신",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-23T06:37:40+00:00",
       "byd_ev": true
     },
     {
@@ -1914,16 +1954,6 @@
       "byd_ev": true
     },
     {
-      "title": "30년 내연기관차를 타고 전기차로 넘어와 보니",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4VGVTWXhYSVh4SUppMndEMUEwQi1sejB5NDZjZ0J0QkNXYndBSjdyTjE2YVVOWTVZUEJVWWxwZXFCTDAyMW41RmhXM2tYZw?oc=5",
-      "summary": "30년 내연기관차를 타고 전기차로 넘어와 보니 브런치",
-      "source": "브런치",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T04:03:37+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "\"사고 나도 못 빠져나와, 테슬라 손잡이 너무 위험\"…중국서 300만대 리콜",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xcG1PbGFBR3R3ZXlyTDg3RU8tMzEyMWhaV0NidVB2RDlFcDF2cWpTNHI5T09wSkp1N2tEX3dlYV94TlVINW91TVNYanpFeDdqWm5J?oc=5",
       "summary": "\"사고 나도 못 빠져나와, 테슬라 손잡이 너무 위험\"…중국서 300만대 리콜 네이트",
@@ -1931,16 +1961,6 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-23T02:20:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "“사고 나도 못 빠져나와, 테슬라 손잡이 너무 위험”…중국서 300만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aT250Ri1KNWw2QkFIY25hNzMwaFRHbnNVODBzSTNjQTgwcjVpU01VN0pCRFZJVTVnNWw2N1Y0NjVleFlrZy1pRlFQdUdxNE9hV0E?oc=5",
-      "summary": "“사고 나도 못 빠져나와, 테슬라 손잡이 너무 위험”…중국서 300만대 리콜 서울경제",
-      "source": "서울경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-08-23T02:19:52+00:00",
       "byd_ev": true
     },
     {
@@ -2044,6 +2064,16 @@
       "byd_ev": true
     },
     {
+      "title": "[CAR 브리프] 한국타이어ㆍ롯데렌탈ㆍ케이카ㆍ쉐보레ㆍBMWㆍ지커ㆍ스트라드비젼ㆍEV트렌드코리아",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FbTZjYWp1RGl0ZlNoSVFjMlRZTU5SZjF4eEx0TENjWW1kc0hzVlV0T1Rld05SVFlMQ2ZmU040TEdNWlBCX3NBSk80cW9TZXFtLVlaYXc1b1VXRnlOUW1HWmRDNlpKbVRqUDI3cUJSeGF0R2Jz?oc=5",
+      "summary": "[CAR 브리프] 한국타이어ㆍ롯데렌탈ㆍ케이카ㆍ쉐보레ㆍBMWㆍ지커ㆍ스트라드비젼ㆍEV트렌드코리아 대한경제",
+      "source": "대한경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T22:51:53+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "전기차 '첨단 손잡이', 왜 안전의 약점 됐나",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjdHTDBBZEg4Ukl1ajBfSUpDWTlHMWVfeWNWQUdabWliSzNmY255M2dDcUpqRXNWSUdxbFltc245U3F1WTMwTWVBM2w2dW1Fc0Y5VzZQbDhxTzE0aHpQTWlhMEstWlk4MEhPR1FwOGRhQ21XVXZRYjN4VnprVHZDbk1taFN5TE9R?oc=5",
       "summary": "전기차 '첨단 손잡이', 왜 안전의 약점 됐나 글로벌이코노믹",
@@ -2095,6 +2125,16 @@
     },
     {
       "title": "[사이언스스코프]전기차는 정말 친환경일까…①과학은 자동차의 '평생'을 계산한다",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CMncyTVpOQXlIbm01WS1Eb3JnMVJZaWJzTHp6b3dmYnVEZ0VIWUZhZTg5dlFIRFNJcjdjbFk4Z3U2MUp2Snc?oc=5",
+      "summary": "[사이언스스코프]전기차는 정말 친환경일까…①과학은 자동차의 '평생'을 계산한다 v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T22:31:50+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[사이언스스코프]전기차는 정말 친환경일까…①과학은 자동차의 '평생'을 계산한다",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwX3c5eGtyTldSLVRlZ3VaNXlhc3lhaERCRGJpYk1hdEFJc3lDTmNNQVdxanpYMF8tVlJDMGMxbGd1OUs1bEhDejc4NkU3QVU?oc=5",
       "summary": "[사이언스스코프]전기차는 정말 친환경일까…①과학은 자동차의 '평생'을 계산한다 v.daum.net",
       "source": "v.daum.net",
@@ -2105,9 +2145,9 @@
     },
     {
       "title": "[사이언스스코프]전기차는 정말 친환경일까…①과학은 자동차의 '평생'을 계산한다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tWE5aTl8xX0MxMlotSHFzdFYwZ0V0bGN3U1lJV2R2amxVNHlvLVNucmxyOGw3U3A4TThsTHppaFhSZ2VFb0k1YVU5b0pEeWIzeWkw?oc=5",
-      "summary": "[사이언스스코프]전기차는 정말 친환경일까…①과학은 자동차의 '평생'을 계산한다 네이트",
-      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LRVBNbmJ1RG9SdlI0aTc1WXBVWXhaUnh0SGVqcnl4SjZXaEstRmhHdERzSGtUZGxaM0V4NkI1WWNuV2pmZGRBYzJDRF83dmpVQWNuc2gyckJfVUt1SUc0Uw?oc=5",
+      "summary": "[사이언스스코프]전기차는 정말 친환경일까…①과학은 자동차의 '평생'을 계산한다 아시아경제",
+      "source": "아시아경제",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-22T22:30:00+00:00",
@@ -2221,6 +2261,16 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-08-22T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "30년 내연기관차를 타고 전기차로 넘어와 보니",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4VGVTWXhYSVh4SUppMndEMUEwQi1sejB5NDZjZ0J0QkNXYndBSjdyTjE2YVVOWTVZUEJVWWxwZXFCTDAyMW41RmhXM2tYZw?oc=5",
+      "summary": "30년 내연기관차를 타고 전기차로 넘어와 보니 브런치",
+      "source": "브런치",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-08-22T19:00:03+00:00",
       "byd_ev": true
     },
     {
@@ -2361,56 +2411,6 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-08-22T08:35:08+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "\"사고 때 문 안 열릴 위험\"⋯테슬라, 中서 300만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBZGJic25ncXVyNG8ya2JYUFk4aEJ3WVFVZmMzQkpjZHBDVFF5blp2aUtzbzVhdnFkd1BxU0poMF9LS2RDOEVKVmtFZw?oc=5",
-      "summary": "\"사고 때 문 안 열릴 위험\"⋯테슬라, 中서 300만대 리콜 아이뉴스24",
-      "source": "아이뉴스24",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T08:18:20+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라, 중국서 3백만대 대규모 리콜…“사고 때 탈출 쉽도록”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xVEtVbG9vSzVXanQwUnJQWVZEUS13ZENseUpFYmZsOTJ1aGZ4NG1mRHFNWkNqYkRYeXo0c0N5OGczbG5GNko3MVFldlBiaGc?oc=5",
-      "summary": "테슬라, 중국서 3백만대 대규모 리콜…“사고 때 탈출 쉽도록” v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T08:13:52+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라 중국서 300만대 리콜…9개사 합쳐 427만대 도어핸들 손본다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xRlNQYW5CamxhcFcwZGlXTEl5Y1Z0b08yQlRqVXFQRTd2U3dxZ3c5VDM1VEpqbFRHaVM4T1E0NzhwMk1DbXdtNGpfNjZ6M3FwLVU2Qm5Uc2F1X0ljR1FsZTdCUFBjV00?oc=5",
-      "summary": "테슬라 중국서 300만대 리콜…9개사 합쳐 427만대 도어핸들 손본다 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T08:07:46+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "비상시 문 안 열릴수도…테슬라, 중국서 298만대 리콜",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00eFI5OWNHYWxSQy1sYXdGeFg1cEpQMmZ2YThNN3JSNXgtNVhzV1JDQ1ducUIySnQ1Ri1fRzhBUjlaUm95UmRwWEE3YzZ5OVVCNlROUDFB?oc=5",
-      "summary": "비상시 문 안 열릴수도…테슬라, 중국서 298만대 리콜 지디넷코리아",
-      "source": "지디넷코리아",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T07:52:53+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라를 포함한 8개 자동차 제조업체가 중국에서 사상 최대 규모인 430만 대의 차량을 리콜합니다.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZU1OYUxLbkNRSHNSSEpsQTZxVjF2YlhtRVlBZ1RHbU9ycVc5dWJpdXRYZDRUZ2tlVGZqZ2YteERHMU1kRS1rOXY4S0NYM3psQmt0LXRBemR0QXd1TGNWeWYwYm0yMWE5WkNaXzM3cExFRFlkTm80TlQtcUkwMWd6TXBfZl9XTmpxQklQUDhVUkx2ekUy?oc=5",
-      "summary": "테슬라를 포함한 8개 자동차 제조업체가 중국에서 사상 최대 규모인 430만 대의 차량을 리콜합니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-08-22T07:41:02+00:00",
       "byd_ev": true
     }
   ]
