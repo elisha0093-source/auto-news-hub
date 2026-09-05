@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:55:49.673444+00:00",
+  "generated_at": "2026-09-05T17:14:56.270832+00:00",
   "counts": {
     "domestic": 60,
     "international": 60,
@@ -7,6 +7,46 @@
     "byd_ev": 60
   },
   "domestic": [
+    {
+      "title": "\"파업 효과 이렇게 대단했나?\"... 현대차, 내수 판매 점유율 37.4%로 '급감'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KZXo5d3BERF9weHhYUHl6aEphSDd3V3lCbHdlb3N1ZngtVk9pcUJ1aExseDdqVXhkVTJ2NXhwN3FFdE9HTUtnbXJDU1J1dlNmRE9ScWZqTGxUWW9tQ2JGWU51bkl3YjNxUVljcnFSdEE?oc=5",
+      "summary": "\"파업 효과 이렇게 대단했나?\"... 현대차, 내수 판매 점유율 37.4%로 '급감' 오토트리뷴",
+      "source": "오토트리뷴",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-09-05T16:52:24+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "‘美서 쇳물 뽑아 車·우주선 만든다’…현대차그룹·포스코, 8조 원 들여 루이지애나 전기로 제철소 첫삽",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oa200Z2FpTXROcHQyOG9XbnBlamg0d1Y4eVdNbnVpaERNMk5SZkNhZl92RkRLbTNodXdQOTJUWmZmNUt5MmxfUklkNklHejNYSUpWNEVlSlp6dFBpSDB3RE45SGJuSGZVX2c?oc=5",
+      "summary": "‘美서 쇳물 뽑아 車·우주선 만든다’…현대차그룹·포스코, 8조 원 들여 루이지애나 전기로 제철소 첫삽 moneystorm.kr",
+      "source": "moneystorm.kr",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-09-05T16:03:18+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "테슬라 中 판매 10개월 연속 늘었지만…8월 성장률 38%→3.6% ‘뚝’",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yR3Q5bmZsdmlJTVYxbWoyN0RoVEpwZl85MkFXWnhXM3lXSW1fLW4zUkxxSTJhb1VMdVAxdTRPYWtia2hMM2k4MW5RR0hHUE94US1KM2FaQjZfdkJaM3JwdmIyNA?oc=5",
+      "summary": "테슬라 中 판매 10개월 연속 늘었지만…8월 성장률 38%→3.6% ‘뚝’ 더구루",
+      "source": "더구루",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-09-05T15:00:30+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "현대제철, 미국 루이지애나에 8조원 전기로 제철소 건설…2029년 자동차강판 양산",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FSkpEREVTcFlIZWkwS1ZXUG94em9CVmxHak4zajFPS0RaZ21qd2pBNWpGSUxldE14OEh4MGxJaVVsQndwRWVHMHE4SExjUHRQOWdkQ19qczBIRF9yWU1od1hQR0Z2dzQ0RFdsWg?oc=5",
+      "summary": "현대제철, 미국 루이지애나에 8조원 전기로 제철소 건설…2029년 자동차강판 양산 나눔경제뉴스",
+      "source": "나눔경제뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-09-05T13:13:24+00:00",
+      "byd_ev": false
+    },
     {
       "title": "한국자동차튜닝協, 자동차·이륜자동차용 앞면안개등 튜닝부품인증제도 시행",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JQVRtNmRJd0hMamJ4M212cDlCOHNXVUlBdDdORWVBRUJrQi03WUlGSElJTGlQWkJyWTQ3YndTamNOb2xUR1BiWlRFNjJ3TEVlOWVpUWFMZklUZTFneFFKcjFQSDc?oc=5",
@@ -25,16 +65,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T12:24:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "‘美서 쇳물 뽑아 車·우주선 만든다’…현대차그룹·포스코, 8조 원 들여 루이지애나 전기로 제철소 첫삽",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oa200Z2FpTXROcHQyOG9XbnBlamg0d1Y4eVdNbnVpaERNMk5SZkNhZl92RkRLbTNodXdQOTJUWmZmNUt5MmxfUklkNklHejNYSUpWNEVlSlp6dFBpSDB3RE45SGJuSGZVX2c?oc=5",
-      "summary": "‘美서 쇳물 뽑아 車·우주선 만든다’…현대차그룹·포스코, 8조 원 들여 루이지애나 전기로 제철소 첫삽 moneystorm.kr",
-      "source": "moneystorm.kr",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T11:27:10+00:00",
       "byd_ev": false
     },
     {
@@ -90,8 +120,8 @@
     {
       "title": "미국 자동차 제조업체들은 중국산 자동차의 미국 수입을 영구적으로 금지하기를 원한다.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUo3dVBLVzhtM3FkU2pHc2hBT095d25lUnFHUDBlR1o2dmlnYWxKbUZUQVBlQ283QWR3dFh4a3ZwMFJDaWthTTNOcVAwX0VvRG1ob09lVGxMTDFMYVlFV2MwTWx2Vm9UWDlZRlQ4UHJOVE5XdnRUdHNvOTB0RUhoSEplYWU5LTJlNUI4dkVjZXBIU3NvZVhyUm1TTXg?oc=5",
-      "summary": "미국 자동차 제조업체들은 중국산 자동차의 미국 수입을 영구적으로 금지하기를 원한다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "미국 자동차 제조업체들은 중국산 자동차의 미국 수입을 영구적으로 금지하기를 원한다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T09:45:20+00:00",
@@ -100,8 +130,8 @@
     {
       "title": "전기차 충전 할인 적용…주말 낮 최대 32%",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vaklIMjR1bnlwd3R4OF9xdE5TbWIzQ05YZTBMNk5ZYUZMMFFaRmtSclU4T1B3SEY2TW5iWjBjV1JSLVhyYUhjUnMxM0o1bkc1Znk4VjhnUTlWS1ZwZS0xUXc4VHJTUQ?oc=5",
-      "summary": "전기차 충전 할인 적용…주말 낮 최대 32% 비건뉴스",
-      "source": "비건뉴스",
+      "summary": "전기차 충전 할인 적용…주말 낮 최대 32% vegannews.co.kr",
+      "source": "vegannews.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T09:00:16+00:00",
@@ -130,8 +160,8 @@
     {
       "title": "여성들은 새로운 전기차에서 무엇을 찾을까요? 디바오는 디바오 바이브로 그 해답을 제시합니다.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnItZVhmdmh2U0QxeU93TWc4M244S1Q2aGhBSkZJN3dNa0FUUUk5ak1xZ1BhWUl6aVZwVi1GQTl5NVp2NS1NNUJnSlFTT3NpR0E5eDd2U3FRa2lMNW54NzRCMHFYN3pJbndobDY5dFliZHZ4OTR2ejZoeDJpamloU0NPZWxhaGRRT3FmMzNod1ZFcFN3NDczNzZJc2ozQ05iUG1peGxoNlA?oc=5",
-      "summary": "여성들은 새로운 전기차에서 무엇을 찾을까요? 디바오는 디바오 바이브로 그 해답을 제시합니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "여성들은 새로운 전기차에서 무엇을 찾을까요? 디바오는 디바오 바이브로 그 해답을 제시합니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T07:31:31+00:00",
@@ -155,16 +185,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T07:04:19+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "中CATL 수석과학자 \"2028년 대형트럭 전기차 판매비중 50% 될것\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UeG1UXy05MlhVUktJdzJVWlNoUXJDdXdmamlOUE1oc2J6eGRlLUZldmtvbDl6aUdzZVdIazZtU1o5LU9WY3JFV2FJbmRaTEFnU3RJ?oc=5",
-      "summary": "中CATL 수석과학자 \"2028년 대형트럭 전기차 판매비중 50% 될것\" 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T06:41:00+00:00",
       "byd_ev": true
     },
     {
@@ -226,26 +246,6 @@
       "category": "domestic",
       "published": "2026-09-05T05:09:11+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "'사이버트럭' 빼곤 '메이드인 차이나'…보조금 2조 시대 '재정 유출' 딜레마 [테슬라 명암②]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PNy05V2hQTkNLWlNNMXM4WVJwS25ZSmZHeEg4Z0p0VUhGQ0RQdG5uamF2TnFJT2YyT0w0dTVJTFhxc2xUR0lJOEJiZHN3SVR5bHNUZzZnd25sbExTMGd6etIBeEFVX3lxTFBDQ25sR25NbGhpOXZxZ19rU0N5ZllZM2tNaXpSM3JXQ3hBNzJhR241MjdORXoweG84TldWbkc4ZzF6emE4TXRMMXIyaEtzYVRjRFN0YWJadlRLSnpmYnk0eGxoalJPUmFsSS1wekNzZC0xd3VvMnYzSA?oc=5",
-      "summary": "'사이버트럭' 빼곤 '메이드인 차이나'…보조금 2조 시대 '재정 유출' 딜레마 [테슬라 명암②] 뉴시스",
-      "source": "뉴시스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T05:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "자동차 넘어 우주로…정의선 \"스페이스X에 철강 공급 희망\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rUXRQQXJyMlJiWVJoVDdFWEpmYml3NDhDVVB3SDY1YzUyaUdXMnBJQkhsQm9WM25JLU1SZEFTU0pTWkdjRmNKWkJ0YkF3amNLYW1F?oc=5",
-      "summary": "자동차 넘어 우주로…정의선 \"스페이스X에 철강 공급 희망\" 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T04:18:09+00:00",
-      "byd_ev": false
     },
     {
       "title": "산업부, 美 루이지애나 제철소 지원…한미 철강·자동차 공급망 강화",
@@ -320,8 +320,8 @@
     {
       "title": "BYD Sealion 08은 출시 후 단 24시간 만에 12,000건이 넘는 주문이 쇄도하며 완판되었습니다.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPangwbDNuN3dDSmxWN3UtMU1RMEUtWFBOYUhaY0VCOGpfZlZaMlRBQ0ZEX2ttR3ZWLXg4TTVDQ19JZWM4S0tWZ2haS3d0Ykk2SW9lX0RlMXBfczlkTmpSaFVqM1BQc0lwVEtMYmlTeF9lQ1BfejA2bVhzd3BwYzBCMnZOWTI5ODlDQW9aQnAxTExXMldsQWc?oc=5",
-      "summary": "BYD Sealion 08은 출시 후 단 24시간 만에 12,000건이 넘는 주문이 쇄도하며 완판되었습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "BYD Sealion 08은 출시 후 단 24시간 만에 12,000건이 넘는 주문이 쇄도하며 완판되었습니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T03:40:07+00:00",
@@ -345,16 +345,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T03:03:27+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "비싼 철강값·車 수요·관세 다 잡는다…현대제철 美에 8조 베팅한 이유",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iS2MyNE1ndHd1X3YxTWZZV1lycHY1ZWJCN2ZTbE5sWHplN2c1OFgxM3FTYTctUmY3UWM5SDg3TFVsUUZlRkJnMXBpMEZxSDQ?oc=5",
-      "summary": "비싼 철강값·車 수요·관세 다 잡는다…현대제철 美에 8조 베팅한 이유 v.daum.net",
-      "source": "v.daum.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T03:02:00+00:00",
       "byd_ev": false
     },
     {
@@ -390,8 +380,8 @@
     {
       "title": "BYD, 전기트럭 T35 출격…상용차 판 흔든다",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05MWtmX2tBQlhtSzNidXRMc1FfSExvQ2FjUDNNZ0M0dE5VT3FaYkNnRTNSeFctUTB0WWw0TzJjQXoyc2tsMWNMa0FQT1JtZTRHUTVZMWRsTDVJSV9LSjZEcEo0MGpYRjVNSDVVWQ?oc=5",
-      "summary": "BYD, 전기트럭 T35 출격…상용차 판 흔든다 스페셜경제",
-      "source": "스페셜경제",
+      "summary": "BYD, 전기트럭 T35 출격…상용차 판 흔든다 speconomy.com",
+      "source": "speconomy.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T02:26:43+00:00",
@@ -410,8 +400,8 @@
     {
       "title": "[그래픽뉴스] 신흥국, 전기차 ‘자체 브랜드’ 육성 속도… 글로벌 경쟁 구도 재편 예고",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE50dWprcnRJUi0zMFQySkpiVFFYMmhNa2dqY2RCRDRQc3ZzenZ0ZU1odlY5V2s4dTM3VlVQSkFkUkJub3Fh?oc=5",
-      "summary": "[그래픽뉴스] 신흥국, 전기차 ‘자체 브랜드’ 육성 속도… 글로벌 경쟁 구도 재편 예고 산업일보",
-      "source": "산업일보",
+      "summary": "[그래픽뉴스] 신흥국, 전기차 ‘자체 브랜드’ 육성 속도… 글로벌 경쟁 구도 재편 예고 kidd.co.kr",
+      "source": "kidd.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T02:12:37+00:00",
@@ -426,16 +416,6 @@
       "category": "domestic",
       "published": "2026-09-05T02:08:32+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "자동차보험다모아 해지환급금…중도 해지 시 얼마나 돌려받나",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56REl1MzgtMl8xeUdtWVI1UmlWbW5NZlhTYnViV3VfQXFTeS1oWC00cjk1Vk9fOVFoekNCcFlKRXdUYjZzTzJEWDA4MEFWNDI0YVp3MEZsMnpPa2hEZi1CMXJEQ0tKX0NEdGgycXU0cFZJYjg?oc=5",
-      "summary": "자동차보험다모아 해지환급금…중도 해지 시 얼마나 돌려받나 스페셜타임스",
-      "source": "스페셜타임스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T02:04:14+00:00",
-      "byd_ev": false
     },
     {
       "title": "장송회 경기도의원, 이륜자동차 고소음 상시관리 강화 개정조례안 상임위 통과 > 뉴스",
@@ -478,16 +458,6 @@
       "byd_ev": false
     },
     {
-      "title": "혼다코리아 자동차 특별 프로모션 실시, 최대 600만원 상당 혜택 제공",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OeDRmNFQtSTdZSkRNWVZ1alhIT0FoYTlWSjBVeVZFZlkwMTBxYW1vZHVtb1NqTGFtajd6eTFMdWVISEh1ZEE?oc=5",
-      "summary": "혼다코리아 자동차 특별 프로모션 실시, 최대 600만원 상당 혜택 제공 레이스위크",
-      "source": "레이스위크",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T01:40:53+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "[종합] 현대제철, 美 자동차강판 시장 품는다…현지생산 시대 개막",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UVWlPZVFyb3BxZzZhSmpIRXBPcU9pMjFDMTQ4ejFKN2dhX2EzZ21NSHBRUW9RVFh5NFVYMURYazdOeEVLOHlVTHRodEdVUXBXczhLVG14ODc2U0FZNjZFMTR5M1JYakpFRkE?oc=5",
       "summary": "[종합] 현대제철, 美 자동차강판 시장 품는다…현지생산 시대 개막 철강금속신문",
@@ -500,8 +470,8 @@
     {
       "title": "현대차·포스코, 美 첫 전기로 자동차강판 제철소 첫삽",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kOFVLUUo1LTJnVkNKZUw1TW5YOWxsX2QtVGRGNndQX3RiUlgyTmdnR1pFVjNDNkhoMHVVNzhiZU53aDdLNzA2TGNsSm8tQV85Q1ZEQXhmUVJsQTBwdk1PblJjQU41QjdJcmRXMy1oRWbSAXRBVV95cUxPTDBRbzMyYkk4RXhDVl9HVFJydk5KZUJJdlhCVy1pbkwyYkpGTkxzZmhWMGJvS3lxWEozTnBNTG04RjQ0eG5jeXVfRmhob1V3LWtLd3lRSUg4RFhzeGpkVmVsamI1ODlPY1dIVk1NbjUyRUJKZw?oc=5",
-      "summary": "현대차·포스코, 美 첫 전기로 자동차강판 제철소 첫삽 IT조선",
-      "source": "IT조선",
+      "summary": "현대차·포스코, 美 첫 전기로 자동차강판 제철소 첫삽 it.chosun.com",
+      "source": "it.chosun.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T01:29:33+00:00",
@@ -606,11 +576,71 @@
       "category": "domestic",
       "published": "2026-09-05T00:00:03+00:00",
       "byd_ev": false
+    },
+    {
+      "title": "\"자동차 엔진처럼 '맞춤형 AI 솔루션' 공급…B2B 확장 본격화\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NZ1pKZERyaXViSFQzdWN6Y2tUV09RXzZuUUdMMkhHQlZONzI4ZnBpbW55NjItQmZEN3puRWRlX0lEejlYSVFVVXozQVlCWGRRRjkxejdjREhFZ0lLUjk3TkJNOVpTNENPaFHSAW9BVV95cUxOVG5wSE1WREptV2VZc3JXejVDSnRVWHYwelpsZDhXT3htMnEyN3NaRTR6LV9hOUtBcmdWNzlnU0ZRVWhTX3BIbkg3M3NfSmNCbEx2MS1pX25WY1hxRV9OeDJXNHdHdWpqal8zRE9obUE?oc=5",
+      "summary": "\"자동차 엔진처럼 '맞춤형 AI 솔루션' 공급…B2B 확장 본격화\" - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-09-05T00:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "'거침없는 BYD' 돌핀-씨라이언6 DM-i…10위권 3개 모델 진입",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50c2ZFSW5BQ2VWMnk3WU5VTUlNNkllNVY1ellPMS0tbXpqdVBHT2RCckZ5azFHeTRIal8zcDVfbmV2cHN0SXc?oc=5",
+      "summary": "'거침없는 BYD' 돌핀-씨라이언6 DM-i…10위권 3개 모델 진입 v.daum.net",
+      "source": "v.daum.net",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-09-04T23:16:37+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "美 정부, ‘핸들·페달 없는’ 테슬라 사이버캡 조사 착수",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11WmdsUzJtUnR4RlRiQTlTQmF5TnRnaFMxRjFKQ3dkdzQwSEFlNHpJRlN5UDFPVWQ4RWpUVEJXblZoYTZEY0g5VW5vZjVjUWFsRWV6eHZTbWM5bm9WSTBtQ1NacWVIMXZxZ3fSAW5BVV95cUxNWllWN3kwekxSa3NzNjZrWWlwUlVLV2dCVDVXNEE5REpqUktSa3BMcGZXenB0RGVLTEtoeGlQam1MTWJoM3hzLTM0d1VoRVRadDdxYk01cEJSS1hsbE9ZSTlqTFlNdXFRM0w4SklYZw?oc=5",
+      "summary": "美 정부, ‘핸들·페달 없는’ 테슬라 사이버캡 조사 착수 지피코리아",
+      "source": "지피코리아",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-09-04T23:10:35+00:00",
+      "byd_ev": true
     }
   ],
   "international": [
     {
-      "title": "Detroit Hyundai dealer wants $400 to charge your car",
+      "title": "Bentley Used To Outsell Rolls-Royce By 3 To 1. Not Anymore",
+      "link": "https://www.motor1.com/news/807183/rolls-royce-vs-bentley-sales-figures/",
+      "summary": "Rolls-Royce has steadily narrowed the sales gap with Bentley, thanks in large part to its move further upmarket and the runaway success of t…",
+      "source": "Motor1",
+      "domain": "motor1.com",
+      "category": "international",
+      "published": "2026-09-05T16:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Answering random Redditor’s questions with professional backup: home solar edition",
+      "link": "https://electrek.co/2026/09/05/answering-random-redditors-questions-with-professional-backup-home-solar-edition/",
+      "summary": "Earlier this week, a home solar shopper took to Reddit looking for a home solar panel + home backu battery system that could intelligently m…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-09-05T15:06:47+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Say ‘I Do’ to This Wild British Wedding Car on BaT",
+      "link": "https://www.caranddriver.com/news/a73594889/british-wedding-car-bring-a-trailer-auction/",
+      "summary": "The 1996 Imperial Landaulette is based on an Austin taxi and powered by a Nissan diesel engine.",
+      "source": "Car and Driver",
+      "domain": "caranddriver.com",
+      "category": "international",
+      "published": "2026-09-05T15:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "One Detroit-area Hyundai dealer wants $400 to charge your car",
       "link": "https://electrek.co/2026/09/05/when-public-charging-stations-arent-so-public-and-why-it-matters/",
       "summary": "Drivers opening an EV charging app for the first time today will be presented with thousands of so-called “public” chargers at local car dea…",
       "source": "Electrek",
@@ -1178,36 +1208,6 @@
       "category": "international",
       "published": "2026-09-04T05:04:32+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "Voyah Dream 9 MPV to open for pre-sales on September 5",
-      "link": "https://cnevpost.com/2026/09/04/voyah-dream-9-pre-sales-sept-5/",
-      "summary": "Voyah will directly disclose the Dream 9's variants and pre-sales prices, replacing launch-event fanfare with hands-on customer experiences.…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-09-04T03:39:43+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla Cybercab is coming to Asia this month as US service officially begins",
-      "link": "https://www.teslarati.com/tesla-cybercab-is-coming-to-asia-this-month-as-us-service-officially-begins/",
-      "summary": "Tesla Asia says Cybercab will be on display in Hong Kong, Tokyo, Beijing and Shanghai this month. The post Tesla Cybercab is coming to Asia…",
-      "source": "Teslarati",
-      "domain": "teslarati.com",
-      "category": "international",
-      "published": "2026-09-04T03:26:14+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla Cybertruck targets job site crews with new Tailgate Utility Track and Bed Gear Box accessory",
-      "link": "https://www.teslarati.com/tesla-cybertruck-tailgate-utility-track-bed-gear-box/",
-      "summary": "Tesla launched a $350 tailgate track and a $985 lockable Bed Gear Box for Cybertruck. The post Tesla Cybertruck targets job site crews with…",
-      "source": "Teslarati",
-      "domain": "teslarati.com",
-      "category": "international",
-      "published": "2026-09-04T02:45:00+00:00",
-      "byd_ev": true
     }
   ],
   "official": [
@@ -1224,8 +1224,8 @@
     {
       "title": "베트남 당국은 에어백 결함으로 인해 신형 포드 레인저 차량 1,500대 이상을 리콜했습니다.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazgwVVo0Z1JfV3BKTjhESFp1NWhZaERIa2wtRmhTVkk2Qmlra3J6cjAtaWdBdEZwbXFpa1JMVUNwTXV0QjJKUjFJZkxIaDVoREtycWdOM2V2SFdpeEJlRmJaSDF3Ym55Mi10UUx5QkJVWHhtdWIwQ1F2WmhORmdkOWJOaWxxYnF1VElqaXR6dUFXaUFtZV9DRzhMOVdqOEE?oc=5",
-      "summary": "베트남 당국은 에어백 결함으로 인해 신형 포드 레인저 차량 1,500대 이상을 리콜했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "베트남 당국은 에어백 결함으로 인해 신형 포드 레인저 차량 1,500대 이상을 리콜했습니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-05T05:10:59+00:00",
@@ -1264,8 +1264,8 @@
     {
       "title": "Ram Recalls Nearly 240,000 Pickups",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2U4MFlyQjl6Y1RYdEQxNmpzMFJYTzNGNGZSUWMwYzVfQmNVaXVQRC1FS2ozLUlHR1FmMzBHVzdLUGVCV1VmWjhqSVpwMjhoUzFCMDNvOWJpa0czbWszVkUxNDZ1bnFITUpOZFdxSUFiS1hTS0I2MGRnTk5BcHJnVXdTblBTNDdMNl83VnFCSQ?oc=5",
-      "summary": "Ram Recalls Nearly 240,000 Pickups Autoguide.com",
-      "source": "Autoguide.com",
+      "summary": "Ram Recalls Nearly 240,000 Pickups autoguide.com",
+      "source": "autoguide.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T19:42:43+00:00",
@@ -1274,8 +1274,8 @@
     {
       "title": "Kia Telluride And Tesla Model Y Did Something 3 Series And Lexus IS Couldn't",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YaU91U1FlT21VVTNILWlNUHhlQ084dEFwaDg1N3RUMzIwWE1tNGtRUWZKTWFHMUFIQTlVekdZT282elNiU0NVdkozU1R5YWlTLXI4X2ZiUkVZanB3Nk54V05WWlBVbnpPQVp2ZFJEajEtRXZWR1o2cnl2VWJSbnc?oc=5",
-      "summary": "Kia Telluride And Tesla Model Y Did Something 3 Series And Lexus IS Couldn't CarBuzz",
-      "source": "CarBuzz",
+      "summary": "Kia Telluride And Tesla Model Y Did Something 3 Series And Lexus IS Couldn't carbuzz.com",
+      "source": "carbuzz.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T19:33:10+00:00",
@@ -1289,6 +1289,16 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T17:40:48+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "How Euro NCAP and ANCAP Star Ratings Work in Australia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTVhdkNUSnNRRWs2QXd4Y1g2N18xSjlZRXlvaUluZTZDbjFnZk52dUZ1Z0ZaMXFCbmJMeThPWTA2blE1NnJqVHotczY3N00tTTRwQWl4akZyZXBJVHVFQ2t6bm1LVGdSTjBlT2wzU2JLblhhMFc2TzhSdTgzcTVDN0NHY1N4SDhXN2J2YjJsWmF1ZWQ3Sjg1ckpSNmFXTERmeEhKRFlB?oc=5",
+      "summary": "How Euro NCAP and ANCAP Star Ratings Work in Australia XPENG",
+      "source": "XPENG",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-09-04T16:27:32+00:00",
       "byd_ev": true
     },
     {
@@ -1324,8 +1334,8 @@
     {
       "title": "More than 239,000 Ram vehicles recalled. See the affected model",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEdGN19MR296MktNR1h2NWRZSWZzQVQxWmtld0x0SUxUQVRHR3dqMWp3U20xSlE2MDhZdlJoNzFQaEdwVlhtTV9xLUxycnJiRnhRZ1hYUTZoUF9wTGsyZV9sa3lPSnVXUGk3X0VRN3NQeXJqU2YwdmZfVGtpcjRfc0k4NWtvV2lRaGZRQnpvRzliT3lwZlF1d3BR?oc=5",
-      "summary": "More than 239,000 Ram vehicles recalled. See the affected model USA Today",
-      "source": "USA Today",
+      "summary": "More than 239,000 Ram vehicles recalled. See the affected model usatoday.com",
+      "source": "usatoday.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T15:57:00+00:00",
@@ -1404,8 +1414,8 @@
     {
       "title": "자동차 시장이 냉각기에 접어들면서 자동차 제조업체들은 동시에 판촉 활동을 펼치고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSnV2c3R1VDdkSDVDZ3FtWTFPMVhTMzBqazVFa0xwelRYcjM1N1dHaVpPelJVMHZVcWh3ZjhfTFdoRzZrR1JQZVdPWHhSaUY0ZmlKX3lxaXJISG56aklWdFVHQ0VuQnZCMi15SmVzbzk2TkRFMldYd3JfY292em95a0JFb0g2bkRwbFZPZg?oc=5",
-      "summary": "자동차 시장이 냉각기에 접어들면서 자동차 제조업체들은 동시에 판촉 활동을 펼치고 있습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "자동차 시장이 냉각기에 접어들면서 자동차 제조업체들은 동시에 판촉 활동을 펼치고 있습니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T09:22:24+00:00",
@@ -1424,8 +1434,8 @@
     {
       "title": "도요타의 판매량은 음력 설(귀신달) 기간 동안 오히려 감소세로 돌아섰으며, 야리스 크로스가 가장 많이 팔린 모델이었다.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWU5VdGRSdGtzWENRR2Q0Z2dNNWRqY090VnczUWhjTG5JbHd5ZkxNWHRkSkpoS2QzSGt2MHJFbWJXR29lN2Q2ci1panJiZFotNWpXbC1HMzZlWHpnZXVsZDJMbDJzbGRMT184cks3SU5STkZDSS1JV0xkVDhSWUlFUm5OTTZtemVsdHhxU29iREZDVmNXU1pnRTVyaTc?oc=5",
-      "summary": "도요타의 판매량은 음력 설(귀신달) 기간 동안 오히려 감소세로 돌아섰으며, 야리스 크로스가 가장 많이 팔린 모델이었다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "도요타의 판매량은 음력 설(귀신달) 기간 동안 오히려 감소세로 돌아섰으며, 야리스 크로스가 가장 많이 팔린 모델이었다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T08:53:58+00:00",
@@ -1434,8 +1444,8 @@
     {
       "title": "베트남 당국은 2026년형 포드 레인저 픽업트럭 1,500대 이상을 리콜했습니다.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2txcWExb2NSS0NlTlVCb3ZMdXN3d3pQaFJYOE1EdlpQNVY3eTlmdkVvSXdZNnRfQ3FPc1R5UlNBQXpMVnFJZVJ6Yno1T091dFExRDJfTHV2TXdxajZBSW1URjhTdXRzaE5jXzQ3bXlSN0p2bkFjcXh0VFJrVER3Slp6dDZNTjZRZFZGLUx2ZWFwNFJM?oc=5",
-      "summary": "베트남 당국은 2026년형 포드 레인저 픽업트럭 1,500대 이상을 리콜했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "베트남 당국은 2026년형 포드 레인저 픽업트럭 1,500대 이상을 리콜했습니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T08:34:07+00:00",
@@ -1482,10 +1492,20 @@
       "byd_ev": true
     },
     {
+      "title": "Geely E2 earns 5-star ratings from Euro NCAP and ANCAP",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6YkZ6YVlwV1lzcC12NndJMmRIWWpoRTRsTUtBUWNUcUdXdm5JaUFFMEZMbG5NV0ttdDI4MjgweU9veFhjUExEdG9uVWdVc0RzbDBQVDd2WQ?oc=5",
+      "summary": "Geely E2 earns 5-star ratings from Euro NCAP and ANCAP 헤럴드경제",
+      "source": "헤럴드경제",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-09-04T05:24:23+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "중국이 가격 경쟁을 심화시키고 있음에도 불구하고 한국 자동차 산업은 여전히 ​​압박을 받고 있다.",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY2VpYlQ0Nm4yRFJjZzF4VkdtbXlwQnRkaDYtMVlUZ2NseFVlS0Q5T0FxQ0JXRWJ6RmFOSmIwYUVvalNLdnlQck1tTkZ0NjZtWkJLRFk0RmlTaXJJQV9qOF9YSl9ndXdNbll3Wl82d3lfcUp2VFV4LXgxdzZyMGdKNjV0UEV5eXoxOHo0MkgzT2E0RF9UelNmNXlxdWJGdw?oc=5",
-      "summary": "중국이 가격 경쟁을 심화시키고 있음에도 불구하고 한국 자동차 산업은 여전히 ​​압박을 받고 있다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "중국이 가격 경쟁을 심화시키고 있음에도 불구하고 한국 자동차 산업은 여전히 ​​압박을 받고 있다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T04:07:32+00:00",
@@ -1494,8 +1514,8 @@
     {
       "title": "포드는 B필러 에어백 마운트 결함으로 인해 2026년형 레인저 모델 ​​1,500대 이상을 리콜합니다.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkxmbHk3VGxxTDhrclJ0LW51VnlGNDNLZHBlYVp5X3FvVjJvazRDcmc4dDNQWDU1XzBVcFhJWFlzY0V1MnlZTG5DX29aOElfdGJqX0lLNnBMb1k0dlBhWHpaREd5RGsyZlM0S3BFSWFJUTJQOU8wejJzV1U3eUJJNWpzZVhwWkdPaFQtMFUwOEczOE1hZTMtaQ?oc=5",
-      "summary": "포드는 B필러 에어백 마운트 결함으로 인해 2026년형 레인저 모델 ​​1,500대 이상을 리콜합니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "포드는 B필러 에어백 마운트 결함으로 인해 2026년형 레인저 모델 ​​1,500대 이상을 리콜합니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T03:59:30+00:00",
@@ -1504,32 +1524,32 @@
     {
       "title": "하이브리드 차량은 도요타 베트남 전체 차량 판매량의 약 22%를 차지합니다.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWVrOXZaNW5yaGx5bnA5YVlwdU1ydlhGUXdxY3RjZm1Cc0JqdThQV2F3MUQ3OUtIWmZnMzBtNngyUmVBVUE5SlA2TEwwbXNxRDFKaGZhclBmVFREQnc1bFIxYWFlRmhCVUxVbEE3V1h4VXI5M0pLdHpjOXVRTVdraDh1NWQ5Tzg3bGJCUjhZVG5xbDVfcXJZWA?oc=5",
-      "summary": "하이브리드 차량은 도요타 베트남 전체 차량 판매량의 약 22%를 차지합니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "하이브리드 차량은 도요타 베트남 전체 차량 판매량의 약 22%를 차지합니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T03:01:25+00:00",
       "byd_ev": false
     },
     {
+      "title": "현대차, 호주서 i30 하이브리드 3316대 리콜…화재 우려에 ‘옥외 주차’ 권고",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tdUw5cWw1clo4Z0x3VThPYjk2WEpKZ2pWY2tYRWdlWDF5VWpOWDN5VG5mdUxBVlNkbEltN19CMElGRG50YTlEUm55eTFkTFk3amRvTmJYY2tYZG5aeHZ6Uw?oc=5",
+      "summary": "현대차, 호주서 i30 하이브리드 3316대 리콜…화재 우려에 ‘옥외 주차’ 권고 PRESS9",
+      "source": "PRESS9",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-09-04T02:18:39+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "2027 Tesla Model Y Holds Onto IIHS Top Safety Pick+ Title",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PZk8yWmpkdWR0bjBjamstWE9CQmVONE03bUhDQTRQdTBDZnViVkFfNHBEWmppY1c0R1dtNENLblVkUzgyV1Q3ejBxeUJrUVpYUGhNaHI1bXdGSUY5SEpfZHAzTHBYNEZhNTV4RzVVTUxKUzQ?oc=5",
-      "summary": "2027 Tesla Model Y Holds Onto IIHS Top Safety Pick+ Title sg.news.yahoo.com",
-      "source": "sg.news.yahoo.com",
+      "summary": "2027 Tesla Model Y Holds Onto IIHS Top Safety Pick+ Title Yahoo News Singapore",
+      "source": "Yahoo News Singapore",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T02:17:00+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "9월 자동차 시장에 일련의 혜택 출시",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0x2QmdRT1h1OGRJZDVLZnZXZG8tNFBHTU00aUdZWGppallpc3hISFNVZjdBZlBJOWtJaWJDVm9TcUZPTnRVRzE2ekpPZ1JudURoTDNjMmQ5b3hfQ0FULVpiQTFmYWxXZmpQUTRnQW9qeW1DZ3c5Uk03SU15T1F2YXkycEN4WXJhTDdnNVR4Z1hPMVVfekNRMTVB?oc=5",
-      "summary": "9월 자동차 시장에 일련의 혜택 출시 Laodong.vn",
-      "source": "Laodong.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-09-04T00:45:35+00:00",
-      "byd_ev": false
     },
     {
       "title": "Cupra Raval: four Euro NCAP stars without the Safety Pack",
@@ -1564,8 +1584,8 @@
     {
       "title": "달리다 갑자기 동력 끊길 수도…포드 15만9000대 리콜",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ENTlpNXpjcTRCZGo1UFhYTEgwLThLdHRfS0JYNjR2YnNMeDBndU9QRXZtd09hNGx5RmFnaGdxZmlUbXc1b19waHk1UENRekpNTlpIYUJVNk5rTFZmcVpjamt3?oc=5",
-      "summary": "달리다 갑자기 동력 끊길 수도…포드 15만9000대 리콜 koreadaily.com",
-      "source": "koreadaily.com",
+      "summary": "달리다 갑자기 동력 끊길 수도…포드 15만9000대 리콜 미주중앙일보",
+      "source": "미주중앙일보",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-03T20:21:00+00:00",
@@ -1644,8 +1664,8 @@
     {
       "title": "8월 수입차 판매량은 급격히 감소한 반면, 국내 생산차 판매량은 소폭 증가했다.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlhuQ1psanR0SDhmcU5zRUJxc2dIVkMwTzRacnhmTHlwTzd1VmZUbGgwTnluZ0cxWHZxcm5TV3hYTHV0Y1NQaUU0RktNalN0YTZXaWdvMTNBS1J0bTlsZlB5NFFtMVVqVzVuZmhtMzZoS2JkanpDVXZ5aHJ5cF9BUkJqYXVWUkhBaFp2R1htTk9fY1NEQi1PSDVkcWJVZ0FPd3AzSENCUEw?oc=5",
-      "summary": "8월 수입차 판매량은 급격히 감소한 반면, 국내 생산차 판매량은 소폭 증가했다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "8월 수입차 판매량은 급격히 감소한 반면, 국내 생산차 판매량은 소폭 증가했다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-03T13:08:10+00:00",
@@ -1684,8 +1704,8 @@
     {
       "title": "유가 폭락으로 호주 전기차 판매량이 사상 최고치를 기록했다.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVhFSFpKNWIwMEthM25sRkdjVDlPVWt4UTYtMnVEZnZ0MUVBTzQ2VVpJVG13Q0VtSFFBZG5HOVZFNkxBaWp3NFN2cm1mMTJKV2tyY2dWbEFjcVAxOGtKOGw0ckhSR2xYTU5lVFFnc2pNRGhGeWtBZ21RYXpZRmhoZEpDdGdrVFhQSWY2S2R3?oc=5",
-      "summary": "유가 폭락으로 호주 전기차 판매량이 사상 최고치를 기록했다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "유가 폭락으로 호주 전기차 판매량이 사상 최고치를 기록했다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-03T10:20:17+00:00",
@@ -1722,6 +1742,16 @@
       "byd_ev": false
     },
     {
+      "title": "기아 3년간 292만여대 리콜 … '안전결함' 78%",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WSXd0MEJrOXhGaVU2NmhNUDlQM0pHYUVqYWY3bmVpUXd3TlFqaWdINTU3Y3U1Qm9BeDZBNTJEZ1Z0VzY1UmNiVUJFZlY2N1pXNnZGTFV2TjNuRlVwbWdNR1VBTGZlRHZhREtIXy00alRhQ2fSAXNBVV95cUxPVkl3dDBCazl4RmlVNjZoTVA5UDNKR2FFamFmN25laVF3d05RamlnSDU1N2N1NUJvQXg2QTUyRGdWdFc2NVJjYlVCRWZWNjdaVzZ2RkxVdk4zbkZVcG1nTUdVQUxmZUR2YURLSF8tNGpUYUNn?oc=5",
+      "summary": "기아 3년간 292만여대 리콜 … '안전결함' 78% 세이프타임즈",
+      "source": "세이프타임즈",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-09-03T06:36:52+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "2027 Kia Telluride, Tesla Model Y Earn Top Safety Pick+ Ratings",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDhiX2hYRmZwa3JKWG5RSk9qT3AtU0pyaEhPMHpGcFc3UHpveUl5ZFlKVzgzNFRDekRhYzFWSlV3V1VFMlVIRGZpTlloX05yN19OaTFPeEJFY1RqX2xKNHdfdThKRkZJRDhuYzRjc2tHVnVaV3AwbTlZVDBEREZGV1hPQ01TM0V0dHNUMy1tM1FSYlpsUXc?oc=5",
       "summary": "2027 Kia Telluride, Tesla Model Y Earn Top Safety Pick+ Ratings Kelley Blue Book",
@@ -1734,8 +1764,8 @@
     {
       "title": "하이브리드 자동차 판매 호조 덕분에 기아는 2026년 8월 판매 기록을 경신했습니다.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLUY5SmFWejY5ZllublQzSFVhMkxJbzBaeVdNSXpYZ3ZsMDI1ZVVXQTRqSGRoSWpOeS0wdUFsaTRtVGtsalhzMGhJMzBWbkRiaXA2Q2lmSUFFSmNVWG8zbHJSNi1MR2M5bnVRS1BPdk9oZW1ORDFBV2JzZVd4LVcxdHh2ZnlrZjBiNklMVWN3?oc=5",
-      "summary": "하이브리드 자동차 판매 호조 덕분에 기아는 2026년 8월 판매 기록을 경신했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "하이브리드 자동차 판매 호조 덕분에 기아는 2026년 8월 판매 기록을 경신했습니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-03T04:01:47+00:00",
@@ -1764,8 +1794,8 @@
     {
       "title": "화재 위험으로 인해 미국에서 320만 대의 차량이 리콜되었으며, 그중 대부분은 전기차가 아닙니다.",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2tXYThjUjVDOWRJTV9EQ0RuaHV0STktUDA3UlFMa0l3TGNTVWstX2F5a0h0aVVGWDFHb3hjaVdUeG5DZ2pVXzdYa1dza3pqSkVEWEVCNFJqUVZFdzNzMDhYYm9XeE5VbzRoSUk0NVpTUVE3RTlmMGxvOWtSZXNwZE9fZkJNYkt5VGd0ZjlMM3pGRW9DOXhtQ2lzN25PZw?oc=5",
-      "summary": "화재 위험으로 인해 미국에서 320만 대의 차량이 리콜되었으며, 그중 대부분은 전기차가 아닙니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "화재 위험으로 인해 미국에서 320만 대의 차량이 리콜되었으며, 그중 대부분은 전기차가 아닙니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-03T00:27:38+00:00",
@@ -1780,41 +1810,31 @@
       "category": "official",
       "published": "2026-09-03T00:16:43+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "Think Chinese Cars Aren't Safe? These New Crash Tests Say Otherwise",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzb0p4UDB0VVRXelRpaEp5TmlPUU9HalRjelVYR3NKVE9xNjlET3VYa0dpdjZWQXYxczBNRW9hckJ1Um00a29PR21yV2tJbTdhbUNhb0ZTOWk0REpOdzZBc1hJeC1iank3TngtWnNqT2ZqZVFUZGJsNjNR?oc=5",
-      "summary": "Think Chinese Cars Aren't Safe? These New Crash Tests Say Otherwise InsideEVs",
-      "source": "InsideEVs",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-09-02T19:36:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "AION, GEELY, Leapmotor achieve max rating under Euro NCAP regulations",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3ZIcmswZ09xS05jckV5endoODhCeVppTHZxOTQ5aWZ3WWFKcVNqTm9vbDZGa0lPTk5wbjR6Z2NoQy1JMkplcUlwVVVYQko3a1VqLUE5TzR2Rk8yaEpqOEc5Ym9YeDgxZVRDWGt6QjVUUVktUGdxcTJyMUgyMDFzX3lvSENaeGR3aXItZ0V1eGZPMkxZVHNvU3FydXluNlRi?oc=5",
-      "summary": "AION, GEELY, Leapmotor achieve max rating under Euro NCAP regulations Business Motoring",
-      "source": "Business Motoring",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-09-02T16:02:28+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Ford recalls 148,000 Mustangs over wiring harness defect",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oWmktdFRFSFpzWTFqd3lVZVAyd0ZpbVVpLVZVODNpMWlrVDgzTk03MkNMWHBnak5HS19rTVJNOVVybzktUEV3bWFLT1R2dEVrdF9BaTRGeUhfOExjZFExX25YeGZieHd4ZXZWN1VJN0lQWi1BU1dJ?oc=5",
-      "summary": "Ford recalls 148,000 Mustangs over wiring harness defect qz.com",
-      "source": "qz.com",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-09-02T14:12:34+00:00",
-      "byd_ev": false
     }
   ],
   "byd_ev": [
     {
-      "title": "Detroit Hyundai dealer wants $400 to charge your car",
+      "title": "Answering random Redditor’s questions with professional backup: home solar edition",
+      "link": "https://electrek.co/2026/09/05/answering-random-redditors-questions-with-professional-backup-home-solar-edition/",
+      "summary": "Earlier this week, a home solar shopper took to Reddit looking for a home solar panel + home backu battery system that could intelligently m…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-09-05T15:06:47+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "테슬라 中 판매 10개월 연속 늘었지만…8월 성장률 38%→3.6% ‘뚝’",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yR3Q5bmZsdmlJTVYxbWoyN0RoVEpwZl85MkFXWnhXM3lXSW1fLW4zUkxxSTJhb1VMdVAxdTRPYWtia2hMM2k4MW5RR0hHUE94US1KM2FaQjZfdkJaM3JwdmIyNA?oc=5",
+      "summary": "테슬라 中 판매 10개월 연속 늘었지만…8월 성장률 38%→3.6% ‘뚝’ 더구루",
+      "source": "더구루",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-09-05T15:00:30+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "One Detroit-area Hyundai dealer wants $400 to charge your car",
       "link": "https://electrek.co/2026/09/05/when-public-charging-stations-arent-so-public-and-why-it-matters/",
       "summary": "Drivers opening an EV charging app for the first time today will be presented with thousands of so-called “public” chargers at local car dea…",
       "source": "Electrek",
@@ -1846,8 +1866,8 @@
     {
       "title": "전기차 충전 할인 적용…주말 낮 최대 32%",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vaklIMjR1bnlwd3R4OF9xdE5TbWIzQ05YZTBMNk5ZYUZMMFFaRmtSclU4T1B3SEY2TW5iWjBjV1JSLVhyYUhjUnMxM0o1bkc1Znk4VjhnUTlWS1ZwZS0xUXc4VHJTUQ?oc=5",
-      "summary": "전기차 충전 할인 적용…주말 낮 최대 32% 비건뉴스",
-      "source": "비건뉴스",
+      "summary": "전기차 충전 할인 적용…주말 낮 최대 32% vegannews.co.kr",
+      "source": "vegannews.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T09:00:16+00:00",
@@ -1866,8 +1886,8 @@
     {
       "title": "여성들은 새로운 전기차에서 무엇을 찾을까요? 디바오는 디바오 바이브로 그 해답을 제시합니다.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnItZVhmdmh2U0QxeU93TWc4M244S1Q2aGhBSkZJN3dNa0FUUUk5ak1xZ1BhWUl6aVZwVi1GQTl5NVp2NS1NNUJnSlFTT3NpR0E5eDd2U3FRa2lMNW54NzRCMHFYN3pJbndobDY5dFliZHZ4OTR2ejZoeDJpamloU0NPZWxhaGRRT3FmMzNod1ZFcFN3NDczNzZJc2ozQ05iUG1peGxoNlA?oc=5",
-      "summary": "여성들은 새로운 전기차에서 무엇을 찾을까요? 디바오는 디바오 바이브로 그 해답을 제시합니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "여성들은 새로운 전기차에서 무엇을 찾을까요? 디바오는 디바오 바이브로 그 해답을 제시합니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T07:31:31+00:00",
@@ -1891,16 +1911,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T07:04:19+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "中CATL 수석과학자 \"2028년 대형트럭 전기차 판매비중 50% 될것\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UeG1UXy05MlhVUktJdzJVWlNoUXJDdXdmamlOUE1oc2J6eGRlLUZldmtvbDl6aUdzZVdIazZtU1o5LU9WY3JFV2FJbmRaTEFnU3RJ?oc=5",
-      "summary": "中CATL 수석과학자 \"2028년 대형트럭 전기차 판매비중 50% 될것\" 네이트",
-      "source": "네이트",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T06:41:00+00:00",
       "byd_ev": true
     },
     {
@@ -1954,16 +1964,6 @@
       "byd_ev": true
     },
     {
-      "title": "'사이버트럭' 빼곤 '메이드인 차이나'…보조금 2조 시대 '재정 유출' 딜레마 [테슬라 명암②]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PNy05V2hQTkNLWlNNMXM4WVJwS25ZSmZHeEg4Z0p0VUhGQ0RQdG5uamF2TnFJT2YyT0w0dTVJTFhxc2xUR0lJOEJiZHN3SVR5bHNUZzZnd25sbExTMGd6etIBeEFVX3lxTFBDQ25sR25NbGhpOXZxZ19rU0N5ZllZM2tNaXpSM3JXQ3hBNzJhR241MjdORXoweG84TldWbkc4ZzF6emE4TXRMMXIyaEtzYVRjRFN0YWJadlRLSnpmYnk0eGxoalJPUmFsSS1wekNzZC0xd3VvMnYzSA?oc=5",
-      "summary": "'사이버트럭' 빼곤 '메이드인 차이나'…보조금 2조 시대 '재정 유출' 딜레마 [테슬라 명암②] 뉴시스",
-      "source": "뉴시스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-09-05T05:00:00+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "올해 韓도로 위 전기차 10대 중 3대…'FSD 안되는' 중국산으로 공세 [테슬라 명암①]",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16MGctQVloZFFGeU1KUkljZnVnOWdGTlVjU1hzQVZPemh5UVZfT3lJUEdMRGxzWlFNLXFubFplcjJVM0pHY3dMM1p6NGFCV2ttX0d3bGJmM2tmc3labVVTX9IBeEFVX3lxTE1YcHVRcW8wQlA2WUUxVWtKS2l0VDFSSXB2LTQ2Z042UnVMemZqZ21uaTQ4NW5YNGNHTThRdnlvY3lKR3pHRU9ITnpyYzBGSUJhNFYwSlNWRU1qRm9XZ2VFejN3UWFfbS1naWpQdGQ3SG13cEdsOEwzSA?oc=5",
       "summary": "올해 韓도로 위 전기차 10대 중 3대…'FSD 안되는' 중국산으로 공세 [테슬라 명암①] 뉴시스",
@@ -1996,8 +1996,8 @@
     {
       "title": "BYD Sealion 08은 출시 후 단 24시간 만에 12,000건이 넘는 주문이 쇄도하며 완판되었습니다.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPangwbDNuN3dDSmxWN3UtMU1RMEUtWFBOYUhaY0VCOGpfZlZaMlRBQ0ZEX2ttR3ZWLXg4TTVDQ19JZWM4S0tWZ2haS3d0Ykk2SW9lX0RlMXBfczlkTmpSaFVqM1BQc0lwVEtMYmlTeF9lQ1BfejA2bVhzd3BwYzBCMnZOWTI5ODlDQW9aQnAxTExXMldsQWc?oc=5",
-      "summary": "BYD Sealion 08은 출시 후 단 24시간 만에 12,000건이 넘는 주문이 쇄도하며 완판되었습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
+      "summary": "BYD Sealion 08은 출시 후 단 24시간 만에 12,000건이 넘는 주문이 쇄도하며 완판되었습니다. vietnam.vn",
+      "source": "vietnam.vn",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T03:40:07+00:00",
@@ -2016,8 +2016,8 @@
     {
       "title": "BYD, 전기트럭 T35 출격…상용차 판 흔든다",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05MWtmX2tBQlhtSzNidXRMc1FfSExvQ2FjUDNNZ0M0dE5VT3FaYkNnRTNSeFctUTB0WWw0TzJjQXoyc2tsMWNMa0FQT1JtZTRHUTVZMWRsTDVJSV9LSjZEcEo0MGpYRjVNSDVVWQ?oc=5",
-      "summary": "BYD, 전기트럭 T35 출격…상용차 판 흔든다 스페셜경제",
-      "source": "스페셜경제",
+      "summary": "BYD, 전기트럭 T35 출격…상용차 판 흔든다 speconomy.com",
+      "source": "speconomy.com",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T02:26:43+00:00",
@@ -2026,8 +2026,8 @@
     {
       "title": "[그래픽뉴스] 신흥국, 전기차 ‘자체 브랜드’ 육성 속도… 글로벌 경쟁 구도 재편 예고",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE50dWprcnRJUi0zMFQySkpiVFFYMmhNa2dqY2RCRDRQc3ZzenZ0ZU1odlY5V2s4dTM3VlVQSkFkUkJub3Fh?oc=5",
-      "summary": "[그래픽뉴스] 신흥국, 전기차 ‘자체 브랜드’ 육성 속도… 글로벌 경쟁 구도 재편 예고 산업일보",
-      "source": "산업일보",
+      "summary": "[그래픽뉴스] 신흥국, 전기차 ‘자체 브랜드’ 육성 속도… 글로벌 경쟁 구도 재편 예고 kidd.co.kr",
+      "source": "kidd.co.kr",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-09-05T02:12:37+00:00",
@@ -2206,8 +2206,8 @@
     {
       "title": "Kia Telluride And Tesla Model Y Did Something 3 Series And Lexus IS Couldn't",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YaU91U1FlT21VVTNILWlNUHhlQ084dEFwaDg1N3RUMzIwWE1tNGtRUWZKTWFHMUFIQTlVekdZT282elNiU0NVdkozU1R5YWlTLXI4X2ZiUkVZanB3Nk54V05WWlBVbnpPQVp2ZFJEajEtRXZWR1o2cnl2VWJSbnc?oc=5",
-      "summary": "Kia Telluride And Tesla Model Y Did Something 3 Series And Lexus IS Couldn't CarBuzz",
-      "source": "CarBuzz",
+      "summary": "Kia Telluride And Tesla Model Y Did Something 3 Series And Lexus IS Couldn't carbuzz.com",
+      "source": "carbuzz.com",
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-09-04T19:33:10+00:00",
@@ -2281,6 +2281,16 @@
       "domain": "insideevs.com",
       "category": "international",
       "published": "2026-09-04T16:51:09+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "How Euro NCAP and ANCAP Star Ratings Work in Australia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTVhdkNUSnNRRWs2QXd4Y1g2N18xSjlZRXlvaUluZTZDbjFnZk52dUZ1Z0ZaMXFCbmJMeThPWTA2blE1NnJqVHotczY3N00tTTRwQWl4akZyZXBJVHVFQ2t6bm1LVGdSTjBlT2wzU2JLblhhMFc2TzhSdTgzcTVDN0NHY1N4SDhXN2J2YjJsWmF1ZWQ3Sjg1ckpSNmFXTERmeEhKRFlB?oc=5",
+      "summary": "How Euro NCAP and ANCAP Star Ratings Work in Australia XPENG",
+      "source": "XPENG",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-09-04T16:27:32+00:00",
       "byd_ev": true
     },
     {
@@ -2401,16 +2411,6 @@
       "domain": "electrek.co",
       "category": "international",
       "published": "2026-09-04T12:46:21+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Li Auto to invest $390 million in Sunwoda EVB, becoming second-largest shareholder",
-      "link": "https://cnevpost.com/2026/09/04/li-auto-to-invest-sunwoda-evb/",
-      "summary": "Li Auto will directly hold an 8.79% stake in Sunwoda's power battery unit, while its related entities will have a combined stake of 11.17%.…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-09-04T12:38:26+00:00",
       "byd_ev": true
     }
   ]
