@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:41:14.897049+00:00",
+  "generated_at": "2026-11-16T00:53:24.858731+00:00",
   "counts": {
     "domestic": 60,
     "international": 60,
@@ -7,6 +7,496 @@
     "byd_ev": 60
   },
   "domestic": [
+    {
+      "title": "네이버, 카페 글·댓글로 답하는 AI 시험 운영…여행·전기차·명품부터",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORFVMSVU0T2JfSkFyQnNuQ0dWaEtQNi1rbHZ3UjloeFZrQ2FxX0pZZlc2UTlFN0xYeFN6N3UxRnRJMV84U1Y1RDNlam44NUFvdXVQRHU5YnBOc0VvckVaaEhGZXVfTUV4WHplMFR6TjF3dU13VHpRajRFNjJYUWxmMXhBVVNCWFNUVUxxMzZQbGdUOHRYenYzbkcxeXVDV1dzZ3ZlM0RfeHAtbURUSzhxSkRrOUY1UGtrYkF1VWw1U21rVjVHdjlGbE1tVTR6ZERBQWM5emNINGZZclJaUVJaYXV1OUdnR0pqalRRZC1GSnRDZXRtS19TTUw5TDhkQ2w1ejFN?oc=5",
+      "summary": "네이버, 카페 글·댓글로 답하는 AI 시험 운영…여행·전기차·명품부터 데일리안",
+      "source": "데일리안",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:46:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 캐즘 길어지자…지역 양극재업계, LFP·ESS서 돌파구 모색",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIaXN0TENhaXYtY1lQendUeHNYLVF5TTQ5cVpIZnZUZ2puVVJzSkhSZlFqWUJaSDlQZXhiYXNVbzBaZHREdnMweXFHcldvY2RjRUVIMFlYajF4NzRZRkVSLTNMeHk1b0FQYnN3ODBPUQ?oc=5",
+      "summary": "전기차 캐즘 길어지자…지역 양극재업계, LFP·ESS서 돌파구 모색 경북일보",
+      "source": "경북일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:40:12+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"자동차도 이제 월동 준비\"… 르노코리아, 연말까지 전국 서비스망 정비 행사",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0ZVg3MDZmdEltWU1LWXBPclA5NFlBa3YxNldfM2l4azlYQWdHdWFIa1ZyY21LcHhyTEMwTDdXTk96MVhIdHdzdmZDM2I1bVdoYWdqU25ITFZ6MGVuN1ppVA?oc=5",
+      "summary": "\"자동차도 이제 월동 준비\"… 르노코리아, 연말까지 전국 서비스망 정비 행사 아시아경제",
+      "source": "아시아경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:36:24+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "가성비로 압도하는 BYD, 넘어야 할 산은 '혐중 여론'…수리비·AS망도 극복 과제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yRG5zV01CVVE5RGV5c2RSOWx6VktmQzQ5UDNWUjJwNTVhVUNHQ3l2cE5WbmtrdkV6VDliLTdBSTlBc1pTN2tqTWx5OU5HaTcxS29kNTNXWll4Q0Y1ZmpjUGgxWFpOeHRicWo1RFViYlk1Vk3SAXdBVV95cUxQa3FJMVEwM3JKc2FwWXY4a1l4ZW5STThxV2EySlV6LXZIUDEyc1RYUTdqaDUta2Y5WjExenhFUmtjeWF6TXlCaTRYVUx2eGRFRHRSMlBMSk5ST3FYY2lKdDBfa29HY3ZndHNCcWhlSHRGeTM0UWJBaw?oc=5",
+      "summary": "가성비로 압도하는 BYD, 넘어야 할 산은 '혐중 여론'…수리비·AS망도 극복 과제 핀포인트뉴스",
+      "source": "핀포인트뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:36:09+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "조선대, 호남권 자율주행 자동차 경진대회서 대상·금상·동상 쾌거",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WeDBpMnR4dGdTVXVIb1B6YmUzb0dEOHA2R1lLYzdUOGFmZklGVVVTb1RIUnlEcVEyOHBUX3ppTVRlRVFVYVhyQTMyQ2U4QQ?oc=5",
+      "summary": "조선대, 호남권 자율주행 자동차 경진대회서 대상·금상·동상 쾌거 전자신문",
+      "source": "전자신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:33:16+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "금호타이어, 서울 자율주행버스에 스마트 타이어 적용",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mNkZKTnh0Z3dFTHYxY1l2QVNuSnlIaXFDdThoaVZFU1JwRHFBV0pSZHVnQVk0TFVpWVpWa2xtOFdsTU13dTVzNXZGLVJiY0N1Uld1M2UyOUkweWJadVhwWVh1Qnp5YTBR?oc=5",
+      "summary": "금호타이어, 서울 자율주행버스에 스마트 타이어 적용 www.fetv.co.kr",
+      "source": "www.fetv.co.kr",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:28:49+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "\"테슬라 대신 샀어요\"... 평점 9.7점, 오너들이 '대만족'한다는 전기차는?",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vWV9zREo3RUVsTGxlT2ljWVJBUTQwQmV0VENNaElMelhtc3BrXzBZLUZLWHlvYVppUkZNdzVyM2c0S3hCbTNfQW5YdW13V2NrMktkbkdxU1B2Nmg5dUhCZjBSblBfVWtoMjl3dDF5ZUg?oc=5",
+      "summary": "\"테슬라 대신 샀어요\"... 평점 9.7점, 오너들이 '대만족'한다는 전기차는? 오토트리뷴",
+      "source": "오토트리뷴",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:27:02+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "현대차, 2026년 하반기 세이프티 컬처 위크 진행",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5Q2NaZkt2a2ZvM2JZOGhZdFFBVW14UVBjTDJjbGZqU0dWVzlocHo4ekRFb0hMSTFyOU4zVnItTk5rM19kRmtzMWF4S3NvTnU3aGdvRXJsNmE0WHhTdkdaeF9lV3ZQYk9LNUl4UldGcw?oc=5",
+      "summary": "현대차, 2026년 하반기 세이프티 컬처 위크 진행 오토투데이",
+      "source": "오토투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:22:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[현대차 L프로젝트] 자율주행 고장 대응법, '달'에서 찾는다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhOXRXVUcwUFNEeklFTHRONUpiOHlzdXJOUE84TkkyaUMzV2Vqc1BIZGRKUWFHV2tzUnBjeFNRb3ZONnQ3d3dmWlYwdHdBS09paEJqZ05xS0JXMlRYYlh2aGp1SUZXMW910gFsQVVfeXFMTnpqRlladi1hM3hPSHE2LTI0TlE5eUpJRUstWWx4Y195Qjc3NkdEUXhzdUt0RWNOQXBFUEdWUldoMnFGUW53S192T1NGQlZ2a2pQUjBZNkxLRENWMWVoMlBlZmtGVW5EaE5zQzUx?oc=5",
+      "summary": "[현대차 L프로젝트] 자율주행 고장 대응법, '달'에서 찾는다 블로터",
+      "source": "블로터",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:19:51+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대자동차, 견조한 실적 달성 가운데 신규 7인승 전용 전기 SUV ‘네이라(NEIRA)’ 사전 예약 돌입",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wM2V4ekpLbU1NLTh3M3dnYWNzeVREakVSaXdiMmt6MVlmWlBuR0JvOTlOcE8zV29zaWFDYldZWWZURzB2RnplYVdHRE55Zw?oc=5",
+      "summary": "현대자동차, 견조한 실적 달성 가운데 신규 7인승 전용 전기 SUV ‘네이라(NEIRA)’ 사전 예약 돌입 한인포스트",
+      "source": "한인포스트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:17:19+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "농협, 12월 4일까지 전기차 충전하면 최대 5만 NH포인트 쏜다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fRU5YdUs0c0xjZkhWT1RNRzFYWmFFOWpfYVd0aUJxRGo2cDhETW1DcUxLSFFtMm1iTWZJeE0ycDhBUmp2V0JoNkp2QkNCVUxBcjFuaW1PNF85X1dJMmp3NTlxeURPc0RObm9kY0VHaUc?oc=5",
+      "summary": "농협, 12월 4일까지 전기차 충전하면 최대 5만 NH포인트 쏜다 리드경제",
+      "source": "리드경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:11:07+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "금호타이어, 자율주행버스에 맞춤식 타이어 솔루션 공급",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91elV0U0FmbFcwVzl1b0JvczhodHNTdnA0ektPMFZ6Ukp1dzRtN040eTBtSFRmUUlFc3FTTlYzbmZGN3hBcXVGd0loRmc4Z01IbEczWHdaRHNDR3RieGFFeER0Tkx3bHhXWFE00gFvQVVfeXFMT0hHWWRtcXlQbGstVUJJZkVYVjFJUDQyckR1QzJNcThZanlUU2xvdTI1bUhnQ09TQmxaLU9mbFAxRVR6NG9OU25BemhSdlZHTXZXdk0ydVd6Nk9ObmFRYW1oU2JySHExMm9ZRWwzMzdr?oc=5",
+      "summary": "금호타이어, 자율주행버스에 맞춤식 타이어 솔루션 공급 한국아이닷컴",
+      "source": "한국아이닷컴",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:10:04+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "중국 전기차 업계, M&A 넘어선 지분과 기술 협력으로 생태계 재편 가속",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFJ3ZFdBMEdKVzBpUThLWlhzdlBMTlhhWkMwRXNhMDExQ21jWmlIRFRpUmcyYlNQWVkzYWNmUXZyQnB2LWt6UFlTNFIwNW5EaFpudUlFenhUN0NuZGkyZnM5VGR0RVQtM01wUjZvR1Y2eUQyME55MFJfTEU1ZWFoVjdYUnBUeHdF?oc=5",
+      "summary": "중국 전기차 업계, M&A 넘어선 지분과 기술 협력으로 생태계 재편 가속 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:08:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "결승선 통과한 '소프박스' 자동차 경주 참가자들",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NdHNraHRzS0FCSHFELXV0WnR4ZEtZNlk1TEZXMVgxUEtBUUozMEFFTWdRVkNaMkFCX3ZCOGJteTJiYjdncG4xa2ZNWkxYQkZucTRvb2Jkc2VZMGtIek5BcQ?oc=5",
+      "summary": "결승선 통과한 '소프박스' 자동차 경주 참가자들 뉴시스",
+      "source": "뉴시스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:55:35+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "휴머노이드 시장 겨냥, 로봇 핵심 부품=새 먹거리 [뉴스Q]",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRkwtWHNLd0lmd0pmWG5HM2t0djZiX25Hc0FLNXdIMDJBSU54SGFTNmRsRnhFUW9FWE92d0hHSncwYzZWNnB6cVBraFFGR3F0ZXRmeFZZWHdLcGI0andabE1xUmxBQWEwX2c?oc=5",
+      "summary": "휴머노이드 시장 겨냥, 로봇 핵심 부품=새 먹거리 [뉴스Q] 스포츠Q",
+      "source": "스포츠Q",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:50:05+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "캐나다, 中 전기차 공장 유치 추진⋯카니 총리, 시진핑과 17일 협의",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VYndDc0Z3VHl6d2xjZ2tpcHlya1cyNUhvaWtFU3FBTW95VUdZUkgxZExfOVJwdWlmMlQ4NWU5YS1mYmp0ZDVPZ2xlamptQkt5bnJ3WGdUOHlpZDl0S1I4M2pDT3k1UDhoT1prTE9Lcw?oc=5",
+      "summary": "캐나다, 中 전기차 공장 유치 추진⋯카니 총리, 시진핑과 17일 협의 엠투데이",
+      "source": "엠투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:45:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "첫 독자모델 '포니'에서 글로벌 K-자동차까지!",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzhTSzZGNjhDYXBYQ2Rpc2phZGdvcC1qVzFsZExzRW1RWkc3SGZnSVU1dEVmbEI4NFZ4cVBYZUUtUHlQZEZXN0NJZWF5U25ENDk5bzkyU0tWVFpWeUhuNmZpclB3V3VPMDViNXpXT0laZTZlWGRQLWlmYjQxd19aZndR?oc=5",
+      "summary": "첫 독자모델 '포니'에서 글로벌 K-자동차까지! 대한민국 정책브리핑",
+      "source": "대한민국 정책브리핑",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:40:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "차량 부제ㆍ전기차 보급 '온실가스 36만톤 배출' 회피 추정",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzYlR6TkpTdFlTUTdkUFBOYU9zOVZEaFR2OTlEc2M2WmY3YjFEaFdfQVJhbEJSd2g1VlVzbTc4QWxOZ0NLaVk5QU1waXBSdGlKWmI1OThsWVJlU0hHa2ZSdHpNaVdaZw?oc=5",
+      "summary": "차량 부제ㆍ전기차 보급 '온실가스 36만톤 배출' 회피 추정 인사이트N파워",
+      "source": "인사이트N파워",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:39:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BMW, 미국 우드러프 배터리 공장 가동…iX5로 첫 미국산 BMW 전기차 생산 시작 : 네이버 블로그",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUt3WUZaS2Q1YkpMV3dONU5XdXJMRFl4ek1CWlFIV0ZYWTZwQmRLY2t5ekxFVUtRR2NtZkh1bmp6ZzZsMEhfWGxNMVlfUjJTdHJGMGhjTDYyalZvWFpXRUdTQ0FJRkRhNFRFSnowLXdvV0tIdWV5d0FMNTlPUWc1bkFuV195QWYtTXY4VE9uaXpmTmpLN3pnUw?oc=5",
+      "summary": "BMW, 미국 우드러프 배터리 공장 가동…iX5로 첫 미국산 BMW 전기차 생산 시작 : 네이버 블로그 Naver Blog",
+      "source": "Naver Blog",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:36:40+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[단독]현대드림투어 고객 여권번호 샜다…아마데우스 유출 여파 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WR2R4d1BkZkhZMW1uT1VBWVppTUR6Nk1mNHpmTURJNkRMUTYycHg0a0o0UzQzSHhxZFB1MnNvX0Q3UGZpWU9xLXpQdTdONEltN1RrUElWTGQ2UnpWeVVMbXEydTg1NXlwSjlTUNIBckFVX3lxTE9VYlF4RjdsaWdvUzg1WTdVeEdYWTVaY3lkTWRTWWFqOHVfQmFCYWF4amlJNi1MYWJnNVE0M2VSR0JkVHdQSGVXNGtiY1VqcDNFWGJzQm5ORXprMDViWUtvQ211UzlVTEo1blpNRVhtb0Jsdw?oc=5",
+      "summary": "[단독]현대드림투어 고객 여권번호 샜다…아마데우스 유출 여파 - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:36:15+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "폭스바겐 전기차 전략 또 흔들…아우디 A4 e-트론 2029년으로 연기",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Yd3pVT1dRd0hDUkd5MzhoUm5aYWlTNmNuX2JtWkkyNHF3cEFDcWtabDBRV0tYZWs4bXZEcVdWQXl6ekV4dWJZTVhOWVZmREFidWJUdERvSVZlTV9rRXVJdWdPRkg3ZXNNVVZhcjIyZVhncHc?oc=5",
+      "summary": "폭스바겐 전기차 전략 또 흔들…아우디 A4 e-트론 2029년으로 연기 디지털투데이",
+      "source": "디지털투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:34:31+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "노사발전재단, 중장년 특화 고용서비스 확대…자동차 진단 분야 인재 육성",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVHQwbVBLRjYtdUVYR2JVcXh0aUVacExZb1RXZHY1bExteThDVlNjSjgzbTRKa0dveE9sZVZKOVIzQ1NzUndBUDExcGxOVjFKZmI1dHlGaGJ6eW93Zl84VFhqdk1BOXFNWU9oY3o2R2g0WUpEam1WSUtRaVdqcUJDN2pMU0VqQ1hZcXF5MHdvVEl6bFE5U2ttcjVaTnZrb2RfOE8tOHc3enBMR0FPWF9jYUVZeDk2YkdNNjViakhCY0JDbGVObFdZdWhnY1liWDRwbWlCLTdCZU9nY0c3SGtGdWpvS0E1WFNvb2ZrOUZZYkc1ZkExcU1HUzRISk4tSTZqcndwOTJudTV4b0c4LS0yaVNlUmxFU3owZHZIYkZKNjNBQQ?oc=5",
+      "summary": "노사발전재단, 중장년 특화 고용서비스 확대…자동차 진단 분야 인재 육성 데일리안",
+      "source": "데일리안",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:34:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대자동차, 2026년 하반기 세이프티 컬처 위크 진행 | 뉴스 | 현대자동차그룹",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWZ6VW96bG5OaFE3anY4a2dJbVVNd0laU3V6S25WbkRSZTRJWGNKSnZ1RFNpUXBOanNoaGRva2hFb0N2dG9adU93cF9KTkJkSGhiZTdYQnJ1RDFOY0VvQm9IR2lZU3EwMV9jczlDblRYNFNTajFhazJ1dXF1Z0x3NF9ZSzE2blNkcndjLVRJQmpWUQ?oc=5",
+      "summary": "현대자동차, 2026년 하반기 세이프티 컬처 위크 진행 | 뉴스 | 현대자동차그룹 Hyundai Motor Group",
+      "source": "Hyundai Motor Group",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[초점] 자동차 도료, 저유해성 전환 추진…완성차·도료업계 공동 검증이 관건",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IdUNZUWdHMXJTNDFSVWdjRU55cWYtdEFRNGg0bk1XVkVTSjV0NFBVMlVBQ1J3UWJ3UG8xYzhZNkJqcWVYVzUtNlNDa0NqSERDbERrNG5yUTVjS1M2UkVoc0U0eTlhNzBkQmt2U3lqM0VLZw?oc=5",
+      "summary": "[초점] 자동차 도료, 저유해성 전환 추진…완성차·도료업계 공동 검증이 관건 에너지데일리",
+      "source": "에너지데일리",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:29:26+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[해외 캠페인] 알비숀, 1930년대 항공·자동차 디자인 담은 드레스 워치",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iT2YxcFA0ajNiZ1Q5MVNDWW5HME1tQXYwVnU4YW4tSUdKbVV1UmpkaUZlTVFPQkFYSF91bUhjWk53eXdrZUJNRkJacklyOGV5Rl90NzBUX1ppMUFRdzhEN3hhMUl3Xy12VEVJazlrcmpacVhy?oc=5",
+      "summary": "[해외 캠페인] 알비숀, 1930년대 항공·자동차 디자인 담은 드레스 워치 캠페인 인사이트",
+      "source": "캠페인 인사이트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[시승기] 볼보 전기차 'ES90'과 'EX90', 속초-강릉 120㎞ 달려보니",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TbTFIZmd6TXY4dFB6SkpmR0FwbTJhYU1ZcUVjWVVLNlZXajExdTFsQmZKRnpKdUppdkUtRXNseEtfS1dvV0hUa2ltRGRMSlcyN293OVZpQ2JaXy11QnNtX1U4bDJTc0RFZ2VhR1AzdGfSAXRBVV95cUxQYzFEQXlFNXM4bTUwOWxtb2NOUFhJWWNyZkhCS0w1Q1JEcGlWMm8wbHR5Y3A4VWxXSVRwakxmalpxaHd6aEZ2LTg1enJPaVVyZm1XR2dDVDF4MElXLVNBeWpEb21vVHI4dDBqYnhHZ1dwTmJ3LQ?oc=5",
+      "summary": "[시승기] 볼보 전기차 'ES90'과 'EX90', 속초-강릉 120㎞ 달려보니 주간한국",
+      "source": "주간한국",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "자동차전문정비사업조합 거창군지회, 차량 무상점검",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JVmVMMHB1UlVOdmZjWHRGLVRYWkxmZDNUaGdKVEk5RU5HQkZfSlhXb3B3ODFmdS1GUmNFRXRwbWhjZ0wwMjJtUkYtYVo0ckVqeWc3U2lZbGI2dw?oc=5",
+      "summary": "자동차전문정비사업조합 거창군지회, 차량 무상점검 경남신문",
+      "source": "경남신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:53:11+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "LG엔솔, 전기차 배터리 수명 줄어드는 원인 공개⋯100% 충전해도 성능 저하 왜?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85b21VWFlZdklpcm5MeFRpd3pxWnlVYWx3YXMxU1VGSmtYaU05V3dQZDJkcjVZUG1kczVTa0FUSXRnb1JmOHctVkJzWTNMREV6Qjk5OFF6akx6QmN2LURhb1BuTGprd2FLaExUbWU3QQ?oc=5",
+      "summary": "LG엔솔, 전기차 배터리 수명 줄어드는 원인 공개⋯100% 충전해도 성능 저하 왜? 엠투데이",
+      "source": "엠투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:50:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[시승기] 카이엔 일렉트릭, 전동화 시대에도 변치 않는 스포츠카 DNA…\"전기차도 포르쉐답게\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wTm1MTjdEX0Zmdm9NaF92dHc0UDhFcTRDdUROLUpIclJzLUFvQ01KUWZwYlNkNmxOekxFcTZvQXhBdXQ4UUhHOXFvc1VuS3lEM2p2Z2NOS0NRcDBlR01sQkRleS1qYTlkaE5zNElXWlY4VUE?oc=5",
+      "summary": "[시승기] 카이엔 일렉트릭, 전동화 시대에도 변치 않는 스포츠카 DNA…\"전기차도 포르쉐답게\" 핀포인트뉴스",
+      "source": "핀포인트뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:40:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 대중화 시대 넘어 지속가능한 EV 생태계로 주제로 2026년 전기차리더스포럼 12월 14일(월) 국회서 개최",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMnhfeXBmMHI2dGViaWZkTThpUENHU3M0Sk90b1hUVWprT2lJWVJfZXRRMDRWOERyWFF2YjN3MGl1NUpQQ0ZfU21uUS03Sk0zcS12NUtyNzFNZ2xfbW0wblJhZ0NtVEJ4cGxsM0JLRQ?oc=5",
+      "summary": "전기차 대중화 시대 넘어 지속가능한 EV 생태계로 주제로 2026년 전기차리더스포럼 12월 14일(월) 국회서 개최 오토투데이",
+      "source": "오토투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:34:34+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "'앱 갈아타기' 끝날까…구글 지도, 韓 자동차·도보 길찾기 내년 출시 목표",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PTXpUZUs0OVVHR3JmdlUxMWtHeU50Nk9fVnZnOVFKLVNvR09HQlpPY05KalExTXJFZW1QYlRvX1hYTWhzQi15WDk3U1Zwb3kzWWtMMHhmVzFEMkZELXdDaFUxSnJRVVdtdXZPZEJB?oc=5",
+      "summary": "'앱 갈아타기' 끝날까…구글 지도, 韓 자동차·도보 길찾기 내년 출시 목표 뉴스후플러스",
+      "source": "뉴스후플러스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "코나·스포티지 확 바뀐다…현대차·기아, 내년 주력 모델 신차 '러시' - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wMllXZVoxa1E1SHU1bzNwc0gzSTVXVjlBaXppejFaVWpqLXYzZ1pFTXUwRUhDUjhYU2JQTFRwU0FHbTlYcnhwUU1tN3dLVDFGdC1kZ0dGY29DOUI4bDcxSVBfRFdxakx3OHdEQdIBckFVX3lxTE1lWW9XQ3NQY0N5MnR1UEdRMW14QXJ4YURVMkVYRkdKOFBiSUV4RXNlY3gtS2VNc1NmVFV4UzZpYjNzYTU3Q0xWc0c1Q1dsNTd2QndmNjdpeURxdm9xTWFHT1FiTEllRU52WTZ0a1lONDlVUQ?oc=5",
+      "summary": "코나·스포티지 확 바뀐다…현대차·기아, 내년 주력 모델 신차 '러시' - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "코나·스포티지 확 바뀐다…현대차·기아, 내년 주력 모델 신차 '러시' - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YLVBaT1dRTEN6T3pOYXY5UGpTR3Q5SFZrOVhBZHlfM2IwRkk1TnlEaTd1NmhrdUwxdGZXdFJNcXU5czRQQWlFcG5BSzNNdlJyaHcwOURVNWhZdVo3RFFQUVdIRWxSZk9LLUZfci1TX0NRR0o0cEM2ckN30gF_QVVfeXFMUE9UUzYyb0RtdjhxZmQ4dzZZeGxCZ3pwQ2J0clQ5Y1AxZDBTR292d1lzXzZFQUpBLVBWdk41bEJSd3VJSVdRWDF5ZTJLalI1NnRpcHJmdFRBcC1SazkycW5pWlNYc3I5cTVIaHpqTXFzNE5LdmxvRjNnZk5oeVpqbw?oc=5",
+      "summary": "코나·스포티지 확 바뀐다…현대차·기아, 내년 주력 모델 신차 '러시' - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "미국 중고차 패권 쥔 카맥스, 카바나의 추격에 오프라인 혁신로 맞불",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkQm1PTlBueWhlRUJqeGpQd2Q2Z1FrWjZFZ1k2RW5ycHJoVlBEdGl3Y2NSbF9raExPcER2WkFBUEZJNGIzSHBSSllVNHpja19ZOUZVdExLTDQ1M0hURzVqUEZoczFmZkk?oc=5",
+      "summary": "미국 중고차 패권 쥔 카맥스, 카바나의 추격에 오프라인 혁신로 맞불 초이스스탁US",
+      "source": "초이스스탁US",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:28:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "\"공장에 투입했더니 이럴 수가\"…中 로봇 줄줄이 '굴욕' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0WXRzelFKS3VYbkJ5WVBwV0M0SVpQWGRfQWd1blBfb1ZGQ1N6R2RjZWdzTWRFNE14dkxDT2NlTkt4VXQtbjQyMjdRalBwTlQwTzhFbmJmNXpyQQ?oc=5",
+      "summary": "\"공장에 투입했더니 이럴 수가\"…中 로봇 줄줄이 '굴욕' [차이나 워치] 한국경제",
+      "source": "한국경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:16:01+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[현장] 볼보코리아, 프리미엄 전기차 1위 노린다...플래그십 '투트랙' 가동",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfWkRGbUR6eHd5dTcxMlNfT3NvUGtwNWdMWm93LTZvUkJmdVZyQ2FPZXlvVnByUl9BcTRMVU04ZVVjdTNnQlEwTjAtRmgtODF0MUN1a0VaZU5Ja290SUh0NkgtTzE4dXVI?oc=5",
+      "summary": "[현장] 볼보코리아, 프리미엄 전기차 1위 노린다...플래그십 '투트랙' 가동 www.ebn.co.kr",
+      "source": "www.ebn.co.kr",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:45:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"그랜저 사려다 취소했어요\"... 1억→5,190만 원으로 내려온 '국내 대표' 럭셔리 세단",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2VrMDFHc3BpaHFqamFCNWtHazl3UmJ2OTBpYzZDVnFnS24wTTVQQkpIRk9LeDk3V1ZoZUNmVFNXU1ZYbF9qU01qVkFBVW5Kb2MxNWRvekI3UEl4SHR3NUlJZzU2MC1tdjZOcVU5czdiY2tOVFF2bkVnX2FXXzBvSVZRYUlCdG9fOXJVeDZfTWdFcF9kTUHSAZ4BQVVfeXFMUFVvV1JVWDVDS2pfdEtWeWNMMjB6RnJQQjRmV0VrWnFsR2p0LUl3Z1hSM09va3ZlUFU2ZjNzWGNDcXJsbFZhYzg0bHUzWnVXM3UwUHJid19UMk9fNFpRUUxYTGwxWHl6MkF1clRxYkhJWWszemNldllFUWhLcGdJTmNzNmtsbDFIeEo0WlRsbFI2RzRKdnBwN2Q2bTM4a2c?oc=5",
+      "summary": "\"그랜저 사려다 취소했어요\"... 1억→5,190만 원으로 내려온 '국내 대표' 럭셔리 세단 토픽트리",
+      "source": "토픽트리",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:33:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[현대차 L프로젝트] 달 탐사車서 발사체 엔진까지...'현대로템' 존재감",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZdU1sUlQtVEw3Z2NEaTQ0X3JyZTRDMVFOUUpxNDlnUXJFRVVpY2xyZFRhQ1d6WHcwWnRnNzUtaTRTQlFkWm81WFYxWkFzNUlIUFhta1VLSGZDZi10MENFMXpJa1M0NDJN0gFsQVVfeXFMTmxXZXVSbjduUUk0ZE4wVkp3SmRJcElXSVViLWM5OUNrNDFTV1pmaUJQOGJZWjFkR2t3SlhQa21OZjNzdkdESGZsTUI3dTdvdzZMaVEyR2FxSFk1ZEdGQU55YnhKd1QyWmtEV0VQ?oc=5",
+      "summary": "[현대차 L프로젝트] 달 탐사車서 발사체 엔진까지...'현대로템' 존재감 블로터",
+      "source": "블로터",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "\"내재화 vs 다원화 투트랙\"… 테슬라 배터리, 누가 만들고 어디서 생산하나",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3pHeHo0cGRNbGpYT2lhbE9aM2ExWkV2SGkzWlFYVGF4dFp2djhqS3BPLWtsektWVncyYjFCeHJfSm5QTkdpNTkwLWJJQTNQXzdCRXRGakM1ZHNMbDJ3YnZmbG1FcVh2dy1MV1AxZjd0R2EyTXJWaHFEOXNyenpJME5MSlBTM3df?oc=5",
+      "summary": "\"내재화 vs 다원화 투트랙\"… 테슬라 배터리, 누가 만들고 어디서 생산하나 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:15:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "독일 포르쉐의 굴욕⋯ 수입차 시장서 ‘나 홀로 역주행’",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ed01mOXFfZldtZ0ZmYXd1a0xpcmtwOGhuZG5kaGNNZUc0cTZ1UXRfSDA3TGsyZ2k4bTNLYmhFSFRucEk1QXJtRGNRNFhiNzVlcnVIVWdwNFBZQQ?oc=5",
+      "summary": "독일 포르쉐의 굴욕⋯ 수입차 시장서 ‘나 홀로 역주행’ 브릿지경제",
+      "source": "브릿지경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:02:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "\"SUV인 줄 알았지\"…'8000만원' 전기차 타보니 '반전' [신차털기]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55M1R5T2lsMWIyZHAtSUF2cWNLeVdjb0FQTldtdklWNnhKNDEwM0FURHZGZkRfWlF5a2l0enBqWjU2U0pQRXRycVBUWTBaalF4Vm5XTUx0T1RZdw?oc=5",
+      "summary": "\"SUV인 줄 알았지\"…'8000만원' 전기차 타보니 '반전' [신차털기] 한국경제",
+      "source": "한국경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:00:13+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "자동차 진단평가사 양성해 취업 연계…중장년 지원 전국 확대",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlN2c2OEhwOWdMX3JDWFFuWnd3aDZralNIZHBReHRYWFB2cUxMSFVxR0VrWlJEc2hrT0RYODJjclVHLVhUVm5MVEEtVHFjVl9HcDNpNmVB?oc=5",
+      "summary": "자동차 진단평가사 양성해 취업 연계…중장년 지원 전국 확대 헤럴드경제",
+      "source": "헤럴드경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[단독] 또 ‘보조금 무혈입성’…창청자동차, 한국법인 설립 착수 [안방 흔드는 中 공습]",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oaktXd05FOXFWUjg0dHM1dzUxVkNoTHA1OWE2XzE0X1NGN1ZpLWFreHQ0NjZvYjdtM0dYOExPNHZKcG8zVVBncGpBbm1fVm5lOWhGYw?oc=5",
+      "summary": "[단독] 또 ‘보조금 무혈입성’…창청자동차, 한국법인 설립 착수 [안방 흔드는 中 공습] 이투데이",
+      "source": "이투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "우리 집 배터리·전기차가 AI 전력난을 덜어준다고? - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DNWtjRXllc0NhVUlranZTVTdQUHJwY0FlcUdZMHc0TUNrdUpENHg4eDZFUzZfUVoyQkRscmRZN1E3V0ZuejNxUjFkUm5COTJQWUVqYk1VMjNRT3B4cUZ3dmFsQkthR2IzeFFzZNIBckFVX3lxTE1YTHcwbkFUM1lSYnY5dGVyZzNRcVZSaXhvUWEyaTBodUN5eGRYZ1l4WFVWVG5hWGdXTkRGby1wWkxJLVpwTzd2MGtBY3JDSTEzVVJyMy1nQmoyY2dDUGxCcV8xRmIteGYtWHE1SUR0NE50QQ?oc=5",
+      "summary": "우리 집 배터리·전기차가 AI 전력난을 덜어준다고? - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘쿠페의 탈을 쓴 완벽한 패밀리 전기차’ 폭스바겐 ID.5, 주행의 본질로 승부하다 [원성윤의 가요타요]",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HTEE3ZXlTVk96cWN6V2w5M3Zxa3BEYkxVWTNBcUR0RmJzTlBwTmFXelUwOEo5amZYbUkxcjZhbmFOVHNaa1RPcGZydmZMX3VlXzZBdTY3eFg?oc=5",
+      "summary": "‘쿠페의 탈을 쓴 완벽한 패밀리 전기차’ 폭스바겐 ID.5, 주행의 본질로 승부하다 [원성윤의 가요타요] 스포츠서울",
+      "source": "스포츠서울",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "중국산 전기차 보조금 수혜 확대…국내생산세액공제 입법 논의 골든타임 [안방 흔드는 中 공습]",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5dDJfdUdjb0UxUHdCZnNIOEJXaVRjekRZOG5wcGZ0NXl1Q19keG52bVh4ckp2Ul8ycHFJSUhqTDRVRWxUajNrempIc0pkX0JBUTRlMg?oc=5",
+      "summary": "중국산 전기차 보조금 수혜 확대…국내생산세액공제 입법 논의 골든타임 [안방 흔드는 中 공습] 이투데이",
+      "source": "이투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "우리 집 배터리·전기차가 AI 전력난을 덜어준다고? - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiek9XZzlEZTdmSHgzTkRqNXh0Ni11R2lHYml1OGVCeC1sdF9tYkozNW5QRUpnZUppdjIyN1RJaWdWeTFVdkhnWDBpT3FibEtURGtieU9BTGhPeE8zNWtYYW5WMl9NYXR2VzhVUzdIM3RoOUhobGVFekdn0gF_QVVfeXFMTUJkRTZBZ3ZETnBVeDRWWVM0dkJHS1JYblJnRlhzWGVTM2haZmxBOEhXVW1BZEdFZ2VpOWZ3RjNmLV94VmZFMVBTRmgzTGJCYW45TjUzNjVQdzlqS0hDZHd5OWRrV3A3NG96SHA1Zlc4VVhxVTRJSllZTklIQlRHNA?oc=5",
+      "summary": "우리 집 배터리·전기차가 AI 전력난을 덜어준다고? - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "볼보가 그린 친환경 미래…전기차 EX90 vs 하이브리드 XC90[차탈로그]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSlhseWFfTUc2UWtLQTBidExkOFNoc0U5RWdjZWpVdnhMTTRXVXFTbElEUHYxV1ZVbEx3ZllENkNQQ3BFWjd5OEk1RHB2UWFvUlE?oc=5",
+      "summary": "볼보가 그린 친환경 미래…전기차 EX90 vs 하이브리드 XC90[차탈로그] 노컷뉴스",
+      "source": "노컷뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T19:55:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "중동 위기에 호주 신차 4대 중 1대 전기차… 석유 수입 3억 2000만 달러 절감",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbV82dEtlVzZyV21rU1N1MV9sRjFrODFIVHMxUTgyMFoxN2tMcjg0OUdGek9PWTFDbVp6RFZfZnRZQV9wY2ZUY0dJQl9VQnZ2alFyb0l2WEZWdjE3Rk90M2ZlbjZOdEZyVDk0YmJrUFQ0Q2R6dU1FX3BMUnU0U2NvUFl2ZHluWVN1?oc=5",
+      "summary": "중동 위기에 호주 신차 4대 중 1대 전기차… 석유 수입 3억 2000만 달러 절감 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T19:00:00+00:00",
+      "byd_ev": true
+    },
     {
       "title": "영국 자동차산업협회장, 보호무역과 경쟁 격화에 따른 추가 감원 경고",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnpnZjQ0RzVPci1oWWgzV3VEUkI3dS1IYS1CR1dobk1xVkhCN1JoNy1vSmZtdzJfckxaeXNIQzI0RWM1dV9lekRQV252Mk9rYUxNZ242RkhLVlhCeEZUYXJ6WU1iWjFsTFEwV1hrd3FWeFBEZFRDQVpIZkk4RmdXYkRLSHo2YzBB?oc=5",
@@ -68,23 +558,23 @@
       "byd_ev": false
     },
     {
-      "title": "02화 보조금으로 설명되지 않는 수익성 격차",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HNkVrU1RiY2tfUkpSZEJXajYybm1OaDBXS2M2eEFoSWF4QXEtVnRJRnljVFRUbGxPQzJrTE53WVp3ZmdJLXRHYTB5amM?oc=5",
-      "summary": "02화 보조금으로 설명되지 않는 수익성 격차 브런치",
-      "source": "브런치",
+      "title": "[차근車근] '운전은 S90, 편안함은 ES90'…볼보 두 플래그십의 서로 다른 매력",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lNnQ5Vmx2eFR1ckNvWDdBNUQxZjUybXN3Z3dzOTA4XzFXd25ZSEd5bjBnTDJ5U2FfNjRHeW1hWmV2XzU0Z1NreWVybmtTTUVTVGhLS3JuUUZKbXpQOWc?oc=5",
+      "summary": "[차근車근] '운전은 S90, 편안함은 ES90'…볼보 두 플래그십의 서로 다른 매력 더구루",
+      "source": "더구루",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-11-15T15:05:21+00:00",
+      "published": "2026-11-15T15:00:56+00:00",
       "byd_ev": false
     },
     {
-      "title": "조용함에 주행거리까지…볼보 ES90, 전기 플래그십의 새로운 기준",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCNjdnZ0pFSWlKel85OTVZelg0aE5ycDVIbmdyZVhzNEtiXzJVck5zTHZuck1PMjk3QzFCcmZ5Z25CQVpzWkN0WnJ1b29ocnhxVGtiY0ozbWNySzV4bEVYaQ?oc=5",
-      "summary": "조용함에 주행거리까지…볼보 ES90, 전기 플래그십의 새로운 기준 뉴스토마토",
-      "source": "뉴스토마토",
+      "title": "[타보고서] 1억원대 볼보 EX90·XC90이 특별한 이유",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nSWl0Y0pDVFVtSFcwRzRNOHBKc1IzcnpMUGZYV3VJdC1DRllvMDNxc0I1N0h0bXFXd0s3RExtVUZ2M3dKdjFreXljNEdlXzNCM3pyNWpn?oc=5",
+      "summary": "[타보고서] 1억원대 볼보 EX90·XC90이 특별한 이유 지디넷코리아",
+      "source": "지디넷코리아",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-11-15T15:00:10+00:00",
+      "published": "2026-11-15T15:00:02+00:00",
       "byd_ev": false
     },
     {
@@ -92,6 +582,16 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3SFViMXFidDJReHV1R3ZCcC1RdUtvRlBNMFM5cnRpR2x3ZWlvUHNreHFiT3NxS0JPVExFNS1Ma2Q1Y2JURVBWQVJIYjhLcXpOOHVVT21sWHlPRTMyN2ktNFJrbGlmNFY2ZzZN?oc=5",
       "summary": "자동차손해배상진흥원, ‘자동차사고 피해자 재활’ 업무협약 보험신보",
       "source": "보험신보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T15:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "'SUV 맛집' 볼보, 세단도 일품이네…'S90·ES90' 타보니 [현장+]",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paWVzSTdjOUJrTjViUm15ekRXNURNUGd6djh6NzJ6Y1hLUktfR1pFbEhuNlFmSFI0V0ZiZFpaZmhhZ3AtclJLQ3NuMXZNdTVvaEhrX1VnRTB1S2NXUTNwdzdtTWFMZWhv0gFsQVVfeXFMTnBNendlY3N2eFF5MWk5b2FfbE9lNXBOdlRUeW9lcVdEVGhJc05Cd09leHg2N3JIakxmM1lCLUhldVp5d24yT1I2cXVnOVFVSC1qRXdUMDF0VHprZzdVRWNEdzZnRHRnaDFySzNm?oc=5",
+      "summary": "'SUV 맛집' 볼보, 세단도 일품이네…'S90·ES90' 타보니 [현장+] 블로터",
+      "source": "블로터",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-11-15T15:00:00+00:00",
@@ -106,506 +606,6 @@
       "category": "domestic",
       "published": "2026-11-15T15:00:00+00:00",
       "byd_ev": true
-    },
-    {
-      "title": "[시승기에 은총을] 전기차도 좋지만…볼보 S90을 놓치진 말자",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBLU51Y0VFYzlodXpxdXNqaEZ2VDBqb3BtWkdnb0Jqd3NQNkRhd3RBSWx2Vlp1N1htYTY0R2ZzRDNzbW5PaG13RmY4SDYyR282Y1RKN21zb3djZGxqTTNrZnhYdEtVeGpzUkMyaw?oc=5",
-      "summary": "[시승기에 은총을] 전기차도 좋지만…볼보 S90을 놓치진 말자 ER 이코노믹리뷰",
-      "source": "ER 이코노믹리뷰",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T15:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "[시승기] 전기차의 고요함, 내연기관의 익숙함…볼보 플래그십 라인업의 공통분모",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdVNZeHZJNGY4TzRLQUFOVHNfczNtamZZbDN4R3daOFdZSHBkX3hDVkc5ekgySjZxMkJUN04wMGZnUHBDR0laU1BzMFZNVlNKckZWcHFDVUJBZ0lVeHJBS2g2UGh3M012NXN0blZn?oc=5",
-      "summary": "[시승기] 전기차의 고요함, 내연기관의 익숙함…볼보 플래그십 라인업의 공통분모 아시아투데이",
-      "source": "아시아투데이",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T15:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "관세 맞고, 세제 혜택 줄고… 엔진 식어가는 ‘K자동차’",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xN3cyOHJIbVc4UmZwSmR3MWVOV05wdnowYnZsRjhDYnRzd1dTNE9MVWdnTFFEek14LUk0aFFhRzY3amF5R2NEUVRlS3pOSmh4dmxmbTVlS0huQy1rNGJMTkU1a1o5dWV4a0JoYkJucmVmbXRP?oc=5",
-      "summary": "관세 맞고, 세제 혜택 줄고… 엔진 식어가는 ‘K자동차’ 서울신문",
-      "source": "서울신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T14:40:59+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "기아는 2026년까지 전기차 판매량 30만 대를 돌파하며 신기록을 세울 예정이다.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSFlWZXhxNTVlZm0ydWFVUWdDbkt3T2FWdkYzMG5iaUhSV3BNdEp4dThfWTFEMWowMURweDhGQjY4amZCamozcmRXSFYzRE1qS2p1LVVsWXEyWXhScE9pclV3RWZVTWxlZ01SbGJuMFFIMkZ1dXF6bXlObHhBVlNPVERQY3dXd0hPczFGZ0gzdkpzdEl4c2VGV1VxZGtuMnl6?oc=5",
-      "summary": "기아는 2026년까지 전기차 판매량 30만 대를 돌파하며 신기록을 세울 예정이다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T14:40:07+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "포장재·자동차 수요 견인, 플라스틱·폴리머·엘라스토머 시장 2035년까지 성장 전망",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQTlac2FWc0ZrMlhQYkNuYjJVZ2FzdDdBel93LWVtSkpaTzhtZl9tNWtPTXFFSVlBTXZYaGxRU1QxRWVzcE9IYzdETmdMSDFJdVNST2ZqU0dSOGR1UkF2aWFoZnJjaDlhVFRFdTZtZ1BidEVwNUZPamVlUWItZ1kwc0pxTi1oNzRjUnY4dW9NcEQydTFIdHJPb1ExYThQbDdBajBGbnJfRElOY3R0R2dvb2NranNPTVExY2ZRM2Nsa3V2bjBjb3RNc0dZMTFseVdXbEZNc1BhYlc?oc=5",
-      "summary": "포장재·자동차 수요 견인, 플라스틱·폴리머·엘라스토머 시장 2035년까지 성장 전망 IndexBox",
-      "source": "IndexBox",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T14:16:08+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "2035년 아미노 수지 재연마제 시장 전망: 자동차용 가죽 수요가 성장 견인 - 뉴스 및 통계",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTDQ0UGxhc1kzNWludzJ3b29STXV2dTh0NHdHNkZmckp4QTVRMzZBM1NHNGdidjJZcGVnOEU3MGFmR25aUC1pVGNVQWxWaDk0eHZuSjFMUnZQc2F6VWhmeEItOGhITXcwMzVHYUsyMzVPVWR2YU5HWm42NkRWSXNYS0pNaHVQbXYyZk1HcWtJY3h6V2pqb1pDOEhwRjNJVy1XNXlmMENZOUxuM0o5WGx4OHJsOGVieUJra0d4T2d3?oc=5",
-      "summary": "2035년 아미노 수지 재연마제 시장 전망: 자동차용 가죽 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
-      "source": "IndexBox",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T13:51:05+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "자동차 튜닝 사이트 — 튜닝 전 반드시 확인해야 할 서류와 승인 절차",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wb0lCQldaMG9FMVRnbTVUOFRUY3ludDdRU3pJTWhILVFBOGZwNEpfMmdDdXdReFhVQ2dhemJpdDdwcHR6cVQ0M3E2dFBtYkdHLXpTSHk3dkgwNnZmRUlYaV95REQ3bUM4Q1NIUE00OUpESzA?oc=5",
-      "summary": "자동차 튜닝 사이트 — 튜닝 전 반드시 확인해야 할 서류와 승인 절차 스페셜타임스",
-      "source": "스페셜타임스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T13:29:39+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "직업학교 학생들이 신에너지 자동차를 배우기 위해 중국으로 갔습니다.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWdsbXZDRjNvWDk1WlhJYkNSRExvVlZGRnpBRXJubUxuYmQza3FLcThlY2Z2U0ZoWmVIV1JELTFXWVZhUzhFMEIyeEJWRkhYaWVpdE8zSGM4eEtBZVZ4SXEtck1ISzY3NDVsMU42WlJxRWhveDkxRDZKTUQ3TV9vYmNYNHhzMDhHc0UwOFNMMEl3QQ?oc=5",
-      "summary": "직업학교 학생들이 신에너지 자동차를 배우기 위해 중국으로 갔습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T13:11:45+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "테슬라, 자율주행 전용차 '사이버캡' 개인 판매 추진",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HWUtZYkhCajk3VDZZWURJaTBtd0JmR2MzM2dBU1JLNG0zNmZ4dWZ6dmRRcUM3bkxaNVl4cHQ3dUZXNHhyUWxpMG90WW5JVGVBak1mNjRhSkRiZ1piMzhONDlSZ0wxRFU2RE54aQ?oc=5",
-      "summary": "테슬라, 자율주행 전용차 '사이버캡' 개인 판매 추진 로봇신문",
-      "source": "로봇신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T12:35:39+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "[산경칼럼] 국내 전기차 시장의 마지막 보루, '중고가 프리미엄'만 남았다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FQXloUF9COTgyazA0TEJJRzhfdHVyYkJNV1ZKQVllbG9vNzIxV3doU01tR0JmTF92dm44dWdQM3BUbXl5c0hWUVBrLVNacGExRHJpV0ljWkZMMk14dXh6d3l3U1lJWGM?oc=5",
-      "summary": "[산경칼럼] 국내 전기차 시장의 마지막 보루, '중고가 프리미엄'만 남았다 산경e뉴스",
-      "source": "산경e뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T12:08:55+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "01화 덴자 N8 출시와 2세대 블레이드 배터리",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5zZWN3T21pWmI2TTJ5R3FvM3lfaGlyWmxxcHI1WVQwZWt2amkwYzQwQXo0bkNELWRwSVVYemJMby13Rklp?oc=5",
-      "summary": "01화 덴자 N8 출시와 2세대 블레이드 배터리 브런치",
-      "source": "브런치",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T12:02:37+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "남구, 전기차 충전구역 의무 설치 310곳 점검",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iVkxoSEhlY1Vpdk5SajFvWFdaUmQxMWVnTWlISF9HS1pudUxBTG1YZjExQzd6ZWRULUs4SFh3UXBDbTNjdmZiT0UxdUUxTW9uMGNKdQ?oc=5",
-      "summary": "남구, 전기차 충전구역 의무 설치 310곳 점검 울산MBC",
-      "source": "울산MBC",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T11:30:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "HONGQI EHS4, 베네치아에서 글로벌 데뷔: 유럽에 선보이는 동양의 우아함",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vSmpSUjdCRk9rUzJRU2twOUpUcWVyMVo5WnVsaXUzVzhGd1VPUkJtclN4NWFiRUc5d2hJRzFueXVleWp0ZWMwSm5BU1QyanRoWll3eFNB?oc=5",
-      "summary": "HONGQI EHS4, 베네치아에서 글로벌 데뷔: 유럽에 선보이는 동양의 우아함 지디넷코리아",
-      "source": "지디넷코리아",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T11:10:02+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "현대차, 쏘카·에이펙스와 손잡고 자율주행 생태계 구축",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01THZxQmh5UlRwTUlWaGZMVUNpMXZPa0dnXzJXVHhiZW9FVG5oOFR2VDB0VmZ6ZnZvUEhzSjJnNzRfRkcxRjd1SUpmNm5ESVpTYXZHdHZOTWNsdWxYLTMtWW9hMElMYUt2Z1RGNDRn0gFyQVVfeXFMUHJIR2tfRmR2cWlGdG5wTGtLaUFXeE9GcHA2R1Y5TUp3aTJGS2hTdkJudHNnVnNueVBtcEdJSV9TbnoyZGxwTFdCcTlBM2xtMGlXV0dydHc2UDEwUnVUME12X2xpU19nNXNuV0w2WHQ2NS1n?oc=5",
-      "summary": "현대차, 쏘카·에이펙스와 손잡고 자율주행 생태계 구축 울산신문",
-      "source": "울산신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T11:10:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "KB손해보험, 11월 자동차보험 브랜드평판 1위…DB·현대해상 順 _ 밸류업 경영",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IMFludlc3cERCQUhDelVzYUNUc0dLN2lSSTVZcG44dGd1b0pxNU5KZ203bURCczQwQjZ1bFB0TmszQnR4cndUSGQ1RFNBYmExakhzM2c5MGRDTm5RTDFYU1ptU2lYQQ?oc=5",
-      "summary": "KB손해보험, 11월 자동차보험 브랜드평판 1위…DB·현대해상 順 _ 밸류업 경영 자투리경제",
-      "source": "자투리경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T10:51:10+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "HONGQI EHS4, 베네치아에서 글로벌 데뷔: 유럽에 선보이는 동양의 우아함",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNWWROa3FOTHhzRDlmcGROVXJUSVV4THMxa2pGTTcxakx4Ykl4WjJuTVE2Q0R6clJUZTFZQmtWczJPWHRlY0lXck9aMHgwSlRNZU5ybVZsY0FoUjg3dXBsYQ?oc=5",
-      "summary": "HONGQI EHS4, 베네치아에서 글로벌 데뷔: 유럽에 선보이는 동양의 우아함 뉴시스",
-      "source": "뉴시스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T10:51:07+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "전기차 충전·수상 부유식변전소·감압발전 등 최신 기술기준을 알아본다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZMjFtVmVreEM5SEJ5b0p3WlJIbTVjUkZNNGVXN2JjMXBRWU9CaUxJOHA5WWMxRnF4NERBZ05oNUx4Z2hUZm1zZzdRdHB2dURHWHBPa3JrN2Nra0Rud3labWU4eVlFUWs?oc=5",
-      "summary": "전기차 충전·수상 부유식변전소·감압발전 등 최신 기술기준을 알아본다 산경e뉴스",
-      "source": "산경e뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T10:49:24+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "獨 BMW, 차세대 전기차 생산용 ABB로봇 1700여대 주문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VU2FxcmhxaHZsbUpyT2hsZUh1Y1hsX0x2M25BQU5QQllsa3JRU0dBNW9tdEROWl9DUGd6MzloWHRfRHVxTW5VRjd2X0hHTTBSek1Cb0dJSXVNYWJvOXZDZTAxSzZmcDNxS1p1SA?oc=5",
-      "summary": "獨 BMW, 차세대 전기차 생산용 ABB로봇 1700여대 주문 로봇신문",
-      "source": "로봇신문",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T10:20:27+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "\"전기차 잘 팔려도 돈이 안 된다\"…폭스바겐의 깊어지는 고민",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhWUc3RlBrTWFUYVY0MU1TUWkzWFdwV2JoREYzQ2hPelRDdm9hd0s5UExKUVhFYUNOMUdmZExrSzhhbXU1REg3VGE4NFFlQ25BeHJtSFAtaDFiYlhhV0xfOEhZY196THBJZlE?oc=5",
-      "summary": "\"전기차 잘 팔려도 돈이 안 된다\"…폭스바겐의 깊어지는 고민 지피코리아",
-      "source": "지피코리아",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T10:10:55+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "키이우주 Porsche 자히드 자동차 전시장, 공격 피해로 임시 영업 중단",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRXl3bmJMNWV4d1JnbmdWT0ZEUC1QQ1dzZEdqMkp4RDFCSlI0MFBoRG44YUFUVVVTWVVDODdlSWdiMUdGeF9Sa3V5MklpNk5JN1ozZE5sN0RoQ3AxWTNpX3g3OHRMc0pCMGxvczNtby1CVE1KNzR0RjhzRUREbUZvY1VUMW02dTdsLUNyc0NVWnVKaXdXM2MzSnZEMXc?oc=5",
-      "summary": "키이우주 Porsche 자히드 자동차 전시장, 공격 피해로 임시 영업 중단 Mezha.net",
-      "source": "Mezha.net",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T10:09:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "현대차·기아 美 질주... 점유율 11.6% 최고",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xa1N3Slc2R0hpVHVoSWZpTXRqOTJBaVBOQzJhbnRORzhabFZOU2trSHVvd1dFQV9pR25RVC1va3NCV09YcWZ5YXhlZkRFbjJfell1c0Q3dHFPdw?oc=5",
-      "summary": "현대차·기아 美 질주... 점유율 11.6% 최고 파이낸셜뉴스",
-      "source": "파이낸셜뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T09:54:41+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "하이브리드 단 중대형 SUV, 美서 통했다… 현대차, 도요타·혼다 맹추격",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mRzZWS1FheE1fOEFUMHRUUDV6UktWYmkyUHA3TTU5UTRLd3o5VlYxbU5fNmt4T1BRLUNtRHZnRGpjUjJFUURObFRTZk1ONVhSU2lLNzB5OElSZw?oc=5",
-      "summary": "하이브리드 단 중대형 SUV, 美서 통했다… 현대차, 도요타·혼다 맹추격 파이낸셜뉴스",
-      "source": "파이낸셜뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T09:49:49+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "전기차, 보급 이후가 승부처…충전·배터리 안전·정비 해법 국회서 논의",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxV0xWZFFzbUxjd3gwUWhRWEs1Mm5nTGxGaTRIUUlaWDRCMVJ1VTBNSzFwTmtjclR4bUFQWTd1Qk5KNEwyX29xU09WRU1zWGp3UVdITUdvWG55TGhwNDE4d1JGTjhGWWlra0QxYS0tM2lXdw?oc=5",
-      "summary": "전기차, 보급 이후가 승부처…충전·배터리 안전·정비 해법 국회서 논의 에너지데일리",
-      "source": "에너지데일리",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T09:26:35+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "전기차 캐즘 길어지자…지역 양극재업계, LFP·ESS서 돌파구 모색",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIaXN0TENhaXYtY1lQendUeHNYLVF5TTQ5cVpIZnZUZ2puVVJzSkhSZlFqWUJaSDlQZXhiYXNVbzBaZHREdnMweXFHcldvY2RjRUVIMFlYajF4NzRZRkVSLTNMeHk1b0FQYnN3ODBPUQ?oc=5",
-      "summary": "전기차 캐즘 길어지자…지역 양극재업계, LFP·ESS서 돌파구 모색 경북일보",
-      "source": "경북일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T09:21:18+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "인도 고급 전기차 시장 노리는 韓·中…현대차·BYD 경쟁 가시화",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94SHppXy1hTy0tZGZLT1UzUENLY0ZYR3pubFdONVh4SUF2RnVYY3FpMFZsMW1BTjFPaWN1Ny15X1lVUl9RaEpFR19WWFB1TXdnZzhDOWxDajZXQdIBWEFVX3lxTE9NalF2bW9mS29mVXAyeGNSM1pmQmJBcWp5cElWVEhUeWNfbUZKdXJHcFFhODh4b1FPczhGV0xOMEwyM25wZXFEbS04MXdSMkw1U2xyN2RoRk8?oc=5",
-      "summary": "인도 고급 전기차 시장 노리는 韓·中…현대차·BYD 경쟁 가시화 아주경제",
-      "source": "아주경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T09:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "영남대 미래자동차공학과, 자율주행 1/5 부문 2년 연속 대상",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yM01aN1FBSXZEeVBWWTZQWHI5NkZzMzRkWXpsYXY5NUZvcGRaLVlVMFVlR0dGYWg4MXoxbU9kRGdycjFPOG1mWlRxZWZLVUJyemNGbWVFZTVOTHRmOVdEbzMtQmtKY1JpdVFsRnRvYw?oc=5",
-      "summary": "영남대 미래자동차공학과, 자율주행 1/5 부문 2년 연속 대상 경북일보",
-      "source": "경북일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T08:38:54+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "수입차 시장 절반이 전기차…벤츠·BMW·렉서스, 라인업 확대 속도",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12X2lOaFdyY3RfTXZJV2xXMWdoYXBUNlJrd09fMEZ3MGw5MUc1RmRCbDZKNlB5RURMVFBDT1NTdXNEWlBJbktGdDd5TmctUEhvQmRGYk9RX0N6cDc5Q0d4N0pKaUIzdjMzbXpiblZ3?oc=5",
-      "summary": "수입차 시장 절반이 전기차…벤츠·BMW·렉서스, 라인업 확대 속도 아시아투데이",
-      "source": "아시아투데이",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T08:26:27+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "'中 수출 특수'의 아이러니…글로비스 초호황",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92dkNpdUY2Z2F4ZklCdTRBaUhhdUgtTlRzN05Jcy1aNVpMUVN5dlpMLTRIQksteF9BZGZ4S1lnb0kzSll1ODM2dVlkWXJCNmRsVlhQZDBoR1AwUQ?oc=5",
-      "summary": "'中 수출 특수'의 아이러니…글로비스 초호황 한국경제",
-      "source": "한국경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T08:25:32+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "\"화학업계 新시장 된 로봇·AI…현대차와 휴머노이드 소재 협력\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZDBYRllVUDB4X1lBWGhXdkx0VXM2WTA0bUpjVk9wUWp4RHVtS0hjc1FYa191TFp1Zk9DUzRWRHJxZW1Oa1dleEVNUi0xS01sVHN2NTVYRGcyUQ?oc=5",
-      "summary": "\"화학업계 新시장 된 로봇·AI…현대차와 휴머노이드 소재 협력\" 한국경제",
-      "source": "한국경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T08:23:12+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "기아, 국내 전동화 차량 30만대 판매…전년 대비 42%↑",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYjkxSXNPVTlfeGQxWHlSSXFiV3FUT3pTdXZ4UXNFbEZobVo2TzJNaHk4U0RNeUxJYlpEY0FEUjBLZXAxdExFZWlqbWtETHY1a1lEM3YzR3VGRXptWWxDRnQ4YnJESlVuLXVUcTg1Rm8?oc=5",
-      "summary": "기아, 국내 전동화 차량 30만대 판매…전년 대비 42%↑ 신아일보",
-      "source": "신아일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T08:10:35+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "르노코리아, 더 라스트 이닝 후원…잠실야구장 추억 함께",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tcXc5UU56empwdzgzQ2xONzVYZlplaDJHajdYa0NXcjNGUGNpUUtYU1pUQkxnYXRWWkZmdVRMSVlPc1ZRd2pZU3MzQXFXbjFHTFZfamFnWEZmT0FibVg5QlRBcUhxdF9fQnpodg?oc=5",
-      "summary": "르노코리아, 더 라스트 이닝 후원…잠실야구장 추억 함께 ER 이코노믹리뷰",
-      "source": "ER 이코노믹리뷰",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T07:59:11+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "교통안전공단 자동차안전연구원, ‘찾아가는 이륜차 리콜’ 서비스 전개",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qOU0wTnhHQ1VSWHVicDQ5WHBjb2J3NkdsanNNSkpLVlZQWXZsbnRWLXE4TlhyTloxWkxGRnI4YzF0dTF1c3lZLUtEYmNQdENhdkwwNUFxeWk3X201czhaRHhaTndwc1VUcEFZNnZvRdIBc0FVX3lxTE1Kcjc2elRTeHhrbWlyRGxzbkRnd1FXRzFSNkt5eU80TkdXTEtxQ2p4U3BvbmhPdnhlR0lOREUzRzBsRVp0c2cyQVMxWko1aFBRaTBiYWpVMlZHb3N2a3Vubm1MeFkta2tpUmVqWUN5M2VTdVk?oc=5",
-      "summary": "교통안전공단 자동차안전연구원, ‘찾아가는 이륜차 리콜’ 서비스 전개 데일리한국",
-      "source": "데일리한국",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T07:57:35+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "현대차그룹, 홈페이지 AI 혁신으로 웹 어워드 13관왕",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tYVBlWkYwN1AxTkEyN0xuRnJoMkhPOVIwVnY1MUUxVUx6TDl6Vk1fY2JSMU4wQWxnODV6ZHRQdUhDZUpoM0FMcE4wZUw1VGV1dXBsSUxWSi1aM2FkTVpQd3RkYUlRcVlfTF8wQQ?oc=5",
-      "summary": "현대차그룹, 홈페이지 AI 혁신으로 웹 어워드 13관왕 ER 이코노믹리뷰",
-      "source": "ER 이코노믹리뷰",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T07:51:57+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "'2030 첫차' 예상 빗나갔다…BYD 올라탄 건 4050 세대",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQW1uNjJpdUJsNGhYNTM0RnIyYmI1YXp3d1RfN1c2Qy1xZm5aNzJJSlo3UVktOFFQeC1BT1N1OXJ2aUJQN3ExdHAwakl0QzB0VGRvaklnZS15eU5vMDBXelYyNm5IZWZMOVMzRTAwbHhmVVpDM2Z6dFI0cDJuTWlSZQ?oc=5",
-      "summary": "'2030 첫차' 예상 빗나갔다…BYD 올라탄 건 4050 세대 이데일리",
-      "source": "이데일리",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T07:45:36+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "테슬라 사이버캡 사전주문…월 299달러 별도",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90dmt4R1ZaakluRFhLNUtMX2Q5MHIzOEVvWEJHYnU3djc4VXBBNzNIcGQzMFF4MHFlVEFFdlBpR2RrRTlTR1BqRVQ1MFUyOGd0TzVlZzliNlpSQnhkSUNqSjhkcEFWODRGZW5Cb3RrS2XSAXRBVV95cUxOS3hBSkRfZmdmNEpWU1hKOC1DZUVya2IyNlBvY0RKX3Y5R1dDYWNtRDEteG9USlNidFNIenY0aWg4cjBTMjVvalJZUTVSQXM3WUxCcU9WYUFZaFFITV9EMlYxN0Vvc0I0OWdOclNHdXFYekk4cQ?oc=5",
-      "summary": "테슬라 사이버캡 사전주문…월 299달러 별도 IT조선",
-      "source": "IT조선",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T07:17:02+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "2026년 10월 가장 많이 팔린 하이브리드 자동차 TOP 5: 토요타 코롤라 크로스 HEV가 1위를 차지했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWttSkVPNEMtZGtaNlVsTWZ0dDBfQXp0eXlmcmM0eGhWWGpOUjZUb0dIMC1acmRUUU9BbS1GMkFWM05LTG5XVnl0X1JFUjQ3c1BQQlRsZE1BbFNoblV0amc4WnRXRXRIcW13cW5jSm1famM0RXktZXFlRHM4QVF1TFhKempmb1czNVhKQmhCb01mQzk3TUxlVEEtZm1IbXdsUk5RRTlmX1hiV0N6em1qVGRoclRZdw?oc=5",
-      "summary": "2026년 10월 가장 많이 팔린 하이브리드 자동차 TOP 5: 토요타 코롤라 크로스 HEV가 1위를 차지했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T07:12:04+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "정부, 국회와 전기차 세액공제 논의 ‘본격화'… 부처별 온도차는 과제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kRWlLSXRSeENNSXlBaUV1Z2RIQ3dTejNpX21OckQ2bFVZTEY4SENUdWg0czl6Zjc4UnJEamxDdXhHU3gtOXhCUW5mdTBkYTRnNEFTa3RnRFppUQ?oc=5",
-      "summary": "정부, 국회와 전기차 세액공제 논의 ‘본격화'… 부처별 온도차는 과제 브릿지경제",
-      "source": "브릿지경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T07:08:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "TS자동차안전연구원, 이륜차 제작사와 ‘찾아가는 리콜 서비스’ 시행",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ac3hwWEtKWTNYMVJEU2VyTVNNcFYtOExCTHB0bXpXWnc4UnpaaW04b0gxT3Z3TFhpZnpHOWV4ejlLM09xM2FkeFk5TWoxM3hNMUlsNDR0UmYtOUszdzVOMUNmaDA2bGJfczlYYVdMMDlpNE4zOHJCMDBn?oc=5",
-      "summary": "TS자동차안전연구원, 이륜차 제작사와 ‘찾아가는 리콜 서비스’ 시행 로이슈",
-      "source": "로이슈",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T06:50:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "BMW 5시리즈 2만1952대…전기차 i5 판매 급증",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yT19wYk5iSk9jOW5ZYXE0eUlxcDJnXzBLYnFhV2kyMEQtb0c4Y24xUFFOMm5iZjl4b1Q4M2VobnVEYTNYOGlkMTNUMi1CV0dYY3NaYVdRbmVycWJyVE1uTXowQ0xJcTQ?oc=5",
-      "summary": "BMW 5시리즈 2만1952대…전기차 i5 판매 급증 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T06:22:19+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "기아, 국내서 전동화차 30만대 판매…전기차만 12만360대",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCN1E3cTRvTzNDd0dVbWtzM3UxeG11QzZyeW9yYUxTX04yRmdvd3Q5TU9jaEZ1MTE5dkRfTWZmNlIyNVg3dmRDQzdLM1NfQ3FUV0JJZ2V2T2l0V0VuQ0R2QXk1Rjk?oc=5",
-      "summary": "기아, 국내서 전동화차 30만대 판매…전기차만 12만360대 매일일보",
-      "source": "매일일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T05:59:55+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "전기 오토바이에도 자동차처럼 안전벨트와 햇빛/비 덮개가 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkJ0T2ZXcENBZ1M3MzZBWm1yWDdlcTZTc3Bqa0tacThmQ2NJR0dCdHFwQzhjMGwyRDlVMGRjTUJocmtVUDZDWXpJRk5rb1N3Sy1LWlFHVzJOMDNPUGowckEwOGlpYXZjOWZTTWJBX3ZlN1pwc0ctejZqTHk0b3JwdnRlay1WOWFrZ3c?oc=5",
-      "summary": "전기 오토바이에도 자동차처럼 안전벨트와 햇빛/비 덮개가 있습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T05:35:36+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "'이 돈이면 테슬라'…현대차, 올해 기아에 4번 밀렸다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jbExKUm9vVmJQZnludG56amVxWHR5cUlsSkJiREZaNUZmZ05BOGozTjJ0aUNzMm83VXl2NDI4TDZxWkEwUTExMzZsVGw3ZkVnZUVBZ2RfZzkyNFhMZkdzUHVBaWdZWFE?oc=5",
-      "summary": "'이 돈이면 테슬라'…현대차, 올해 기아에 4번 밀렸다 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T05:30:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "대신정기화물자동차, 창립 70주년 맞아 '70년사 발간'",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zSkRsRmdiODlDcUROaGs2U0J1b19XQjRRMlZOdUdSWkh1S0stR0l1TGtid2JpWERGdFJpTE5FZ2hCS3FkTEFncE1ZdmlONW5JMkVxeUNvY2VQYTlpMjBHWEx3?oc=5",
-      "summary": "대신정기화물자동차, 창립 70주년 맞아 '70년사 발간' 충북일보",
-      "source": "충북일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T05:13:41+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "기아, 국내 전동화차 판매 첫 30만대 돌파…전기차만 12만대",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MYWtndGlGRmhka09RUmg0S09JZ3VwOXM0c0xLdVFPNDBYX19BaW1Kb09HZzRvdGhGS2d2NkpFd2RRVEdOZm9JQV9LX1lHRDIxVkczQXN3MmJiem5ZTTVsdG1GYVdNVHdIb1FkSkU4UzA2NXVi?oc=5",
-      "summary": "기아, 국내 전동화차 판매 첫 30만대 돌파…전기차만 12만대 대한경제",
-      "source": "대한경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T05:00:58+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "경기도, 고가 이륜자동차 압류 통해 체납액 9억1천만원 징수",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KekRRSmozWkZVWXpTbW1pV2Rka0Rva25YZVFwQWZiZXhSWHZCLU51WFFJWjRtUzNGRUxROFZILUNnYnNtc1hBT1hDSWVWbFUxUkVsTDRWNENOS3IwRE0xWQ?oc=5",
-      "summary": "경기도, 고가 이륜자동차 압류 통해 체납액 9억1천만원 징수 아시아경제",
-      "source": "아시아경제",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T04:57:49+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "2035년 자동차용 밸브 스프링 시장 전망: 다운사이징·고출력화로 수요 가속 - 뉴스 및 통계",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSkhTU0lpM1lIbEFUU3g5VWMwOE0xX3Z4SGc3NGFTTWNpS05ZVmI3aFA5U1hGc3hYSV8tLUdLUjVRVVJfUXd6akQtR2N2M0dfSHc3dW1pUktOX2UyR2RIYXhmY0FJZVJWZWh3QjJXVjVFeVZ2bEZ3T24zdURyQmo4TzdmSmZVQ1hQZDM3dnFEOVdMZFdLVlM4ajRadm16VU83R21Udko4Qzl0M1psb1Bvektmd29HWHpSclRCM3VhWXVsWGxxNEVJdXNTcm4yUQ?oc=5",
-      "summary": "2035년 자동차용 밸브 스프링 시장 전망: 다운사이징·고출력화로 수요 가속 - 뉴스 및 통계 IndexBox",
-      "source": "IndexBox",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T04:51:08+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "[CPS 시큐어 AX 서밋 2026] 현대차 울산 EV 공장·기아 PV5 생산라인에 국산 제어망 ‘라피넷’ 적용",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LaDVNOFV2UjVLLUY3QWxXZ0hVTzVBQ0JVMzJMZEUtQlJTS1Q0cjIwc3d6MGVObDlsVk9paEs2czNfZndCcGJ0S1JWaXIzZnl2WEFwc2l3T3FJVjRQSVJ0cjNOSVZMV0RRM3Q4eQ?oc=5",
-      "summary": "[CPS 시큐어 AX 서밋 2026] 현대차 울산 EV 공장·기아 PV5 생산라인에 국산 제어망 ‘라피넷’ 적용 데일리시큐",
-      "source": "데일리시큐",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T04:28:43+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "폴리옥시메틸렌 공중합체(POM-C) 시장 2035년 전망: 자동차 경량화와 정밀 부품 수요가 성장 견인 - 뉴스 및 통계",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOHllbnkwYm1RaHltdllUaVludUQ3bkFjbFVVbGh5d3B3eWhNNUlBcmo0Y1dlZW9wd2tZb0JaYXROSkk1YmI5dHdDQWY0ZHNtTXFTanpoVmVEdTYxblhrZHFuZUZzemU2M0p2b0VhendldEpZNjhWNDU5anBBWTJFM2k1QnJfQk5fMElqTjFqb3N4RUpMV25oSHFSWERaU2tZZERtV2c3X1JJeHN6Vzh5LWh1T1JXWmhPWVlORnZHTUpvTkcwUmNuNi1XM2pnNXh2RFNGRnBRM2t0NU1Ob1JualJCTldTYndBb3dqME9UWQ?oc=5",
-      "summary": "폴리옥시메틸렌 공중합체(POM-C) 시장 2035년 전망: 자동차 경량화와 정밀 부품 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
-      "source": "IndexBox",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T04:26:04+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "E-클립 시장 2035년 전망: 자동차 전장화·전동화가 성장 견인 - 뉴스 및 통계",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUd1TTc3akszZ0Nha1hVcC16WDVjS0lXZEVIM1dsRXlWNjZJTjU3SlY0Z1g4bXNxMFpiSXZYOVdTNVlpaU42dDQyNGtSUl9XMGRnck1hWjEtaWsxQi1nREVLeEMzVW52N1Y3REJzbFl1X3hCQ3ZoeXhsMjRFSi1WelBwdWdPSnhyandWT1ZtUDRfUDJoTHhlQW96cGdSXzNtcDhXMzlGdlBZWlFyQi1oUkRJRTczZ202NGVLakVwTERTZlF6MXdwVzVjT3lQQWZJU1d2V2o5bTRtY2o4TVE?oc=5",
-      "summary": "E-클립 시장 2035년 전망: 자동차 전장화·전동화가 성장 견인 - 뉴스 및 통계 IndexBox",
-      "source": "IndexBox",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T04:11:04+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "기아, 국내 전동화차 판매 첫 30만대 돌파…10대 중 6대 전기·하이브리드",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aVlFsUnJDbjM1X2FlbGhJTlpmMFQySjNnQkdTbHFja3Q1UUQwWTZ3Wmd2bk1nWU9qeF9NUHJ6LWplckVSMjdjZ3FlMkRwb3JQOGg4dQ?oc=5",
-      "summary": "기아, 국내 전동화차 판매 첫 30만대 돌파…10대 중 6대 전기·하이브리드 이투데이",
-      "source": "이투데이",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T04:09:00+00:00",
-      "byd_ev": false
     }
   ],
   "international": [
@@ -1212,6 +1212,66 @@
   ],
   "official": [
     {
+      "title": "\"평일 시간 내기 어려워서\" 이륜차 10대 중 4대, 리콜 시정 안 해",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WN1d6dmJHbGlNaUZJMjNXWnRFbjhCcWVXbmNlQXE4NFRnOV84TllpOXZHWTBrdzRqX3FtdUNOc3lWQTNjU2J3VWc1bGtIZ3BUQTc5VU9kOUZId1ZF?oc=5",
+      "summary": "\"평일 시간 내기 어려워서\" 이륜차 10대 중 4대, 리콜 시정 안 해 뉴스핌",
+      "source": "뉴스핌",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-16T00:48:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "\"한국차, 설 자리가 없다\"…러시아 판매 전년 대비 58% 급감",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oNHN3UmIwMDRNRXl0VC03UzlNQVNaS1dKZ1oybUNnSHIxcTB0a0VxQmN2d0l5cWxITUdvMFlISXU0YUM5eXJVc1M0S1YzVm5KQ29rWUlpT0pNbU9vV1JsWlI0cw?oc=5",
+      "summary": "\"한국차, 설 자리가 없다\"…러시아 판매 전년 대비 58% 급감 더구루",
+      "source": "더구루",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-16T00:46:06+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "US tells 720,000 BMW owners to park outside over fire risk",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0hISzBFN1FfSFZoZkxYaEh4eXZmYWZWY21QODZnSVhsb1NqVHpyYUtxQjJ0Znh6dGZxdTZ6alpJWk9sYlNrZ1E0Q0xVZ0pRcTdNMk1pZ2psSkpDZ0s3elFjU09IS2lMZkxKNy1UNDB3SWdoNUNJbk5EUUVsRTY0MlBIeU9lM3VqS0JUV3hUbFZwRXZWdkFaczdwQVNQNjN0Y1BFaTdNRQ?oc=5",
+      "summary": "US tells 720,000 BMW owners to park outside over fire risk Big News Network.com",
+      "source": "Big News Network.com",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-16T00:41:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Urgent Park Outside Recall Issued For Nearly 721K BMW Vehicles",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSndHa2p1eWNtbEFtcy0tS2ZuMGYxU016UUVEY0t6TXRweEZVV1owQTFDZEhHM0dtS0IxN0ZFT20yOURjZDFpbW9PbWg3S1NsenRZSHNpVk5GSzVVMG9pUXF0V25oRmt3YVFZSHNQVTVucFBXZ0ZXQ29kZThjcHkwSjFfZDdYRG9GQ3dBYzZzeUFNWGlxSTNQcG94MDh1bDdraTAzMl9MWGR2ZEkwMmc1U3ZUcDVoVi1RbHZDVE1NNVdEeDlNdlpSWk95QVhDOFo2?oc=5",
+      "summary": "Urgent Park Outside Recall Issued For Nearly 721K BMW Vehicles KHTS Radio",
+      "source": "KHTS Radio",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-15T20:45:17+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "BMW 72만대 추가 리콜… 화재 위험에 “실외 주차하라”",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ncWxsV0xiRlNDZHhTdkFVZzhxSjBsZ1NGMXNkLWZOaHRSYWd0N21hU1VhWFkzVjNlRHoySGFRXzNjdTRsMDNtcTU3TE1iZnUwTWdyUzZrclA1cEwzZXJlbDZiSXRQdmhkRzgyS1BjM0ZxU3k5dFE?oc=5",
+      "summary": "BMW 72만대 추가 리콜… 화재 위험에 “실외 주차하라” 미주조선일보",
+      "source": "미주조선일보",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-15T19:40:05+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "이륜차 리콜 시정률 67.6%…TS, 서비스 접근성 높인다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YUTlnWUZrUFJDeWFmQmVFTTd1ZzFmeEp4OFBPRHlqN0tzQnp2VnJoSFFZNFp3RkRDRHo2Uy1iVW14YTRFcGYwTlpKQ0plSjVGYkVSYWVNeTNsRjlXV09tTXh0M3FaMm5Gdlp4Xw?oc=5",
+      "summary": "이륜차 리콜 시정률 67.6%…TS, 서비스 접근성 높인다 교통뉴스",
+      "source": "교통뉴스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-15T18:30:00+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "BMW recalls over 720,000 vehicles in US",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQjI1MEY5bU5BazljYUtvdjYwX0QtaEEwck5iaXlkWjhEZzA3cDA0b3U3Z2RyX2ZkbkpyTXhHTDltVmplV3F4d0xScHdzQVpmYmtMSXJsVEZNUVZ4T3pleXZJLUpMdjNDZmJQeHZuTXBtZjZZTjdMei1iZlo5V0k?oc=5",
       "summary": "BMW recalls over 720,000 vehicles in US Newswire",
@@ -1242,13 +1302,23 @@
       "byd_ev": false
     },
     {
-      "title": "NHTSA’s Range Rover Knuckle Probe Covers 331,559 SUVs. The Recall Covers 121,509.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmdGVmwtYThBYnViR3ZaRmRXV2t2cThBZVpWaHZES3ZzTTdNVXhLQjc3UUFzbGlvM3d0Nk5GRzRhRDJKdkVkLUlfNlprQzZveTRZMlRmVjdLcXhjNG05OTZWYzkxek1zVzVWbFI4bTZQRUliX2R0ZGt2Ynd1RHhFc2dFNUZsZjBNbVNjeWJUbWNnSEdmRzJsWTJncnBOc1U?oc=5",
-      "summary": "NHTSA’s Range Rover Knuckle Probe Covers 331,559 SUVs. The Recall Covers 121,509. Yahoo Autos",
-      "source": "Yahoo Autos",
+      "title": "광주 자율주행 실증도시, 30일 첫 차량 투입으로 본궤도 진입",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wVzZHNWo1VkYyVTFfeDB5ZEtWSG9QMzJkaHVob0JZU285eXZsXzN3d1k3ZTJIeTlGc3V0S1Qyb0R2T2ItYlhtbHdCVHc4QVllZE9WaTljQjFiZw?oc=5",
+      "summary": "광주 자율주행 실증도시, 30일 첫 차량 투입으로 본궤도 진입 서남투데이",
+      "source": "서남투데이",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-11-15T13:00:19+00:00",
+      "published": "2026-11-15T14:00:29+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "NHTSA’s Range Rover Knuckle Probe Covers 331,559 SUVs. The Recall Covers 121,509.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjZ2ckRBb1BXVGt0V0xDTHBRMHZxanpKMHJ3QjVQeGhyVnFwQkF0aF8wT1BqRlpsMDJzOWVYRHBXSEVYM01GMUFZcnlXY1pkTnR3Yzl2Wk9kbmZqM3NGdFkzT1BNdGtENVY2bjFlMnhKa251c3hQWnZLQmdxM3dWVXBZQzE1VnlkVlJWczFHcGpPaldMckFNN0ZWa2JTOFhGOEZuejlZUERJMk5RMkRwcm9R?oc=5",
+      "summary": "NHTSA’s Range Rover Knuckle Probe Covers 331,559 SUVs. The Recall Covers 121,509. The Auto Wire",
+      "source": "The Auto Wire",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-15T13:01:43+00:00",
       "byd_ev": false
     },
     {
@@ -1272,16 +1342,6 @@
       "byd_ev": false
     },
     {
-      "title": "2026년 10월 베트남 구매자들에게 가장 인기 있었던 SUV 차종은 무엇이었습니까?",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM3BaRWstQmN1N29iU3FqdFVqdW5zSzFPeUstdXlKeWVESWw0Z21ELUt0U0hrVEpRQ0UxV2pXMEI3REYtOG03MFdzSzR5MXlybkZKRkg2enVCRXN3ZmxybFhSaEpqeXFObzNpZlJGeUVkYTg3aVdzaDlOS09SN0xaNGhvZkN4UXlyTGNFTw?oc=5",
-      "summary": "2026년 10월 베트남 구매자들에게 가장 인기 있었던 SUV 차종은 무엇이었습니까? Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-15T10:57:32+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "Automotive News: BMW recalls 720,796 vehicles over fire risk",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEttZkJYWVozNDRvNmJ5aE0zS05nbF81bkotVmhfTGRzeXNYS1dTVm5OZDdPcWtjNVNJaEx2alozV3lFM09mLWVfdWw5bmFud0p2WWRtWWlxb29zOVQyem1hQXA2dkR2bkZiQ3prUmxhM3l3cUZFbGZmY2g4MUtyc2ZXUW0xUnplWDNoa3B5Qm02el9yWk01U19WSUxwUQ?oc=5",
       "summary": "Automotive News: BMW recalls 720,796 vehicles over fire risk AutoRacing1.com",
@@ -1289,16 +1349,6 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-11-15T10:53:05+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "무쏘·렉스턴만 남고… 경유 승용차 시대 저물다",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0eVEtYjFkM0RjTFI0SVlXbC1GTVpWYWFpemt2NzZRMi03SHhNYXMxSDhuYXZpRFNRNW5ZLUFZaTFFWG9CdVhzQjdYVjVJTHRXdWJCeERmZlRmbmVwU1VZVmstZTRKWVprX2dJeXZYVXpuSGla?oc=5",
-      "summary": "무쏘·렉스턴만 남고… 경유 승용차 시대 저물다 부산일보",
-      "source": "부산일보",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-15T09:10:34+00:00",
       "byd_ev": false
     },
     {
@@ -1312,8 +1362,18 @@
       "byd_ev": false
     },
     {
+      "title": "TS, 이륜차 제작사와 '찾아가는 리콜'…주말 정비 지원 확대",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tOXVNcjRTbWVpWEU4SlVGdENQaXB3OFY3b0ROMDRiWUhDRDVCVFJwUGNvNmptVGdwMkFxWWs2MjBFR3gwOTJoTXYxQ19mYXJhdnF0SDQ3VzgtWXkzY0E?oc=5",
+      "summary": "TS, 이륜차 제작사와 '찾아가는 리콜'…주말 정비 지원 확대 아시아타임즈",
+      "source": "아시아타임즈",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-15T05:21:00+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "BMW Cars Mysteriously Start Catching Fire",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fQ19lMkNWbXRpX3VLWndTa0hpSTl5V0VFamdOUXFoZ25VRVZTQjNIMG9PTzNWMkpEa0RLMWJSV1AzOGpuMHR6UTFtOGdOblYwN3Q4WURQZGNsdHdOVXFfMm9QMWtGT013Q09uenhVQWR4N3PSAdABQVVfeXFMTVBWUFlqeS1HTmZUNHlwb3hfM3Juc3BCUU83aFZ3ZVUtU0x4S0l0M19jRUFWWDZBZWdGTm5RVWVKOG1GYlVyUWZSVDhRWXladFF4NHViU1dOUVlFLWlOX3JkTmdsVkd6NFRqRTVuRkFjTHdHekZVdDVOLVlwM3VUaFJaR0VEMEtQYXFXVUFURWNJcUF1VXI3TWs3eWUzTWZNR09HOGwwTU9ULTNhdGxoR2RnTEd6bVpHWHQxeFlkMXN6WEZOWk9iUVBSM3VUV1F4WQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fQ19lMkNWbXRpX3VLWndTa0hpSTl5V0VFamdOUXFoZ25VRVZTQjNIMG9PTzNWMkpEa0RLMWJSV1AzOGpuMHR6UTFtOGdOblYwN3Q4WURQZGNsdHdOVXFfMm9QMWtGT013Q09uenhVQWR4N3PSAXhBVV95cUxNY0QtdkhwMXd4em1Hb3gxWEtKS1BaUUx6SmxtTlhZOUhpTk11WnBWSmd3S3d0MEJjMHh4cGsxQ09DWkhieGF5ZkhMU041RlpsVGlROEVFcWY0U3RwSEpnWG9GSld5V25ja1lUN1Jkay1QMXBFTVJwaFo?oc=5",
       "summary": "BMW Cars Mysteriously Start Catching Fire ProPakistani",
       "source": "ProPakistani",
       "domain": "news.google.com",
@@ -1342,6 +1402,16 @@
       "byd_ev": false
     },
     {
+      "title": "기아, 국내 전동화차 판매 첫 30만대 돌파…10대 중 6대 전기·하이브리드",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aVlFsUnJDbjM1X2FlbGhJTlpmMFQySjNnQkdTbHFja3Q1UUQwWTZ3Wmd2bk1nWU9qeF9NUHJ6LWplckVSMjdjZ3FlMkRwb3JQOGg4dQ?oc=5",
+      "summary": "기아, 국내 전동화차 판매 첫 30만대 돌파…10대 중 6대 전기·하이브리드 이투데이",
+      "source": "이투데이",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-15T04:09:00+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "제네시스 주행 중 계기판 꺼진다…G80·GV80·GV70 등 8만4000대 리콜",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9valQwemJjbTJxcWVUZThIamQ1UlB3bzQ5YXp2YUlzS2xHal9QWTFoUldzZkIxbWtNVWo5b3VyZGZqVzZ3dzhwWC1WaFlkWGxGanBHN1hNLVdrR21YUVRjRkc1RdIBZ0FVX3lxTFB2TmhpS1hJam5YVVVkZzdIRUY5cXR0NnFLbDRJZllZcFU2TGM3OEFsb3BNRzJaaHhVY2VaRzdPaHZxWUUwOUNYMlNMNFh5TmZaYzljSXBSSjZpWW5EeHJ3a3pLcDlUS0k?oc=5",
       "summary": "제네시스 주행 중 계기판 꺼진다…G80·GV80·GV70 등 8만4000대 리콜 ABC뉴스",
@@ -1349,26 +1419,6 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-11-15T03:42:55+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "현재 베트남 시장에서 가장 많이 팔리는 하이브리드 자동차 모델은 무엇인가요?",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTRySmtmcmdTdlVSWlZyYUg4ZlB3UXhsbDJBVk5hOU9OUGJ6MHg3WE4yXzBtQkhlaXViX0ZsU1ZWUTRFYUxXRDJGSFRuWk43WUp4b1cxbGpoSnA2UExuRkxxbGRNMEdxSDAzOG5KQ25HdllwR0VUTVVvUGhMaE1uanEzNlJpZDBLSGs4YkcwVjFMbHIzTG0xZGFwWl9TQQ?oc=5",
-      "summary": "현재 베트남 시장에서 가장 많이 팔리는 하이브리드 자동차 모델은 무엇인가요? Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-15T02:30:44+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "베트남의 자동차 수입량이 급격히 감소했으며, 인도네시아산 저가 차량이 전체 수입량의 거의 50%를 차지하고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUF4MEFrb1VVdnpoU0ZpMlhDSi1rdXFhdlhBSEQ2ZjYydzNVaFBCNmhGbDIxNV9sNUN0cFJ1Nmo4VXFpLTkzT2xFUVJCRlQzUFExaTBpYzM1SFc0SUJBcExwTi04eVBfQUNNcVZsWmhBSG5VcEFUdjZGRWt3Vjg4bVhPOFJNb0hscjV5QUZPaDQ0RHo0QXMyNllNTngzWV93?oc=5",
-      "summary": "베트남의 자동차 수입량이 급격히 감소했으며, 인도네시아산 저가 차량이 전체 수입량의 거의 50%를 차지하고 있다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-15T02:30:44+00:00",
       "byd_ev": false
     },
     {
@@ -1392,14 +1442,24 @@
       "byd_ev": false
     },
     {
-      "title": "Acura ZDX Recall: 14,648 EVs May Dump Brake Pressure",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnVUdi03SnZFVXJvTlY5R1RWY3pYbWE1THpYeDNTX2FQU25YZ3Z6X0Q4bW94dlRCbXE0UXNkWVhmSnh1b2VDOGFJamxna0lDa3BhX0hqMjB1aXcwZEhqUXA5YS16c3k1VU1DRkJHUE4zNzRPVjhTRnRUTVd1a1FkOTZqODVzeGFuaEprbVVMd2owVkpETkxpNjBvSlQ2ZWRmeWVkYTZNN0kyQ3NfOWc?oc=5",
-      "summary": "Acura ZDX Recall: 14,648 EVs May Dump Brake Pressure thetruthaboutcars.com",
-      "source": "thetruthaboutcars.com",
+      "title": "기아, 국내 전동화 차량 30만대 판매 돌파…완성차 ‘최초’",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjRhYmVLYkVHYkxPWjJQbElhOWpYN2xJb2hITm5vN2NKQWRQSnVQQUE3eFowN0RiS1lEaDE1cVdrSFY4ckRFMFY1LU1ES0htUUUxanRpS2N4TDhjLVVmZG1aMk52Z3FxTkQwaVdjQTkyaENHbU5mUGN5ODFFLUVHOV9pWUXSAZgBQVVfeXFMTXBya2FNQUlxNWl0NDlESVZXaHN1YkdCVlB3elNoNkhvUDd2dV9ieUZTeEJYZDhSeWJVaDZ4Z1pfcEpsbGktRXJHVXdSV2w0ZHhyVWhkM2dDaHlfT2hXX2FITjVYUWNHWTB5Z1BLZmtPSVZEMUEtTDFRcVJMRElqcDN3Tk1yS3hFRlZyNDFZM2d0bXRldU1TSkk?oc=5",
+      "summary": "기아, 국내 전동화 차량 30만대 판매 돌파…완성차 ‘최초’ Chosunbiz",
+      "source": "Chosunbiz",
       "domain": "news.google.com",
       "category": "official",
-      "published": "2026-11-14T19:30:00+00:00",
-      "byd_ev": true
+      "published": "2026-11-15T01:18:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "한때 SUV 주름잡던 경유 승용차 퇴장…신차 1천대 중 4대뿐",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmN3NZNXA3WWdFempEZzQwWVVqbWtLZ0JwTVRURmFNQmZpMTNXOHg5cWJDXzFzM0IyeGhaZHJOdHk3WEFoRmYwRlBFcHRTNHhSUmc?oc=5",
+      "summary": "한때 SUV 주름잡던 경유 승용차 퇴장…신차 1천대 중 4대뿐 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-14T21:03:01+00:00",
+      "byd_ev": false
     },
     {
       "title": "BMW Recall Tells 720,796 Owners to Park Outside Over Fire Risk",
@@ -1432,6 +1492,16 @@
       "byd_ev": false
     },
     {
+      "title": "카바나(CVNA)의 자동차 판매 성장세가 투자 전망을 어떻게 변화시켰는가",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGVNWE5keFJnamEyck1GdUxwNFpQT1dSRmZGdzVQZFpTNmFoYjZPYnVlZ1pwNHhfWC1LYzhCNXMtWGFsam43bkVJN1dJVzdycHphQ0M2WG1GSm1KTGRrZG5reXMtbGZSb0xlUmp2aWhxb3hvWGVaTFlJOENxSzlVTFAwR1FJZllS0gGOAUFVX3lxTE1HOUtDWDNQaXRESkFTMXRZbTJqUWI4VzJUNVhaNms1TFBQZGIweFhoQm9qYzRzdUl2bUVpeFJLZjJ4N08tRTJTekxGTDdfanBBU1NHSUVPUzk0anNlcWFoQnFtWEVGVndWNmp3Wk9ObkpBRWJNam9zakxLSXBiUzJaNXNMZHV4NU5vQWhUQXc?oc=5",
+      "summary": "카바나(CVNA)의 자동차 판매 성장세가 투자 전망을 어떻게 변화시켰는가 Simply Wall St",
+      "source": "Simply Wall St",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-14T16:28:04+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "More than 720,000 BMVs recalled over fire risk",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmxXVjEwQWk1cEY3LTVOWVpueW5WcEZWaDJ3SzE2R1k5MzhtdFJ4b01jUS0wVE13Y3R3MXZDRWtUd3c1NGNiQzBnV2NNTnl3T3JNcnlBaF9aczhJTExDNlZfTFJBNEpGTUJ3ZV9TYTVXSVkxUmRsZjBaRXc5NnZMYmxzRjJJTlJqSmgweS02OFB2enpnelVjeFlRcWllamE2V3lPcE51SkxDSlF6ZWxWUEJsQ0w?oc=5",
       "summary": "More than 720,000 BMVs recalled over fire risk New York Post",
@@ -1452,6 +1522,16 @@
       "byd_ev": false
     },
     {
+      "title": "미국에서는 엔진이 꺼진 상태에서 화재 위험이 있으므로 BMW 소유주들에게 차량을 야외에 주차할 것을 권고하고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWMwcng2MUxEUVRoQ2s2bGdHTzJwUmtFWDkxNWtnNXhrdEVRdnZEdGp2V2pTTEtLMHZ0NzV4S2NTVDNKZE9OcHpKcVl0YzN1T1NyQi0zRnBBY1RqeEdIWVBITUZqM2o4bk9HSzV6c01JYXVOdUJSTTFZb2VwZEVYTm1rQXJ4amQzanBVYkZpQUVWaGRFcXRXbnQ1QzNuc0k?oc=5",
+      "summary": "미국에서는 엔진이 꺼진 상태에서 화재 위험이 있으므로 BMW 소유주들에게 차량을 야외에 주차할 것을 권고하고 있습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-14T11:14:56+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "BMW Recalls 720,796 Cars Again: Park Outside Until a Fire-Risk Fix Arrives",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzJYdUpXMktvRXpuZmlRSEhNSWM2REN4Y0V6cGw5ampHVDFsRHhHeW5JcmZwYUhpTHplNnZXZDRQUl9nVms2QVAyaVZhelVVcXdZT2JsYnFvQ2ZHVTRESVFUVEVwdk9ZZmpTRWZMakRfTTc4UXR2VjJpQmtWeF9RRWYzWFAxZmQ2TEhYVWt6eDZ0WTg4cnhoNVNlaG9Gak1LbjFpalhCaHBDN3ct?oc=5",
       "summary": "BMW Recalls 720,796 Cars Again: Park Outside Until a Fire-Risk Fix Arrives Around Prague",
@@ -1462,16 +1542,6 @@
       "byd_ev": false
     },
     {
-      "title": "2026년 10월 베트남 하이브리드 자동차 10개 모델 판매량: 혼다의 성장세, 도요타는 여전히 선두 유지.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU01FdWdMRlBOMC0yTEpOWlZfRXdBT2ZKT3doWGRQSnM0RVExdTdwZm1nOEVscHJ1UTQtY04zV1Jsa3FicGZJOEhmdjZuc0tZTFY3ajI0WXp4WmJmenllMF9NTWUxQnRDd2szcy1oNDJhZnpTMmV1R09QNDFSVVZXLVktblhfNmVwYWtoZE9IeUVBd2NJVGtQdllYUUM2dmc1cVVWNGRWVjJZbjVId3ZGYw?oc=5",
-      "summary": "2026년 10월 베트남 하이브리드 자동차 10개 모델 판매량: 혼다의 성장세, 도요타는 여전히 선두 유지. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-14T09:50:01+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "BMW recall warns owners of fire risk in parked vehicles",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CLWgzQU5KdElzSmNhMjJTcldCSmxpcFNMak13WjA2ODVkcHRTUnl5T0ZNdks0cXpUa3VFMjJxd3l1MVBicW1NMWhDeWpvOTFOWnZlZEdHLWRIcFR5RTBZQVpDQnI?oc=5",
       "summary": "BMW recall warns owners of fire risk in parked vehicles finway.com.ua",
@@ -1479,26 +1549,6 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-11-14T09:49:32+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "2026년 10월 베트남에서 가장 판매 속도가 느린 자동차 10종: 포드 머스탱 마하-E가 최하위를 기록했다.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGo1aF8wOFlYU1lKT0p6YS1oMHRTa2RYNFJtak5tRFp2MEhZM0paZWM5WUFHR0lCV29uMS0tNk9ZMHNhbldScTR6emI3alpZRklTdnc0MWUyNUhIV0d3bTFmcDhOUHFDYXZYZnRFa2dYeWNBQk4yUU5PcFFOWmRNUmpjN2x2VlZrejBTYXlUWUFXSEdFUmtyQUM1RDdKNkEyMkpNblh0amRDV2ZR?oc=5",
-      "summary": "2026년 10월 베트남에서 가장 판매 속도가 느린 자동차 10종: 포드 머스탱 마하-E가 최하위를 기록했다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-14T07:59:56+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "2026년 10월 내연기관 차량 판매량 TOP 10: 마쓰다 CX-5가 예상치 못하게 1위를 차지했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXpZQW9ZUEc5aVNDY0RsT3FlWkVtSHVtcm1VVkRHT3Q4SEFOOGJseEZmT01zMm5DMVdVOTJ0a1liWEZ1RFNpdlh1UEdhWFNkN0YyUURqWnZ3VE9oYTN5SlB4UnlPNHRXTnFDZUxTWWFjd3NWc0xIb1VtMEo2M1pVR3RwRXA1eW9IZUtrbDBlLWsyM19Za1QzSEFOLXBYOXdPNEdFSEZoOUZ2TkE2NjN6d3VEd0g?oc=5",
-      "summary": "2026년 10월 내연기관 차량 판매량 TOP 10: 마쓰다 CX-5가 예상치 못하게 1위를 차지했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-14T07:06:01+00:00",
       "byd_ev": false
     },
     {
@@ -1552,16 +1602,6 @@
       "byd_ev": false
     },
     {
-      "title": "Rust Can Snap the Head Off a VW and Audi Steering Rack Bolt. 208,724 Tiguans, Atlases and Q3s Are Being Recalled",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVFkQVpVemZ6VmszZmVQaG5mU2NFRGk5TFI3clhfNlNxUDUwM3BpeWpGY0tBVzFYUEJWOF9IOWEtbFNJaXhPMURKV3BqQ0doMW1hVEtXMTg1RVNDU0h1bEVSTUVwcUplMmgwNmV0dTdSek5oMXhKMk9mM1NYSklVYTM1amM0R2kxSTlDc2w3NmJpQ3pSNG0tNXE4ZlhmbU1fZ1REWG5mVWUwcUk1cVlYRlZQTlpIQkNZd0U5VFdn?oc=5",
-      "summary": "Rust Can Snap the Head Off a VW and Audi Steering Rack Bolt. 208,724 Tiguans, Atlases and Q3s Are Being Recalled The Auto Wire",
-      "source": "The Auto Wire",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-13T21:47:25+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "“운전면허도 없는데 차주?”… 17세 이하 명의 자동차 8천 대 쏟아진 비밀",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04UEcxNzZtMm5RLXZVWkxMZlRuOENFam9wRExtc3FhcDRfVnYxc0ZIaTNFMlEtTFBYcXRZMU9ZQnZ3MFhiTlNTa3hHS2RLcjNj0gFWQVVfeXFMT05BYkExbzV1aFJ5YWhfX2Flb3YyWFlVakgwUDBNekRsYlRfaEVVVFM2dS1PUTlqOF9lOUd2SUFTRHNLb0dRTlNtSGtmaXFHc0FOX0FrR2c?oc=5",
       "summary": "“운전면허도 없는데 차주?”… 17세 이하 명의 자동차 8천 대 쏟아진 비밀 네이트뷰",
@@ -1582,6 +1622,16 @@
       "byd_ev": true
     },
     {
+      "title": "美 BMW 72만대 재리콜... \"시동 꺼진 주차 중에도 화재 위험\"",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TbTZvRkxMQi1rWTgtcVlOem9Ca2RsclBjOVJFTEs3M29JM05GekpvV1BvaVZpeWxUc2lOMjlVZTFOZXV2TTdpalh4R2VUUQ?oc=5",
+      "summary": "美 BMW 72만대 재리콜... \"시동 꺼진 주차 중에도 화재 위험\" 인사이트",
+      "source": "인사이트",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-13T21:05:16+00:00",
+      "byd_ev": false
+    },
+    {
       "title": "More than 720K BMW vehicles recalled for fire risk; owners urged to park outside",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObDk1X0hZSTU5bXptQk56a3BrbExmNVVLTXJoX0tVOUczLTh3OGJwNDhkakFBUDhUbnMwS2ItSnpWbGdJVG1xRXAwaHUyd3VPbGlpSGRwNGdYME5QeFZ1dk1EbVk0UXpMT2tlM0h2SXBPV2paZVdoLWVTb2I4TEg5cVIwcF9vaGZlR2gyVHNZVFZrNnM4a3BQR3VXWmJrY185R043b1M5VnNUMUVNNjctbVBOcVRIRG5sZXVaaWJTd2YzNUczc2VrSHNqZjJlLU9ablptSWRTN0xWS0VweVE?oc=5",
       "summary": "More than 720K BMW vehicles recalled for fire risk; owners urged to park outside THV11",
@@ -1592,6 +1642,16 @@
       "byd_ev": false
     },
     {
+      "title": "Urgent Recall Warns 720K+ BMW Vehicles Can Catch Fire Even While Parked",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWNsazU1aDhrbGIwN0dDb09YUkptZ2tkTS1MZnYtZE1iQjRabjZDcjhwYTBOT1lWeUVfU0dVWlFzZmpzQlVER0NuZktSQ0RUWnNJbldyaGQ2RWRCOGdGR3VsM2RHNXR2MWJWbWhzVGxSSDU2eEF0SlRMcm0xRGc1MU9EMzhGZTh2TTFyV1FSQWlEUDg?oc=5",
+      "summary": "Urgent Recall Warns 720K+ BMW Vehicles Can Catch Fire Even While Parked DailyVoice.com",
+      "source": "DailyVoice.com",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-13T20:54:57+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "Urgent BMW recall affects more than 720K vehicles",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkJxTngwQ2puRnNxWVRXWi1zZ0I0QlNFa1BZQkdYYTQ0MXZqZGpiTnpNRHY2YU9XOEtIQ290cXBKWmU0VHdBSnI5LUdRcVdUZFFyd2dWU3B3MWdxeGU4eXFRVXBWWmFnNGYyN1RUUDBEeDJaY3pKeVAwQVJ2OXBNdFVDRldfWWxwNFpvZVREdU9FclNYVnMyd1YwQVc?oc=5",
       "summary": "Urgent BMW recall affects more than 720K vehicles Detroit Free Press",
@@ -1600,16 +1660,6 @@
       "category": "official",
       "published": "2026-11-13T20:51:00+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "Urgent Recall Warns 720K+ BMW Vehicles Can Catch Fire Even While Parked",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWNsazU1aDhrbGIwN0dDb09YUkptZ2tkTS1MZnYtZE1iQjRabjZDcjhwYTBOT1lWeUVfU0dVWlFzZmpzQlVER0NuZktSQ0RUWnNJbldyaGQ2RWRCOGdGR3VsM2RHNXR2MWJWbWhzVGxSSDU2eEF0SlRMcm0xRGc1MU9EMzhGZTh2TTFyV1FSQWlEUDg?oc=5",
-      "summary": "Urgent Recall Warns 720K+ BMW Vehicles Can Catch Fire Even While Parked DailyVoice.com",
-      "source": "DailyVoice.com",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-13T20:49:51+00:00",
-      "byd_ev": true
     },
     {
       "title": "BMW Recalls More Than 720,000 Vehicles Over Fire Risk",
@@ -1649,16 +1699,6 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-11-13T19:44:41+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "US Warns Owners Of 720,000 BMW Vehicles Over Potential Fire Risk",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNekdVU1lMTEtJLVJqaU5zVGNUZ2xTMXByMlB3ZllINXBmazJIS2dUMUtlb1BqemZSZlUwbGFmVTltTEphNm5ndXg0VXRTaGVnNXgwN093aUladl9nY0J6SDJwLWUwTWdHdGVXdGJBNlJpRWVvZXlzb3RDX3RUMElnbEZWdldUejk2Y0xtQW9EeTNlTU82?oc=5",
-      "summary": "US Warns Owners Of 720,000 BMW Vehicles Over Potential Fire Risk tippinsights",
-      "source": "tippinsights",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-13T19:20:35+00:00",
       "byd_ev": false
     },
     {
@@ -1702,16 +1742,6 @@
       "byd_ev": false
     },
     {
-      "title": "BMW recalls 720K vehicles over fire risk; drivers urged to park outside - WGN-TV",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVBIWkVPU2xtMFpHN1Z0NE9udFFvZDB6VXVtT3YxWUR3c1NxXzZqRkFJZkZkUGpONExMSms5VldFRG1sMWQ3eGRjdy1yTFVPR3dPX2RvNmZTOTAydV9TS0NEanNhNm1sTG9lZ201YkZESW1KZjBmWkRBNm9vcU90S2hOVDFwYlQwSUR1cTA2dmlwaU91bl9pa0ZYY0RHUG1NbzJoRNIBqgFBVV95cUxNVjQtOUN2RHFqMUc4d2h4bUNtWk40eGh0ekk4bUUxWHZpd2NiSVZFeEdCWlNTbEpkaGZOQ3FFMzRJaWlJaWstTThNVFo4azVJZ2U3a1B0Wk9ROTRHMDVhaU5iYkRtY0lHaTRDODlxekV6bU5kQlpkVVBTZDN5Mm8zMmtsLS1Ea01iS3N2WWk1SHFPdmZmLXJ0SHdlOS04NFE1aWI0OXEtOWdfQQ?oc=5",
-      "summary": "BMW recalls 720K vehicles over fire risk; drivers urged to park outside WGN-TV",
-      "source": "구글뉴스-NHTSA",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-13T17:47:35+00:00",
-      "byd_ev": false
-    },
-    {
       "title": "Owners of 720,000 BMWs urged to park outside as US recall expands",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04endTUG9QenhkZE43NFlhNVo0aWF2UmpDM2dOUkc4RlM4ckEwbkpqdGhlbVdVQy1CZVdsRktHTXhQTjhSdE9mUUtCaTdkUzJjSjRGeXhZM3VOZXpyaE52aF9OSWlVWE1oQ29ZbnlqVjNwY1VxM3R1ZWVsZw?oc=5",
       "summary": "Owners of 720,000 BMWs urged to park outside as US recall expands AOL.co.uk",
@@ -1739,6 +1769,16 @@
       "domain": "news.google.com",
       "category": "official",
       "published": "2026-11-13T17:37:49+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "BMW recalls 720K vehicles over fire risk; drivers urged to park outside",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlRFZnFaNDdiSEEzcDQ0dXV3MDV0VUdGalUtaWVpUjExa0QtT2ZETW41cVVTT3dwQm1EMFFCakotNFgxbXFXXzVnb3MxRk9GUUpQTGlaeFNDajlFNzZQb1N1elNjZU52UndpekVjOHRpX25sel9NeERvSG5hRHREbHFFX0o5NE5FTlFhSEVINFRkOUp6dEJFSk5aWmVsUVpjSjZjX0ZrNHRFQ2M1OFHSAbMBQVVfeXFMUHVaY2EwakxUUWVHRVljSWFLelFfTmZkNVY4X0pNa0FCWE5OWXlKWU1OZk03V3AyOWpkVHFKbW5uMmg0R3JndkZnZnZ0ZlMyRnJXZUJ5NG9BYVdYNmJyS19lUzRKeUYtZDJLamJFbHJfTjE1NUQ5MFlGU3FNeV94WTFORnVhbWtXa3hwa2VfOERhczE0X21WSnBWTExxWFpBMDBlQXBvWFJqV0lydFhzN0p6YXc?oc=5",
+      "summary": "BMW recalls 720K vehicles over fire risk; drivers urged to park outside Fox 59",
+      "source": "Fox 59",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-13T17:31:50+00:00",
       "byd_ev": false
     },
     {
@@ -1770,49 +1810,239 @@
       "category": "official",
       "published": "2026-11-13T16:42:00+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "US urges owners of 720,000 BMW vehicles to park outside over fire risks",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNm9rS0xLSDBqSlJHQ3FiSmFNVFRqU2tyUlhlb2dUOUVaTFd4S2REX3duS0V6akpYMnJqeWNIU0VWWlZxbks2UndwNUtISG9aam5kSWNkQkVYaWFhTUhycTZwQTZZd2VxZUdhd1M5cU8xN2lUWnRpQ09ISzlENHBJSExvNXhTTVJlWUduTlVzYmxNMTM2SmdxLUJXU2hBSGRLY0RnVUx4UzBIQQ?oc=5",
-      "summary": "US urges owners of 720,000 BMW vehicles to park outside over fire risks Reuters",
-      "source": "Reuters",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-13T16:13:02+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "BMW Tells 720,000 Drivers To Park Outside Over Fire Risk In Repeat Recall",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVdRcU8zdldLREZsWldTSzRmZ3U2end3YlhpQXBBZm5hSWEwcGNuamxoZmZPZ0NOV09kTkVVdnBabW1sWERHSVR2MmdGMmw0YXZfV0R6WURya3pfZ2JuT2lwVDJkVzRwMzR0bWdUam5QckpCUDNWTU13dGl3U3l1bS1LRjBObW13S2pWWGVGOVRoR0pxNGRIMzRtVi15cUk2YmVfUXR3VFJqQQ?oc=5",
-      "summary": "BMW Tells 720,000 Drivers To Park Outside Over Fire Risk In Repeat Recall HotHardware",
-      "source": "HotHardware",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-13T15:21:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Weekly Recalls: Acura/Honda, Chevrolet/GMC, Ford, Lincoln",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam8yQUVldnJ2aERubjIwNFctV3owLUFMbk9kSG5VN2ZKNldLRGRjT3R2a2gtM1dfOW9pUmI0MUZVMGN5OGZlUGZUUl9mN29ac2t3bWVpcGZENGtTb0VKa1VtZ2Iwc1ZIZlBLMk9LbHVsTDBtZzB4QjNmeVdmVUJZQ091V2FKWDRp0gGYAUFVX3lxTE1tSWwySnNKWHZUQVlBd0d6QlJsWGJTQlNVVXZHMFE2bGFMWFZqUFZmNEZ1SVZNaXFjRW1pOGl0aXRlZzBqU3M2NlR4WS1uSzBhSGFxeV9KMHpNMnpIMm1BSG8zUXY2Rkd1WFA3TkFDOTljejdXU2xiN25JcWs4ekhCQkpDODZiQUdtQ2s3RkpXY0FjSmRIMFhQ?oc=5",
-      "summary": "Weekly Recalls: Acura/Honda, Chevrolet/GMC, Ford, Lincoln CarProUSA.com.",
-      "source": "CarProUSA.com.",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-13T15:01:55+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "BMW is recalling more than 720,000 vehicles over fire risk, owners urged to park outside",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PUHd0Y040VHJ6SGtFQUtnYlJtd29UTWxlb2F5VUdsc1pSdWQ4am1Kb3ZUZmQ1WXBoaHkwbmtiT0ZnSWJ0d3hmZVZhcGRNb3h5TE1ITWU0N1RxZHV4cmJEMTREUG1OTkI0OTVXc0xRX01fcUlyRkZXTm54QQ?oc=5",
-      "summary": "BMW is recalling more than 720,000 vehicles over fire risk, owners urged to park outside Quartz",
-      "source": "Quartz",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-13T14:09:57+00:00",
-      "byd_ev": false
     }
   ],
   "byd_ev": [
+    {
+      "title": "네이버, 카페 글·댓글로 답하는 AI 시험 운영…여행·전기차·명품부터",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORFVMSVU0T2JfSkFyQnNuQ0dWaEtQNi1rbHZ3UjloeFZrQ2FxX0pZZlc2UTlFN0xYeFN6N3UxRnRJMV84U1Y1RDNlam44NUFvdXVQRHU5YnBOc0VvckVaaEhGZXVfTUV4WHplMFR6TjF3dU13VHpRajRFNjJYUWxmMXhBVVNCWFNUVUxxMzZQbGdUOHRYenYzbkcxeXVDV1dzZ3ZlM0RfeHAtbURUSzhxSkRrOUY1UGtrYkF1VWw1U21rVjVHdjlGbE1tVTR6ZERBQWM5emNINGZZclJaUVJaYXV1OUdnR0pqalRRZC1GSnRDZXRtS19TTUw5TDhkQ2w1ejFN?oc=5",
+      "summary": "네이버, 카페 글·댓글로 답하는 AI 시험 운영…여행·전기차·명품부터 데일리안",
+      "source": "데일리안",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:46:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 캐즘 길어지자…지역 양극재업계, LFP·ESS서 돌파구 모색",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIaXN0TENhaXYtY1lQendUeHNYLVF5TTQ5cVpIZnZUZ2puVVJzSkhSZlFqWUJaSDlQZXhiYXNVbzBaZHREdnMweXFHcldvY2RjRUVIMFlYajF4NzRZRkVSLTNMeHk1b0FQYnN3ODBPUQ?oc=5",
+      "summary": "전기차 캐즘 길어지자…지역 양극재업계, LFP·ESS서 돌파구 모색 경북일보",
+      "source": "경북일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:40:12+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "가성비로 압도하는 BYD, 넘어야 할 산은 '혐중 여론'…수리비·AS망도 극복 과제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yRG5zV01CVVE5RGV5c2RSOWx6VktmQzQ5UDNWUjJwNTVhVUNHQ3l2cE5WbmtrdkV6VDliLTdBSTlBc1pTN2tqTWx5OU5HaTcxS29kNTNXWll4Q0Y1ZmpjUGgxWFpOeHRicWo1RFViYlk1Vk3SAXdBVV95cUxQa3FJMVEwM3JKc2FwWXY4a1l4ZW5STThxV2EySlV6LXZIUDEyc1RYUTdqaDUta2Y5WjExenhFUmtjeWF6TXlCaTRYVUx2eGRFRHRSMlBMSk5ST3FYY2lKdDBfa29HY3ZndHNCcWhlSHRGeTM0UWJBaw?oc=5",
+      "summary": "가성비로 압도하는 BYD, 넘어야 할 산은 '혐중 여론'…수리비·AS망도 극복 과제 핀포인트뉴스",
+      "source": "핀포인트뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:36:09+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"테슬라 대신 샀어요\"... 평점 9.7점, 오너들이 '대만족'한다는 전기차는?",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vWV9zREo3RUVsTGxlT2ljWVJBUTQwQmV0VENNaElMelhtc3BrXzBZLUZLWHlvYVppUkZNdzVyM2c0S3hCbTNfQW5YdW13V2NrMktkbkdxU1B2Nmg5dUhCZjBSblBfVWtoMjl3dDF5ZUg?oc=5",
+      "summary": "\"테슬라 대신 샀어요\"... 평점 9.7점, 오너들이 '대만족'한다는 전기차는? 오토트리뷴",
+      "source": "오토트리뷴",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:27:02+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "농협, 12월 4일까지 전기차 충전하면 최대 5만 NH포인트 쏜다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fRU5YdUs0c0xjZkhWT1RNRzFYWmFFOWpfYVd0aUJxRGo2cDhETW1DcUxLSFFtMm1iTWZJeE0ycDhBUmp2V0JoNkp2QkNCVUxBcjFuaW1PNF85X1dJMmp3NTlxeURPc0RObm9kY0VHaUc?oc=5",
+      "summary": "농협, 12월 4일까지 전기차 충전하면 최대 5만 NH포인트 쏜다 리드경제",
+      "source": "리드경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:11:07+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "중국 전기차 업계, M&A 넘어선 지분과 기술 협력으로 생태계 재편 가속",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFJ3ZFdBMEdKVzBpUThLWlhzdlBMTlhhWkMwRXNhMDExQ21jWmlIRFRpUmcyYlNQWVkzYWNmUXZyQnB2LWt6UFlTNFIwNW5EaFpudUlFenhUN0NuZGkyZnM5VGR0RVQtM01wUjZvR1Y2eUQyME55MFJfTEU1ZWFoVjdYUnBUeHdF?oc=5",
+      "summary": "중국 전기차 업계, M&A 넘어선 지분과 기술 협력으로 생태계 재편 가속 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-16T00:08:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "캐나다, 中 전기차 공장 유치 추진⋯카니 총리, 시진핑과 17일 협의",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VYndDc0Z3VHl6d2xjZ2tpcHlya1cyNUhvaWtFU3FBTW95VUdZUkgxZExfOVJwdWlmMlQ4NWU5YS1mYmp0ZDVPZ2xlamptQkt5bnJ3WGdUOHlpZDl0S1I4M2pDT3k1UDhoT1prTE9Lcw?oc=5",
+      "summary": "캐나다, 中 전기차 공장 유치 추진⋯카니 총리, 시진핑과 17일 협의 엠투데이",
+      "source": "엠투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:45:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "차량 부제ㆍ전기차 보급 '온실가스 36만톤 배출' 회피 추정",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzYlR6TkpTdFlTUTdkUFBOYU9zOVZEaFR2OTlEc2M2WmY3YjFEaFdfQVJhbEJSd2g1VlVzbTc4QWxOZ0NLaVk5QU1waXBSdGlKWmI1OThsWVJlU0hHa2ZSdHpNaVdaZw?oc=5",
+      "summary": "차량 부제ㆍ전기차 보급 '온실가스 36만톤 배출' 회피 추정 인사이트N파워",
+      "source": "인사이트N파워",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:39:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BMW, 미국 우드러프 배터리 공장 가동…iX5로 첫 미국산 BMW 전기차 생산 시작 : 네이버 블로그",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUt3WUZaS2Q1YkpMV3dONU5XdXJMRFl4ek1CWlFIV0ZYWTZwQmRLY2t5ekxFVUtRR2NtZkh1bmp6ZzZsMEhfWGxNMVlfUjJTdHJGMGhjTDYyalZvWFpXRUdTQ0FJRkRhNFRFSnowLXdvV0tIdWV5d0FMNTlPUWc1bkFuV195QWYtTXY4VE9uaXpmTmpLN3pnUw?oc=5",
+      "summary": "BMW, 미국 우드러프 배터리 공장 가동…iX5로 첫 미국산 BMW 전기차 생산 시작 : 네이버 블로그 Naver Blog",
+      "source": "Naver Blog",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:36:40+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "폭스바겐 전기차 전략 또 흔들…아우디 A4 e-트론 2029년으로 연기",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Yd3pVT1dRd0hDUkd5MzhoUm5aYWlTNmNuX2JtWkkyNHF3cEFDcWtabDBRV0tYZWs4bXZEcVdWQXl6ekV4dWJZTVhOWVZmREFidWJUdERvSVZlTV9rRXVJdWdPRkg3ZXNNVVZhcjIyZVhncHc?oc=5",
+      "summary": "폭스바겐 전기차 전략 또 흔들…아우디 A4 e-트론 2029년으로 연기 디지털투데이",
+      "source": "디지털투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:34:31+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[시승기] 볼보 전기차 'ES90'과 'EX90', 속초-강릉 120㎞ 달려보니",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TbTFIZmd6TXY4dFB6SkpmR0FwbTJhYU1ZcUVjWVVLNlZXajExdTFsQmZKRnpKdUppdkUtRXNseEtfS1dvV0hUa2ltRGRMSlcyN293OVZpQ2JaXy11QnNtX1U4bDJTc0RFZ2VhR1AzdGfSAXRBVV95cUxQYzFEQXlFNXM4bTUwOWxtb2NOUFhJWWNyZkhCS0w1Q1JEcGlWMm8wbHR5Y3A4VWxXSVRwakxmalpxaHd6aEZ2LTg1enJPaVVyZm1XR2dDVDF4MElXLVNBeWpEb21vVHI4dDBqYnhHZ1dwTmJ3LQ?oc=5",
+      "summary": "[시승기] 볼보 전기차 'ES90'과 'EX90', 속초-강릉 120㎞ 달려보니 주간한국",
+      "source": "주간한국",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T23:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "LG엔솔, 전기차 배터리 수명 줄어드는 원인 공개⋯100% 충전해도 성능 저하 왜?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85b21VWFlZdklpcm5MeFRpd3pxWnlVYWx3YXMxU1VGSmtYaU05V3dQZDJkcjVZUG1kczVTa0FUSXRnb1JmOHctVkJzWTNMREV6Qjk5OFF6akx6QmN2LURhb1BuTGprd2FLaExUbWU3QQ?oc=5",
+      "summary": "LG엔솔, 전기차 배터리 수명 줄어드는 원인 공개⋯100% 충전해도 성능 저하 왜? 엠투데이",
+      "source": "엠투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:50:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[시승기] 카이엔 일렉트릭, 전동화 시대에도 변치 않는 스포츠카 DNA…\"전기차도 포르쉐답게\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wTm1MTjdEX0Zmdm9NaF92dHc0UDhFcTRDdUROLUpIclJzLUFvQ01KUWZwYlNkNmxOekxFcTZvQXhBdXQ4UUhHOXFvc1VuS3lEM2p2Z2NOS0NRcDBlR01sQkRleS1qYTlkaE5zNElXWlY4VUE?oc=5",
+      "summary": "[시승기] 카이엔 일렉트릭, 전동화 시대에도 변치 않는 스포츠카 DNA…\"전기차도 포르쉐답게\" 핀포인트뉴스",
+      "source": "핀포인트뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:40:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 대중화 시대 넘어 지속가능한 EV 생태계로 주제로 2026년 전기차리더스포럼 12월 14일(월) 국회서 개최",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMnhfeXBmMHI2dGViaWZkTThpUENHU3M0Sk90b1hUVWprT2lJWVJfZXRRMDRWOERyWFF2YjN3MGl1NUpQQ0ZfU21uUS03Sk0zcS12NUtyNzFNZ2xfbW0wblJhZ0NtVEJ4cGxsM0JLRQ?oc=5",
+      "summary": "전기차 대중화 시대 넘어 지속가능한 EV 생태계로 주제로 2026년 전기차리더스포럼 12월 14일(월) 국회서 개최 오토투데이",
+      "source": "오토투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T22:34:34+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[현장] 볼보코리아, 프리미엄 전기차 1위 노린다...플래그십 '투트랙' 가동",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfWkRGbUR6eHd5dTcxMlNfT3NvUGtwNWdMWm93LTZvUkJmdVZyQ2FPZXlvVnByUl9BcTRMVU04ZVVjdTNnQlEwTjAtRmgtODF0MUN1a0VaZU5Ja290SUh0NkgtTzE4dXVI?oc=5",
+      "summary": "[현장] 볼보코리아, 프리미엄 전기차 1위 노린다...플래그십 '투트랙' 가동 www.ebn.co.kr",
+      "source": "www.ebn.co.kr",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:45:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"내재화 vs 다원화 투트랙\"… 테슬라 배터리, 누가 만들고 어디서 생산하나",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3pHeHo0cGRNbGpYT2lhbE9aM2ExWkV2SGkzWlFYVGF4dFp2djhqS3BPLWtsektWVncyYjFCeHJfSm5QTkdpNTkwLWJJQTNQXzdCRXRGakM1ZHNMbDJ3YnZmbG1FcVh2dy1MV1AxZjd0R2EyTXJWaHFEOXNyenpJME5MSlBTM3df?oc=5",
+      "summary": "\"내재화 vs 다원화 투트랙\"… 테슬라 배터리, 누가 만들고 어디서 생산하나 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:15:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "\"SUV인 줄 알았지\"…'8000만원' 전기차 타보니 '반전' [신차털기]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55M1R5T2lsMWIyZHAtSUF2cWNLeVdjb0FQTldtdklWNnhKNDEwM0FURHZGZkRfWlF5a2l0enBqWjU2U0pQRXRycVBUWTBaalF4Vm5XTUx0T1RZdw?oc=5",
+      "summary": "\"SUV인 줄 알았지\"…'8000만원' 전기차 타보니 '반전' [신차털기] 한국경제",
+      "source": "한국경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T21:00:13+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "우리 집 배터리·전기차가 AI 전력난을 덜어준다고? - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DNWtjRXllc0NhVUlranZTVTdQUHJwY0FlcUdZMHc0TUNrdUpENHg4eDZFUzZfUVoyQkRscmRZN1E3V0ZuejNxUjFkUm5COTJQWUVqYk1VMjNRT3B4cUZ3dmFsQkthR2IzeFFzZNIBckFVX3lxTE1YTHcwbkFUM1lSYnY5dGVyZzNRcVZSaXhvUWEyaTBodUN5eGRYZ1l4WFVWVG5hWGdXTkRGby1wWkxJLVpwTzd2MGtBY3JDSTEzVVJyMy1nQmoyY2dDUGxCcV8xRmIteGYtWHE1SUR0NE50QQ?oc=5",
+      "summary": "우리 집 배터리·전기차가 AI 전력난을 덜어준다고? - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘쿠페의 탈을 쓴 완벽한 패밀리 전기차’ 폭스바겐 ID.5, 주행의 본질로 승부하다 [원성윤의 가요타요]",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HTEE3ZXlTVk96cWN6V2w5M3Zxa3BEYkxVWTNBcUR0RmJzTlBwTmFXelUwOEo5amZYbUkxcjZhbmFOVHNaa1RPcGZydmZMX3VlXzZBdTY3eFg?oc=5",
+      "summary": "‘쿠페의 탈을 쓴 완벽한 패밀리 전기차’ 폭스바겐 ID.5, 주행의 본질로 승부하다 [원성윤의 가요타요] 스포츠서울",
+      "source": "스포츠서울",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "중국산 전기차 보조금 수혜 확대…국내생산세액공제 입법 논의 골든타임 [안방 흔드는 中 공습]",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5dDJfdUdjb0UxUHdCZnNIOEJXaVRjekRZOG5wcGZ0NXl1Q19keG52bVh4ckp2Ul8ycHFJSUhqTDRVRWxUajNrempIc0pkX0JBUTRlMg?oc=5",
+      "summary": "중국산 전기차 보조금 수혜 확대…국내생산세액공제 입법 논의 골든타임 [안방 흔드는 中 공습] 이투데이",
+      "source": "이투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "우리 집 배터리·전기차가 AI 전력난을 덜어준다고? - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiek9XZzlEZTdmSHgzTkRqNXh0Ni11R2lHYml1OGVCeC1sdF9tYkozNW5QRUpnZUppdjIyN1RJaWdWeTFVdkhnWDBpT3FibEtURGtieU9BTGhPeE8zNWtYYW5WMl9NYXR2VzhVUzdIM3RoOUhobGVFekdn0gF_QVVfeXFMTUJkRTZBZ3ZETnBVeDRWWVM0dkJHS1JYblJnRlhzWGVTM2haZmxBOEhXVW1BZEdFZ2VpOWZ3RjNmLV94VmZFMVBTRmgzTGJCYW45TjUzNjVQdzlqS0hDZHd5OWRrV3A3NG96SHA1Zlc4VVhxVTRJSllZTklIQlRHNA?oc=5",
+      "summary": "우리 집 배터리·전기차가 AI 전력난을 덜어준다고? - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T20:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "볼보가 그린 친환경 미래…전기차 EX90 vs 하이브리드 XC90[차탈로그]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSlhseWFfTUc2UWtLQTBidExkOFNoc0U5RWdjZWpVdnhMTTRXVXFTbElEUHYxV1ZVbEx3ZllENkNQQ3BFWjd5OEk1RHB2UWFvUlE?oc=5",
+      "summary": "볼보가 그린 친환경 미래…전기차 EX90 vs 하이브리드 XC90[차탈로그] 노컷뉴스",
+      "source": "노컷뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T19:55:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "중동 위기에 호주 신차 4대 중 1대 전기차… 석유 수입 3억 2000만 달러 절감",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbV82dEtlVzZyV21rU1N1MV9sRjFrODFIVHMxUTgyMFoxN2tMcjg0OUdGek9PWTFDbVp6RFZfZnRZQV9wY2ZUY0dJQl9VQnZ2alFyb0l2WEZWdjE3Rk90M2ZlbjZOdEZyVDk0YmJrUFQ0Q2R6dU1FX3BMUnU0U2NvUFl2ZHluWVN1?oc=5",
+      "summary": "중동 위기에 호주 신차 4대 중 1대 전기차… 석유 수입 3억 2000만 달러 절감 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T19:00:00+00:00",
+      "byd_ev": true
+    },
     {
       "title": "CJ대한통운, 베트남 빈패스트 본사행…전기차 물류 동맹 키운다",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54WHU3dW5CTllJRnBJQkhoVFJBVnc3bWxUbllKQ1o5bTZTcUxUb2hkWDJHLTVyQ05oVnVOd21OeG1FN0ZUaGY4OWdzQ1VCTy1GQ2FaUXkyRGppc3MwSGQ4MHlHbDM3T012ZHo4?oc=5",
@@ -1884,20 +2114,20 @@
       "byd_ev": true
     },
     {
-      "title": "[시승기에 은총을] 전기차도 좋지만…볼보 S90을 놓치진 말자",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBLU51Y0VFYzlodXpxdXNqaEZ2VDBqb3BtWkdnb0Jqd3NQNkRhd3RBSWx2Vlp1N1htYTY0R2ZzRDNzbW5PaG13RmY4SDYyR282Y1RKN21zb3djZGxqTTNrZnhYdEtVeGpzUkMyaw?oc=5",
-      "summary": "[시승기에 은총을] 전기차도 좋지만…볼보 S90을 놓치진 말자 ER 이코노믹리뷰",
-      "source": "ER 이코노믹리뷰",
+      "title": "[시승기] 전기차의 고요함, 내연기관의 익숙함…볼보 플래그십 라인업의 공통분모",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdVNZeHZJNGY4TzRLQUFOVHNfczNtamZZbDN4R3daOFdZSHBkX3hDVkc5ekgySjZxMkJUN04wMGZnUHBDR0laU1BzMFZNVlNKckZWcHFDVUJBZ0lVeHJBS2g2UGh3M012NXN0blZn?oc=5",
+      "summary": "[시승기] 전기차의 고요함, 내연기관의 익숙함…볼보 플래그십 라인업의 공통분모 아시아투데이",
+      "source": "아시아투데이",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-11-15T15:00:00+00:00",
       "byd_ev": true
     },
     {
-      "title": "[시승기] 전기차의 고요함, 내연기관의 익숙함…볼보 플래그십 라인업의 공통분모",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdVNZeHZJNGY4TzRLQUFOVHNfczNtamZZbDN4R3daOFdZSHBkX3hDVkc5ekgySjZxMkJUN04wMGZnUHBDR0laU1BzMFZNVlNKckZWcHFDVUJBZ0lVeHJBS2g2UGh3M012NXN0blZn?oc=5",
-      "summary": "[시승기] 전기차의 고요함, 내연기관의 익숙함…볼보 플래그십 라인업의 공통분모 아시아투데이",
-      "source": "아시아투데이",
+      "title": "[시승기에 은총을] 전기차도 좋지만…볼보 S90을 놓치진 말자",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBLU51Y0VFYzlodXpxdXNqaEZ2VDBqb3BtWkdnb0Jqd3NQNkRhd3RBSWx2Vlp1N1htYTY0R2ZzRDNzbW5PaG13RmY4SDYyR282Y1RKN21zb3djZGxqTTNrZnhYdEtVeGpzUkMyaw?oc=5",
+      "summary": "[시승기에 은총을] 전기차도 좋지만…볼보 S90을 놓치진 말자 ER 이코노믹리뷰",
+      "source": "ER 이코노믹리뷰",
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-11-15T15:00:00+00:00",
@@ -1954,16 +2184,6 @@
       "byd_ev": true
     },
     {
-      "title": "01화 덴자 N8 출시와 2세대 블레이드 배터리",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5zZWN3T21pWmI2TTJ5R3FvM3lfaGlyWmxxcHI1WVQwZWt2amkwYzQwQXo0bkNELWRwSVVYemJMby13Rklp?oc=5",
-      "summary": "01화 덴자 N8 출시와 2세대 블레이드 배터리 브런치",
-      "source": "브런치",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T12:02:37+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "남구, 전기차 충전구역 의무 설치 310곳 점검",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iVkxoSEhlY1Vpdk5SajFvWFdaUmQxMWVnTWlISF9HS1pudUxBTG1YZjExQzd6ZWRULUs4SFh3UXBDbTNjdmZiT0UxdUUxTW9uMGNKdQ?oc=5",
       "summary": "남구, 전기차 충전구역 의무 설치 310곳 점검 울산MBC",
@@ -1995,12 +2215,12 @@
     },
     {
       "title": "\"전기차 잘 팔려도 돈이 안 된다\"…폭스바겐의 깊어지는 고민",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhWUc3RlBrTWFUYVY0MU1TUWkzWFdwV2JoREYzQ2hPelRDdm9hd0s5UExKUVhFYUNOMUdmZExrSzhhbXU1REg3VGE4NFFlQ25BeHJtSFAtaDFiYlhhV0xfOEhZY196THBJZlE?oc=5",
-      "summary": "\"전기차 잘 팔려도 돈이 안 된다\"…폭스바겐의 깊어지는 고민 지피코리아",
-      "source": "지피코리아",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHRTd6bjFLR3JZU2UwZ2k0aEUxX1lXdUxELS1ReEhVWk1uNnNlbmNObTVFMW1ubVFpNm9xaDdoaTN6UFRjeWc?oc=5",
+      "summary": "\"전기차 잘 팔려도 돈이 안 된다\"…폭스바겐의 깊어지는 고민 Daum",
+      "source": "Daum",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-11-15T10:10:55+00:00",
+      "published": "2026-11-15T10:13:06+00:00",
       "byd_ev": true
     },
     {
@@ -2021,16 +2241,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-11-15T09:26:35+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "전기차 캐즘 길어지자…지역 양극재업계, LFP·ESS서 돌파구 모색",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIaXN0TENhaXYtY1lQendUeHNYLVF5TTQ5cVpIZnZUZ2puVVJzSkhSZlFqWUJaSDlQZXhiYXNVbzBaZHREdnMweXFHcldvY2RjRUVIMFlYajF4NzRZRkVSLTNMeHk1b0FQYnN3ODBPUQ?oc=5",
-      "summary": "전기차 캐즘 길어지자…지역 양극재업계, LFP·ESS서 돌파구 모색 경북일보",
-      "source": "경북일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T09:21:18+00:00",
       "byd_ev": true
     },
     {
@@ -2074,16 +2284,6 @@
       "byd_ev": true
     },
     {
-      "title": "2026년 10월 가장 많이 팔린 하이브리드 자동차 TOP 5: 토요타 코롤라 크로스 HEV가 1위를 차지했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWttSkVPNEMtZGtaNlVsTWZ0dDBfQXp0eXlmcmM0eGhWWGpOUjZUb0dIMC1acmRUUU9BbS1GMkFWM05LTG5XVnl0X1JFUjQ3c1BQQlRsZE1BbFNoblV0amc4WnRXRXRIcW13cW5jSm1famM0RXktZXFlRHM4QVF1TFhKempmb1czNVhKQmhCb01mQzk3TUxlVEEtZm1IbXdsUk5RRTlmX1hiV0N6em1qVGRoclRZdw?oc=5",
-      "summary": "2026년 10월 가장 많이 팔린 하이브리드 자동차 TOP 5: 토요타 코롤라 크로스 HEV가 1위를 차지했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T07:12:04+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "정부, 국회와 전기차 세액공제 논의 ‘본격화'… 부처별 온도차는 과제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kRWlLSXRSeENNSXlBaUV1Z2RIQ3dTejNpX21OckQ2bFVZTEY4SENUdWg0czl6Zjc4UnJEamxDdXhHU3gtOXhCUW5mdTBkYTRnNEFTa3RnRFppUQ?oc=5",
       "summary": "정부, 국회와 전기차 세액공제 논의 ‘본격화'… 부처별 온도차는 과제 브릿지경제",
@@ -2124,6 +2324,16 @@
       "byd_ev": true
     },
     {
+      "title": "울산 남구, 전기차 충전시설 미설치 6곳 시정명령…설치 완료 - 울산매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjT2x1VWJoeElnZG94Mmt6eFdEUHVYeFZRdWhFTzdXYkZsSzRmLS1NYmRJZS1jX1NLdU9EU2NBNEQxZHNzOUtUVHZxQ0NuV1Jtek90N1N0Nl9DSVlIbkt0RE1IZzZkdHctNlHSAW5BVV95cUxOa0xpVWhadEZHdUpGRG1mSm1yYXNCeXZnLTJqOWJlYTE1UlFfanc0Z18yNmo4b3pjOHh4bGVZNzBSMFJvUEc1U3FoaHdnQmUwX09SbnY0NDFfTkNPR0hkU3pUb0l6Qldaa3RMNnVOdw?oc=5",
+      "summary": "울산 남구, 전기차 충전시설 미설치 6곳 시정명령…설치 완료 울산매일 - 울산최초, 최고의 조간신문",
+      "source": "울산최초, 최고의 조간신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-15T05:13:14+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "기아, 국내 전동화차 판매 첫 30만대 돌파…전기차만 12만대",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MYWtndGlGRmhka09RUmg0S09JZ3VwOXM0c0xLdVFPNDBYX19BaW1Kb09HZzRvdGhGS2d2NkpFd2RRVEdOZm9JQV9LX1lHRDIxVkczQXN3MmJiem5ZTTVsdG1GYVdNVHdIb1FkSkU4UzA2NXVi?oc=5",
       "summary": "기아, 국내 전동화차 판매 첫 30만대 돌파…전기차만 12만대 대한경제",
@@ -2154,33 +2364,13 @@
       "byd_ev": true
     },
     {
-      "title": "수소전기트럭 엑시언트 1회 충전 720㎞ 달린다",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oNVJBdE92X2M3TWdBSVRJWVI5a1Rjb09CUHNRTDliOEVnWXg3OWd0RllSSG9RbWYyek44UTNYaUJTeTlhcXNCRjFhakdqajM3eERGMkZsa9IBXEFVX3lxTE8zZkNVdk5BWXJRbXNrSnhHNU5KV0daSXByQjJJTnV0RGpGbGpzSFJScTRKNnQ0VW5Kc3NKeklxbWFfMEl5Q0JHVHJrRHVBWVB5azdxOE5WLVk1NXB5?oc=5",
-      "summary": "수소전기트럭 엑시언트 1회 충전 720㎞ 달린다 기독일보",
-      "source": "기독일보",
+      "title": "[칼럼] 중국산 전기차 저가 공세 \"생산성과 고용 접점 찾아 가격 정할 때\"",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wUWp6SVlqU1FpcUJocE1FVUVYTlpKNDlFVXloWnBXdWhQRV9CTFYya0k5SXp4S01wWHV6bnBuRS1Gd09nLWtCUmFqYzBiRDVVcVU5Z052dHhIZmJYUkNDT2JHbHk3cnVLLV9PdHRB?oc=5",
+      "summary": "[칼럼] 중국산 전기차 저가 공세 \"생산성과 고용 접점 찾아 가격 정할 때\" 오토헤럴드",
+      "source": "오토헤럴드",
       "domain": "news.google.com",
       "category": "domestic",
-      "published": "2026-11-15T01:26:25+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "“하늘을 나는 자동차, 2027년 중국에 등장한다”…샤오펑, 2인승 자율비행차 상용화 선언 30만 달러짜리 비행 자동차, 2027년 하반기 중국에서 제한적 운용 추진",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9KcG5ndXFWczdaQ2wtY0V4blFYcFhJckh0VkZ1cHg2XzN1RDhJUGw3MXdubkppejVYYkZVMnNMSm8?oc=5",
-      "summary": "“하늘을 나는 자동차, 2027년 중국에 등장한다”…샤오펑, 2인승 자율비행차 상용화 선언 30만 달러짜리 비행 자동차, 2027년 하반기 중국에서 제한적 운용 추진 AI넷",
-      "source": "AI넷",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T01:01:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "[특파원 시선] 中서 전기차 넘어 'AI·로봇' 사업 과시한 테슬라",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiWUl2NHVxM0daQm9mWmp6cDNoWmJtZ1R2Wk9QN1V3SFdEVHpoLUJKbnNFX29CdmFYRmF0UWZCQmpQcVV2bF9RWWJB?oc=5",
-      "summary": "[특파원 시선] 中서 전기차 넘어 'AI·로봇' 사업 과시한 테슬라 코인리더스",
-      "source": "코인리더스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-15T00:00:01+00:00",
+      "published": "2026-11-14T23:00:00+00:00",
       "byd_ev": true
     },
     {
@@ -2204,16 +2394,6 @@
       "byd_ev": true
     },
     {
-      "title": "전기차에서 ESS·선박·로봇으로…포항 배터리 엑스포",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQc3FfY1ZDdi1kLUlxcFdVbG93VE50czB4eFNiRDI5d0dhX0JwTV9SYUpBaUNoTWNRdDNJWjVKSFFieGlmVFpva2h0VVJKMXdFcGktaHFUU0VmUEVua1k5ZEtVOUI0NDNRR3h6dDZ5U0thdmxjaDBGR1Joc0JTM3NNNmg3ZnZIRERGUUIyMHZYVlgzNXNBYTNyMk9SUENOclVXb002R1BWcG9HSmVfb05ONE5sNkduU0tram9lUDVuQmlvRHBTaEg1Nk03d3M5VmJTbXF5THkyZ3k1bl95dlRrWTFSeXk2SzZyeDYzczM5VTk5Q1dPUU5zeVplZVBjYUJ4bE5BVDhjY21qSS10?oc=5",
-      "summary": "전기차에서 ESS·선박·로봇으로…포항 배터리 엑스포 데일리안",
-      "source": "데일리안",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-14T21:21:00+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "[특파원 시선] 中서 전기차 넘어 'AI·로봇' 사업 과시한 테슬라",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FaDhvMWw1QXJJSmJJWVFudjI1UnVXcWtfZFN0YnF3S24zRmxXMzE3RHlKZ2Jxc0UzcDFjTU5kcUVqaUlxNGxhb012LVpuX2NUSTc5TVNRRnNrVU3SAWBBVV95cUxQVVBuMFMtXzBXQ1NYOThsX2dmenkzNGs0SjhFakctUnVMWGxvdnFMTEZWTFpSZk5jMlRnUlphT0VZX0RCNUhqcjBkQlZxTjhjR2tSLTVXSWZVb1JzNjJLeHY?oc=5",
       "summary": "[특파원 시선] 中서 전기차 넘어 'AI·로봇' 사업 과시한 테슬라 연합뉴스",
@@ -2224,16 +2404,6 @@
       "byd_ev": true
     },
     {
-      "title": "靑, 전기차 생산세액공제 조건부 포함 가닥…국회 논의 주목",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ycUJNSU1EdE5sMFIxTlVMMWdfU3NLN09kLTNYNlFrTGVMSThYenlGQ1hIMXlXUWtlNGtrekdTUHNvZEEyVEhDamdNcTJnczRVZ01BT1ZtNnludm8?oc=5",
-      "summary": "靑, 전기차 생산세액공제 조건부 포함 가닥…국회 논의 주목 뉴스1",
-      "source": "뉴스1",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-14T21:00:00+00:00",
-      "byd_ev": true
-    },
-    {
       "title": "지리자동차와 BYD의 호주 전기차 할인 경쟁 돌입",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbldSU0piX19NSGphVW1lNGJQQ0F2eHlhYnBVZjlQQlF0bDZVbzZ5RWF4MDloNDhjRDZzTzdoSnEwYi1kM2ZzQjlTaXQzRmwta21VU1NCdTM2am91UFhUaU9xc2xoaUVjazhtV1lKck5TZ2Z2RVlKSV9FMGE3dlhZa3kyQzFGNEdf?oc=5",
       "summary": "지리자동차와 BYD의 호주 전기차 할인 경쟁 돌입 글로벌이코노믹",
@@ -2241,176 +2411,6 @@
       "domain": "news.google.com",
       "category": "domestic",
       "published": "2026-11-14T20:50:07+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "중국 전기차 불안 낮춘다… BYD, 국내 서비스센터 21곳으로 확대…중고차 가치 방어 나선다… : 경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NaTcyeWl2elM3UU9lVmN2U1RNeFhLaWdnY0VoVEdEZm9yeTB3aHBEOTRtSWF4V3lQT29OeWkyLW1lRnpVSG9CdHpaVQ?oc=5",
-      "summary": "중국 전기차 불안 낮춘다… BYD, 국내 서비스센터 21곳으로 확대…중고차 가치 방어 나선다… : 경제 재경일보",
-      "source": "재경일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-14T20:04:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Acura ZDX Recall: 14,648 EVs May Dump Brake Pressure",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnVUdi03SnZFVXJvTlY5R1RWY3pYbWE1THpYeDNTX2FQU25YZ3Z6X0Q4bW94dlRCbXE0UXNkWVhmSnh1b2VDOGFJamxna0lDa3BhX0hqMjB1aXcwZEhqUXA5YS16c3k1VU1DRkJHUE4zNzRPVjhTRnRUTVd1a1FkOTZqODVzeGFuaEprbVVMd2owVkpETkxpNjBvSlQ2ZWRmeWVkYTZNN0kyQ3NfOWc?oc=5",
-      "summary": "Acura ZDX Recall: 14,648 EVs May Dump Brake Pressure thetruthaboutcars.com",
-      "source": "thetruthaboutcars.com",
-      "domain": "news.google.com",
-      "category": "official",
-      "published": "2026-11-14T19:30:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "지리 EX2, 매달 시걸 압도하며 소형 전기차 시장 판도 흔들다",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2NZU1dfdFNxbFdkbjYtZERVR05zTE41RnVUczJBYVVUUm55YWRHWDZYZFF5SUZ0clkxRmo3NkJNX3haUGJhOVhyMklwd0ZNcTRocE9ydFVsQXUzY3dMaFl2SEdBQVNnQ2taOGFaSzh5aGtiWGNmbGkxTEszeXd2TzdZenA4ZXoz?oc=5",
-      "summary": "지리 EX2, 매달 시걸 압도하며 소형 전기차 시장 판도 흔들다 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-14T18:30:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "This Corvette Owner Bought A Brand-New C8. Then He Lost $37,000 After Just 570 Miles",
-      "link": "https://www.motor1.com/news/815462/corvette-eray-massive-depreciation-auction/",
-      "summary": "A nearly new Chevrolet Corvette E-Ray convertible sold for just $99,500, despite an original sticker price of nearly $137,000.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-14T18:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Hot Wheels Crowns a 1979 ‘SS Monte Mino’ as the 2026 Legends Winner",
-      "link": "https://www.caranddriver.com/news/a74427363/1979-ss-monte-mino-2026-hot-wheels-legends-tour-winner/",
-      "summary": "This Chevy Frankenstein combines a Corvette chassis, El Camino body, and Monte Carlo-inspired widebody with a modified V-8.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-14T17:30:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Huawei set to challenge Tesla Powerwall with new, 20 kW home battery",
-      "link": "https://electrek.co/2026/11/14/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery/",
-      "summary": "This high-tech Huawei home battery pack hopes to hold back Tesla’s latest Powerwall with silicon carbide technology, AI-powered energy manag…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-14T16:25:02+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Remember The Fire-Damaged Corvette Z06? Now It Actually Runs",
-      "link": "https://www.motor1.com/news/815389/chevrolet-corvette-z06-burned-restoration/",
-      "summary": "Chicago mechanic revives a salvage-titled 2025 Corvette Z06, rebuilding its smoke-damaged interior and electronics while keeping repair cost…",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-14T14:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "BYD는 태양광 발전, 5분 초고속 충전, 그리고 충전기 연결을 위한 자동 로봇 팔이 통합된 충전소를 출시했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdl9lWVZwanZBZ2ZmeVJHaTR2d2FTRHVnLUZMc1pIOEN0YWphRkNhOGxUb2czMTJOWXNKTmZoWUY3UzFNQmZ1a3RMVmJFTTluVWxGZFJsd3ZqLWQwQ19OV240MkZLaWxDTENoYS00eUttZ1ZaazIzYkZkVlFLN2F5bk9lOV9VSDRydjdmbWNiWUJ6NkNNcHAtekRQc185WWRaNEgxb0Y2OEIwVWt0dUpna1pDdnNjLXFINnRvRlpMWQ?oc=5",
-      "summary": "BYD는 태양광 발전, 5분 초고속 충전, 그리고 충전기 연결을 위한 자동 로봇 팔이 통합된 충전소를 출시했습니다. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-14T13:57:54+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
-      "link": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
-      "summary": "Tesla has posted the agreement that comes with its $29,990 Cybercab, and it’s even worse than the order page suggested. The two-seater can’t…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-14T13:33:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla Cybercab ownership will come with plenty of strings attached",
-      "link": "https://www.teslarati.com/tesla-cybercab-arrives-steep-ownership-fine-print/",
-      "summary": "Tesla’s long-promised Cybercab is finally available for personal purchase, at least for a select few in the Austin area. But it’s far from a…",
-      "source": "Teslarati",
-      "domain": "teslarati.com",
-      "category": "international",
-      "published": "2026-11-14T13:32:34+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "울산 남구, 전기차 충전구역 의무 설치 대상 310개소 설치 완료",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yR003bXdWTTlCZW5pMktnc0xFWTJTbU9ZMmdfWTVHbE1vbmNCd24zRXVUM3dWVC1uSm5EU3RGaC01RWxCQlMzeVpXT0FsNHoyTmd2M2EtcllnMUhpcnpibmpqanZ0OHdMczVNMQ?oc=5",
-      "summary": "울산 남구, 전기차 충전구역 의무 설치 대상 310개소 설치 완료 경상일보",
-      "source": "경상일보",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-14T02:52:11+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
-      "link": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
-      "summary": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a mo…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-14T02:11:39+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990",
-      "link": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
-      "summary": "The Cybercab will be Tesla's cheapest vehicle, but there's a catch: autonomous driving will cost you $299 per month.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-14T00:06:29+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "\"전기차보다 가볍고 멀리 간다\"…트럭·버스서 찾는 성장동력 [K수소, 녹색성장의 판을 바꾸다]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05MkdZOHlMSjJSd1VCcjA5TFpwaXhHVDF2Y2dCbzJidlI2ZE5EeEhSb01DSFpWMVlSTVBwd05ybTc2OVRBV2VNc0VoZGJ5NjEwbDViSmtiSERCdDFzZ09ycdIBeEFVX3lxTFBVRFZqRU5zNV9fR3FsbGlIaTVwek1EbkVLczJVX3BWbE5kVUtrRWxvS01Lc2FkTjhJaHBqTm5pbWF5Z0JuWG5fTENGYnlIaFdWZ0FGbFlwT0t6YlluOEhrUzF5TG1mcElaUTJfWk0tQ1lUT20yeG9DVQ?oc=5",
-      "summary": "\"전기차보다 가볍고 멀리 간다\"…트럭·버스서 찾는 성장동력 [K수소, 녹색성장의 판을 바꾸다] 뉴시스",
-      "source": "뉴시스",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-14T00:00:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
-      "link": "https://www.teslarati.com/tesla-cybercab-29990-december-deliveries/",
-      "summary": "Tesla has officially put the Cybercab up for sale, revealing a bargain price and a $299 per month “Autonomy Subscription” that could hit cus…",
-      "source": "Teslarati",
-      "domain": "teslarati.com",
-      "category": "international",
-      "published": "2026-11-13T23:46:15+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "中 전기차 공장 유치 나선 유럽..이탈리아는 “공장 없어” 퇴짜 위기!",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yeXlsS3RBQk9QQWhWaU44WGJxY3RWTzM5THJ6Rjg3bUxjS0VRM1UtWkNwbndvR3V2Skp0cjJGQWxHWGNhSk1yYVlJUkxjWkNZRVZxWS01NDFxWXdZbl9WQzVyN1BqNk82VjFqRWZzR1hIbkVTaEE?oc=5",
-      "summary": "中 전기차 공장 유치 나선 유럽..이탈리아는 “공장 없어” 퇴짜 위기! 데일리카",
-      "source": "데일리카",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-13T23:35:01+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "BMW, 미국 사우스캐롤라이나 배터리 공장 가동으로 전기차 생산 본격화",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT09qeVlQOHZNQ0RXTU5Xb2cwTzloWEdDcTNQNXhUcXBpbHZsVUtaUjZmXzlRcXdqeTBLdkVDR1RYVjBwcmlmdDdoVVhCSE9NOHJQbTlLcVlpS2MyYUZCQUFJRUM0LWVxcHltRHM3VmZDV3pDWHFydVZJWmctQjM3NUpQMmFnNU12?oc=5",
-      "summary": "BMW, 미국 사우스캐롤라이나 배터리 공장 가동으로 전기차 생산 본격화 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "domain": "news.google.com",
-      "category": "domestic",
-      "published": "2026-11-13T23:34:11+00:00",
       "byd_ev": true
     }
   ]
