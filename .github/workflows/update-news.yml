@@ -64,6 +64,12 @@ jobs:
         with:
           path: "."
 
+      - name: Wait for artifact to be indexed
+        run: sleep 20
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          retry_count: 3
+          retry_delay: 15000
