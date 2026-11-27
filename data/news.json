@@ -1,13 +1,864 @@
 {
-  "generated_at": "2026-11-27T11:57:45.598334+00:00",
+  "generated_at": "2026-11-27T21:00:41.178010+00:00",
   "counts": {
-    "domestic": 0,
+    "domestic": 60,
     "international": 60,
-    "official": 0,
+    "official": 60,
     "byd_ev": 60
   },
-  "domestic": [],
+  "domestic": [
+    {
+      "title": "[통신리뷰] LG유플러스, 현대차기아 로보틱스랩과 5G SA로 '피지컬 AI' 통신 실증(11월4주차)",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHWGhqaGtjYWZnRFNqeHhfeDZJN0lwYTJNWkVSc19QUkpCX2dLTFJ4bURxT3NJcDhZLUFjcnJzM0NIcUxIUU1jc1lOTzhkM0JsMGI2UDAxbHJzU0RGS3lTMVdpZw?oc=5",
+      "summary": "[통신리뷰] LG유플러스, 현대차기아 로보틱스랩과 5G SA로 '피지컬 AI' 통신 실증(11월4주차) 더구루",
+      "source": "더구루",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T20:31:31+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "中자동차, 유럽 수입 규제에도 '질주'…BYD 2배·립모터 4배 성장",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mdnQ0bC1zUm9xYkZEMmFyVVlWdzdIWUJQY1VKVjNQV0RHNllaUC1YazFaWWhaZWc1My14SHVNNm9ITm9paWo3c3hnMlNFWDlLUmJaSkdqOUpNY3B6aWc?oc=5",
+      "summary": "中자동차, 유럽 수입 규제에도 '질주'…BYD 2배·립모터 4배 성장 더구루",
+      "source": "더구루",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T20:30:05+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "한 번의 터치로 자동차까지 산다? 미국의 새로운 무인 유통",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXhTWDZkMEhFYTdwdWdRZndVeXA5NDdYWlIwdjlJQ2k5cXZZMWUtVm94NzN4MTEwVkp6ZVM0ZXUyNWZvbktjWm94M05iemN0UWFIaEZmQjY2LU03S0VkWVJvRkZIMFU3VUN3cUkzMm40SXpGaDl6bTZTbDJhTkJXUW9jb2JwQTBoOWpMNWhkd25aLUHSAZYBQVVfeXFMTUhaZ1FIZWJPNVhZMEE1WmYyWHBHcnU1TFA5MUZKQmVPZk9PcEhkaEZhNGo2bUhxbkdyRTN6Z19ka19QR1BmeWpxOWlaZ0FSNjZDeE54VXZrbGFCcTVfSFd6Vm9UQ2dXMTJya1FQNDk5ZVlLOXJwOHNEZTVjQ1UtNWdfNFc0OEhySHZEYkREaTJad1duMDRn?oc=5",
+      "summary": "한 번의 터치로 자동차까지 산다? 미국의 새로운 무인 유통 VOA 한국어 홈페이지",
+      "source": "VOA 한국어 홈페이지",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T18:42:11+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "중국 권토중래 외친 현대차 ‘아이오닉V’, 870대 판매…후속은 전기 SUV",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uRFh6ajdlZmI5MkFOeDJ1a2tCZ25TVFhIWjBpVk1tNWFyRnRuTm1lTGswMjhlbV93emx5Tk5hemZVSF9wRjJfal9xbzZ0NlFSUEhRb1RiYXFyWWwzNHdkaWp3?oc=5",
+      "summary": "중국 권토중래 외친 현대차 ‘아이오닉V’, 870대 판매…후속은 전기 SUV 한겨레",
+      "source": "한겨레",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T16:19:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "진단｜자동차 완납했는데 또 사용료…제조사의 새로운 지대사업",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05bmttUWxzb1I1dzBidGxZc3B2QmU1cnRPb3ZDMHBIVXVRU3J0MkY0d3l5MEY2d3pYaXZTOWhrYmxaYXd3WXprUEpCSHI3OXlVSnFQUW1pZXdCQVR0UFNqU1RKeDZEcEpvRmc?oc=5",
+      "summary": "진단｜자동차 완납했는데 또 사용료…제조사의 새로운 지대사업 OBC 뉴스",
+      "source": "OBC 뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T15:39:24+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "장재훈 현대차 부회장 \"중국과 원가 30% 차이… 3년 내 최대한 좁힐 것\"",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFhqSFR4eWJTSGhUMWg1SnNEZkVmc3E1QW1OZUJZWnlpRXZhY3M5Vldpc2ZYUXdBSnRSM0FqR3JiT0huSGwtVGp3cElxSzJmeC1INmREM01MNVpKUmZXN0hYdktZR2VUSVFYWExBVHJYXzJ5Qy10NGhNOWVVcWVPNnpnUjJDRUNhSk84MXB1OA?oc=5",
+      "summary": "장재훈 현대차 부회장 \"중국과 원가 30% 차이… 3년 내 최대한 좁힐 것\" 조선일보",
+      "source": "조선일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T15:34:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "진단｜자동차는 내 것인데, 기능 사용권은 제조사 것인가",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jVGRVUkxTYnRsMVEwNFlwcVphSjZNLWgwTXR3TUp0VlJRQWk0c2o1Z01oSEhVNDFfOGFkUjE0cTZDNkRPLXl1TEpCWkxMVWwtZ0RNSHhQNVJvWndteDkzRm9JSGplYkFUcHc?oc=5",
+      "summary": "진단｜자동차는 내 것인데, 기능 사용권은 제조사 것인가 OBC 뉴스",
+      "source": "OBC 뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T15:28:03+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "전기차를 좀 더 공격적으로 운전하는 것이 배터리 수명에 도움이 될 수 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkVnY3pVNjdnVzBtVHgxblp0SEJxNVdud2Rkb1E0RWpfN2JXUlFwSTdQc1hwTXdDVXV6eTlfRFp3R1ktNGkyc0ZsYnBTOE9rY0Q3bzNYaG14NUQxS1NxSFlzVThibHhlZGpjdS04Q3dTYmk2R1VvdzFvRG5kZTRwOHYyUE8?oc=5",
+      "summary": "전기차를 좀 더 공격적으로 운전하는 것이 배터리 수명에 도움이 될 수 있습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T14:43:51+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "중고 전기차 수입 내년부터 차질",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWlZhcW1KM3pLVGo4OTloZW1aQ0FOVlppZGdwdHUycUZHSjI2OTY0NWZFSW5aUVJpeVdBdUEtSFM3OUpiTjlJWmFQeVZ5eFFDZkpVUTZCSTFGQ00zN3RxU0xkMGlxWk8yaG1IZnMteGtJcS10YW40VDMyUDNSY0ItXzB5UTJqNmFrRk9nUllZbGl6ZjhuRDRHRkIzSktRd2FLcUNMYl9wTlU0Y2pWRWhsM056YVE3dnJraGF2Rngzb0hxU2xtYnVtZG9Ybk92LWNTVXRXYXE2UXJ1cUs0RXJhdWVlMDBwMHppdU9iVw?oc=5",
+      "summary": "중고 전기차 수입 내년부터 차질 위클리코리아",
+      "source": "위클리코리아",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T14:15:19+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BYD, 대형 전기 MPV '웨일' 첫 공개⋯1회 충전 900km 이상",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DSkFuc3F3TlFKLUM0cGsxZzU3dGt1OGNyZG9KVlMtekkzWTV0VHkwTmFydk42anFka2d6YmpIMktYSExWX054dVdObmx3Tk5RUFJfTHlnVEVKSGlUQW1kU1VhTnpNSVpqUFlxc19abw?oc=5",
+      "summary": "BYD, 대형 전기 MPV '웨일' 첫 공개⋯1회 충전 900km 이상 엠투데이",
+      "source": "엠투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T13:30:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[경기119] 달리는 전기차 불…피혁공장 화재로 7명 대피",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CbHJCUVdqQjlZTVpodmVjZVdXSzFXcl9icFhsemEtN216Q2Zqcl9mTkhzNlRSNFdxMkdQQ3V2a0o0RHZOTUFQMHR1aTdNUEVTVjd6YkNtdkVHeXV4SlNUUlgyeDNxUGptYlhOeU53?oc=5",
+      "summary": "[경기119] 달리는 전기차 불…피혁공장 화재로 7명 대피 OBS경인TV",
+      "source": "OBS경인TV",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T13:29:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BYD, 플래그십 MPV Whale 공개하며 오션 시리즈 다섯 번째 IP 추가",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPS2oyN2xtVV9MSDhkMGhMY0t0VkJubm5obzd4QW1QS2dBNTVFVWJIdmNILUdMTmpuYmtQc0Z5Ql9lQ29SZ01RcVN3QWJyYmc1OXJyNHN5ZjRpSUlwNEs3Z3BCalhCRHY5?oc=5",
+      "summary": "BYD, 플래그십 MPV Whale 공개하며 오션 시리즈 다섯 번째 IP 추가 모터피디",
+      "source": "모터피디",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T13:01:45+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘베이비 에스컬레이드’ 전기차로 상륙…캐딜락 대형 SUV ‘비스틱’ 출시",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5Skk5bDZaZ3l3MnNwdi1iTGlpdm0yVDZNNVFjMGIzTjNpLUx2VklXZmxrWWxTLW5Xb1VNZVIxcmJhVzc5U2pHeXdjQWJsR1E1SjBaSlU1SFQxTWVxZmdDMFJDUm0yWmhYV1c4?oc=5",
+      "summary": "‘베이비 에스컬레이드’ 전기차로 상륙…캐딜락 대형 SUV ‘비스틱’ 출시 비즈월드",
+      "source": "비즈월드",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T12:48:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "안방 파고드는 중국산 전기차…세금 깎아주면 해법 될까?",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAweXNJZnNiMTRkN0RBMEF2SXVKMDhRVmo0dUp2b0E5UE0yTm5NNi1OVlNiN25XdmdsUGdGMkcyVC1xd0RtNzBMWGFRcEhjVEhmSjlZVng1NWhSVV9ydXdLOWpoWFFqUQ?oc=5",
+      "summary": "안방 파고드는 중국산 전기차…세금 깎아주면 해법 될까? KBS 뉴스",
+      "source": "KBS 뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T12:31:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "현대차그룹, 영국 ‘탑기어 어워즈’ 6년 연속 수상 영예",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BX19Ia3daR19oYlJSbktSdWdjcW5vQUxDZGJwdG4wMmE1LTlrS24tSmN0OUhXQVNDd1BEdHE1V3czNEVQNXZURHhhVGc1M2VkWENjMVBSeWI3UXlMVEg3UlNDV1owQUJscFZadlNsYznSAXRBVV95cUxOeDJzRlg5c09GUjlIbFFxTHYwTldNWm5XOFFrMTFXYktjSHhVWEtzMnN1UkExUXVvUTNKSklhYUlsQnlUX3oyWE1pcko5ajI0bDZia3hNeUtBNXQ5QTNDLWROaEhXUGF5bnVBNUJtamliSFZxQw?oc=5",
+      "summary": "현대차그룹, 영국 ‘탑기어 어워즈’ 6년 연속 수상 영예 이뉴스투데이",
+      "source": "이뉴스투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T12:23:12+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "코이카 800만 달러 투입 인니 전기차 충전기 시험소, 한국 시험연구원이 핵심 장비 조달한다",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVpObGotWWxjalhqWFBKNDdCUUxMOVJtb1B4Rk52UThqMzd3ZjNISnc3bVRQRDFPT2lfV0N5dTVnN19EYWtMNUJGNmtxVHVhSVJuVndJSTFLeExfeTVLNUJodmhYaWtGSExZd2NlVkR1UnYtNVN4bElYRUhWYmlyTThSdUdPUTRH?oc=5",
+      "summary": "코이카 800만 달러 투입 인니 전기차 충전기 시험소, 한국 시험연구원이 핵심 장비 조달한다 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T11:26:41+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "LG유플러스·현대차기아, \"'5G SA'로 피지컬 AI 로봇 배송 환경 실증\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DYnowTm9ZZEtNUVRybW9jZGhpYVltZHdjLU1rTmFzSDQtaTdvbW56azM1bFJyRUp3c0w3ZmhxRU9VcG9PeFVpQTladElVTGgyWG1ldXBBMzJSNTR3X0ZWTmFCVG92UllhMXc?oc=5",
+      "summary": "LG유플러스·현대차기아, \"'5G SA'로 피지컬 AI 로봇 배송 환경 실증\" 비즈월드",
+      "source": "비즈월드",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T11:25:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "LG유플러스-현대차기아 로보틱스랩, 로봇에 5G 단독모드 적용 기술 실증 성공",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5waXlCYjRBWGxUZ1pnMlR2WnR2Q3NwOUNCcDZtTHVORE1UMzhOOWVvdGh0VHo3cFN0TURJOHRTdE5sQVB0TlQzX0VuU0w5T0xNSGpEU0l5cXAzZ1Z5cEFhN1I5WmRkZDJs?oc=5",
+      "summary": "LG유플러스-현대차기아 로보틱스랩, 로봇에 5G 단독모드 적용 기술 실증 성공 한국NGO신문",
+      "source": "한국NGO신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T11:08:49+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "중국 BYD 4억원대 전기차 공개…초고급차 경쟁 확대 : 기업·산업",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLVWF6SWtINDJxTHh1aDhzUGY1UHJ3ZGpXOGJNem9vWGNldDZsY0VJSDVJQ1lpM1NEX1RPOGhrME1UdFV3a0tveTE3SQ?oc=5",
+      "summary": "중국 BYD 4억원대 전기차 공개…초고급차 경쟁 확대 : 기업·산업 재경일보",
+      "source": "재경일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T11:00:28+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "인천TP, 기술혁신과 자동차 산업현황 성장 모색",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XUEFndDBaXy01ZXFhU05DWHB1dk81djk3cGRMTVdmRjE3em04MzhBdzBuMjhCNUVGT0t3MHlQeUliY2ZpSWVhSFVSZmdtQUpHQ09TZWVTWkw4VWRMdjZHWHBmOTNZN1pOWHQ0TWVB?oc=5",
+      "summary": "인천TP, 기술혁신과 자동차 산업현황 성장 모색 현대일보",
+      "source": "현대일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:27:14+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "4억원대 전기차까지 등장…중국차 고가와 저가 양극화 뚜렷",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Dd1J4T0l0aXBuVGh1SVkxR0xZV0oweEQ4eC1YZHN2bXM4UTNycEZod2o5VkRJR0hoT1BWRTBrdFlHT1JlYkRCYW1rZVk5NzJHQkhtWHZoQXRNdW94elFKemZqc3BMT3JhSndmcU5JTi1DbVk?oc=5",
+      "summary": "4억원대 전기차까지 등장…중국차 고가와 저가 양극화 뚜렷 스페셜타임스",
+      "source": "스페셜타임스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:10:52+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zT2RObkxnaEVLTG1DdnNQblFfUFpUT2otZUhhUWhubHg0ZzdPSXFaYkl5NGpLMGFoaUdhODI0WHlGemhrMWRVZVIxTzNJNVNOVnF6WnNGdU9JVjc5a0t4TU5OLVJCQzlsZDNXWno0NzktV3l6?oc=5",
+      "summary": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합) 연합뉴스 한민족센터",
+      "source": "연합뉴스 한민족센터",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:06:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KSzhmV1ZMSDVteHp6OUdFcGl6UDB0LW9yQ3otSGZTNVNpUTNMdzZLZE9nV2pKbXJfSnp6cTVlVGRicWVvWEN1NGdmUDlFSjFTNEEtX2RwbkE2VkJaUmV3adIBYEFVX3lxTE1KSzhmV1ZMSDVteHp6OUdFcGl6UDB0LW9yQ3otSGZTNVNpUTNMdzZLZE9nV2pKbXJfSnp6cTVlVGRicWVvWEN1NGdmUDlFSjFTNEEtX2RwbkE2VkJaUmV3aQ?oc=5",
+      "summary": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합) 연합뉴스",
+      "source": "연합뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:06:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40Y2dKR1Y1NGZJNTlsSHZOX2hUTExZTDh5VkxvcWRzaF9xUW0xQzhRTWdRRUgxLVVaWkptWS1TcVluVjVzVDFJSFcxWk1GcC1KcEE?oc=5",
+      "summary": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합) 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:06:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "현대차, 中 전기차 시장 공략 속도···2030년까지 24종 투입",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BeDRFeEZIV1N6azItdFk2MnJJMzFlSkZtRjNvczZRcnRkTUpCSEZyX01jQ3EzVUZfSDFIVXdQNXRwZ2JITFNUWHBoYlRfc3lDUzkwejR4a1JsdGJrZ0l3c0ZXOW1CVFFGc2c?oc=5",
+      "summary": "현대차, 中 전기차 시장 공략 속도···2030년까지 24종 투입 뉴스웨이",
+      "source": "뉴스웨이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:55:18+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[르포] 4억원대 전기차까지…중국차, 이제는 초고급차 경쟁",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tV1N1V1dLNHNLY2E1M1hGUzdnSGtQdmthbWJDaVMyU3B2VlpLUzFFWWowcFluMVloclFQT09lWFNhY0diZlEybS1lc3diaTkxSkR1Z1dycUsyS0XSAWBBVV95cUxQa1ViRllUVncyTExNT3Qta1dISDVkeEpVTzlKUnN2YjlKcEl5bk96LUxJM05VM2lBUkdQaEFXNHVlcml6ai1iWmpmengwNVkydWRyUl94Q3VHRFI5am1EZnE?oc=5",
+      "summary": "[르포] 4억원대 전기차까지…중국차, 이제는 초고급차 경쟁 연합뉴스",
+      "source": "연합뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:34:14+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "현대차 전기차 '일렉시오' 제동 결함…싱가포르 출고 중단",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BUmIxVWRwTEtWMkJGc0tuUWdxQWYtOG8ybUZncW53a1FjNDU3RnZGTDUwMndDdG42QmU3ekxIenFQRlZVSElUajZMdnBzR1NuUllyV1JQUnlRRHJMWGloWmtNVHVSb2dpaXd3?oc=5",
+      "summary": "현대차 전기차 '일렉시오' 제동 결함…싱가포르 출고 중단 한국신용신문",
+      "source": "한국신용신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:29:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전국금속노동조합 기아자동차지부, 오산시각장애인연합회에 2천만원 상당 점자인쇄기 기탁",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hZ3pRblVLSkZpMmZFZENfcElpMW9pOEtCLVFaYkJoWE1JTU9HM2tGYUdLV1ZtU1pRNGpvQ3phRjZacTJGV3NYRHRHbVY3azlYMnpVVTkwNU9NMlIxcE8xdFJCNlhHT3pIZzNINExRQQ?oc=5",
+      "summary": "전국금속노동조합 기아자동차지부, 오산시각장애인연합회에 2천만원 상당 점자인쇄기 기탁 뉴스파노라마",
+      "source": "뉴스파노라마",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:25:30+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "일본 대충격! 2경기서 무려 145실점→자동차 전조등 켜고 훈련까지 했는데…홀로 남은 日 국가대표의 고백 \"너무 무덤덤하게 경기한다\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMUXBLSVowWlMwMUVCY0xiZ0ltQ0tua1hTYVNEVVhCTXpVOWl6Snc4OTNXVDJTOTRFaHhRR1JfUlU2QmxNVVZabTM3LXBWQ3RfeTJnMGlqekdTYTlJQnBDYzBvZ0lHSXpDU2tldWFoLVI?oc=5",
+      "summary": "일본 대충격! 2경기서 무려 145실점→자동차 전조등 켜고 훈련까지 했는데…홀로 남은 日 국가대표의 고백 \"너무 무덤덤하게 경기한다\" SPOTV NEWS",
+      "source": "SPOTV NEWS",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:18:38+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[단독] ‘EU 판매 금지’ BYD Ti7, 한국 상륙하나…환경 인증 마쳐",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90Si1TcXR2X2cxTmFRQzVZTEt3WkNsRXEtWlJNbFFleFRpSU1rV0FPaXZWV08yRDU0UFV6QXZydkNQbkh1dFVkNGg5eXZzTm1KZXdqZEpRVHhneVZfaVVsTWh1WQ?oc=5",
+      "summary": "[단독] ‘EU 판매 금지’ BYD Ti7, 한국 상륙하나…환경 인증 마쳐 쿠키뉴스",
+      "source": "쿠키뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:00:30+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "자동차 검사·의무보험 준수 당부…과태료 최대 230만원",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yOEF3T0Q4QzdFdGdaUWhhQ3Q0cl90Y2V5RjhTVmo2Q0pWNFlqWml5ZzVQb0lHRjhqTk5NZi1hQVJUbWhNNHB1QVZRN193Q3FHSUlQM3VJZ2UyY2ZXaGZJTUtQRXVGV19pTWNIQ19R?oc=5",
+      "summary": "자동차 검사·의무보험 준수 당부…과태료 최대 230만원 https://www.newfilenews.com/",
+      "source": "https://www.newfilenews.com/",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:55:28+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "LG유플러스, 현대차·기아와 배송로봇 5G 통신 실증 성공",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5T2YwVFRON3ZIeXZETzh0SF9JeFcyejdpOHhmTFdRbDVCc1U1S0FLQTZrTEYyTFhOMTNJaWxITzNjNmZJTUN0MWpDb2hoaFkxVGRJSGctYVVYd0ROQjdJRFZNMGZkaWwwT1RucWNR?oc=5",
+      "summary": "LG유플러스, 현대차·기아와 배송로봇 5G 통신 실증 성공 이슈밸리",
+      "source": "이슈밸리",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:54:13+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "BYD, 중국서 플래그십 MPV '웨일' 최초 공개",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpZkQ4Qm14UUlOU1dMVTI3RFdYWnd3dWlaMld3YWxVYVU2Ml9tczVvUGtiT283cmF1bmo4anZ2dWVrUTlmcU9DSEFqd1BDdw?oc=5",
+      "summary": "BYD, 중국서 플래그십 MPV '웨일' 최초 공개 전자신문",
+      "source": "전자신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:52:25+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "LG유플러스, 현대차·기아와 ‘5G SA’ 실증…B2B시장 공략 채비",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXT0FnTl9vNHhsT2treTNCMlcycGJTZU0zRjlFSWNlUjVuZHZIQndaaXpJMUhBTDVfV21BVW0xbHhxV3BwVFN2LXRHZmNRVEFfazZocmtlSWlFNjZVN2NRM2JDMA?oc=5",
+      "summary": "LG유플러스, 현대차·기아와 ‘5G SA’ 실증…B2B시장 공략 채비 에너지경제신문",
+      "source": "에너지경제신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:47:09+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "샤오미 자동차 및 AI 부문 손실 9조 3천억 루피아로 확대",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQMDdPRUpYZEdsa1MwVW03TzJvWGRzalc5U0o3REp1NlE3X0tMeHBUSm9SMWVUQkJTZ29ndFE5S1RfWmpxdkxnNl9qOU5KM2FmcUd3X09RREZKZm9kYnYwcXNnWmNDakNLaVJHVDRxaFBadnBjT29SRV8xTFlvd2l4WnJSZU5vZ0h2Z1B5SUE2ZGc1c0w3RjZvSFVPZGJUSXpaOW9Zc1U4alZKbkMyQTc5Q0QxTExpbUdma3RHcDIyVllaMVNlbVJKQVRiRTk0N1FpeFFsYk12Rm5jczdmY0pIbjRhdjNwV2NEaG9wYWczUF84WHA2X3duN2N2bmtJemdKckt5WS1Rd29VMk05RGYtTUlEQzlmYUpLeWJmYlJDbjlUNG1HUjRZRkE5akpienpUdGxqYW9MbTJOZ2h5WkRCWFV0a0I4SHdpUy1lN0kwbjZpbnNtd2V0MA?oc=5",
+      "summary": "샤오미 자동차 및 AI 부문 손실 9조 3천억 루피아로 확대 IDNFinancials",
+      "source": "IDNFinancials",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:40:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[부고] 김익환(전 기아자동차 부회장)씨 모친상",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CZWYwRnVpNER6N3lYdDVraHZvMkxRZVJrVzBSM3JWVVRlUFpGbUlxSnJjdUQ4RFFPUFMzd0p4TzFxcnhRb1BzakJYNTFWUWQ5ZlA2elJYNXI3dXZpRXZ0RWt6NmxsVEU?oc=5",
+      "summary": "[부고] 김익환(전 기아자동차 부회장)씨 모친상 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "공정위, 자동차 대여·공유모빌리티 경쟁제한 규제 개선 추진",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5ZVh4LUxueGJVc0NRVmJndjJNcExFdlUyVFN1QkNLXzQ4dWdqU0MtTTZfZ3MxQUNGT0dmY3U3UHc3amQ5b2gydnFjbzZvUzJ4czBBNDNNQ21rakxJWFg3QWN6T3dIcE9YdEFnRVJn?oc=5",
+      "summary": "공정위, 자동차 대여·공유모빌리티 경쟁제한 규제 개선 추진 뉴스후플러스",
+      "source": "뉴스후플러스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:28:16+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "BYD, 대형 MPV '웨일' 최초 공개…9분 만에 완충",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DMnZRTVRpbnpLOXJPdFFYWkFxS1huTUJubWJ1X2w2UHNtZnVkRDl3M3cxQmdZci1EQ1N2WGd4YTVfOGlvWnFiRXZkanJFSVhNUFpCWnZRZXk5YW9CMnc?oc=5",
+      "summary": "BYD, 대형 MPV '웨일' 최초 공개…9분 만에 완충 뉴스투데이",
+      "source": "뉴스투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:25:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 대신 ESS로 눈 돌리는 배터리 3사…공장 가동률 방어 나섰다",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sZkpYTk5FZHIyemR5ZkFhbXRQMGI1M1RlLUJoLU1obG8wUHhpQU1VQkFFR0RrXzhqS1o1VlJBNEdFckNVWF9GcEs5TDJtNGYtTXJpaXloNFQ?oc=5",
+      "summary": "전기차 대신 ESS로 눈 돌리는 배터리 3사…공장 가동률 방어 나섰다 더트래커",
+      "source": "더트래커",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:24:08+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "리오토 3분기 실적으로 본 중국 전기차 경쟁: 판매는 경쟁사보다 더뎠지만, 손익·기술·해외 전략은",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdhdTVJb0lTbGJWMWF1ZnA1NE5QNTJmcENtUmpCMm9vbzVQczNpWnlCWG5lQ09pMk9QLUZpNWtiNExoYlRTT2NiUjB0enNXVkRzRThJalBkWHdiN1lfTF95eTlfaVVEYVdYMjI5dkFQUWpmelJEYWlCMWNUMzI1X1lXWHNtNVdW?oc=5",
+      "summary": "리오토 3분기 실적으로 본 중국 전기차 경쟁: 판매는 경쟁사보다 더뎠지만, 손익·기술·해외 전략은 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:21:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 세액공제안 발표 또 연기…부처 간 이견에 막바지 진통",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BazluLTZiamtTOGFSSlJOOG5uV0UtN1RDVU5JX1kwSHlRNzB0ZnJHQTVFb2QtRTJMZWFod1d5cVQ0bTJSTHgxeDVteFFGN1h6UjNFTDlLODdPZ9IBWEFVX3lxTFBFWFV3S0h4NW83VTdTYWxGSUI4bnVJckVZd210M1JtT3NndTY5blFqUjRqMHFDbXFZTEcxenJlWVJmNWdJVnFxZkxjSS1DTkNKWmFfNVN2Vl8?oc=5",
+      "summary": "전기차 세액공제안 발표 또 연기…부처 간 이견에 막바지 진통 아주경제",
+      "source": "아주경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:15:38+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "中 샤오펑 \"가정용 로봇, 자동차보다 수익 내기 쉽다\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RTUFaNF9zNkRPSGRjQkRVNzRXTlpXXzcyMkZ6NHdmT3RUZWlZYkpnUlh5dUUwaExwbVFuYThpRnR3SS1sZXJsOTBJaUhBeDlCZmdRZE5rUkdmT2Z5RC1pLQ?oc=5",
+      "summary": "中 샤오펑 \"가정용 로봇, 자동차보다 수익 내기 쉽다\" 아시아경제",
+      "source": "아시아경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:14:40+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "LG유플러스, 현대차·기아 배송로봇에 ‘5G 단독모드’ 적용…안정적 통신 품질 지원",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NaG9FdGZfMFlETmtzcHpkMkZQNEpyaUF6OERUN0ZrS1lOcjA3amFjV0ZIbkpWcVEwOGU5QUFsYXI5RDNuTUtSSjRRZENXVVlFd1dJSUwtRTJVS0owZkpNYlhydTNLM1hTQldDZmhWakNqQ01IcWfSAWZBVV95cUxNNVh3dDQyQzNnQkl5NVZGZ2RDMWJPbkV1bmJZemV6Skw2NTVzN2hYVVNzRGx6RlpYNTc2ZnljeW01WUpDZEtsZGtsWV80Umk1VW04VjdNa2pWYlp2eUVxMjN5UW43VlE?oc=5",
+      "summary": "LG유플러스, 현대차·기아 배송로봇에 ‘5G 단독모드’ 적용…안정적 통신 품질 지원 동아일보",
+      "source": "동아일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:13:43+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[2026 광저우 국제 모터쇼] BYD, 플래그십 MPV 웨일 세계 최초 공개",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43T1l4b1FqTmdhR1MyTlpDdjFlWDlqdFYzeUlsSUJyX0NDY1RRMjluYjJZLWVhUmdTb2hfelF4ajlVT01xc3BfUFRMbzNITnlFR3h6R3RUWE9CeGpkU1gxLUJwWncyMjBBYkxDMQ?oc=5",
+      "summary": "[2026 광저우 국제 모터쇼] BYD, 플래그십 MPV 웨일 세계 최초 공개 모터그래프",
+      "source": "모터그래프",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:05:20+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "담양군, 하상도로 자동차단시설 설치",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50UVVzckM1aVd6R1QxbFdyMkJIblBQd2ZLS1hEVXg4dU1yWWlfeUU1cmdJdTIzZ0VUTUNLa1pyVWVkRVVlVk5peV9Bc0ZlREtWblNPcWkzTkxoTzJJTFpsUjVhQThpZjJ1?oc=5",
+      "summary": "담양군, 하상도로 자동차단시설 설치 담양뉴스",
+      "source": "담양뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:04:56+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "독일 제조업, AI·방산 타고 반등…자동차는 中 공세에 후퇴",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wY19HUi1JRXd1NHA2dEFKdlQ1bzI0a2JrZ3hfSlU1MC1TcUliaDlJOTY5UlJPc1hybjNROXpiNG1PejBqX2VTbWlUSFFGczRpczVVeTI2cmZHQ0VZWDVybEVpdURob1FLT3RtY0NaaVBQdGM?oc=5",
+      "summary": "독일 제조업, AI·방산 타고 반등…자동차는 中 공세에 후퇴 마켓인",
+      "source": "마켓인",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:49:42+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "독일 제조업, AI·방산 타고 반등…자동차는 中 공세에 후퇴",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVBwM3p1S1NrcV9YTXM0ekRvRzBPOFEzS29rMGZyRzUxaWhUQWtfVGxiUUNiMmhfUUZ0MGNyYkFKajlQRTdwb0NzNUxqSzV0YzNvS3VKRHB4WUoyZTFnWXZvajdOeEJPZ0taaHRUN2dyUjFfQ3h3bnlQblNwaHExYQ?oc=5",
+      "summary": "독일 제조업, AI·방산 타고 반등…자동차는 中 공세에 후퇴 이데일리",
+      "source": "이데일리",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:49:42+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "한국에 들어온 BYD는 중저가형…고급 브랜드는 아직 미진출",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wSHgwcHloTWZINlVWazB0SjVBQTU3eXBzdWpfalVrNnB5SXhzSlpHeGp4Nlp5ZW9vMVItSXQ1QzU4TS01QTVNa0NmWjNMbmpQYi1DMTd3?oc=5",
+      "summary": "한국에 들어온 BYD는 중저가형…고급 브랜드는 아직 미진출 인터내셔널포커스",
+      "source": "인터내셔널포커스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:46:29+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BYD, 플래그십 MPV '웨일' 세계 최초 공개…1회 충전 900km 이상 주행",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45Z2JNMVVZUjB4Ujd6U2pXalI5YVhYSk5hWlJYLTU2TUdmX1ZyTHRmRUY3RjFld2haWXowOFVOSEhRbXpSZ0J3X1FEUndqQjY4blU1NUx6b0NhalBCMklxVlJKMEFQOXZKY0xj?oc=5",
+      "summary": "BYD, 플래그십 MPV '웨일' 세계 최초 공개…1회 충전 900km 이상 주행 파이낸셜신문",
+      "source": "파이낸셜신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:39:48+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "미 관세 직격탄 맞은 캐나다 자동차 부품업계, 방산으로 눈 돌린다",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9remFSckdFZndQV0k3UWJzVDBMbkNZU0NKZG1YVWFQMUVub0xZOVM5TnVKVHBOTzA2TkltQW93RTJKaUx1Q244RTVrN2ZIVUxGRF9pZUN6WmdYT3hobkg2eA?oc=5",
+      "summary": "미 관세 직격탄 맞은 캐나다 자동차 부품업계, 방산으로 눈 돌린다 시큐리티팩트",
+      "source": "시큐리티팩트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:39:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대차 새 전기차 '아이오닉 M' 베일 벗었다…중국서 첫 공개",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sYWd6T0gxSUhQYlhXZG5VTVo4Y1ZFNkRNNVBfMl9ESHZNM0hJSlFUTzVWcGtTaGFpX1RiVGpSNUhQMkJaZWRxckNwU3A1UHVscWQ4SHd4QnZQOWdjRlIw?oc=5",
+      "summary": "현대차 새 전기차 '아이오닉 M' 베일 벗었다…중국서 첫 공개 조세일보",
+      "source": "조세일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:37:28+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "장재훈 현대차 부회장 “中과의 원가 격차, 3년 내 좁힐 것”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ya3JGOXVaeDlic1RQSGRsOUYyZER6MVFQYzJrTlR3SjAycXp3UzBMdVpXdTNidE5BUUVlazJiVlVPcGNrRXN1dFhvc3BHZGlyOEZ0R2IxOHBGN1VhTi1mSWRB?oc=5",
+      "summary": "장재훈 현대차 부회장 “中과의 원가 격차, 3년 내 좁힐 것” 이코노미스트",
+      "source": "이코노미스트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:34:13+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "세계 전기차 판매 10위권 중 8곳 중국계…기아 6위",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tSWpEWTNpaFJrU0RzTmszS19NVllhOERTeE5JRWUwRDF3MXhLSUwyd3I1Um9WN3Y4MG9jMnZKN0lnWHB6RFJrTGI2MzNjNWxsbHgyS29ESzhxYV82NjNqS1ZYZ2drNWc5YWpJ?oc=5",
+      "summary": "세계 전기차 판매 10위권 중 8곳 중국계…기아 6위 애드뉴스인천",
+      "source": "애드뉴스인천",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:32:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "벤츠·BMW 밀어내고…안방 파고드는 중국산 전기차",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jRFVoems3MVFuU1hBdXI3UU5mamlvNWhDSmlidEJwN0J4eXpxMUViWTdhWU9sMi1FYThZRGRhZ05sZE5qRWF3QU9ZTmpyWmtqTGFuUGJwVjdQMWVKcWdvMDFMREN5QVl4UWNKRHJVWnhMamhjaGRB?oc=5",
+      "summary": "벤츠·BMW 밀어내고…안방 파고드는 중국산 전기차 한국경제TV",
+      "source": "한국경제TV",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:32:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[5G로봇혁신]LG유플러스·현대차기아, 5G로 배송로봇 통신 혁신",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GdHB0QTg2STFEN1o5Snc5Vk9RZTZBMkR3d2JhQmpqRzRIQ2d6NVpTeW03U0dEUi1JYk8tV0xjSGJ5QU9zQ0lvcEV6SUpDb0xRS3lxZFBkcU9WaE5hMVplSDIyUmFiaUJWRXYxRUxRTUk?oc=5",
+      "summary": "[5G로봇혁신]LG유플러스·현대차기아, 5G로 배송로봇 통신 혁신 전국뉴스",
+      "source": "전국뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:29:09+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대자동차, 소형 전기 SUV ‘머큐리 콘셉트’ 최초 공개",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OOUZuYmVuRG8wWWNFNm9JRHFJdlVzdjF6SU5xQndlUS1henVRWU9oZzFyLVhjTjlWdVdMVG9SeVR0UWFsdk1Tdl9wSGpXeXZsai01dnlIYUVIc0U3NjZ2Um1sb2F3WnY1N2lv?oc=5",
+      "summary": "현대자동차, 소형 전기 SUV ‘머큐리 콘셉트’ 최초 공개 퍼블릭뉴스통신",
+      "source": "퍼블릭뉴스통신",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:28:13+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "BYD, 플래그십 MPV '웨일(Whale) 공개..6천만원대",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhUDRhSmtmbXlfVGVqV3ZrWTdCM3VqTm5rcTN2cUQtZDlNTkx1UHV4VFFZa1QwUEtORTBONDRva19kS3N5ZTNNM0VmNTY3cmROSXAzdzFHemRla0dGSURIN1Q1U0g?oc=5",
+      "summary": "BYD, 플래그십 MPV '웨일(Whale) 공개..6천만원대 탑라이더",
+      "source": "탑라이더",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:25:52+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘내 차 마련’ 다 이유 있다…한계 극복한 전기차의 매력 [트렌드가 머니]",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wSUdlSE1rVFFDMEg2cUZMcml6c2tsOHRaamdrNElyLU5wZVFMRGhBNkFaWFZpMEdTUFlYTGhhVzBzWFlobVljTFRPU2R6MUlMVnlaSQ?oc=5",
+      "summary": "‘내 차 마련’ 다 이유 있다…한계 극복한 전기차의 매력 [트렌드가 머니] JTBC",
+      "source": "JTBC",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:25:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "LGU+, 현대차기아와 피지컬 AI 협력…통신 몰려도 배송로봇 안 멈춘다",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43YkhjMzY1QlhaNHZ4UHpUbm9GSEYtNkJpN1l2X2VZZTAzSjBGQUdlRWJnRUhxdWRRT3AxNWxiOVFZTUVYMTB3N3FuRkFMQTd6enMzS0hfSDZwSURMSkdGY1BB?oc=5",
+      "summary": "LGU+, 현대차기아와 피지컬 AI 협력…통신 몰려도 배송로봇 안 멈춘다 이코노미스트",
+      "source": "이코노미스트",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:25:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "전기차 상위 10개 브랜드 중 8곳 중국차…기아 6위",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BczBLaGk5ZTV0WFVRYjdwN3M0Zy1IUTdpMm55VE5yWmFCc3JORlZFakw1WUtpaW1HOWRfYmNpekZxakhpZXk3aDhfb2VaOERnODFFNmVYUnN1LUU?oc=5",
+      "summary": "전기차 상위 10개 브랜드 중 8곳 중국차…기아 6위 KBS 뉴스",
+      "source": "KBS 뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:20:00+00:00",
+      "byd_ev": true
+    }
+  ],
   "international": [
+    {
+      "title": "Podcast: Tesla FSD v15, Volvo XC60/90 PHEVs, Porsche Boxster EV, and more",
+      "link": "https://electrek.co/2026/11/27/podcast-tesla-fsd-v15-volvo-xc60-90-phevs-porsche-boxster-ev-and-more/",
+      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll d…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T20:58:02+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Volvo A40 Electric articulated haul trucks get to work in the UK",
+      "link": "https://electrek.co/2026/11/27/volvo-a40-electric-articulated-haul-trucks-get-to-work-in-the-uk/",
+      "summary": "After becoming the world’s first all-electric 40 ton class articulated haul truck into regular series production earlier this year, the Volv…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T20:51:59+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Volkswagen’s new ID. Buzz Beach electric camper goes on sale, starting at over $70,000",
+      "link": "https://electrek.co/2026/11/27/vw-id-buzz-beach-ev-camper-goes-on-sale-starting-over-70000/",
+      "summary": "Volkswagen opened orders for the new ID. Buzz Beach in the UK , an electric van built for camping and overnight stays, with a fold-out mattr…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T20:28:58+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Zoomlion shows off SIXTY electrified, AI equipment assets at bauma 2026",
+      "link": "https://electrek.co/2026/11/27/zoomlion-shows-off-sixty-electrified-ai-equipment-assets-at-bauma-2026/",
+      "summary": "Wit more than sixty (60!) new-energy models spanning everything from driverless excavators to cabless loaders and hybrid-electric mining tru…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T20:13:56+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery",
+      "link": "https://electrek.co/2026/11/27/worlds-largest-electric-bulk-cargo-shop-packs-massive-23-5-mwh-battery/",
+      "summary": "Moving millions of tons of coal, sugar, and other bulk cargo is serious business, and decarbonizing that business presents a number of uniqu…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T19:22:01+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Velotric e-bikes hit new Black Friday lows $760 off, EGO 8-inch cordless auger $449, Greenworks cordless snow blowers, more",
+      "link": "https://electrek.co/2026/11/27/velotric-final-black-friday-phase-e-bike-lows-ego-8-inch-cordless-auger-greenworks-snow-blowers-more/",
+      "summary": "The Amazon Black Friday Main Event Sale is in full swing with more amazing deals than we can keep up with, and we’ve filled this edition wit…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T19:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BYD’s flagship electric minivan debuts with a new style and 559 miles of range",
+      "link": "https://electrek.co/2026/11/27/byd-whale-flagship-electric-minivan-debuts-559-miles-range/",
+      "summary": "BYD’s new flagship MPV is not your average minivan. The Whale can drive over 559 miles (900 km) on a single charge, charge in as little as f…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T18:40:39+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Prevost unveils Electric coach bus: 600 hp, 540 kWh, 250-mile range",
+      "link": "https://electrek.co/2026/11/27/prevost-h3-45-electric-coach-540-kwh-mcs/",
+      "summary": "Prevost, the Quebec coach builder owned by Volvo Group, has unveiled the H3-45 Electric, its first battery-electric motorcoach. It gets a 54…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T17:23:17+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Toyota confirms the Highlander 9X will launch as its first EREV with top-tier tech in early 2027",
+      "link": "https://electrek.co/2026/11/27/toyota-confirms-highlander-9x-first-erev-top-tier-tech/",
+      "summary": "The Toyota Highlander 9X will go on sale in early 2027 as the brand’s first extended-range electric vehicle with advanced new tech from Huaw…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T17:18:59+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
+      "link": "https://electrek.co/2026/11/27/used-cybertruck-prices-jump-after-tesla-kills-it/",
+      "summary": "Used Cybertruck prices are up 10 to 15% in the month since Tesla announced it would end production of its electric pickup, according to list…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T17:06:53+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Tesla aims to bolster Optimus with newest company acquisition",
+      "link": "https://www.teslarati.com/tesla-bolster-optimus-company-acquisition-emag-germany/",
+      "summary": "Tesla is set to make a major acquisition as it plans to buy a more than a century-old German manufacturing systems supplier. The move target…",
+      "source": "Teslarati",
+      "domain": "teslarati.com",
+      "category": "international",
+      "published": "2026-11-27T16:37:01+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "EGO Power+ Nexus 1,400W portable inverter + generator hits new $579 low, Matter Outdoor Smart Plug new $22 low, more",
+      "link": "https://electrek.co/2026/11/27/ego-power-nexus-1400w-portable-inverter-generator-matter-outdoor-smart-plug-more/",
+      "summary": "There’s still time to score major deals during Amazon’s Black Friday Sale and countless other sales across all kinds of brands, and for the…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T16:16:03+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Buy This Custom 1978 GMC Van, and Elvis Is Your Co-Pilot",
+      "link": "https://www.caranddriver.com/news/a74531030/elvis-themed-gmc-custom-van-bring-a-trailer-auction/",
+      "summary": "With this GMC Vandura on Bring a Trailer, every drive is like a trip to Graceland.",
+      "source": "Car and Driver",
+      "domain": "caranddriver.com",
+      "category": "international",
+      "published": "2026-11-27T16:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Tesla is rolling out its biggest battery upgrade through a software update",
+      "link": "https://www.teslarati.com/tesla-rolling-out-biggest-battery-upgrade-software-update/",
+      "summary": "Tesla is rolling out what is likely its biggest battery feature in years through a software update, as owners are starting to reveal the new…",
+      "source": "Teslarati",
+      "domain": "teslarati.com",
+      "category": "international",
+      "published": "2026-11-27T15:18:29+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "EVs Outsold Gas And Diesel Cars Combined In The EU In October",
+      "link": "https://insideevs.com/news/817061/eu-ev-sales-october-jump/",
+      "summary": "A year ago, gas and diesel had a 127,000-car lead. This October, EVs finished nearly 70,000 cars ahead.",
+      "source": "InsideEVs",
+      "domain": "insideevs.com",
+      "category": "international",
+      "published": "2026-11-27T15:15:52+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "SAIC's MG goes all-in on NEVs, to halt ICE vehicle production for Chinese mainland in 2027",
+      "link": "https://cnevpost.com/2026/11/27/saic-mg-to-halt-ice-vehicle-production-chinese-mainland-2027/",
+      "summary": "MG's move comes as China's passenger NEV retail penetration rate approaches the 70% mark, with the market share of gas-powered cars shrinkin…",
+      "source": "CnEVPost",
+      "domain": "cnevpost.com",
+      "category": "international",
+      "published": "2026-11-27T15:15:19+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Hyundai’s new Mercury EV Concept will launch as the IONIQ M in 2027 [Images]",
+      "link": "https://electrek.co/2026/11/27/hyundai-reveals-new-mercury-ev-concept-launch-as-ioniq-m-images/",
+      "summary": "Hyundai unveiled the Mercury Concept, a preview of its upcoming entry-level electric SUV set to launch as the IONIQ M in 2027. more…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T15:11:33+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Leapmotor updates Lafa 5 electric hatchback with up to 640 km range in year-end sales push",
+      "link": "https://cnevpost.com/2026/11/27/leapmotor-updates-lafa-5/",
+      "summary": "The updated Lafa 5 carries an official guide price starting at 105,800 yuan ($15,770), with a limited-time discount lowering the entry price…",
+      "source": "CnEVPost",
+      "domain": "cnevpost.com",
+      "category": "international",
+      "published": "2026-11-27T14:50:12+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+      "link": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+      "summary": "Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T14:48:15+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BMW Alpina Will Debut with a Sedan and SUV, but There’s More to Come",
+      "link": "https://www.caranddriver.com/news/a74522467/bmw-alpina-b7-xb7-v12-future-plans/",
+      "summary": "Along with gas-fed and electric versions of the B7 and XB7, an avant-garde two-door flagship and a V-12 are in the works.",
+      "source": "Car and Driver",
+      "domain": "caranddriver.com",
+      "category": "international",
+      "published": "2026-11-27T14:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Wheel-E Podcast: Juiced Scrambler Mini, ALSO pauses e-bikes, more",
+      "link": "https://electrek.co/2026/11/27/wheel-e-podcast-juiced-scrambler-mini-also-pauses-e-bikes-more/",
+      "summary": "This week on Electrek ’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T13:56:48+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Zeekr updates mainstay SUV 7X with new 85-kWh battery option and limited-time perks",
+      "link": "https://cnevpost.com/2026/11/27/zeekr-launches-2027-7x/",
+      "summary": "The 2027 Zeekr 7X has an official guide price starting at 229,800 yuan ($34,260), with a limited-time starting price of 216,800 yuan after l…",
+      "source": "CnEVPost",
+      "domain": "cnevpost.com",
+      "category": "international",
+      "published": "2026-11-27T13:55:38+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
+      "link": "https://electrek.co/2026/11/27/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
+      "summary": "It’s time for the biggest shopping event of the year! With Amazon’s full Black Friday Sale in swing, so to are all our favorite Green Deal b…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T13:27:31+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "This Audi E-Tron EV Has 125,000 Miles. Replacing Its Battery Was A Huge Pain",
+      "link": "https://insideevs.com/news/817033/audi-e-tron-battery-replacement-video/",
+      "summary": "Despite being just five to six years old, this Audi SUV needed a pack replacement, and the job was really laborious.",
+      "source": "InsideEVs",
+      "domain": "insideevs.com",
+      "category": "international",
+      "published": "2026-11-27T12:40:52+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Michael Schumacher’s Porsche Carrera GT Is Going to Auction With A Remarkable Paper Trail",
+      "link": "https://www.motor1.com/news/817030/michael-schumacher-porsche-carrera-gt/",
+      "summary": "Provenance documents tie this 2004 Porsche Carrera GT to Michael Schumacher, from the original order and title to photos and personalized de…",
+      "source": "Motor1",
+      "domain": "motor1.com",
+      "category": "international",
+      "published": "2026-11-27T12:36:58+00:00",
+      "byd_ev": false
+    },
     {
       "title": "Toyota Raises 2027 Tacoma Prices And Slashes Its Free Maintenance Program",
       "link": "https://www.motor1.com/news/817025/2027-toyota-tacoma-pricing-toyotacare/",
@@ -59,9 +910,9 @@
       "byd_ev": true
     },
     {
-      "title": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game",
+      "title": "Review: Volvo’s 2028 XC60/90 PHEVs get 80 miles of EV range, changing the game",
       "link": "https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/",
-      "summary": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60...",
+      "summary": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60 and XC90 plug-in hybrids. The new v…",
       "source": "Electrek",
       "domain": "electrek.co",
       "category": "international",
@@ -69,7 +920,7 @@
       "byd_ev": true
     },
     {
-      "title": "Nio Firefly reaches 100,000 cumulative deliveries, about 19 months after market launch",
+      "title": "Nio Firefly reaches 100,000 cumulative deliveries as shipments set to exceed 10,000 this month for first time",
       "link": "https://cnevpost.com/2026/11/27/nio-firefly-reaches-100000-cumulative-deliveries/",
       "summary": "Firefly's 100,000th delivery came 42 days after it surpassed the 90,000 mark on October 16. For details, please visit CnEVPost (cnev.co).",
       "source": "CnEVPost",
@@ -357,260 +1208,871 @@
       "category": "international",
       "published": "2026-11-26T12:28:27+00:00",
       "byd_ev": false
-    },
-    {
-      "title": "Audi Is Putting A Gas Engine In Its Chinese AUDI Electric SUV",
-      "link": "https://www.motor1.com/news/816887/audi-e7x-range-extending-ev/",
-      "summary": "The ringless brand was created as an EV-only venture, but its upcoming SUV pairs an electric motor with a combustion engine.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T12:02:11+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Toyota's First Range-Extended EV Is Coming, And It Looks Like A Highlander",
-      "link": "https://www.motor1.com/news/816884/toyota-highlander-erev-china/",
-      "summary": "GAC Toyota’s new extended-range SUV previews a fifth electrified powertrain while a separate fully electric Highlander targets US buyers.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T11:34:43+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "2027 Honda Accord Gets Split Headlights With Squinty Eyes, But Only In China",
-      "link": "https://www.motor1.com/news/816864/2027-honda-accord-china/",
-      "summary": "The midsize sedan gets a sharper face in a Chinese regulatory filing. Whether the US sees it is anyone's guess.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T10:54:54+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Canceled Or Not, The Cybertruck Is America's Fastest Selling Used Truck",
-      "link": "https://www.motor1.com/news/816873/tesla-cybertruck-used-truck-ranking/",
-      "summary": "Days on market show Tesla Cybertruck and other used EV pickups moving quicker than similar hybrid and gasoline trucks in October 2026.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T10:25:21+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "If I could only use one bike lock, it’d be this: FoldyLock Elite 110 review",
-      "link": "https://electrek.co/2026/11/26/if-i-could-only-use-one-bike-lock-itd-be-this-foldylock-elite-110-review/",
-      "summary": "I ride e-bikes professionally, regularly testing new bikes and biking gear. I don’t even own a car – I get around almost exclusively on two…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-26T10:22:56+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Zeekr files for all-electric variant of 8X to expand premium SUV lineup",
-      "link": "https://cnevpost.com/2026/11/26/zeekr-files-for-all-electric-8x/",
-      "summary": "The pure electric Zeekr 8X features dual motors with a combined system power of 680 kW and a top speed of 260 km/h. For details, please visi…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-26T10:11:36+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Leaked Nissan Terrano Reveals A Boxy Off-Roader With Three Powertrain Options",
-      "link": "https://www.motor1.com/news/816869/nissan-terrano-phev-china-filing/",
-      "summary": "China’s MIIT homologation documents reveal the Nissan Terrano PHEV’s dimensions, powertrains, towing capacity, and off-road-focused hardware…",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T09:45:32+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Xiaomi files for updated SU7 Ultra with 1,138 kW tri-motor powertrain, 5-seat and 2-seat options",
-      "link": "https://cnevpost.com/2026/11/26/xiaomi-files-updated-su7-ultra/",
-      "summary": "The updated SU7 Ultra retains its tri-motor all-wheel-drive system with a filed top speed of 318 km/h. For details, please visit CnEVPost (c…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-26T09:02:39+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Volvo Is Bringing Humanoid Robots Into Its Factories. Here's When They'll Start Working",
-      "link": "https://insideevs.com/news/816850/volvo-cars-humanoid-robots-training-factory/",
-      "summary": "The first Aeon units are already being trained at Volvo’s factory in Ghent, Belgium. The next step is giving them real work.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-26T08:33:35+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Nio Onvo to launch updated L60 Black Knight edition at Guangzhou Auto Show on November 27",
-      "link": "https://cnevpost.com/2026/11/26/nio-onvo-to-launch-updated-l60-black-knight-edition-guangzhou-show/",
-      "summary": "Onvo previously launched a limited Black Knight edition for the L60 in December 2025 at a slightly higher price than the regular variant. Fo…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-26T08:04:18+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Ionna Slashes EV Charging Prices For Thanksgiving",
-      "link": "https://insideevs.com/news/816844/ionna-charging-price-discount-thanksgiving-2026/",
-      "summary": "The up-and-coming EV charging network is halving prices across its network, just in time for Thanksgiving travel.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-26T08:03:01+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Acura Makes Japanese-Market Debut with the U.S.-Built Integra Type S",
-      "link": "https://www.caranddriver.com/news/a74534949/2026-acura-integra-type-s-japanese-market-export/",
-      "summary": "The Integra Type S is now for sale in Japan, making it the first Acura-branded vehicle to reach the Japanese market.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-26T03:00:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "ChargePoint and PistenBully have a charging plan for ski resorts",
-      "link": "https://electrek.co/2026/11/25/chargepoint-and-pistenbully-have-a-charging-plan-for-ski-resorts/",
-      "summary": "The next EV to plug in at a ski resort might be the one that groomed your trail. ChargePoint has struck a deal with Kässbohrer, the German c…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T22:25:23+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
-      "link": "https://electrek.co/2026/11/25/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/",
-      "summary": "Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to go electric, Black Friday may…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T21:31:38+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
-      "link": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
-      "summary": "Tesla has registered a new German company whose business address is the headquarters of EMAG, a struggling machine-tool maker that builds pr…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T21:00:40+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Toyota is about to unveil its first extended-range EV, and it looks like the Highlander",
-      "link": "https://electrek.co/2026/11/25/toyota-reveal-first-erev-looks-like-highlander/",
-      "summary": "Toyota is set to reveal its first extended-range electric vehicle (EREV) on November 27, and from the first look, it could be based on its f…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T20:07:07+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "2027 Toyota 4Runner Starts over $45,000 for the First Time",
-      "link": "https://www.caranddriver.com/news/a74534163/2027-toyota-4runner-price-hike/",
-      "summary": "Every 4Runner now costs more than last year, but the base-level SR5’s $1220 price hike is the steepest.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-25T19:12:27+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Worx 40V 20-inch cordless snow blower + 2x batteries $350 low, Anker SOLIX E10 system exclusive new lows from $3,609, more",
-      "link": "https://electrek.co/2026/11/25/worx-40v-20-inch-cordless-snow-blower-anker-solix-e10-system-more/",
-      "summary": "The Amazon Black Friday Sale is well under way, with a highlight of picks for you down below, while the massive majority of deals we couldn’…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T19:00:00+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Europe Gets This Tiny New Suzuki EV. It Makes A Mini Look Big",
-      "link": "https://insideevs.com/news/816798/suzuki-ignis-ev-unveiled-europe/",
-      "summary": "The new electric Ignis is a foot shorter than a two-door Mini Cooper S, yet Suzuki still found room for rear doors and four seats.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T18:59:40+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Audi Wants To Make Buttons That Deploy From Behind The Touch Screen",
-      "link": "https://insideevs.com/news/816806/audi-patent-touchscreen-physical-buttons/",
-      "summary": "Touch screens or buttons? Audi's answer is: Why not both?",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T18:57:31+00:00",
-      "byd_ev": false
-    },
-    {
-      "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [update]",
-      "link": "https://electrek.co/2026/11/25/hyundai-ioniq-3-spotted-us-affordable-ev-update/",
-      "summary": "Hyundai’s new IONIQ 3 checks all the boxes as an affordable EV: it offers over 300 miles of range, a practical interior, and Hyundai’s new P…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T18:31:28+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "The Suzuki Ignis is back, and this time it will be a low-cost EV sold globally [Images]",
-      "link": "https://electrek.co/2026/11/25/suzuki-revives-ignis-low-cost-global-ev-images/",
-      "summary": "Suzuki offered a first look at the all-new Ignis, its first compact EV designed specifically for global markets. more…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T17:46:20+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Stellantis Exiting the WEC and Formula E to Focus on New Hi-Po Cars",
-      "link": "https://www.caranddriver.com/news/a74532859/stellantis-exits-wec-formula-e-racing/",
-      "summary": "Rather than spend millions on factory-backed teams, Stellantis will focus on new-car development and customer-racing support.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-25T17:09:30+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Electric Porsche Boxster Prototype Reviews Are Out. Here's What Critics Think",
-      "link": "https://insideevs.com/news/816654/electric-porsche-boxster-review-roundup/",
-      "summary": "It's finally time to find out what an electric Boxster is like.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T16:40:10+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "VW Will Pay German Drivers To Plug In Their EVs. Even If The Grid Never Uses Their Power",
-      "link": "https://insideevs.com/news/816775/vw-elli-plugged-in-paid/",
-      "summary": "VW EV drivers in Germany can earn up to €720 in the first year, but the required charger costs €1,995 before installation.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T16:15:54+00:00",
-      "byd_ev": true
     }
   ],
-  "official": [],
+  "official": [
+    {
+      "title": "Stellantis Recalls More Than 80,000 Ram Trucks",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVc1SnVnWkFDTWdlRl9ZSkxnVDV0UGlmcVhHUjlCQUFSSzR0UVNZelFRSXFqdnVCZFFWTllkU2lfNV9ZUi15UWt2Z3RrUTJWOXJtdGUyU1ZlZ2MzOXVjckZDc0x4LS1HMUU0OEVKdFJHcHlNSGZaR1dmMnlXSEx3dkM2dk0?oc=5",
+      "summary": "Stellantis Recalls More Than 80,000 Ram Trucks NTD News",
+      "source": "NTD News",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T20:07:40+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "램 1500 8만2,843대 美 리콜…ABS 소프트웨어 결함으로 제동·주행제어 상실 위험",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Lc2ptejVlajZ0Sm04TnVWNjlfOE1sUGlGYVNPVHhvVGNPTGc4MklBQXRsQ0ljMzY0c3lwQzVpcWNLdjFycnJkVkVFbWprakgyRzFXQVpBMnlld2NGbFNvcFJ2ME5OUXc?oc=5",
+      "summary": "램 1500 8만2,843대 美 리콜…ABS 소프트웨어 결함으로 제동·주행제어 상실 위험 씨원뉴스",
+      "source": "씨원뉴스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T20:07:35+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "혼다·어큐라 81만대 美 리콜…다카타 에어백 인플레이터 파열로 금속 파편 위험",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fbm11ampEcVlJaHNBOHc0Ym00YTBxSVkwU05yXzR5ejhyUENBdXdzQ19fZjgtcDRoYUNqekkybVVjT21Ed1JmZnUyd3VLV0VZeF9KalFhVGRycWpRX0ViT002ZUhuT2M?oc=5",
+      "summary": "혼다·어큐라 81만대 美 리콜…다카타 에어백 인플레이터 파열로 금속 파편 위험 씨원뉴스",
+      "source": "씨원뉴스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T20:07:35+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Rivian Recalls 1,619 Vehicles Over Wrong Tire Labels",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNDNHR0RqVUZ0Y1VrdkdJdmdhYy16QjNoQlRNWDJSV2VEQjAyekZrZTY5Y2hscnBxdFlORkQ2T3dncWZBY2Q5VU9UdFlHakJRaE1OMzJkYWQybDRFZzVqSXZ6cUpwZ3I5V0pfZmpxOGJMM1FDTzEtZXNabVdnc0xDRkYtTjRPTXJKbXNhQTgtTnZxb0hjWEZYOG9TOHg?oc=5",
+      "summary": "Rivian Recalls 1,619 Vehicles Over Wrong Tire Labels Yahoo Autos",
+      "source": "Yahoo Autos",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T19:24:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Waymo recall 11 incidents: NHTSA details 26E086",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2VMZU9Fa291ZWdUMGtVbkMtVV9IT003Z2Mzc01uQzNWZjJLd3JmaDVGd1hBRFBBbjgxWkptOUNQQWljQXhzd2lxYWs5dUJCa1I5WHdSQl9xLWpjZmFnOEJYQzhtdnhmdVBiUzZ5N3o1R1g3SEppTTRrUlJfSF9MeU9NVQ?oc=5",
+      "summary": "Waymo recall 11 incidents: NHTSA details 26E086 NeoTeo",
+      "source": "NeoTeo",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T16:18:28+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Indian Motorcycle Recalls 2025-2026 Chief and Chief Bobber Due to Electrical Fault",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODlIbFljd1dNeW45ZlY2dzBkWlhGM0xNT0tsYnJNVXFiWUZKUEM3VzdkRktZUnJCN05SNHE5dHNLbC1ZY2ZtbkNaLVhYUUpNRWRBYkNwYkdyQVc0WXRnZ0NWNU5pMTVlM1NDRzRsX3FwSlJrMHVTeGRYOExWT0xQeEFzalVrQ2dqMVdVWGJIUkg4Y0UxVHpxQ0VEblFjZw?oc=5",
+      "summary": "Indian Motorcycle Recalls 2025-2026 Chief and Chief Bobber Due to Electrical Fault RideApart.com",
+      "source": "RideApart.com",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T13:32:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "2026 Ford Transit Recall: 60K Body Control Module Software Error",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTmQ2bEZDWGZGVTRQbWJjWFBIbjNrd2dCYl9SdE1SRWI4V2xDRGFvM2lyZ21iN3Y3ZEJLdVNYU3lBMnFuQ1NOcmh2MUVFdnpJcmxKQnJvUmF5OFZRVm9DQ05EcHFZazZQVkhUSFhtSkthTFdtdE1odU1vTktaYWpCeE5iUjdjUl9iQzRhQzJ1a3p0dng3OHR3eXp0a0V1dDZYd3c?oc=5",
+      "summary": "2026 Ford Transit Recall: 60K Body Control Module Software Error Pickup Truck +SUV Talk",
+      "source": "Pickup Truck +SUV Talk",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T13:04:42+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Ford Is Staring Down a $17.7 Billion Warranty and Recall Bill. Naturally, It’s Buying Into a Boston Spacecraft Maker",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMzl1T0p6RUVmaXZSejNIVGJmRHh2NnI4RFdRNGlYVXZwRWdaWlppdnhoazJDWTFkRldJanhmZzBhMnU3NHlyVldvb0lsZ2RPd2hCU3VQN0lTVHhvaGNodkJHc3VkRVJTT2JkdnFLQWxJUm9qazd2R1dmVUNNX2NRazk0dzhreUFPZGNPQmMwLThTWG5YUU12ODI0b3ZNd09HQmQweWNkU0ZlbUxiTWNfS0F6VU5EdU1ITjNUZVBlendJMFZzX0tKT1RZa3hybE1FUUFwakRkUTNBa0RtNXA4UzM1VDBuNkNFOTIybTh3UWVtQ3NodUw2SFUtVGoxUzFhNzFqUw?oc=5",
+      "summary": "Ford Is Staring Down a $17.7 Billion Warranty and Recall Bill. Naturally, It’s Buying Into a Boston Spacecraft Maker The Auto Wire",
+      "source": "The Auto Wire",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T13:01:02+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Not your typical crash test: in China, they just throw cars off cliffs | Watch",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42R0F1OGg3N3NsRXo5MTk1YjRfc2dwSHc1WUoyUTJjb0oxVTZHdGJnbG1VdGlVOWZ1MVVDLUVoNi1UcGY2R3h0RDZnUENuNlA5b19FR3pnNDJ5bG9KVWc?oc=5",
+      "summary": "Not your typical crash test: in China, they just throw cars off cliffs | Watch Ynetnews",
+      "source": "Ynetnews",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T12:54:25+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Genesis GV80 Recalled Over Ball Joint That May Separate",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjRVSmxFeUxEUWNyLS05N2ktQ2RkLW55TVVxeHpkX0x6M3NhRjc1WTR2RTkwdUUzM0xPNUVsYUFqeVRLOHdZb0dTUk9SUmdyZGNJbDBIUzNXTml1elJSOV9zVWVHb2Z4RlVubUdhRHRoSUF2YjVBd3FacGp3TWZTWWhFZHRvYzNfYmUwYXNn?oc=5",
+      "summary": "Genesis GV80 Recalled Over Ball Joint That May Separate Autoblog",
+      "source": "Autoblog",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T12:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "토요타, 9개월 연속 글로벌 판매 감소…중국 시장 부진 심화",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNMFNscEg1TFBQcVpwMEloTWFjWVRGSm9ZRHM2N3R3cS1MTG83S2lQcjY3VExOYmNuS3FFUllCWHQ2eU1HNnlUN2lxVnF0dFZ4OGlHMFowek9EZ29iWC0zUk1VZWRPX2xkVG1zTjBJX05zVXc4UTlNd01WWGZqSndRZk4zRzBoRkgzTzNsMDJ4ZURBSzJhazEyY205bTRXeDA3S09WV0NhMUc5NGpqbjhWcW9vOERQSkE5LXRNbDNndlYwWlFNWnh2dWVxdTh0UnNHYjRoaGpBbEpSZzhXcXgyZk5IX1AzTzBzdndPNTJ3VkdUYzQ1WFE3enRZZFhNbkFyYndWY0c1MlYyVlNpNUxlNVJJWFg1QTdGT3d1UFpFZmpxbkNvSks4bGVEM0VISjZmN240QnltSXhZQXVvZ2s2R0VDS2pwZV9kZTcwZkM0Q3p5clRBZzQ5WUwxMGJMZHNTaG55anBXaDQ3TDQ?oc=5",
+      "summary": "토요타, 9개월 연속 글로벌 판매 감소…중국 시장 부진 심화 IDNFinancials",
+      "source": "IDNFinancials",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T11:40:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "중국 시장의 약세로 인해 도요타의 자동차 판매량은 계속해서 감소하고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVV4SktUcFZhRnJSTnl0cHdDUE1GeWZJZDEzWXp3V05IOTktdHNzbFFGMDdNQ2ZTVHhxUl9lNUlBc0c4MVlLX1N1UlpybkhZV2N0bGtmV3ZUbkV1dWFuNFVpejBJSDd4bmxxR1pYdk9NRFlsTlptQlo4dXZielpKa2xnRnFxVlJGanF1UWhabWhRbEpSYmJZSU9tUnNIWGpo?oc=5",
+      "summary": "중국 시장의 약세로 인해 도요타의 자동차 판매량은 계속해서 감소하고 있다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T11:14:25+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "포드 테리토리, 베트남 출시 4년 만에 판매량 4만 대 돌파.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV2JMVXNtQkUxUnpick5iUUdCQndveTItWnk0Mkw5M2RKa0lXZEFEeE93MTUyd1ZaVlFRZlVEYlZtT0VwOFlpZjlrbl9FQmVaNnJJckg5UVJWOVlzSDZxRW1PN0cxdC1rSVZxX3JBVWpBU0VfQlhONExXTWdwaHJZakJxU3V0ZjRTeXJDay1WYzNPZ0phamc?oc=5",
+      "summary": "포드 테리토리, 베트남 출시 4년 만에 판매량 4만 대 돌파. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T11:13:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Stellantis issues recall of more than 82,000 vehicles",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQZ3RJWUhKZjFYT0E5OTRyWDEwQnZsZnF5ZjdOUDlEUnlmQ3p6Q09qTkJsc3pFbzh3d1drb2hlYmlsMnFiRnMycGx1V1NKODVSS2ljZHJyMmFlZG9WNWNkVGhmM3l5MEJDRk45a19TTDNZbU1DaXBsMGkyZHdRZjBUdzR5NVJFckJFalYySzhOcjFtY05Jd3RmWU5QWEdXZ1FyOTM0Zm1IS1ZZdXdIU2RHQVVIY19vZ3dTSkw5V0F3cXJadlIxR1JIUE5DOE9aak9OZmxaazRVa1JIT2J1cU9sU0wxOU0tZHYwVFlVWExiWk42YkdGc3RpVWNIN0c3MGZQR2s3NFdMZEZGcll0Y3BzSGlMWnJsMGVVUDkwcWs4UmgwaE5vM0NFdDhGRXJDNUdoX3FWMFFR?oc=5",
+      "summary": "Stellantis issues recall of more than 82,000 vehicles WKRC",
+      "source": "WKRC",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T09:17:25+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대차 전기 SUV 일렉시오, 싱가포르서도 ′브레이크 결함′ 리콜",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xdS1DT1NSQnZwOHhaR1pwZUM5S2RIUHBZcXV4SUQtMFd2ZU5rR0dPNEFoMmVUOHlqSHZCSktfYURIWlZKWjNpc0RjcXJIb0FkakgyZEFEc9IBU0FVX3lxTE1BcVl5dWQ3aWRtaEhEYzV4cUNsYXdDM1Nnc3pYelhOZTJ4VnhIbHdzYy1ycU81VmwtblFGdmlNNnpWWUZPN2RmcWpNM2NMQjEzNG1R?oc=5",
+      "summary": "현대차 전기 SUV 일렉시오, 싱가포르서도 ′브레이크 결함′ 리콜 KPI뉴스",
+      "source": "KPI뉴스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T09:06:51+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "“번호판 필름이 또 들뜬다면”…11월 28일부터 새 품질 기준 적용",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LYXpSRk54WmhGVWRxT3JNTThCaFhUVDVnYUF0VnpUc1VEZzlaaTNPNDZZRHA1U0VieEhsbGd4eUtfUXRzenlQWkRHQXFDUmFUMGI4SGtqVWJaam9NaF9Vb050aGItR05lYWFaT3NOU0d2YUV4T3BOQw?oc=5",
+      "summary": "“번호판 필름이 또 들뜬다면”…11월 28일부터 새 품질 기준 적용 뉴스와",
+      "source": "뉴스와",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T08:22:18+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "“국내에 약 4만 대가 다닌다”… 중국산 현대차 쏘나타 택시, 검사 조작 의혹에 ‘발칵’",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUZycnJtTUg5dlVNV0tFNlNra29VV0R5Y01Da3R4ZG9FS05xMzEwYkJ0RXlIZWdPWmhrYzVGY1hHUlRfYXZPLWlZZ2NSWExqWkRsVk5kemtsRGF5eHpvcVpKSDd2QldPYWRFc1pBcXFPNGFFWjBDMWlWaHZLaTB3N3J5NXRDVkFM?oc=5",
+      "summary": "“국내에 약 4만 대가 다닌다”… 중국산 현대차 쏘나타 택시, 검사 조작 의혹에 ‘발칵’ 오토놀로지",
+      "source": "오토놀로지",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T08:08:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "국토부, 28일부터 새 車번호판 적용⋯일부 지자체 준비 미흡에 출고 혼선",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNaW9KT1lrT3czalNUMklhNFlMaFRhNjRQYVZ6bkZZYldRc1FuVWx0OUlWQXpGcHgzelZfTmdXN2FSa0owcV9UejdjVWZZRmpGVTFjVVNuR2hOWmtkWXNqSGx3U2JwWlFTdENBM0MwWQ?oc=5",
+      "summary": "국토부, 28일부터 새 車번호판 적용⋯일부 지자체 준비 미흡에 출고 혼선 엠투데이",
+      "source": "엠투데이",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T05:27:37+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "테슬라 FSD 국내 이용 놓고 논란…소비자단체 \"정부, 규제 기준 밝혀야\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kM2R5TWFRSFZ1LXlqd2RyVTBTVlB0UE1PV2dhcHZ1M2Z1OHl1U0lTbnBjTXplLWs2ay1vd2x6bFRtRTREdk1vcWg1bnh2YVJtakNYUmY2d2Vya28wSG1lRW0xOWY2QVVfUUE?oc=5",
+      "summary": "테슬라 FSD 국내 이용 놓고 논란…소비자단체 \"정부, 규제 기준 밝혀야\" https://www.sisaworld.kr/",
+      "source": "https://www.sisaworld.kr/",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T02:30:38+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "한국지엠, 트랙스·트레일블레이저 리콜…후방 카메라 하자",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZWRWRW5GeXdOZXZDSTQxV3dyZmZlREUwTkZIazFyNmxFWFpqYnNCRlVYYllScVllcEdTTzF1NjRsamM3dm9tRU9YV2tuTW91N0d4X3FVdWN5ZWtvVExFbzZpNmdNeDRNMlhxSA?oc=5",
+      "summary": "한국지엠, 트랙스·트레일블레이저 리콜…후방 카메라 하자 뉴스락",
+      "source": "뉴스락",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T02:07:35+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "\"글로벌 전동화 차량 3분기 판매 비중 35%…사상 최고치\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50bE00MFVwRXM4ZmdMUnRYOVlpOW5rZHdNUTRscFZIT2RtNnpEWkFEZnNzdDFySUdNSFVYVXhiNDZHenhXVWZfOEdBb0dzNnpuc0dsaS15VktIbF9vREdIZdIBYEFVX3lxTE50bE00MFVwRXM4ZmdMUnRYOVlpOW5rZHdNUTRscFZIT2RtNnpEWkFEZnNzdDFySUdNSFVYVXhiNDZHenhXVWZfOEdBb0dzNnpuc0dsaS15VktIbF9vREdIZQ?oc=5",
+      "summary": "\"글로벌 전동화 차량 3분기 판매 비중 35%…사상 최고치\" 연합뉴스",
+      "source": "연합뉴스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T01:06:05+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "친환경 에너지 쓰는 NEV, 올해 3분기 판매량 7.6% 늘었다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NR2dFQ2hVMy1HZzAxNklDcDFXYXhXSkxOTDdxUjJheFhGczhRckdTS2UzMEhBSVY5b3IxNnEtbVNlVmpaUTJuUW4wbVFwZmFjOXpaYTdfaEcwQjVXOV9odFVid3NQVE1GRDRNQg?oc=5",
+      "summary": "친환경 에너지 쓰는 NEV, 올해 3분기 판매량 7.6% 늘었다 IT비즈뉴스",
+      "source": "IT비즈뉴스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-27T01:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Chrysler Recalls 15 Dodge Durangos Over Powertrain Mismatch",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOEFVUnRRZHgtSmg4YzhfZjE0c1ZXd3pkUG1PMXVlZmpwU0R4MnJMeXZidVRrV3YyME1uZms1M2VkdXFnUG9VU01DdU5DckV2R292MHFNY3dkVmY4M3dhWXlDeHlLWEZfX0NVZEFJMEFDZW1zM2JPaDdoQ2hKNjRpSWpPdkEydTZGelZjWDJfTXg0QQ?oc=5",
+      "summary": "Chrysler Recalls 15 Dodge Durangos Over Powertrain Mismatch Wisevoter",
+      "source": "Wisevoter",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T22:18:20+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "점유율 하락에 하이브리드 빗장까지… 유럽서 현대차 '첩첩산중'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YUk5rSmNtZXBsckVIdV9nUDJHQWcyOF9Rc2VfQkNoa1l3VnZmVWR5cFRZTWgxUC1xa1FQY1N6ZlA2TDRMUVdjc0xuTXh5eE1wNWhSWnlqbTBSZkRmbFNZZUZTTmtjZF9BRmtneW9BOFHSAXRBVV95cUxPUUR3NkROT3laR3RQODRwODEtOVEwc0U5TjRnLUlKQ3ZETWNSRzNIME5RM1d2RFZyWGdEY2VZQmdLVUJkcE81M01RaUtRYjZ1U2hOWUFJV2dRZFJJNUlYTWo1ZU1iTks3QllZczdEUGU3RV9CSw?oc=5",
+      "summary": "점유율 하락에 하이브리드 빗장까지… 유럽서 현대차 '첩첩산중' IT조선",
+      "source": "IT조선",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T21:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[컨테이블 2026 로보택시]①“자율주행 데이터가 돌아야 바퀴도 질주…‘플라이휠’ 속도내야”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lZ1BvMG8zQkZEMk5MTmROZ2o0dEhVV095RXdKSFlMMXViWWh4aDlydU9zRG0tYnRoaEVtNmpTNnVTRTFLbk41cUlxTkhZQmM0RW9HSGJfRVd5YllIR0FPWll5azEtU3ZHWjF2c29tOWhJOWZQ?oc=5",
+      "summary": "[컨테이블 2026 로보택시]①“자율주행 데이터가 돌아야 바퀴도 질주…‘플라이휠’ 속도내야” 대한경제",
+      "source": "대한경제",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T20:40:26+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "자동차 튜닝산업, 투자·수출·청년 일자리 연결한다…K-TUNE FESTA 2027 출범 준비",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JR2taUEtLY29RRGw3SE5STmotb1ZWMjVqNkRPYUhfN0tfbjU0UldwVVQtR2p2QjNFa0Q2Mmp5eHNLeGJjbGlEbENVdnZxaVUzWV95YmRiMWc0bDRkdHJCOTJEbEpRNXk3TFE?oc=5",
+      "summary": "자동차 튜닝산업, 투자·수출·청년 일자리 연결한다…K-TUNE FESTA 2027 출범 준비 뉴스에이",
+      "source": "뉴스에이",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T20:17:07+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "“업데이트했으니 끝?” 캐딜락 리릭, 브레이크 리콜은 따로 확인해야",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCNDF2bVhGQ0tFUkpMYnJ1TnBrc0QzaTBqOTJ2QkpVUkdheFdtR3JCdnZISEMtLUdpSlhORDJsN1I1ZDJMQnczV25xRUhDbC1Z0gFWQVVfeXFMTkZIakxpUFowbUx2YlZReFdtb2hCbXFzT1BZZ25yaWNiaUNJUjYxdkhRNEtmR2ZuYzR0YUN1RjQ1T2tQRUdYdWlwUC05ZW9VYnU1c1BzMFE?oc=5",
+      "summary": "“업데이트했으니 끝?” 캐딜락 리릭, 브레이크 리콜은 따로 확인해야 네이트뷰",
+      "source": "네이트뷰",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T14:30:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "US government investigates Waymo over robotaxis passing school buses",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlJ3MHQtMkNUR0JvSlhSQV9raUF6amx3T1JQUi1RUXVmcWhrTDF3SEtaaDFzRmxMb1lmYjBlUEFUbHJvV1dveFhJdWFydlMzYjBKVXAzNHItRUhobGl3UjcyS3czUVl3U2lHUnNtdS11emJnZFd2Z0Q4RkJRR2tlUHlwbkowZlZ4M1QwMFpscXo1dW1oNTd0c0NzYW5EQQ?oc=5",
+      "summary": "US government investigates Waymo over robotaxis passing school buses MotorSafety.org",
+      "source": "MotorSafety.org",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T14:28:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Ford Puma Gen-E Earns Five-Star Green NCAP Rating",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0F6RWpnQjlrcm9uR3dPMGUwbmtRb3Vma1Jfck1jcGJmVWJOWTk0VEVNQjRfeXotT2JNNXpnQWwxWmRaZ2JRMjFHN0hJX2N0eHBBdEF4MnJJNm1Md0hLRVJENTFSREM0c3Z2NXdGRUpucTVEVUhxUERiTGFIZlBRVFJhVlV2ZVdLTnc?oc=5",
+      "summary": "Ford Puma Gen-E Earns Five-Star Green NCAP Rating Wisevoter",
+      "source": "Wisevoter",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T11:13:02+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "2022-2023, 2025-2026 Toyota Tundra Recall: 62K Cracks in Camshaft May Cause Engine Stall",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFc4TXFIU3JWZDJoblIwQVNQMXFicEhBUmtmd3doYUJFQmc5Ti1zZ09fSk5LOFUwWGpCSC1FQWp1a0NRYzhEN1ZSbTI2dVZHOVNCQndvQ3dzSWxWcGJFcGh6alhwSHR3N1ZVRkxEUVRFQU9iVzdwY05hU21MUkdwY05vNktVeXFrVGZ5ZWVEZzltUjBLR0h4bVgtZ3ItdFExN01BTzRyLWstR2Z1WGlXeWRMOW1sS3RaZk9zc3dfZ04?oc=5",
+      "summary": "2022-2023, 2025-2026 Toyota Tundra Recall: 62K Cracks in Camshaft May Cause Engine Stall Pickup Truck +SUV Talk",
+      "source": "Pickup Truck +SUV Talk",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T11:04:12+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "베트남에서 스코다 차량 수백 대가 조향 장치 결함으로 리콜되었습니다.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3FWRW82NGxPSjhLbFFnU2Z4S3JVeURzY1lCbjEwekctMkIwWVZEbklWRzZoZXNwRW9wRGl4akc0NWVxTzBPVHJ3WnRYQUt4YS1vUDlxNnctTkl3WFZlUGhobnFnS3ZaWjlkX0lNWDVtcU5NMnpWbUM2V3dqcFI1SXdCM3M0V3FMZDF6WER5ZjdLOWc?oc=5",
+      "summary": "베트남에서 스코다 차량 수백 대가 조향 장치 결함으로 리콜되었습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T08:25:44+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "상하이자동차, 해외 판매 54% 급증…현대차·기아와 글로벌 경쟁",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02cllJWDVtQm9WeUlNUlRyREh6UUtWTDF2bW1pT1IxbjgwQVpjUjYyMlJNUnNqaktpRUVIdVYtSnB5U01PWlI2c2FCdlFlaFNmSkZWdXNB?oc=5",
+      "summary": "상하이자동차, 해외 판매 54% 급증…현대차·기아와 글로벌 경쟁 인터내셔널포커스",
+      "source": "인터내셔널포커스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T06:42:28+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Waymo’s reported robotaxi recalls involved two highway issues",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzdkX0NxeUI3dUxtd1psZGk4UG9vRkxMaEZUNXVkZTZfZ29DX3laaXMxVWhWNm80cGhINk55OHFsNjFFdDZJRWo2OF9vZDNmMC1HcVd5aVZaakxMQlcxQXhydDVGYVhyZGh4dHdnMy1la3Q5cF9TTDBXamZUSFZRMTFWN3hqRDJ0MHAwYjhiTQ?oc=5",
+      "summary": "Waymo’s reported robotaxi recalls involved two highway issues NeoTeo",
+      "source": "NeoTeo",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T05:46:02+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "\"부품 절반이 기준 미달이었다는데\"… 국내서 달리는 4만 대 중국산 쏘나타 '날벼락'",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdTZWTU0xeU9rQzBSSjFLRFVCZ2kwb0FKOURkeVo0cDNFYnBNWEtQdHlKY0hQN0RYbG54aG04Y3BZc0k1anpTWEh2ZjNnRHZuMW5uaUlNSWdfZ2owbm9GQWltSVN6VjhPNlh4MmsyNTk4TG1pNmpaODhmWXZBU0JJVWY3TWw0NmwydXUwWk1DelN1YzV6NlRiMWxmWFhIb1VXX1lNWktBS1BKWHNFLXfSAbYBQVVfeXFMTURpZWEydlZIWEMweGZnamtoeHNiSVl0U1VpTTBoZ0ZxaDlheXExN3VVZEdDRDA2Ym41QnFlY3RwVExPTjZmZUh2VU5FWHJCLUdlQUtUZ3d5cHJKUHppX1RZanJWQkdoNUhrT2RTVTItZVNGMUlDdkhtVFNtcll2LVRENE5oTlkyRWlRMmpqdGNDbFR4QXBUUEtLeU9IeWItMHFTdzJOZ0pfSVNpc1pSaG9zM3FJeVE?oc=5",
+      "summary": "\"부품 절반이 기준 미달이었다는데\"… 국내서 달리는 4만 대 중국산 쏘나타 '날벼락' 토픽트리",
+      "source": "토픽트리",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T03:47:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "테슬라 FSD 논란, 국토교통부는사실관계와 규제 기준 명확히 밝혀야",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UMk1mMHgyOHVGRzVnVTZ2MzY2eTZ2REVZeGthdDByQm1Jd3AwQUJMemtPOU5BQTZFQVI3eWplMEQ3el9VNW1POXVRSnBnSFJyX05R?oc=5",
+      "summary": "테슬라 FSD 논란, 국토교통부는사실관계와 규제 기준 명확히 밝혀야 패트론타임스",
+      "source": "패트론타임스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T03:20:08+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "'지난 평가 E등급·서비스 미운영' 인천 자율주행 시범지구, 내년엔 달릴까",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVDJaNVY2Qnh0V3h6SGgwaUk2ZGhxMnpqRDNieW82Q0gtd2RWQlJBVVpxM0Jyc1ZqbWhVak01VzlpQndYeC1mbUFpOUNOQkFNZXlsWmtxeVQwNlZqZ3dNQ1dkUHplT19Ibnl6Tjl0RGo?oc=5",
+      "summary": "'지난 평가 E등급·서비스 미운영' 인천 자율주행 시범지구, 내년엔 달릴까 인천투데이",
+      "source": "인천투데이",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T02:45:15+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Honda Recalls 810592 Vehicles Over Airbag Inflator Risk",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4Q0V0T3hWdWduZXJiZW5PWUJJeDllRVdwa29BVWhnUHN5YmQ3NGRlTUstYTZjbnBFOGgwTmF4eHpKbUVqamdiZEN0bzZ0UGFvOS1mMXl3Wjh3RDNNa1BDNkJB?oc=5",
+      "summary": "Honda Recalls 810592 Vehicles Over Airbag Inflator Risk Peradaban.id",
+      "source": "Peradaban.id",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T01:33:45+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Honda Recalls 810592 Vehicles Over Airbag Inflator Risk",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZ2E1Q3hFbTdEcV8xc0tOUWlIZXhjcHB3VDlwOENKUm51MGxSNUg1NFpoZnZ6enVmYmRfNXhYTktTR3FMV0JOR1k0Ry1pTWtoY3lxTXk3VW5hUEJpbWRR?oc=5",
+      "summary": "Honda Recalls 810592 Vehicles Over Airbag Inflator Risk bsinews.id",
+      "source": "bsinews.id",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T01:31:58+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Rivian Recalls 1,619 R1 and R2 Vehicles",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzZ0NzRkMWtfbi03bzNVbDRxYVM1bnVkUWRZTUlwSlNjQWtERXVGZFdOTDA5VzVJRktTQTB2MFdlaW1WdTZXTUdDTFA1OHlTckY3STVUZnhkd2FLMnMwXzVHb29jcVN3NG9vMWtjUkk1Vm5JSV9mY1VrNldmZnBpOFhyMmY0Z0pNa0k2Qnl3OGs5enhH?oc=5",
+      "summary": "Rivian Recalls 1,619 R1 and R2 Vehicles Wisevoter",
+      "source": "Wisevoter",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T01:12:57+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "증평군 이재영 군수, 국토교통부 방문해 AI 콤팩트시티 지원 요청",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NdjR3T21rMkxGVEx5a3NILXFnV2Fod29QMnpiS1NLRTBRUlFqdW9IMjNucFZOa1lJS0JtNktNaDV6ZU1XSV91RE03OTI1R09OUVh6Ujdfa3dSWUNlWWRsaUZRUmNiZ2s?oc=5",
+      "summary": "증평군 이재영 군수, 국토교통부 방문해 AI 콤팩트시티 지원 요청 코리아방송",
+      "source": "코리아방송",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T00:36:32+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "GWM Ora 5 scores five stars in Euro NCAP crash testing",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGNINE0wSU9Sd0FPXy1mdzllVG9TSEstWXg3cTIwUl9yUlUyNHZTM0dYVV9ZRmM4V0p5YWtRMkhzZWVUT3lLdE5Qc3BGZzV3dFJ1QlF2YnRSZ0lfRi1sWUoxYU9FXy1FbGJ4bDVoSWJEeVlDUmNReW0zYzJJOGFCTkNYemlCSHpDWHBURllTaERfOFo2ZGVIMVJKX21NdzUwdXMzdlB0RkFzVHd5RGc?oc=5",
+      "summary": "GWM Ora 5 scores five stars in Euro NCAP crash testing AutoIndustriya",
+      "source": "AutoIndustriya",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-26T00:09:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Waymo Recalls 4,488 Robotaxis After Freeway Lane Incidents",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0VfX1JkMDVXekxFTGhUSm1sUk9wVmlZWWExUzNHaHFFSnpmanlNdjNvbWUzSkNkUmJjdEdtZmdQYWl0N2dNcEVnM0tmRU9RX2xicG5HbDhHNDcwaEI1QUVBNERKUlRvbWxpVlI3eV8xTGNWRW52NjMwNEh0NEI3UFdoZ2JRTU03dnlCQkloSGkxQQ?oc=5",
+      "summary": "Waymo Recalls 4,488 Robotaxis After Freeway Lane Incidents Wisevoter",
+      "source": "Wisevoter",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T19:12:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Takata Strikes Again: Toyota, Lexus Recalls 314K for Airbags",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE5fa3BkNmpidlB4aFBRd1hfNlEtckRNMDhOSlJVcFZNeF9jWFVjNjdlN3gxYWladkNnQm9NTGlDNlhCMGpIbVBIdG1ONUNvVXN3MU5vM3R2Z2c2UFV5OUxlaExUeTdZbXhZaW55RE0tY1dSVU9pUTdrQTNJRVZrMHZRUW03X2NHcll5MG84TU9yekdtNmI0Z3Vn?oc=5",
+      "summary": "Takata Strikes Again: Toyota, Lexus Recalls 314K for Airbags Pickup Truck +SUV Talk",
+      "source": "Pickup Truck +SUV Talk",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T16:44:11+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Honda Is Recalling 810,592 Vehicles Over Takata Inflators With a Drying Agent. No Ruptures Reported",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0lPQnhGa3U1MnJXYXJVMEZkQU8yMkNfMXFDb1dRWk82ckk4dzZjRno0dnhPSXlJX25sTTZMVV9lUktGaG5fQTRINzV6RklYdm1od1EtcDhiM0tQbkJUaDdhakNJNDBuSnlIQXd0LWhEdGVEbnFRb0VQZVZKMG5jZldFcEpacnVUTGZnUm9sZDZ0eGdnanZONzFxTS1LT2stX0J2SXdlcmlJWmNwOVVpUUF3QlJPLVhoaENhN0xfa21seVVHU2c?oc=5",
+      "summary": "Honda Is Recalling 810,592 Vehicles Over Takata Inflators With a Drying Agent. No Ruptures Reported MotorBiscuit",
+      "source": "MotorBiscuit",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T15:11:07+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Toyota Recalls Nearly 62,500 Tundra Trucks Over Risk of Sudden Engine Failure",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHlSQ25xYkZnODdQekl4RnN5ZlV2eDE1U2F3T3BCa2Z5czFDdHBaWC1JLWhlUGh2R1VGd3hzZ0RUQmN4TVZSRG5LZ2kwMGdGSkFEMXVVV29LOUlFcThLRkpFazJMZUxJejBEYzhMVDBRVGsyWWt3X3NwVWRkMUdSR25PdGU5YkVHc1g1RDNfTlB0SHM3ZXRhMW5ReEtJNnptX0haUmN3?oc=5",
+      "summary": "Toyota Recalls Nearly 62,500 Tundra Trucks Over Risk of Sudden Engine Failure inkl",
+      "source": "inkl",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T14:50:08+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Rivian R2 Hit With Third Recall in Two Months: Wrong Tire Labels",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUh0U25wT0NnRENsckdIOTVEVFhoQmp0RUlfTXlFMFNFSzZaLXdsSENQSGNQZ3ZaRkI3U0VXX0FIaXRxbmQwRkI2VXNoMmRpbzk0UFBGT1ZjQ3BPY0pxaHh5NzdxTzVxYndrQXN2R3dLTFlzd3BZc3BiaXB3OHp1by1UZms?oc=5",
+      "summary": "Rivian R2 Hit With Third Recall in Two Months: Wrong Tire Labels EVXL.co",
+      "source": "EVXL.co",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T14:26:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Over 82,000 Ram Trucks Recalled After Software Error Threatens Multiple Safety Features",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5US2lqQWtTdmJxR1BvRVRXOHR0UzI3TURGcV9ZVVZtREZZejItbmhzT3FjbnJmenRwUVZPX1F3Ny1Rck9ud2xwLWNva0RTQXdIbTMzZXBPV2lCbkx2cGU0UjFidEQtdktsSkJfZDJZZkVpYUFKblpxQkgzQ3hVUQ?oc=5",
+      "summary": "Over 82,000 Ram Trucks Recalled After Software Error Threatens Multiple Safety Features en.econostrum.info",
+      "source": "en.econostrum.info",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T13:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "국토부, ‘신도시 교통대책 신속추진 TF’ 전체회의 개최",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mc0s3OEJzN3FXT0ZuZEtEa0dGM1RrMDFwQ1NBa3g3Nm9sYWV3NTVHU093cWJvMXd1bU1hVW9yR3FkVWp0eGNIOHFYUGpXejBHdDY5cVQybGlrOXJ4dzZDeFlKN2VEbUhmdGlRUFdfTTLSAXRBVV95cUxOcEhiODdNN0dEQmcyQ2lYdExCUXVTVWE5OGxYcEMzMG54Mm1LdzZfU1A2VWJqWWdpM2swQmhZV1liOWJaX2N3ZzJMRWNqZzJPbDdRdHlDY1JYZ3NxTlI2RE9PS2RjVEowa25Ub3Y4UFhYTlBoTA?oc=5",
+      "summary": "국토부, ‘신도시 교통대책 신속추진 TF’ 전체회의 개최 이뉴스투데이",
+      "source": "이뉴스투데이",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T12:26:28+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "LEPAS L8, L6 and L4 Earn Five-Star Euro NCAP Ratings",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKYlNaanhJNS1nMHpVV0Z1TEE2U0VYQ0FJQS05UGpHZXBEUTZDZGhmWS1KREdMVVQ4akU4T2NrTUZtSTJnNXpLQXRUTFo5bmtNMUVYVGJ6ZGtxUEV0cEVrYlVvbHV4Qmp5bXc?oc=5",
+      "summary": "LEPAS L8, L6 and L4 Earn Five-Star Euro NCAP Ratings The EV Report",
+      "source": "The EV Report",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T12:19:59+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "LEPAS L8, L6, and L4 recieve five-star Euro NCAP rating",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanY5amtGODZlR0xnWlVtdko3a05nYXdXUFZVVElYZ0FFV0g5T3JsTHdBdXhSWXJKakpJZFZoUXlFUWFXTzdGU20wWEVGcE9ReHc2RDBuTmVRQWJzM0Zta3dROWlmRDM2OHFkdmpmMkZ2Uk9iRndGYlRxSHQ5b29qNjNYT1NkUTQ5b0NPS2h3?oc=5",
+      "summary": "LEPAS L8, L6, and L4 recieve five-star Euro NCAP rating Business Motoring",
+      "source": "Business Motoring",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T11:49:51+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "서류 달랑 5장… 중국산 테슬라 FSD 심사 첫발도 못 뗐다",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNE5LYVVRQ0JZTnRrY2lCOEpuRDl3WVlLaVZtMVc0TTJkaC11SncxaUpIUnBKR29YbzJoU3JSeXk0SFJxZ05NaXcza2puaUVQamhVN1NjQnBkYmpPWGZ6MHlrZ0h1SXJHdFA0M2JFXzdUWE5M?oc=5",
+      "summary": "서류 달랑 5장… 중국산 테슬라 FSD 심사 첫발도 못 뗐다 부산일보",
+      "source": "부산일보",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T08:47:40+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Rivian Is Recalling 1,619 U.S. Vehicles - NHTSA",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTR4NWdkVFVsdW40ZTV4Q05MLXdwUEw2Zml2VGVwR0JhTldacEZNdTBOckwzdTBfcm1JNWNabFVMYVRBb2tYTmtFMVJmSXZMQm5kN0IxbEZXdjNYVlJyUnB4aERkRmRITTZJU203dDJLZ3llblp5ZEljQzFWTjY4YnJnVXg2OUJLcWdsdlZJT3BnSE5kSnI4V1JtcGtKdlZiMzVnV3l5ZEhOSXJhWDR2bklsVEQ?oc=5",
+      "summary": "Rivian Is Recalling 1,619 U.S. Vehicles - NHTSA TradingView",
+      "source": "TradingView",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T08:08:53+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "현대차·기아, 1~10월 누적 친환경차 판매량 49만3557대 달성",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hejhEVThha2R5akwzRFNzR1ZvQVctRzlCLWM1V0JEQlVFMHBYd2o3NUhNbmVudXEtT2FIRlFGV0ZRVWtKUDA3TGt0WmRYUXdaQURnbURaN0JqdzdNTExaVlNjZjI2SWFmSFNN?oc=5",
+      "summary": "현대차·기아, 1~10월 누적 친환경차 판매량 49만3557대 달성 라이센스뉴스",
+      "source": "라이센스뉴스",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T08:00:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "[FSD 온로드] 중기부는 '도로' 국토부는 '서류' 방점…기술특례 동상이몽",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44SEhMY0lRQ1J6YW9ScjZuU2ozQU9PNGRiTndFUHNEbE1qcGRaRlhYUWtLMVVIandWbWlzQ1dSMWVBX3RkNVJaM0VndUR5enpPRWhSQVF0bjJKU3d6SEI5NHFyWUhVVUxh0gFsQVVfeXFMTW0waXE1TFhZb0FaU2U1SGN1Q1pvLXNUeUszbE9LdkhBZDJzWkc3RWtxS0JTQlRnNXhCZ2c0aEdYQW9Oa2puT01uN0V5OVA0NGVieFlvQXVkY0t6TU92Vk5ja1NXWHRzUGdHYnZv?oc=5",
+      "summary": "[FSD 온로드] 중기부는 '도로' 국토부는 '서류' 방점…기술특례 동상이몽 블로터",
+      "source": "블로터",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T05:38:43+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Euro NCAP contradicts itself over the annoying safety systems it demanded car makers implement",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmk2UUVkWDJCUGJTdlZxMkRDSTdLQTY5NHhfQ255VDk5TE43aWZtMEgzZjlZSmU1bnNPX20zeEtJVVRwbTFUNmNSem5KVzFKY2NKc01BRWF5VzNhbFpUSjBqQW5LUkVxZEZRb2hCVERsSkVJaEplMmFReVY3TVFuX194b2s5ajlHZWdmbXBhZC1xUEsyczhRbUQ3TnM?oc=5",
+      "summary": "Euro NCAP contradicts itself over the annoying safety systems it demanded car makers implement Drive",
+      "source": "Drive",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T04:48:35+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "새로운 차량 라인업은 2026년 말까지 C세그먼트 SUV 시장에 열기를 더할 것으로 예상됩니다.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0tXWmM1SmFMTGJIajVLZkVuX0czNzl1cXh6YzQxUFlsczBrdDA0MGJkMDFkY3JySXhGSmF1eUFZM2pZWE9yUEpvQjl1YXFiRC1IWGhBOGczVXdMZW5YeTlkYmk1V3dUR043WXJWSU9paXk3WnhLbXB3T3FzQmFoZncwQmJpSkpzWG9HSHVfamNOOFhYTS12NnNrM0gyZw?oc=5",
+      "summary": "새로운 차량 라인업은 2026년 말까지 C세그먼트 SUV 시장에 열기를 더할 것으로 예상됩니다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T04:18:50+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Waymo Recalls About 4,500 Vehicles in US Over 11 Incidents of Entering Closed Highway Lanes",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xQ0lxU3JKTm9DNFdUMjFTaUtJdzg1TEdaRTdkeFNyTDhYWjJjeFpQTUNBTjhrVC1BRDhfSkZuODR1X3ltMDdrVlNzcExCYXVDWFhyaDFDNm16MVVVRl9kOXd5d1JHdmhOVDBBUDB0MWZxNlhPQ1E?oc=5",
+      "summary": "Waymo Recalls About 4,500 Vehicles in US Over 11 Incidents of Entering Closed Highway Lanes BigGo Finance",
+      "source": "BigGo Finance",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T02:37:00+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "유럽 자동차 시장을 견인하는 전기차 판매 급증",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPOF91V0prM3lxUlNYRHNaMkR4Vkd3UEs2YWZzdEd2aVBGTktaU1ZKMHdXdnQtdVY4bDJBbjBsWlV6S3NFOFFpd0tYV2xRQi1xRVpjUXBVeDJLd213T2llRjh3alYyOEszTGhwZlhXQXVqTlpZMG9XNk1pakc4dGtud2U1dTM0cDgyMkxLS0JzUzhxb0ItLUdkS1JSUEt1US1zR2d6UjdTTU1paVBYSjBaQ0R2TFNrMWllY1lqTHNINnpyLXotd2NMT1o5N3VJWGNVdTVIb0tRUEp2N0l0WC1iUGxVQTdsZWdDU0RveVZuV2hHQjR3ZG1qZDQ1YUNGTkdHbk1QcEl6ZmR0UndGUENsLVJpOV9FV1g3Unk3aDB0bnd3YUR0cFJrdWtQZFFUY2hYNnl2R2p6cmtvWnR6LXFsTHpNUQ?oc=5",
+      "summary": "유럽 자동차 시장을 견인하는 전기차 판매 급증 IDNFinancials",
+      "source": "IDNFinancials",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T02:20:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "한국자동차공학회, ‘2026 추계학술대회 및 전시회’ 개최",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCYTVYVlZpV3Jjc2FQZUJwb0xVTXN0MnFUS0d3QkZEXzA3c1pkeFVySXdWb3ZmSkc2VnVJYVpHbUdiMlVxRURfaVgyRmRLMTB6TGI3cHY1S1NiMlRpT2hKTW1ISk9KZ1dDazBqLXdaVXHSAXRBVV95cUxNcDlqWW53VTY0dDRGTmtfRDh4OXlYWU5iNUxJVlZPZ21SX1JEQ2ZVd0lEV2JOZEZycWxnMF82d0Nvc2JSbzI2eUFfT2E2Mk9Ua1d6blVySGttbzRORU81OUs4cEFseno5R25iY2pjbEc2c3Bleg?oc=5",
+      "summary": "한국자동차공학회, ‘2026 추계학술대회 및 전시회’ 개최 이뉴스투데이",
+      "source": "이뉴스투데이",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T01:32:25+00:00",
+      "byd_ev": false
+    },
+    {
+      "title": "Reported Waymo robotaxi recalls address two road risks",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZkIzVEowSnNyNTN3djMycmd4UFJaMHdyZjQ5ZjdIcm9xbU9fbm5rc3J1SjZDanRmT0xOQkVMWFVVVFlNSHNFb2tONi1zVmxsbkhYREU3c0loRXJhU3h5akhjZmo5NVZscnNRZU90WnNYX3F0bl93SnJtYmxaTE12SDNvVW5LVms?oc=5",
+      "summary": "Reported Waymo robotaxi recalls address two road risks NeoTeo",
+      "source": "NeoTeo",
+      "domain": "news.google.com",
+      "category": "official",
+      "published": "2026-11-25T00:32:02+00:00",
+      "byd_ev": false
+    }
+  ],
   "byd_ev": [
+    {
+      "title": "Podcast: Tesla FSD v15, Volvo XC60/90 PHEVs, Porsche Boxster EV, and more",
+      "link": "https://electrek.co/2026/11/27/podcast-tesla-fsd-v15-volvo-xc60-90-phevs-porsche-boxster-ev-and-more/",
+      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll d…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T20:58:02+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "中자동차, 유럽 수입 규제에도 '질주'…BYD 2배·립모터 4배 성장",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mdnQ0bC1zUm9xYkZEMmFyVVlWdzdIWUJQY1VKVjNQV0RHNllaUC1YazFaWWhaZWc1My14SHVNNm9ITm9paWo3c3hnMlNFWDlLUmJaSkdqOUpNY3B6aWc?oc=5",
+      "summary": "中자동차, 유럽 수입 규제에도 '질주'…BYD 2배·립모터 4배 성장 더구루",
+      "source": "더구루",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T20:30:05+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Zoomlion shows off SIXTY electrified, AI equipment assets at bauma 2026",
+      "link": "https://electrek.co/2026/11/27/zoomlion-shows-off-sixty-electrified-ai-equipment-assets-at-bauma-2026/",
+      "summary": "Wit more than sixty (60!) new-energy models spanning everything from driverless excavators to cabless loaders and hybrid-electric mining tru…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T20:13:56+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery",
+      "link": "https://electrek.co/2026/11/27/worlds-largest-electric-bulk-cargo-shop-packs-massive-23-5-mwh-battery/",
+      "summary": "Moving millions of tons of coal, sugar, and other bulk cargo is serious business, and decarbonizing that business presents a number of uniqu…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T19:22:01+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Velotric e-bikes hit new Black Friday lows $760 off, EGO 8-inch cordless auger $449, Greenworks cordless snow blowers, more",
+      "link": "https://electrek.co/2026/11/27/velotric-final-black-friday-phase-e-bike-lows-ego-8-inch-cordless-auger-greenworks-snow-blowers-more/",
+      "summary": "The Amazon Black Friday Main Event Sale is in full swing with more amazing deals than we can keep up with, and we’ve filled this edition wit…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T19:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BYD’s flagship electric minivan debuts with a new style and 559 miles of range",
+      "link": "https://electrek.co/2026/11/27/byd-whale-flagship-electric-minivan-debuts-559-miles-range/",
+      "summary": "BYD’s new flagship MPV is not your average minivan. The Whale can drive over 559 miles (900 km) on a single charge, charge in as little as f…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T18:40:39+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Prevost unveils Electric coach bus: 600 hp, 540 kWh, 250-mile range",
+      "link": "https://electrek.co/2026/11/27/prevost-h3-45-electric-coach-540-kwh-mcs/",
+      "summary": "Prevost, the Quebec coach builder owned by Volvo Group, has unveiled the H3-45 Electric, its first battery-electric motorcoach. It gets a 54…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T17:23:17+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Toyota confirms the Highlander 9X will launch as its first EREV with top-tier tech in early 2027",
+      "link": "https://electrek.co/2026/11/27/toyota-confirms-highlander-9x-first-erev-top-tier-tech/",
+      "summary": "The Toyota Highlander 9X will go on sale in early 2027 as the brand’s first extended-range electric vehicle with advanced new tech from Huaw…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T17:18:59+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
+      "link": "https://electrek.co/2026/11/27/used-cybertruck-prices-jump-after-tesla-kills-it/",
+      "summary": "Used Cybertruck prices are up 10 to 15% in the month since Tesla announced it would end production of its electric pickup, according to list…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T17:06:53+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Tesla aims to bolster Optimus with newest company acquisition",
+      "link": "https://www.teslarati.com/tesla-bolster-optimus-company-acquisition-emag-germany/",
+      "summary": "Tesla is set to make a major acquisition as it plans to buy a more than a century-old German manufacturing systems supplier. The move target…",
+      "source": "Teslarati",
+      "domain": "teslarati.com",
+      "category": "international",
+      "published": "2026-11-27T16:37:01+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Buy This Custom 1978 GMC Van, and Elvis Is Your Co-Pilot",
+      "link": "https://www.caranddriver.com/news/a74531030/elvis-themed-gmc-custom-van-bring-a-trailer-auction/",
+      "summary": "With this GMC Vandura on Bring a Trailer, every drive is like a trip to Graceland.",
+      "source": "Car and Driver",
+      "domain": "caranddriver.com",
+      "category": "international",
+      "published": "2026-11-27T16:00:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Tesla is rolling out its biggest battery upgrade through a software update",
+      "link": "https://www.teslarati.com/tesla-rolling-out-biggest-battery-upgrade-software-update/",
+      "summary": "Tesla is rolling out what is likely its biggest battery feature in years through a software update, as owners are starting to reveal the new…",
+      "source": "Teslarati",
+      "domain": "teslarati.com",
+      "category": "international",
+      "published": "2026-11-27T15:18:29+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "EVs Outsold Gas And Diesel Cars Combined In The EU In October",
+      "link": "https://insideevs.com/news/817061/eu-ev-sales-october-jump/",
+      "summary": "A year ago, gas and diesel had a 127,000-car lead. This October, EVs finished nearly 70,000 cars ahead.",
+      "source": "InsideEVs",
+      "domain": "insideevs.com",
+      "category": "international",
+      "published": "2026-11-27T15:15:52+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "SAIC's MG goes all-in on NEVs, to halt ICE vehicle production for Chinese mainland in 2027",
+      "link": "https://cnevpost.com/2026/11/27/saic-mg-to-halt-ice-vehicle-production-chinese-mainland-2027/",
+      "summary": "MG's move comes as China's passenger NEV retail penetration rate approaches the 70% mark, with the market share of gas-powered cars shrinkin…",
+      "source": "CnEVPost",
+      "domain": "cnevpost.com",
+      "category": "international",
+      "published": "2026-11-27T15:15:19+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Hyundai’s new Mercury EV Concept will launch as the IONIQ M in 2027 [Images]",
+      "link": "https://electrek.co/2026/11/27/hyundai-reveals-new-mercury-ev-concept-launch-as-ioniq-m-images/",
+      "summary": "Hyundai unveiled the Mercury Concept, a preview of its upcoming entry-level electric SUV set to launch as the IONIQ M in 2027. more…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T15:11:33+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+      "link": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+      "summary": "Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T14:48:15+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차를 좀 더 공격적으로 운전하는 것이 배터리 수명에 도움이 될 수 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkVnY3pVNjdnVzBtVHgxblp0SEJxNVdud2Rkb1E0RWpfN2JXUlFwSTdQc1hwTXdDVXV6eTlfRFp3R1ktNGkyc0ZsYnBTOE9rY0Q3bzNYaG14NUQxS1NxSFlzVThibHhlZGpjdS04Q3dTYmk2R1VvdzFvRG5kZTRwOHYyUE8?oc=5",
+      "summary": "전기차를 좀 더 공격적으로 운전하는 것이 배터리 수명에 도움이 될 수 있습니다. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T14:43:51+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "중고 전기차 수입 내년부터 차질",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWlZhcW1KM3pLVGo4OTloZW1aQ0FOVlppZGdwdHUycUZHSjI2OTY0NWZFSW5aUVJpeVdBdUEtSFM3OUpiTjlJWmFQeVZ5eFFDZkpVUTZCSTFGQ00zN3RxU0xkMGlxWk8yaG1IZnMteGtJcS10YW40VDMyUDNSY0ItXzB5UTJqNmFrRk9nUllZbGl6ZjhuRDRHRkIzSktRd2FLcUNMYl9wTlU0Y2pWRWhsM056YVE3dnJraGF2Rngzb0hxU2xtYnVtZG9Ybk92LWNTVXRXYXE2UXJ1cUs0RXJhdWVlMDBwMHppdU9iVw?oc=5",
+      "summary": "중고 전기차 수입 내년부터 차질 위클리코리아",
+      "source": "위클리코리아",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T14:15:19+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Zeekr updates mainstay SUV 7X with new 85-kWh battery option and limited-time perks",
+      "link": "https://cnevpost.com/2026/11/27/zeekr-launches-2027-7x/",
+      "summary": "The 2027 Zeekr 7X has an official guide price starting at 229,800 yuan ($34,260), with a limited-time starting price of 216,800 yuan after l…",
+      "source": "CnEVPost",
+      "domain": "cnevpost.com",
+      "category": "international",
+      "published": "2026-11-27T13:55:38+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BYD, 대형 전기 MPV '웨일' 첫 공개⋯1회 충전 900km 이상",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DSkFuc3F3TlFKLUM0cGsxZzU3dGt1OGNyZG9KVlMtekkzWTV0VHkwTmFydk42anFka2d6YmpIMktYSExWX054dVdObmx3Tk5RUFJfTHlnVEVKSGlUQW1kU1VhTnpNSVpqUFlxc19abw?oc=5",
+      "summary": "BYD, 대형 전기 MPV '웨일' 첫 공개⋯1회 충전 900km 이상 엠투데이",
+      "source": "엠투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T13:30:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[경기119] 달리는 전기차 불…피혁공장 화재로 7명 대피",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CbHJCUVdqQjlZTVpodmVjZVdXSzFXcl9icFhsemEtN216Q2Zqcl9mTkhzNlRSNFdxMkdQQ3V2a0o0RHZOTUFQMHR1aTdNUEVTVjd6YkNtdkVHeXV4SlNUUlgyeDNxUGptYlhOeU53?oc=5",
+      "summary": "[경기119] 달리는 전기차 불…피혁공장 화재로 7명 대피 OBS경인TV",
+      "source": "OBS경인TV",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T13:29:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
+      "link": "https://electrek.co/2026/11/27/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
+      "summary": "It’s time for the biggest shopping event of the year! With Amazon’s full Black Friday Sale in swing, so to are all our favorite Green Deal b…",
+      "source": "Electrek",
+      "domain": "electrek.co",
+      "category": "international",
+      "published": "2026-11-27T13:27:31+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BYD, 플래그십 MPV Whale 공개하며 오션 시리즈 다섯 번째 IP 추가",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPS2oyN2xtVV9MSDhkMGhMY0t0VkJubm5obzd4QW1QS2dBNTVFVWJIdmNILUdMTmpuYmtQc0Z5Ql9lQ29SZ01RcVN3QWJyYmc1OXJyNHN5ZjRpSUlwNEs3Z3BCalhCRHY5?oc=5",
+      "summary": "BYD, 플래그십 MPV Whale 공개하며 오션 시리즈 다섯 번째 IP 추가 모터피디",
+      "source": "모터피디",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T13:01:45+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "‘베이비 에스컬레이드’ 전기차로 상륙…캐딜락 대형 SUV ‘비스틱’ 출시",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5Skk5bDZaZ3l3MnNwdi1iTGlpdm0yVDZNNVFjMGIzTjNpLUx2VklXZmxrWWxTLW5Xb1VNZVIxcmJhVzc5U2pHeXdjQWJsR1E1SjBaSlU1SFQxTWVxZmdDMFJDUm0yWmhYV1c4?oc=5",
+      "summary": "‘베이비 에스컬레이드’ 전기차로 상륙…캐딜락 대형 SUV ‘비스틱’ 출시 비즈월드",
+      "source": "비즈월드",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T12:48:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "This Audi E-Tron EV Has 125,000 Miles. Replacing Its Battery Was A Huge Pain",
+      "link": "https://insideevs.com/news/817033/audi-e-tron-battery-replacement-video/",
+      "summary": "Despite being just five to six years old, this Audi SUV needed a pack replacement, and the job was really laborious.",
+      "source": "InsideEVs",
+      "domain": "insideevs.com",
+      "category": "international",
+      "published": "2026-11-27T12:40:52+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "안방 파고드는 중국산 전기차…세금 깎아주면 해법 될까?",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAweXNJZnNiMTRkN0RBMEF2SXVKMDhRVmo0dUp2b0E5UE0yTm5NNi1OVlNiN25XdmdsUGdGMkcyVC1xd0RtNzBMWGFRcEhjVEhmSjlZVng1NWhSVV9ydXdLOWpoWFFqUQ?oc=5",
+      "summary": "안방 파고드는 중국산 전기차…세금 깎아주면 해법 될까? KBS 뉴스",
+      "source": "KBS 뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T12:31:00+00:00",
+      "byd_ev": true
+    },
     {
       "title": "Toyota Raises 2027 Tacoma Prices And Slashes Its Free Maintenance Program",
       "link": "https://www.motor1.com/news/817025/2027-toyota-tacoma-pricing-toyotacare/",
@@ -619,6 +2081,16 @@
       "domain": "motor1.com",
       "category": "international",
       "published": "2026-11-27T11:42:37+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "코이카 800만 달러 투입 인니 전기차 충전기 시험소, 한국 시험연구원이 핵심 장비 조달한다",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVpObGotWWxjalhqWFBKNDdCUUxMOVJtb1B4Rk52UThqMzd3ZjNISnc3bVRQRDFPT2lfV0N5dTVnN19EYWtMNUJGNmtxVHVhSVJuVndJSTFLeExfeTVLNUJodmhYaWtGSExZd2NlVkR1UnYtNVN4bElYRUhWYmlyTThSdUdPUTRH?oc=5",
+      "summary": "코이카 800만 달러 투입 인니 전기차 충전기 시험소, 한국 시험연구원이 핵심 장비 조달한다 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T11:26:41+00:00",
       "byd_ev": true
     },
     {
@@ -632,6 +2104,26 @@
       "byd_ev": true
     },
     {
+      "title": "중국 BYD 4억원대 전기차 공개…초고급차 경쟁 확대 : 기업·산업",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLVWF6SWtINDJxTHh1aDhzUGY1UHJ3ZGpXOGJNem9vWGNldDZsY0VJSDVJQ1lpM1NEX1RPOGhrME1UdFV3a0tveTE3SQ?oc=5",
+      "summary": "중국 BYD 4억원대 전기차 공개…초고급차 경쟁 확대 : 기업·산업 재경일보",
+      "source": "재경일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T11:00:28+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "4억원대 전기차까지 등장…중국차 고가와 저가 양극화 뚜렷",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Dd1J4T0l0aXBuVGh1SVkxR0xZV0oweEQ4eC1YZHN2bXM4UTNycEZod2o5VkRJR0hoT1BWRTBrdFlHT1JlYkRCYW1rZVk5NzJHQkhtWHZoQXRNdW94elFKemZqc3BMT3JhSndmcU5JTi1DbVk?oc=5",
+      "summary": "4억원대 전기차까지 등장…중국차 고가와 저가 양극화 뚜렷 스페셜타임스",
+      "source": "스페셜타임스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:10:52+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "BYD unveils Ocean lineup's first flagship MPV Whale, set to launch in Q1 2027",
       "link": "https://cnevpost.com/2026/11/27/byd-unveils-ocean-lineup-mpv-whale/",
       "summary": "The Whale is expected to target the 300,000 yuan ($44,730) price segment, and is the fourth MPV model from the BYD Group. For details, pleas…",
@@ -642,9 +2134,39 @@
       "byd_ev": true
     },
     {
-      "title": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game",
+      "title": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zT2RObkxnaEVLTG1DdnNQblFfUFpUT2otZUhhUWhubHg0ZzdPSXFaYkl5NGpLMGFoaUdhODI0WHlGemhrMWRVZVIxTzNJNVNOVnF6WnNGdU9JVjc5a0t4TU5OLVJCQzlsZDNXWno0NzktV3l6?oc=5",
+      "summary": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합) 연합뉴스 한민족센터",
+      "source": "연합뉴스 한민족센터",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:06:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KSzhmV1ZMSDVteHp6OUdFcGl6UDB0LW9yQ3otSGZTNVNpUTNMdzZLZE9nV2pKbXJfSnp6cTVlVGRicWVvWEN1NGdmUDlFSjFTNEEtX2RwbkE2VkJaUmV3adIBYEFVX3lxTE1KSzhmV1ZMSDVteHp6OUdFcGl6UDB0LW9yQ3otSGZTNVNpUTNMdzZLZE9nV2pKbXJfSnp6cTVlVGRicWVvWEN1NGdmUDlFSjFTNEEtX2RwbkE2VkJaUmV3aQ?oc=5",
+      "summary": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합) 연합뉴스",
+      "source": "연합뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:06:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40Y2dKR1Y1NGZJNTlsSHZOX2hUTExZTDh5VkxvcWRzaF9xUW0xQzhRTWdRRUgxLVVaWkptWS1TcVluVjVzVDFJSFcxWk1GcC1KcEE?oc=5",
+      "summary": "[르포] 4억원대 전기차까지…\"중국차, 고가와 저가로 양극화\"(종합) 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T10:06:44+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Review: Volvo’s 2028 XC60/90 PHEVs get 80 miles of EV range, changing the game",
       "link": "https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/",
-      "summary": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60...",
+      "summary": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60 and XC90 plug-in hybrids. The new v…",
       "source": "Electrek",
       "domain": "electrek.co",
       "category": "international",
@@ -652,13 +2174,43 @@
       "byd_ev": true
     },
     {
-      "title": "Nio Firefly reaches 100,000 cumulative deliveries, about 19 months after market launch",
+      "title": "현대차, 中 전기차 시장 공략 속도···2030년까지 24종 투입",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BeDRFeEZIV1N6azItdFk2MnJJMzFlSkZtRjNvczZRcnRkTUpCSEZyX01jQ3EzVUZfSDFIVXdQNXRwZ2JITFNUWHBoYlRfc3lDUzkwejR4a1JsdGJrZ0l3c0ZXOW1CVFFGc2c?oc=5",
+      "summary": "현대차, 中 전기차 시장 공략 속도···2030년까지 24종 투입 뉴스웨이",
+      "source": "뉴스웨이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:55:18+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "Nio Firefly reaches 100,000 cumulative deliveries as shipments set to exceed 10,000 this month for first time",
       "link": "https://cnevpost.com/2026/11/27/nio-firefly-reaches-100000-cumulative-deliveries/",
       "summary": "Firefly's 100,000th delivery came 42 days after it surpassed the 90,000 mark on October 16. For details, please visit CnEVPost (cnev.co).",
       "source": "CnEVPost",
       "domain": "cnevpost.com",
       "category": "international",
       "published": "2026-11-27T09:47:43+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[르포] 4억원대 전기차까지…중국차, 이제는 초고급차 경쟁",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tV1N1V1dLNHNLY2E1M1hGUzdnSGtQdmthbWJDaVMyU3B2VlpLUzFFWWowcFluMVloclFQT09lWFNhY0diZlEybS1lc3diaTkxSkR1Z1dycUsyS0XSAWBBVV95cUxQa1ViRllUVncyTExNT3Qta1dISDVkeEpVTzlKUnN2YjlKcEl5bk96LUxJM05VM2lBUkdQaEFXNHVlcml6ai1iWmpmengwNVkydWRyUl94Q3VHRFI5am1EZnE?oc=5",
+      "summary": "[르포] 4억원대 전기차까지…중국차, 이제는 초고급차 경쟁 연합뉴스",
+      "source": "연합뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:34:14+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "현대차 전기차 '일렉시오' 제동 결함…싱가포르 출고 중단",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BUmIxVWRwTEtWMkJGc0tuUWdxQWYtOG8ybUZncW53a1FjNDU3RnZGTDUwMndDdG42QmU3ekxIenFQRlZVSElUajZMdnBzR1NuUllyV1JQUnlRRHJMWGloWmtNVHVSb2dpaXd3?oc=5",
+      "summary": "현대차 전기차 '일렉시오' 제동 결함…싱가포르 출고 중단 한국신용신문",
+      "source": "한국신용신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:29:00+00:00",
       "byd_ev": true
     },
     {
@@ -682,6 +2234,16 @@
       "byd_ev": true
     },
     {
+      "title": "[단독] ‘EU 판매 금지’ BYD Ti7, 한국 상륙하나…환경 인증 마쳐",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90Si1TcXR2X2cxTmFRQzVZTEt3WkNsRXEtWlJNbFFleFRpSU1rV0FPaXZWV08yRDU0UFV6QXZydkNQbkh1dFVkNGg5eXZzTm1KZXdqZEpRVHhneVZfaVVsTWh1WQ?oc=5",
+      "summary": "[단독] ‘EU 판매 금지’ BYD Ti7, 한국 상륙하나…환경 인증 마쳐 쿠키뉴스",
+      "source": "쿠키뉴스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T09:00:30+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "Elon Musk will give every American kid a SpaceX share every year",
       "link": "https://www.teslarati.com/elon-musk-gift-spacex-share-kid/",
       "summary": "Elon Musk's SpaceX stock giveaway to American kids just became something that repeats every year. The post Elon Musk will give every America…",
@@ -689,6 +2251,26 @@
       "domain": "teslarati.com",
       "category": "international",
       "published": "2026-11-27T08:58:23+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "BYD, 중국서 플래그십 MPV '웨일' 최초 공개",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpZkQ4Qm14UUlOU1dMVTI3RFdYWnd3dWlaMld3YWxVYVU2Ml9tczVvUGtiT283cmF1bmo4anZ2dWVrUTlmcU9DSEFqd1BDdw?oc=5",
+      "summary": "BYD, 중국서 플래그십 MPV '웨일' 최초 공개 전자신문",
+      "source": "전자신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:52:25+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "샤오미 자동차 및 AI 부문 손실 9조 3천억 루피아로 확대",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQMDdPRUpYZEdsa1MwVW03TzJvWGRzalc5U0o3REp1NlE3X0tMeHBUSm9SMWVUQkJTZ29ndFE5S1RfWmpxdkxnNl9qOU5KM2FmcUd3X09RREZKZm9kYnYwcXNnWmNDakNLaVJHVDRxaFBadnBjT29SRV8xTFlvd2l4WnJSZU5vZ0h2Z1B5SUE2ZGc1c0w3RjZvSFVPZGJUSXpaOW9Zc1U4alZKbkMyQTc5Q0QxTExpbUdma3RHcDIyVllaMVNlbVJKQVRiRTk0N1FpeFFsYk12Rm5jczdmY0pIbjRhdjNwV2NEaG9wYWczUF84WHA2X3duN2N2bmtJemdKckt5WS1Rd29VMk05RGYtTUlEQzlmYUpLeWJmYlJDbjlUNG1HUjRZRkE5akpienpUdGxqYW9MbTJOZ2h5WkRCWFV0a0I4SHdpUy1lN0kwbjZpbnNtd2V0MA?oc=5",
+      "summary": "샤오미 자동차 및 AI 부문 손실 9조 3천억 루피아로 확대 IDNFinancials",
+      "source": "IDNFinancials",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:40:00+00:00",
       "byd_ev": true
     },
     {
@@ -702,6 +2284,16 @@
       "byd_ev": true
     },
     {
+      "title": "BYD, 대형 MPV '웨일' 최초 공개…9분 만에 완충",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DMnZRTVRpbnpLOXJPdFFYWkFxS1huTUJubWJ1X2w2UHNtZnVkRDl3M3cxQmdZci1EQ1N2WGd4YTVfOGlvWnFiRXZkanJFSVhNUFpCWnZRZXk5YW9CMnc?oc=5",
+      "summary": "BYD, 대형 MPV '웨일' 최초 공개…9분 만에 완충 뉴스투데이",
+      "source": "뉴스투데이",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:25:00+00:00",
+      "byd_ev": true
+    },
+    {
       "title": "Toyota's New Innova Hycross Combines Hybrid Power With Flex-Fuel Technology",
       "link": "https://www.motor1.com/news/816967/toyota-innova-hycross-flex-hybrid/",
       "summary": "Flex-fuel Innova HyCross pairs a locally built 2.0-liter hybrid with E20 to E85 compatibility, three drive modes, and seven- or eight-seat l…",
@@ -709,6 +2301,56 @@
       "domain": "motor1.com",
       "category": "international",
       "published": "2026-11-27T08:24:37+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 대신 ESS로 눈 돌리는 배터리 3사…공장 가동률 방어 나섰다",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sZkpYTk5FZHIyemR5ZkFhbXRQMGI1M1RlLUJoLU1obG8wUHhpQU1VQkFFR0RrXzhqS1o1VlJBNEdFckNVWF9GcEs5TDJtNGYtTXJpaXloNFQ?oc=5",
+      "summary": "전기차 대신 ESS로 눈 돌리는 배터리 3사…공장 가동률 방어 나섰다 더트래커",
+      "source": "더트래커",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:24:08+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "리오토 3분기 실적으로 본 중국 전기차 경쟁: 판매는 경쟁사보다 더뎠지만, 손익·기술·해외 전략은",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVdhdTVJb0lTbGJWMWF1ZnA1NE5QNTJmcENtUmpCMm9vbzVQczNpWnlCWG5lQ09pMk9QLUZpNWtiNExoYlRTT2NiUjB0enNXVkRzRThJalBkWHdiN1lfTF95eTlfaVVEYVdYMjI5dkFQUWpmelJEYWlCMWNUMzI1X1lXWHNtNVdW?oc=5",
+      "summary": "리오토 3분기 실적으로 본 중국 전기차 경쟁: 판매는 경쟁사보다 더뎠지만, 손익·기술·해외 전략은 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:21:00+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "전기차 세액공제안 발표 또 연기…부처 간 이견에 막바지 진통",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BazluLTZiamtTOGFSSlJOOG5uV0UtN1RDVU5JX1kwSHlRNzB0ZnJHQTVFb2QtRTJMZWFod1d5cVQ0bTJSTHgxeDVteFFGN1h6UjNFTDlLODdPZ9IBWEFVX3lxTFBFWFV3S0h4NW83VTdTYWxGSUI4bnVJckVZd210M1JtT3NndTY5blFqUjRqMHFDbXFZTEcxenJlWVJmNWdJVnFxZkxjSS1DTkNKWmFfNVN2Vl8?oc=5",
+      "summary": "전기차 세액공제안 발표 또 연기…부처 간 이견에 막바지 진통 아주경제",
+      "source": "아주경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:15:38+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "中 샤오펑 \"가정용 로봇, 자동차보다 수익 내기 쉽다\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RTUFaNF9zNkRPSGRjQkRVNzRXTlpXXzcyMkZ6NHdmT3RUZWlZYkpnUlh5dUUwaExwbVFuYThpRnR3SS1sZXJsOTBJaUhBeDlCZmdRZE5rUkdmT2Z5RC1pLQ?oc=5",
+      "summary": "中 샤오펑 \"가정용 로봇, 자동차보다 수익 내기 쉽다\" 아시아경제",
+      "source": "아시아경제",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:14:40+00:00",
+      "byd_ev": true
+    },
+    {
+      "title": "[2026 광저우 국제 모터쇼] BYD, 플래그십 MPV 웨일 세계 최초 공개",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43T1l4b1FqTmdhR1MyTlpDdjFlWDlqdFYzeUlsSUJyX0NDY1RRMjluYjJZLWVhUmdTb2hfelF4ajlVT01xc3BfUFRMbzNITnlFR3h6R3RUWE9CeGpkU1gxLUJwWncyMjBBYkxDMQ?oc=5",
+      "summary": "[2026 광저우 국제 모터쇼] BYD, 플래그십 MPV 웨일 세계 최초 공개 모터그래프",
+      "source": "모터그래프",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T08:05:20+00:00",
       "byd_ev": true
     },
     {
@@ -722,493 +2364,53 @@
       "byd_ev": true
     },
     {
-      "title": "Nissan NX7 Debuts In China With 1,035 Miles Of Range And A Low Price",
-      "link": "https://www.motor1.com/news/816957/dongfeng-nissan-nx7-suv-china/",
-      "summary": "Dongfeng Nissan’s NX7 pairs a 40.9-kWh CATL pack and CLTC-rated 320-kilometer EV range with three trims, LiDAR assistance, and China-only av…",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-27T07:30:01+00:00",
+      "title": "한국에 들어온 BYD는 중저가형…고급 브랜드는 아직 미진출",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wSHgwcHloTWZINlVWazB0SjVBQTU3eXBzdWpfalVrNnB5SXhzSlpHeGp4Nlp5ZW9vMVItSXQ1QzU4TS01QTVNa0NmWjNMbmpQYi1DMTd3?oc=5",
+      "summary": "한국에 들어온 BYD는 중저가형…고급 브랜드는 아직 미진출 인터내셔널포커스",
+      "source": "인터내셔널포커스",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:46:29+00:00",
       "byd_ev": true
     },
     {
-      "title": "The Hyundai Mercury Is A Battery-Swapping EV For China",
-      "link": "https://www.motor1.com/news/816946/hyundai-mercury-details-photos/",
-      "summary": "The Mercury name is back, but don't expect an American luxury sedan. Hyundai has other plans for it.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-27T06:46:15+00:00",
+      "title": "BYD, 플래그십 MPV '웨일' 세계 최초 공개…1회 충전 900km 이상 주행",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45Z2JNMVVZUjB4Ujd6U2pXalI5YVhYSk5hWlJYLTU2TUdmX1ZyTHRmRUY3RjFld2haWXowOFVOSEhRbXpSZ0J3X1FEUndqQjY4blU1NUx6b0NhalBCMklxVlJKMEFQOXZKY0xj?oc=5",
+      "summary": "BYD, 플래그십 MPV '웨일' 세계 최초 공개…1회 충전 900km 이상 주행 파이낸셜신문",
+      "source": "파이낸셜신문",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:39:48+00:00",
       "byd_ev": true
     },
     {
-      "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
-      "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
-      "summary": "Tesla has parked a fleet of mobile Supercharger stalls at some of its busiest stations in California and Arizona to handle the Thanksgiving…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-26T17:33:21+00:00",
+      "title": "현대차 새 전기차 '아이오닉 M' 베일 벗었다…중국서 첫 공개",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sYWd6T0gxSUhQYlhXZG5VTVo4Y1ZFNkRNNVBfMl9ESHZNM0hJSlFUTzVWcGtTaGFpX1RiVGpSNUhQMkJaZWRxckNwU3A1UHVscWQ4SHd4QnZQOWdjRlIw?oc=5",
+      "summary": "현대차 새 전기차 '아이오닉 M' 베일 벗었다…중국서 첫 공개 조세일보",
+      "source": "조세일보",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:37:28+00:00",
       "byd_ev": true
     },
     {
-      "title": "Nio's Onvo flagship L90 SUV reaches 70,000 deliveries, latest 10,000 take over 4 months",
-      "link": "https://cnevpost.com/2026/11/26/nio-onvo-l90-70000-deliveries/",
-      "summary": "The Onvo L90's latest 10,000 deliveries slowed from the roughly 3.5 months it took to grow from 50,000 to 60,000 units. For details, please…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-26T14:47:08+00:00",
+      "title": "세계 전기차 판매 10위권 중 8곳 중국계…기아 6위",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tSWpEWTNpaFJrU0RzTmszS19NVllhOERTeE5JRWUwRDF3MXhLSUwyd3I1Um9WN3Y4MG9jMnZKN0lnWHB6RFJrTGI2MzNjNWxsbHgyS29ESzhxYV82NjNqS1ZYZ2drNWc5YWpJ?oc=5",
+      "summary": "세계 전기차 판매 10위권 중 8곳 중국계…기아 6위 애드뉴스인천",
+      "source": "애드뉴스인천",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:32:00+00:00",
       "byd_ev": true
     },
     {
-      "title": "Thanksgiving 2026 Green Deals Hub: EVs, e-bikes, power stations, tools, appliances, more",
-      "link": "https://electrek.co/2026/11/26/thanksgiving-2026-green-deals-hub-evs-e-bikes-power-stations-tools-appliances-more/",
-      "summary": "Happy Thanksgiving everyone! As Amazon’s full-swing Black Friday Sale event continues, you can find a ton of amazing Green Deals during the…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-26T13:57:45+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "A Used Cybertruck Is Selling A Month Faster Than A Ford F-150",
-      "link": "https://insideevs.com/news/816892/tesla-fastest-selling-used-october/",
-      "summary": "The Tesla pickup needed 39 days on average to find a buyer, while a gas-powered F-150 took 72, and the Lightning needed an extra week.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-26T13:03:53+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Audi Is Putting A Gas Engine In Its Chinese AUDI Electric SUV",
-      "link": "https://www.motor1.com/news/816887/audi-e7x-range-extending-ev/",
-      "summary": "The ringless brand was created as an EV-only venture, but its upcoming SUV pairs an electric motor with a combustion engine.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T12:02:11+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Toyota's First Range-Extended EV Is Coming, And It Looks Like A Highlander",
-      "link": "https://www.motor1.com/news/816884/toyota-highlander-erev-china/",
-      "summary": "GAC Toyota’s new extended-range SUV previews a fifth electrified powertrain while a separate fully electric Highlander targets US buyers.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T11:34:43+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Canceled Or Not, The Cybertruck Is America's Fastest Selling Used Truck",
-      "link": "https://www.motor1.com/news/816873/tesla-cybertruck-used-truck-ranking/",
-      "summary": "Days on market show Tesla Cybertruck and other used EV pickups moving quicker than similar hybrid and gasoline trucks in October 2026.",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T10:25:21+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "If I could only use one bike lock, it’d be this: FoldyLock Elite 110 review",
-      "link": "https://electrek.co/2026/11/26/if-i-could-only-use-one-bike-lock-itd-be-this-foldylock-elite-110-review/",
-      "summary": "I ride e-bikes professionally, regularly testing new bikes and biking gear. I don’t even own a car – I get around almost exclusively on two…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-26T10:22:56+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Leaked Nissan Terrano Reveals A Boxy Off-Roader With Three Powertrain Options",
-      "link": "https://www.motor1.com/news/816869/nissan-terrano-phev-china-filing/",
-      "summary": "China’s MIIT homologation documents reveal the Nissan Terrano PHEV’s dimensions, powertrains, towing capacity, and off-road-focused hardware…",
-      "source": "Motor1",
-      "domain": "motor1.com",
-      "category": "international",
-      "published": "2026-11-26T09:45:32+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Xiaomi files for updated SU7 Ultra with 1,138 kW tri-motor powertrain, 5-seat and 2-seat options",
-      "link": "https://cnevpost.com/2026/11/26/xiaomi-files-updated-su7-ultra/",
-      "summary": "The updated SU7 Ultra retains its tri-motor all-wheel-drive system with a filed top speed of 318 km/h. For details, please visit CnEVPost (c…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-26T09:02:39+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Nio Onvo to launch updated L60 Black Knight edition at Guangzhou Auto Show on November 27",
-      "link": "https://cnevpost.com/2026/11/26/nio-onvo-to-launch-updated-l60-black-knight-edition-guangzhou-show/",
-      "summary": "Onvo previously launched a limited Black Knight edition for the L60 in December 2025 at a slightly higher price than the regular variant. Fo…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-26T08:04:18+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Ionna Slashes EV Charging Prices For Thanksgiving",
-      "link": "https://insideevs.com/news/816844/ionna-charging-price-discount-thanksgiving-2026/",
-      "summary": "The up-and-coming EV charging network is halving prices across its network, just in time for Thanksgiving travel.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-26T08:03:01+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "ChargePoint and PistenBully have a charging plan for ski resorts",
-      "link": "https://electrek.co/2026/11/25/chargepoint-and-pistenbully-have-a-charging-plan-for-ski-resorts/",
-      "summary": "The next EV to plug in at a ski resort might be the one that groomed your trail. ChargePoint has struck a deal with Kässbohrer, the German c…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T22:25:23+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
-      "link": "https://electrek.co/2026/11/25/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/",
-      "summary": "Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to go electric, Black Friday may…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T21:31:38+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
-      "link": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
-      "summary": "Tesla has registered a new German company whose business address is the headquarters of EMAG, a struggling machine-tool maker that builds pr…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T21:00:40+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Toyota is about to unveil its first extended-range EV, and it looks like the Highlander",
-      "link": "https://electrek.co/2026/11/25/toyota-reveal-first-erev-looks-like-highlander/",
-      "summary": "Toyota is set to reveal its first extended-range electric vehicle (EREV) on November 27, and from the first look, it could be based on its f…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T20:07:07+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "2027 Toyota 4Runner Starts over $45,000 for the First Time",
-      "link": "https://www.caranddriver.com/news/a74534163/2027-toyota-4runner-price-hike/",
-      "summary": "Every 4Runner now costs more than last year, but the base-level SR5’s $1220 price hike is the steepest.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-25T19:12:27+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Europe Gets This Tiny New Suzuki EV. It Makes A Mini Look Big",
-      "link": "https://insideevs.com/news/816798/suzuki-ignis-ev-unveiled-europe/",
-      "summary": "The new electric Ignis is a foot shorter than a two-door Mini Cooper S, yet Suzuki still found room for rear doors and four seats.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T18:59:40+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [update]",
-      "link": "https://electrek.co/2026/11/25/hyundai-ioniq-3-spotted-us-affordable-ev-update/",
-      "summary": "Hyundai’s new IONIQ 3 checks all the boxes as an affordable EV: it offers over 300 miles of range, a practical interior, and Hyundai’s new P…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T18:31:28+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "The Suzuki Ignis is back, and this time it will be a low-cost EV sold globally [Images]",
-      "link": "https://electrek.co/2026/11/25/suzuki-revives-ignis-low-cost-global-ev-images/",
-      "summary": "Suzuki offered a first look at the all-new Ignis, its first compact EV designed specifically for global markets. more…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T17:46:20+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Stellantis Exiting the WEC and Formula E to Focus on New Hi-Po Cars",
-      "link": "https://www.caranddriver.com/news/a74532859/stellantis-exits-wec-formula-e-racing/",
-      "summary": "Rather than spend millions on factory-backed teams, Stellantis will focus on new-car development and customer-racing support.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-25T17:09:30+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Electric Porsche Boxster Prototype Reviews Are Out. Here's What Critics Think",
-      "link": "https://insideevs.com/news/816654/electric-porsche-boxster-review-roundup/",
-      "summary": "It's finally time to find out what an electric Boxster is like.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T16:40:10+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "VW Will Pay German Drivers To Plug In Their EVs. Even If The Grid Never Uses Their Power",
-      "link": "https://insideevs.com/news/816775/vw-elli-plugged-in-paid/",
-      "summary": "VW EV drivers in Germany can earn up to €720 in the first year, but the required charger costs €1,995 before installation.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T16:15:54+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "The Tesla Cybertruck Is America’s Fastest-Selling Used Truck",
-      "link": "https://www.caranddriver.com/news/a74531681/tesla-cybertruck-fastest-selling-used-truck/",
-      "summary": "EVs are selling faster than gas vehicles, with the Cybertruck leading used trucks and 16 EVs landing among the 25 fastest-selling models.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-25T15:45:41+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15",
-      "link": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
-      "summary": "The EU committee that could approve Tesla’s “Full Self-Driving,” now sold in Europe as Tesla Assisted Driving, across the whole bloc won’t m…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T15:45:37+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Volkswagen’s new affordable electric SUV gets a sporty upgrade with GTI DNA",
-      "link": "https://electrek.co/2026/11/25/vws-affordable-electric-suv-sporty-upgrade-gti-dna/",
-      "summary": "Volkswagen gave its entry-level electric SUV a sporty makeover with GTI-inspired performance. The new ID. Cross R-Line tops the range with a…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T15:44:05+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "China passenger NEV retail sales fall 13% year-on-year in November 1-22, penetration reaches 71.3%",
-      "link": "https://cnevpost.com/2026/11/25/china-passenger-nev-retail-sales-nov-1-22/",
-      "summary": "China's passenger NEVs recorded retail sales of 702,000 units from November 1 to 22, down 13% from a year earlier but up 7% from the same pe…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-25T15:20:57+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Li Auto beats Q3 revenue guidance as net loss narrows, expects Q4 return to profit",
-      "link": "https://cnevpost.com/2026/11/25/li-auto-q3-2026-earnings/",
-      "summary": "Third-quarter revenue rose 5.4% year-on-year to $4.29 billion, while net loss narrowed 81.8% sequentially. For details, please visit CnEVPos…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-25T15:09:10+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Tesla removed the most annoying part of Full Self-Driving",
-      "link": "https://www.teslarati.com/tesla-removed-most-annoying-part-full-self-driving/",
-      "summary": "Tesla removed the most annoying part of Full Self-Driving with its latest v15 release. The suite, which aims to reduce critical intervention…",
-      "source": "Teslarati",
-      "domain": "teslarati.com",
-      "category": "international",
-      "published": "2026-11-25T15:06:13+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "NIO targets 10,000 battery swap stations and $52B in batteries by 2030",
-      "link": "https://electrek.co/2026/11/25/nio-10000-battery-swap-stations-52-billion-batteries-2030/",
-      "summary": "NIO says its energy arm, NIO Power, will operate more than 10,000 battery swap stations and manage over RMB 350 billion ($52 billion) worth…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T14:43:33+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
-      "link": "https://electrek.co/2026/11/25/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
-      "summary": "It’s time for the biggest shopping event of the year! With Amazon’s full Black Friday Sale in swing, so to are all our favorite Green Deal b…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T14:38:15+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Nio goes all-in on AI at 12th anniversary tech day, sees over $1.2 trillion in auto AI value",
-      "link": "https://cnevpost.com/2026/11/25/nio-goes-all-in-on-ai-12th-anniversary-tech-day/",
-      "summary": "Nio launched new AI-powered smart driving and cabin systems and aims to manage over $52 billion in battery assets by 2030. For details, plea…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-25T14:32:19+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Xpeng ramps up physical AI push with Q2 2027 Iron robot launch and global smart driving subscriptions",
-      "link": "https://cnevpost.com/2026/11/25/xpeng-ramps-up-physical-ai-push-2026-ai-day/",
-      "summary": "Xpeng unveiled its Turing Physical AI Architecture at 2026 AI Day, setting 2027 for both the official release of its Iron humanoid robot and…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-25T13:24:05+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Winter Weather Hits EV Range Hard. One Automaker Handles It Better Than Tesla",
-      "link": "https://insideevs.com/news/816753/ev-winter-range-loss-2026-ranking/",
-      "summary": "All cars lose range when the temperature drops to freezing, but some EVs handle it better than others.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T13:09:37+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "This miniature electric Bentley is ridiculously cool – and actually street legal",
-      "link": "https://electrek.co/2026/11/25/this-miniature-electric-bentley-is-ridiculously-cool-and-actually-street-legal/",
-      "summary": "If you’ve ever looked at a classic 1929 Bentley Blower and thought, “That looks great, but could it be smaller, electric, and somehow still…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-25T09:57:00+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "BMW Cars In The U.S. Will Soon Stop At Red Lights And Automatically Drive Off Again",
-      "link": "https://insideevs.com/news/816719/bmw-automatic-red-light-green-light-drive-software-update/",
-      "summary": "An over-the-air software update will bring BMW’s Highway & Commuting Assistant closer to Tesla’s FSD.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-25T09:36:29+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "BYD targets acquisition of Ineos French plant as Macron confirms January details",
-      "link": "https://cnevpost.com/2026/11/25/byd-targets-acquisition-ineos-french-plant/",
-      "summary": "BYD has entered exclusive negotiations with Ineos Automotive to acquire its vehicle manufacturing plant in Hambach, Moselle, France. For det…",
-      "source": "CnEVPost",
-      "domain": "cnevpost.com",
-      "category": "international",
-      "published": "2026-11-25T00:41:42+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Cadillac’s luxury 3-row EV just got more expensive, now starting at over $80,000",
-      "link": "https://electrek.co/2026/11/24/cadillacs-3-row-ev-more-expensive-now-starting-at-80k/",
-      "summary": "Cadillac’s three-row electric SUV just got a little more expensive. The 2027 Cadillac Vistiq now starts at over $80,000. more…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-24T22:20:15+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Bentley CEO Says an Off-Road Bentayga Is ‘On the Horizon’",
-      "link": "https://www.caranddriver.com/news/a74523301/bentley-confirms-bentayga-off-roader/",
-      "summary": "Bentley is reportedly developing a new Bentayga variant based on the X concept, which featured myriad off-road-minded upgrades.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-24T21:08:16+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
-      "link": "https://electrek.co/2026/11/24/vw-will-pay-ev-drivers-in-germany-up-to-e720-to-plug-in-at-home/",
-      "summary": "Volkswagen is giving EV drivers in Germany a reason to plug in at home, even if they don’t need a charge. VW’s charging subsidiary, Elli, is…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-24T20:28:22+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Ineos to Build Grenadiers in America and Sell Its French Plant to BYD",
-      "link": "https://www.caranddriver.com/news/a74520869/ineos-grenadier-production-plans-america/",
-      "summary": "The fledgling automaker could start manufacturing its off-road-centric vehicles in the United States as soon as 2028.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-24T20:03:45+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "2028 Honda CR-V Is a Fuel-Sipping Hybrid Family SUV Worth Waiting For",
-      "link": "https://www.caranddriver.com/news/a74511264/2028-honda-cr-v-future-cars/",
-      "summary": "Honda’s bestseller goes hybrid only as it enters its seventh generation and will arrive in 2027 with a fresh design inside and out.",
-      "source": "Car and Driver",
-      "domain": "caranddriver.com",
-      "category": "international",
-      "published": "2026-11-24T18:26:23+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
-      "link": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/",
-      "summary": "The French factory Mercedes built for the tiny Smart city car, and that Jim Ratcliffe turned into the home of his Land Rover Defender tribut…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-24T17:58:40+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "Here’s How To Make Your Holiday EV Road Trip Easier",
-      "link": "https://insideevs.com/news/816660/travel-tips-charging-holiday-road/",
-      "summary": "Lots of drivers will be on the roads and at charging stations. It may take some strategizing to make the commute home as pain-free as possib…",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-24T17:40:57+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "The Porsche Boxster EV is finally almost here, and it will be the most powerful 718 yet [Images]",
-      "link": "https://electrek.co/2026/11/24/porsche-boxster-ev-coming-most-powerful-718-ever-images/",
-      "summary": "The first fully electric Porsche Boxster is finally in the home stretch of development. Ahead of its official debut in early 2027, Porsche o…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-24T17:16:08+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "BYD launches the new Tang EV, a luxury 5-seat SUV with two +30″ screens for under $30,000",
-      "link": "https://electrek.co/2026/11/24/byd-launches-new-luxury-5-seat-ev-suv-two-30-screens-under-30000/",
-      "summary": "BYD launched the third-generation Tang, a large, high-tech five-seat flagship electric SUV, starting at under $30,000 in China. more…",
-      "source": "Electrek",
-      "domain": "electrek.co",
-      "category": "international",
-      "published": "2026-11-24T15:40:49+00:00",
-      "byd_ev": true
-    },
-    {
-      "title": "An Empty EV Tried To Park Itself 868 Times In One Night. The Video Is Hilarious",
-      "link": "https://insideevs.com/news/816535/self-driving-ev-parking-868/",
-      "summary": "An apparently empty, Huawei-equipped EV spent hours overnight shuffling around a parking garage.",
-      "source": "InsideEVs",
-      "domain": "insideevs.com",
-      "category": "international",
-      "published": "2026-11-24T15:20:24+00:00",
+      "title": "벤츠·BMW 밀어내고…안방 파고드는 중국산 전기차",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jRFVoems3MVFuU1hBdXI3UU5mamlvNWhDSmlidEJwN0J4eXpxMUViWTdhWU9sMi1FYThZRGRhZ05sZE5qRWF3QU9ZTmpyWmtqTGFuUGJwVjdQMWVKcWdvMDFMREN5QVl4UWNKRHJVWnhMamhjaGRB?oc=5",
+      "summary": "벤츠·BMW 밀어내고…안방 파고드는 중국산 전기차 한국경제TV",
+      "source": "한국경제TV",
+      "domain": "news.google.com",
+      "category": "domestic",
+      "published": "2026-11-27T07:32:00+00:00",
       "byd_ev": true
     }
   ]
